@@ -1,0 +1,1457 @@
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.3">
+    <?properties open_access?>
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+      <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">Pharmacoeconomics</journal-id>
+        <journal-id journal-id-type="iso-abbrev">Pharmacoeconomics</journal-id>
+        <journal-title-group>
+          <journal-title>Pharmacoeconomics</journal-title>
+        </journal-title-group>
+        <issn pub-type="ppub">1170-7690</issn>
+        <issn pub-type="epub">1179-2027</issn>
+        <publisher>
+          <publisher-name>Springer International Publishing</publisher-name>
+          <publisher-loc>Cham</publisher-loc>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">37434014</article-id>
+        <article-id pub-id-type="pmc">10570167</article-id>
+        <article-id pub-id-type="publisher-id">1299</article-id>
+        <article-id pub-id-type="doi">10.1007/s40273-023-01299-y</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Original Research Article</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>Vaccinating the German Population Aged 60 Years and Over with a Quadrivalent High-Dose Inactivated Influenza Vaccine Compared to Standard-Dose Vaccines: A Transmission and Budget Impact Model</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author" corresp="yes" equal-contrib="yes">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7259-5769</contrib-id>
+            <name>
+              <surname>Pahmeier</surname>
+              <given-names>Kathrin</given-names>
+            </name>
+            <address>
+              <email>kathrin.pahmeier@medman.uni-due.de</email>
+            </address>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+          </contrib>
+          <contrib contrib-type="author" equal-contrib="yes">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7507-4432</contrib-id>
+            <name>
+              <surname>Speckemeier</surname>
+              <given-names>Christian</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Neusser</surname>
+              <given-names>Silke</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9653-168X</contrib-id>
+            <name>
+              <surname>Wasem</surname>
+              <given-names>Jürgen</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5683-3747</contrib-id>
+            <name>
+              <surname>Biermann-Stallwitz</surname>
+              <given-names>Janine</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/04mz5ra38</institution-id><institution-id institution-id-type="GRID">grid.5718.b</institution-id><institution-id institution-id-type="ISNI">0000 0001 2187 5445</institution-id><institution>Institute for Healthcare Management and Research, </institution><institution>University of Duisburg-Essen, </institution></institution-wrap>Thea-Leymann-Str. 9, 45127 Essen, Germany </aff>
+          <aff id="Aff2"><label>2</label>Essener Forschungsinstitut für Medizinmanagement (EsFoMed) GmbH, Bredeneyer Str. 2b, 45133 Essen, Germany </aff>
+        </contrib-group>
+        <pub-date pub-type="epub">
+          <day>11</day>
+          <month>7</month>
+          <year>2023</year>
+        </pub-date>
+        <pub-date pub-type="pmc-release">
+          <day>11</day>
+          <month>7</month>
+          <year>2023</year>
+        </pub-date>
+        <pub-date pub-type="ppub">
+          <year>2023</year>
+        </pub-date>
+        <volume>41</volume>
+        <issue>11</issue>
+        <fpage>1539</fpage>
+        <lpage>1550</lpage>
+        <history>
+          <date date-type="accepted">
+            <day>18</day>
+            <month>6</month>
+            <year>2023</year>
+          </date>
+        </history>
+        <permissions>
+          <copyright-statement>© The Author(s) 2023</copyright-statement>
+          <license>
+            <ali:license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+            <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, which permits any non-commercial use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>.</license-p>
+          </license>
+        </permissions>
+        <funding-group>
+          <award-group>
+            <funding-source>
+              <institution>Viatris Healthcare GmbH</institution>
+            </funding-source>
+          </award-group>
+        </funding-group>
+        <funding-group>
+          <award-group>
+            <funding-source>
+              <institution>Universität Duisburg-Essen (3149)</institution>
+            </funding-source>
+          </award-group>
+          <open-access>
+            <p>Open Access funding enabled and organized by Projekt DEAL.</p>
+          </open-access>
+        </funding-group>
+        <custom-meta-group>
+          <custom-meta>
+            <meta-name>issue-copyright-statement</meta-name>
+            <meta-value>© Springer Nature Switzerland AG 2023</meta-value>
+          </custom-meta>
+        </custom-meta-group>
+      </article-meta>
+    </front>
+    <body>
+      <sec id="d32e285">
+        <title>Key Points for Decision Makers</title>
+        <p id="Par5">
+          <table-wrap id="Taba">
+            <table frame="hsides" rules="groups">
+              <tbody>
+                <tr>
+                  <td align="left">The modeling approach presented here offers important insights into the epidemiological and budgetary impact of different vaccination scenarios.</td>
+                </tr>
+                <tr>
+                  <td align="left">Achieving a higher vaccination coverage with standard-dose influenza vaccines in persons aged 60 years and over would result in lower costs and fewer influenza infections compared with the scenario with a high-dose influenza vaccine and actual vaccination rates.</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+      </sec>
+      <sec id="Sec2">
+        <title>Introduction</title>
+        <p id="Par6">Seasonal influenza is an acute viral infection of the respiratory tract that occurs in temperate climates [<xref ref-type="bibr" rid="CR1">1</xref>]. The infection is spread from one host to another via droplet, aerosol, and contact transmission [<xref ref-type="bibr" rid="CR2">2</xref>]. Influenza causes symptoms such as fever, muscle aches, fatigue, headache, and difficulty in breathing. While most people recover within a few days, influenza can lead to serious complications. These include complications related to the respiratory tract, including bronchitis, pneumonia, or acute upper respiratory tract infections, and also cardiovascular, cerebrovascular, and neurological disorders [<xref ref-type="bibr" rid="CR3">3</xref>]. Certain groups such as children, elderly individuals, and those with pre-existing medical conditions are especially prone to complications [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR5">5</xref>]. According to estimates, influenza results in up to 5 million severe cases and up to 646,000 respiratory deaths annually across the globe [<xref ref-type="bibr" rid="CR6">6</xref>].</p>
+        <p id="Par7">In addition, influenza is also associated with a substantial economic burden, from both payer and societal perspectives. A retrospective analysis of the 2012/13 influenza season in Germany found that costs for hospitalization and outpatient care amounted to more than €100 million [<xref ref-type="bibr" rid="CR7">7</xref>]. International evidence shows that accounting also for indirect costs leads to much higher estimates, which is mainly due to lost productivity [<xref ref-type="bibr" rid="CR8">8</xref>].</p>
+        <p id="Par8">Vaccines against influenza have been available for almost 80 years and are regarded as the most effective means of preventing infection [<xref ref-type="bibr" rid="CR9">9</xref>]. As different virus variations circulate in each season, vaccines must be individually adapted to the anticipated virus variants [<xref ref-type="bibr" rid="CR10">10</xref>]. In Germany, the Standing Committee on Vaccination at the Robert Koch Institute (STIKO) recommends an annual vaccination against seasonal influenza for individuals at risk, including persons aged 60 years and over, individuals with underlying chronic diseases, residents of nursing homes, healthcare workers, and pregnant women [<xref ref-type="bibr" rid="CR11">11</xref>]. For these population subgroups, annual influenza vaccination is covered by the statutory health insurance (SHI). Data on vaccination uptake in Germany for the 2019/20 season show that 38.8% of people aged 60 years and over and 32.3% of persons aged 18 years and over with underlying chronic diseases are vaccinated against influenza [<xref ref-type="bibr" rid="CR12">12</xref>]. Thus, the World Health Organization’s (WHO) target of a coverage of ≥ 75% in at-risk populations, which was formulated in 2003, is currently not achieved in Germany [<xref ref-type="bibr" rid="CR13">13</xref>].</p>
+        <p id="Par9">Since 2017, the STIKO has recommended the exclusive use of quadrivalent influenza vaccines, which contain antigens of two A strains and two B strains and thus could achieve an improved match with circulating influenza viruses compared with trivalent vaccines, which contain only one B strain [<xref ref-type="bibr" rid="CR14">14</xref>]. The effectiveness of influenza vaccines is influenced by age, immune competence, and a history of influenza infection, among other factors.</p>
+        <p id="Par10">According to the 2021 recommendation of the STIKO, persons insured by the SHI aged 60 years and over should receive an inactivated, quadrivalent high-dose influenza vaccine (IIV4-HD), instead of a quadrivalent standard-dose influenza vaccine (IIV4-SD). The clinical and economic effects of this advice are outlined in the bulletin [<xref ref-type="bibr" rid="CR14">14</xref>]. The recommendation of IIV4-HD is based on a number of trials comparing the relative vaccine efficacy and relative vaccine effectiveness (rVE) of high-dose influenza vaccines (IIV-HD) compared to standard-dose influenza vaccines (IIV-SD). The rVE is a common metric used to compare two vaccines in their efficacy or effectiveness regarding different endpoints [<xref ref-type="bibr" rid="CR15">15</xref>].</p>
+        <p id="Par11">For example, a randomized controlled trial studied the endpoint laboratory-confirmed influenza-like illness and found an rVE of 24.2% (95% confidence interval [CI] 9.7–36.5) [<xref ref-type="bibr" rid="CR16">16</xref>] of IIV-HD compared with IIV-SD. Recently, Lee et al. meta-analyzed 15 publications providing data on more than 22 million individuals receiving IIV-HD and found an rVE of 15.9% of IIV-HD compared to IIV-SD against influenza-like illness (95% CI 4.1–26.3) [<xref ref-type="bibr" rid="CR17">17</xref>]. Currently, only one single IIV4-HD vaccine is approved and marketed in Germany [<xref ref-type="bibr" rid="CR14">14</xref>].</p>
+        <p id="Par12">The objective of this study was to investigate the budgetary impact of vaccinating the German population aged 60 years and over with IIV4-HD compared to IIV4-SD. Given the commercialization of new vaccines, in conjunction with the public health relevance and high annual costs of seasonal influenza, the results of such cost analyses are highly relevant to policy makers.</p>
+      </sec>
+      <sec id="Sec3">
+        <title>Methods</title>
+        <p id="Par13">A transmission model was built in Microsoft Excel<sup>®</sup> to model the course of influenza infection in the German population. In order to analyze the economic consequences of the STIKO recommendation to vaccinate people aged 60 years and over with IIV4-HD, a budget impact model incorporating the results of the transmission model was developed in Microsoft Excel<sup>®</sup> comparing different scenarios: in scenario A, persons are vaccinated with IIV4-SD and in scenario B, individuals aged 60 years and over received IIV4-HD while persons aged &lt; 60 years still received IIV4-SD. Further scenarios were calculated and are described in detail below. Input parameters were sourced from national and international literature. Additional information on and input parameters of the transmission model and the budget impact model can be found in the Electronic Supplementary Material (ESM).</p>
+        <sec id="Sec4">
+          <title>Transmission Model</title>
+          <p id="Par14">Using an age-stratified deterministic compartment model (SEIR model) with ordinary differential equations, the 2019/2020 influenza season was simulated. This season was selected because of the good availability of data and the negligible impact of the coronavirus disease 2019 (COVID-19) pandemic on input factors. Modeling was performed according to the mass action principle with a cycle length of 1 day, starting on 1 September, 2019 and ending on 22 June, 2020. The German population from December 2019 (83.2 million individuals) was included and stratified into 86 age classes of 1 year each (0–85 years), with the highest age class covering all persons aged 85 years and older. Over time, susceptible individuals (S) are likely to become infected (E) with one of the four circulating influenza strains, then become infectious (I) and recover (R) (see Fig. <xref rid="Fig1" ref-type="fig">1</xref>).<fig id="Fig1"><label>Fig. 1</label><caption><p>Schematic of the SEIR model</p></caption><graphic xlink:href="40273_2023_1299_Fig1_HTML" id="MO1"/></fig></p>
+          <p id="Par15">The pre-infectious period was assumed to last 1 day and the infectious period was assumed to last 4.8 days [<xref ref-type="bibr" rid="CR18">18</xref>]. Once recovered from infection, immunity was assumed for the remaining season. The model was run separately for each influenza strain. Of note, death due to influenza is accounted for in the budget impact model. We considered life-years gained in comparison to scenario A by accounting for sex-specific and age-specific life expectancy.</p>
+          <sec id="Sec5">
+            <title>Susceptibility</title>
+            <p id="Par16">The age-specific susceptible fraction of the population was estimated based on the prevalence of antibodies against influenza A and B virus in children and adults aged up to 65 years as reported by Sauerbrei et al. [<xref ref-type="bibr" rid="CR19">19</xref>]. Susceptibilities for persons aged older than 65 years were assumed to be equal to susceptibilities of persons aged 65 years. The proportions of individuals actually infected with each strain during the season 2019/20 were used to calculate the strain-specific susceptibility. Mainly viruses of the two influenza A subtypes, A(H3N2) (45%) and A(H1N1)pdm09 (41%), circulated during the season 2019/20. In addition, 14% of influenza viruses were attributed to the B lineage Victoria in 2019/20 [<xref ref-type="bibr" rid="CR20">20</xref>].</p>
+          </sec>
+          <sec id="Sec6">
+            <title>Force of Infection</title>
+            <p id="Par17">The force of infection is a dynamic parameter that, based on age-specific contact behavior and the number of infected persons, determines how many of the susceptible persons become newly infected, i.e., move from S to E. Contact behavior was sourced from the age-stratified contact matrix of physical contacts for the German population obtained in the POLYMOD study [<xref ref-type="bibr" rid="CR21">21</xref>]. In brief, Mossong et al. conducted a population-based survey of daily contacts, resulting in a matrix of mixing patterns between individuals of different or similar ages. The next generation matrix was calculated and the dominant eigenvalue was derived from the next generation matrix. Based on a conservative basic reproduction number <italic>R</italic><sub>0</sub> of 1.6 [<xref ref-type="bibr" rid="CR22">22</xref>], a matrix of effective contacts was then calculated. Furthermore, an outside infection rate of 1 per 1000 person-years was assumed [<xref ref-type="bibr" rid="CR22">22</xref>], representing infections brought in from outside the country.</p>
+          </sec>
+          <sec id="Sec7">
+            <title>Vaccine Coverage</title>
+            <p id="Par18">In the SEIR model, we considered two arms: the unvaccinated and the vaccinated. The vaccination coverage is used to select the model population into one of the two arms. According to the 17 regional Associations of Statutory Health Insurance Physicians, the vaccination rate in Germany for people aged 60 years and over in the 2019/2020 season was 38.8% [<xref ref-type="bibr" rid="CR12">12</xref>]. In the population younger than 60 years of age, the STIKO recommends an influenza vaccination for at-risk groups. The availability of data on vaccination coverage for individuals aged &lt; 60 years is limited. Accordingly, only historical data from seasons 2004/05 to 2013/14 were accessible. Vaccination rates from the season 2013/14 were used in the model for people aged &lt; 60 years [<xref ref-type="bibr" rid="CR23">23</xref>].</p>
+            <p id="Par19">In separate analyses, scenarios A and B were replicated, assuming a higher vaccination coverage of 75% for the population aged 60 years and older. These analyses are oriented towards the WHO recommendation for increasing vaccination coverage among at-risk individuals. The vaccination rates in the younger population were not changed because of uncertainties about the size of the at-risk population. As vaccination does not provide complete protection against the disease, i.e., vaccination is not 100% effective, there are also susceptible individuals among the vaccinated individuals.</p>
+          </sec>
+          <sec id="Sec8">
+            <title>Vaccine Efficacy and Effectiveness</title>
+            <p id="Par20">Whereas vaccine efficacy describes the difference in well-defined endpoints (e.g., infections, disease) between a vaccinated and a non-vaccinated group under controlled clinical trial conditions, vaccine effectiveness describes how well a vaccine reduces the risk of infection and disease among vaccinated individuals in a much larger and variable population under real-world conditions [<xref ref-type="bibr" rid="CR24">24</xref>, <xref ref-type="bibr" rid="CR25">25</xref>]. The rVE compares two vaccines in their efficacy or effectiveness. However, “rVE” is not differentiated well in the literature and often a mix of both, for example called “relative vaccine efficacy/effectiveness” or “relative VE” [<xref ref-type="bibr" rid="CR17">17</xref>]. In fact, there is uncertainty about the difference between vaccine efficacy and vaccine effectiveness in the perception of physicians [<xref ref-type="bibr" rid="CR26">26</xref>].</p>
+            <p id="Par21">In the base-case analysis, vaccine effectiveness data for the 2019/2020 season were used for IIV4-SD [<xref ref-type="bibr" rid="CR27">27</xref>]. Further, an rVE of 15.9% was assumed for IIV4-HD based on a recently published meta-analysis that reviewed the rVE of trivalent high-dose influenza vaccines (IIV3-HD) in comparison to IIV-SD in persons aged 65 years and older [<xref ref-type="bibr" rid="CR17">17</xref>]. Of note, it is expected that the rVE between IIV4-HD and IIV4-SD in persons aged 60 years and over may be similar to the rVE of IIV3-HD [<xref ref-type="bibr" rid="CR28">28</xref>]. In a separate analysis, an rVE of 24.2% was assumed. It is based on the results of a randomized controlled trial comparing IIV3-HD to trivalent standard-dose influenza vaccines (IIV3-SD) and reporting relative vaccine efficacy [<xref ref-type="bibr" rid="CR16">16</xref>]. These rVEs were assumed for all age groups ≥ 60 years. An overview of the different scenarios that were considered is shown in Table <xref rid="Tab1" ref-type="table">1</xref>.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Overview of the considered scenarios</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Scenario</th><th align="left">Vaccine</th><th align="left">Vaccination rates</th><th align="left">rVE</th></tr></thead><tbody><tr><td align="left">Scenario A: base case</td><td align="left">Only IIV4-SD</td><td align="left">Actual vaccination rates</td><td char="." align="char"/></tr><tr><td align="left">Scenario B: base case</td><td align="left">IIV4-SD for individuals aged below 60 years, IIV4-HD for individuals aged 60 years and over</td><td align="left">Actual vaccination rates</td><td char="." align="char">15.9%</td></tr><tr><td align="left">Scenario C</td><td align="left">IIV4-SD for individuals aged below 60 years, IIV4-HD for individuals aged 60 years and over</td><td align="left">Actual vaccination rates</td><td char="." align="char">24.2%</td></tr><tr><td align="left">Scenario D</td><td align="left">Only IIV4-SD</td><td align="left">Vaccination rate of 75% in persons aged 60 years and over</td><td char="." align="char"/></tr><tr><td align="left">Scenario E</td><td align="left">IIV4-SD for individuals aged below 60 years, IIV4-HD for individuals aged 60 years and over</td><td align="left">Vaccination rate of 75% in persons aged 60 years and over</td><td char="." align="char">15.9%</td></tr></tbody></table><table-wrap-foot><p><italic>IIV4-HD</italic> quadrivalent high-dose influenza vaccine, <italic>IIV4-SD</italic> quadrivalent standard-dose influenza vaccine, <italic>rVE</italic> relative vaccine efficacy/effectiveness</p></table-wrap-foot></table-wrap></p>
+          </sec>
+        </sec>
+        <sec id="Sec9">
+          <title>Budget Impact Model</title>
+          <p id="Par22">The impact of adopting scenario A (IIV4-SD for all vaccinated persons) versus B (IIV4-HD for vaccinated persons aged 60 years and over, IIV4-SD for vaccinated persons aged &lt; 60 years) and further scenarios was compared from a payer perspective (SHI) and a societal perspective. The epidemiological outcomes in terms of infection numbers in vaccinated and unvaccinated persons were linked to influenza-related health and economic effects. An overview of the model structure is shown in Fig. <xref rid="Fig2" ref-type="fig">2</xref>.<fig id="Fig2"><label>Fig. 2</label><caption><p>Decision tree of the health economic model. <italic>Green nodes</italic> represent possible events that individuals experience; <italic>red nodes</italic> represent terminal nodes</p></caption><graphic xlink:href="40273_2023_1299_Fig2_HTML" id="MO2"/></fig></p>
+          <sec id="Sec10">
+            <title>Model Population</title>
+            <p id="Par23">The population of the budget impact model was drawn from the transmission model in such a way that in each of the 86 age strata, the number of infected persons of both arms (i.e., vaccinated and unvaccinated infected) and the total number of vaccinated people were included. In the SHI perspective, only SHI-insured persons were considered, assuming that the distribution of privately and statutorily insured persons among the infected persons corresponds to that of the general population [<xref ref-type="bibr" rid="CR29">29</xref>]. In the societal perspective, the entire German population was included. Influenza-infected individuals were divided into those who are at risk (e.g., because of comorbidities) and those who are not at risk [<xref ref-type="bibr" rid="CR7">7</xref>].</p>
+          </sec>
+          <sec id="Sec11">
+            <title>Perspectives, Resources, and Time Horizon</title>
+            <p id="Par24">We considered two perspectives. In the SHI perspective, all direct costs with relevance for the SHI were taken into account. These incorporated vaccination costs including administration costs, treatment costs of influenza (e.g., antiviral treatment), and influenza-related complications in the inpatient and outpatient sector including medication costs.</p>
+            <p id="Par25">In the societal perspective, indirect costs (e.g., absenteeism because of an inability to work, costs of productivity loss) were also considered in addition to direct costs including also over-the-counter medicines. Costs due to productivity loss were calculated according to the friction cost approach with a 3% discount rate [<xref ref-type="bibr" rid="CR30">30</xref>]. In a further analysis, costs of productivity losses were incurred based on the human capital approach. As influenza is primarily an acute disease, the number of infections and secondary diseases and the number of vaccinated persons in a season were considered in the cost analyses. No long-term effects have been included.</p>
+          </sec>
+          <sec id="Sec12">
+            <title>Valuation of Resources and Costs</title>
+            <p id="Par26">Individuals infected with influenza have a 66.9% chance of becoming symptomatic [<xref ref-type="bibr" rid="CR18">18</xref>] and a part of the symptomatic fraction seeks medical help [<xref ref-type="bibr" rid="CR31">31</xref>]. Some of these individuals receive an antiviral treatment [<xref ref-type="bibr" rid="CR32">32</xref>]. In the case of an effective antiviral treatment [<xref ref-type="bibr" rid="CR33">33</xref>], recovery was assumed. Complications can occur in people with ineffective or no antiviral treatment. We considered the following ten complications: bronchitis, acute upper respiratory tract infection, sinusitis, tonsillitis, laryngitis, pneumonia, otitis media, cardiovascular disorder, cerebrovascular disorder, and neurological disorder [<xref ref-type="bibr" rid="CR3">3</xref>]. Complications are either treated in hospital or in the outpatient sector [<xref ref-type="bibr" rid="CR34">34</xref>]. For a proportion of the symptomatic people who do not seek medical help, use of over-the-counter medicine was assumed in the societal perspective [<xref ref-type="bibr" rid="CR3">3</xref>]. Influenza-related mortality was considered in individuals that received hospital treatment for complications [<xref ref-type="bibr" rid="CR35">35</xref>]. In the societal perspective, working days lost because of influenza were set to 3.3 days [<xref ref-type="bibr" rid="CR3">3</xref>]. Working days lost to complications were assumed to be equal to the hospital length of stay [<xref ref-type="bibr" rid="CR36">36</xref>]. In the case of hospitalization, an extra 3 ambulatory days of productivity loss were added [<xref ref-type="bibr" rid="CR37">37</xref>]. Absenteeism of parents with a sick child because of an influenza infection was also included.</p>
+            <p id="Par27">Vaccination administration costs and costs for a general practitioner consultation were calculated using the doctor’s fee scale [<xref ref-type="bibr" rid="CR38">38</xref>]. Medication and vaccine costs were taken from the LAUER-TAXE<sup>®</sup> [<xref ref-type="bibr" rid="CR39">39</xref>]. Public discounts of the treatment medication (e.g., manufacturer’s discount, co-payment) were considered in the SHI perspective. An application-weighted average price was calculated for IIV4-SD, based on the price data from the LAUER-TAXE<sup>®</sup> and market shares according to IQVIA PharmaScope<sup>®</sup> retail sell-out national, J07E1, August 2019 to March 2020, August 2020 to March 2021, and August 2021 to December 2022. Inpatient costs for complications because of influenza were determined using the aG-DRG Report Browser 2021 [<xref ref-type="bibr" rid="CR40">40</xref>], which contained validated case data from 2019, and the diagnosis-related groups catalogue [<xref ref-type="bibr" rid="CR41">41</xref>]. In the societal perspective, the patient co-payment of €10 per hospital day and the investment costs of hospitals [<xref ref-type="bibr" rid="CR42">42</xref>] were also taken into account. Costs for outpatient treatment of complications were sourced from Dolk et al. [<xref ref-type="bibr" rid="CR34">34</xref>] Absenteeism costs were determined based on working days lost and the average net product per day incorporating labor costs and employment rate [<xref ref-type="bibr" rid="CR43">43</xref>–<xref ref-type="bibr" rid="CR45">45</xref>].</p>
+            <p id="Par28">Analogous to the transmission model, the year 2019 was chosen as the base year for pricing. If required, costs were updated to 2019 using the consumer price index. Costs for the IIV4-HD vaccine were taken from 2020 as the vaccine was not yet on the market in 2019. As an observational period of one season was taken into account, costs were not discounted.</p>
+          </sec>
+          <sec id="Sec13">
+            <title>Model Validation and Sensitivity Analyses</title>
+            <p id="Par29">A number of techniques have been used to validate the model [<xref ref-type="bibr" rid="CR46">46</xref>]. Cross validity and face validity were checked by comparing the conceptual model and the sources of input data with other published models from the literature. Extreme value testing and unit testing have been performed. Cross-validation testing has been performed by comparing model results in terms of the number of infections, the number of symptomatic cases, the number of symptomatic cases who seek help, and fatal cases to outcomes published in the epidemiological bulletin [<xref ref-type="bibr" rid="CR14">14</xref>]. Deterministic sensitivity analyses were conducted to account for uncertainties in input parameters in both models, by varying one of the following parameters at a time: susceptibility, basic reproduction number R<sub>0</sub>, the costs of IIV4-HD, the costs of IIV-SD, the fraction of symptomatic persons who seek medical help, the fraction of persons having complications, the probability of hospital admission after complication, the fraction of infected persons who become symptomatic, and the costs of general practitioner consultations. In the case where confidence intervals were reported for these inputs, the boundaries were used as upper and lower values for the sensitivity analyses.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Sec14">
+        <title>Results</title>
+        <sec id="Sec15">
+          <title>Epidemiological Results</title>
+          <p id="Par30">Epidemiological results are shown in Table <xref rid="Tab2" ref-type="table">2</xref>. Running the transmission model for the different strains and assuming an exclusive use of IIV4-SD (scenario A, base case) results in a total of 29,116,397 influenza infections on a societal level for the entire German population. Scenario B, in which individuals aged 60 years and over receive IIV4-HD, yields a total of 28,800,860 infections. Thus, when comparing both scenarios, a total of 315,537 infections (− 1.1%) could be prevented if individuals aged 60 years and over receive IIV4-HD. Assuming an rVE of IIV4-HD of 24.2% instead of 15.9% (scenario C) would result in 28,637,930 infections, thus translating into 478,467 prevented infections (− 1.6%) with respect to scenario A. Increasing vaccination coverage to 75% in the population aged 60 years and over results in a total of 27,331,657 infections with IIV4-SD (scenario D) and 26,780,986 infections with IIV4-HD (scenario E). The ESM provides information on infections stratified by age groups, in total numbers and relative to scenario A.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Epidemiological results</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2">Scenario</th><th align="left" colspan="2">Number of infections</th><th align="left" colspan="2">Influenza-related deaths</th><th align="left" rowspan="2">Life-years gained</th></tr><tr><th align="left">Absolute</th><th align="left">Per 100,000</th><th align="left">Absolute</th><th align="left">Per 100,000</th></tr></thead><tbody><tr><td align="left">Scenario A: base case</td><td char="," align="char">29,116,397</td><td char="," align="char">35,010</td><td align="left">5899</td><td char="." align="char">7.09</td><td align="left">Reference</td></tr><tr><td align="left">Scenario B: base case</td><td char="," align="char">28,800,860</td><td char="," align="char">34,630</td><td align="left">5549</td><td char="." align="char">6.67</td><td align="left">5728</td></tr><tr><td align="left">Scenario C</td><td char="," align="char">28,637,930</td><td char="," align="char">34,434</td><td align="left">5368</td><td char="." align="char">6.45</td><td align="left">8677</td></tr><tr><td align="left">Scenario D</td><td char="," align="char">27,331,657</td><td char="," align="char">32,864</td><td align="left">4862</td><td char="." align="char">5.85</td><td align="left">17,143</td></tr><tr><td align="left">Scenario E</td><td char="," align="char">26,780,986</td><td char="," align="char">32,202</td><td align="left">4246</td><td char="." align="char">5.11</td><td align="left">27,259</td></tr></tbody></table></table-wrap></p>
+          <p id="Par31">For the entire German population, base-case scenario A results in 5899 influenza-related deaths and scenario B in 5549 influenza-related deaths, thus resulting in a reduction of 350 influenza-related deaths in scenario B. Assuming a higher rVE of 24.2% in scenario C leads to 5368 influenza-related deaths. An increased vaccination coverage of 75% in individuals aged 60 years and over would lead to 4862 influenza-related deaths with the exclusive use of IIV4-SD (scenario D) and 4246 influenza-related deaths when individuals aged 60 years and over receive IIV4-HD (scenario E). Calculation of life-years gained in comparison to scenario A resulted in life-years gained between 5728 in scenario B and 27,259 in scenario E.</p>
+        </sec>
+        <sec id="Sec16">
+          <title>Economic Results</title>
+          <p id="Par32">Results of the different scenarios are presented in Table <xref rid="Tab3" ref-type="table">3</xref>. Assuming an exclusive use of IIV4-SD (scenario A, base case) results in total costs of €558 million from the payer perspective. Thereof, €230 million (41.1%) is attributable to vaccination costs, while the remaining €328 million accounts for influenza-related costs, of which hospital-treated complications (€179 million) and general practitioner consultations (€91 million) make up the largest share. Vaccinating individuals aged 60 years and older with IIV4-HD (scenario B, base case) results in total costs of €782 million, of which €465 million (59.4%) account for vaccination costs. Influenza-related costs amount to €318 million. Overall, total costs in scenario B are €224 million higher when compared with total costs in scenario A. Assuming a higher rVE of 24.2% in scenario C leads to total costs of €776 million, which corresponds to lower influenza-related costs of €17 million at constant vaccination costs. Increasing vaccination coverage to 75% in persons aged 60 years and over results in total costs of €679 million with IIV4-SD (scenario D) and €1113 million with IIV4-HD (scenario E).<table-wrap id="Tab3"><label>Table 3</label><caption><p>Health economic results from a payer perspective</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">Scenario A</th><th align="left">Scenario B</th><th align="left">Scenario C</th><th align="left">Scenario D</th><th align="left">Scenario E</th></tr></thead><tbody><tr><td align="left">No. of infections<sup>a</sup></td><td char="," align="char">25,336,198</td><td char="," align="char">25,059,172</td><td char="," align="char">24,916,135</td><td char="," align="char">23,769,524</td><td char="." align="char">23,286,234</td></tr><tr><td align="left">No. of hospitalizations</td><td char="," align="char">80,575</td><td char="," align="char">76,905</td><td char="," align="char">74,876</td><td char="," align="char">69,364</td><td char="." align="char">62,746</td></tr><tr><td align="left">Vaccination costs (€)</td><td char="," align="char">229,651,591</td><td char="," align="char">464,540,652</td><td char="," align="char">464,540,652</td><td char="," align="char">378,508,484</td><td char="." align="char">832,546,618</td></tr><tr><td align="left">Antivirals (€)</td><td char="," align="char">22,112,882</td><td char="," align="char">21,835,447</td><td char="," align="char">21,692,240</td><td char="," align="char">20,545,290</td><td char="." align="char">20,062,436</td></tr><tr><td align="left">GP consultations (€)</td><td char="," align="char">91,291,601</td><td char="," align="char">90,121,921</td><td char="," align="char">89,518,407</td><td char="," align="char">84,690,858</td><td char="." align="char">82,661,429</td></tr><tr><td align="left">Complications (€)</td><td char="," align="char">214,606,809</td><td char="," align="char">205,035,826</td><td char="," align="char">200,113,415</td><td char="," align="char">194,453,083</td><td char="." align="char">177,441,245</td></tr><tr><td align="left"> Hospital (€)</td><td char="," align="char">178,919,676</td><td char="," align="char">169,744,043</td><td char="," align="char">165,025,569</td><td char="," align="char">159,696,356</td><td char="." align="char">143,399,900</td></tr><tr><td align="left"> Outpatient (€)</td><td char="," align="char">35,687,133</td><td char="," align="char">35,291,783</td><td char="," align="char">35,087,846</td><td char="," align="char">34,756,727</td><td char="." align="char">34,041,345</td></tr><tr><td align="left">Medication (€)</td><td char="," align="char">575,912</td><td char="," align="char">569,644</td><td char="," align="char">566,409</td><td char="," align="char">553,661</td><td char="." align="char">542,436</td></tr><tr><td align="left"><bold>Total costs (€)</bold></td><td char="," align="char"><bold>558,238,794</bold></td><td char="," align="char"><bold>782,103,491</bold></td><td char="," align="char"><bold>776,431,123</bold></td><td char="," align="char"><bold>678,751,376</bold></td><td char="." align="char"><bold>1,113,254,164</bold></td></tr></tbody></table><table-wrap-foot><p><italic>GP</italic> general practitioner</p><p><sup>a</sup>Lower number of infections as only infections of statutorily health insureds were considered in the statutory health insurance perspective.</p></table-wrap-foot></table-wrap></p>
+          <p id="Par33">Raising the vaccination rate from 38.8% (base case) to 75% in individuals aged 60 years and over while exclusively using IIV4-SD (scenario D) results in higher costs from a SHI perspective of €121 million (+21.6%), but also prevents 1,566,674 influenza infections (−6.2%) when compared to the base-case scenario A for IIV4-SD. Compared to base-case scenario B with IIV4-HD, a higher vaccination coverage of 75% in individuals aged 60 years and over and use of IIV4-SD (scenario D) results in lower costs from the SHI perspective of €−103 million (− 13.2%) along with a reduction of 1,289,648 influenza infections (− 5.1%). Costs stratified by age groups and types of costs for the five scenarios can be found in the ESM. After vaccination costs, hospital costs cause the highest costs among those aged 60 years and older.</p>
+          <p id="Par34">Results for the societal perspective incorporating the friction cost approach are shown in Table <xref rid="Tab4" ref-type="table">4</xref>. In all scenarios, the largest part of the costs (i.e., 77.7% in base-case scenario A, 72.1% in base-case scenario B) is caused by absenteeism costs. Overall, total costs in base-case scenario B are €230 million higher when compared with total costs in the base-case scenario A. Additionally, from a societal perspective, a higher vaccination coverage of 75% using exclusively IIV4-SD in individuals aged 60 years and over (scenario D) results in lower costs when compared with base-case scenario B with IIV4-HD. Results for the human capital approach can be found in the ESM, with the basic findings remaining unaltered.<table-wrap id="Tab4"><label>Table 4</label><caption><p>Health economic results from a societal perspective (friction cost approach)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">Scenario A</th><th align="left">Scenario B</th><th align="left">Scenario C</th><th align="left">Scenario D</th><th align="left">Scenario E</th></tr></thead><tbody><tr><td align="left">No. of infections</td><td char="." align="char">29,116,397</td><td char="." align="char">28,800,860</td><td char="." align="char">28,637,930</td><td char="." align="char">27,331,657</td><td char="." align="char">26,780,986</td></tr><tr><td align="left">No. of hospitalizations</td><td char="." align="char">91,926</td><td char="." align="char">87,672</td><td char="." align="char">85,484</td><td char="." align="char">79,247</td><td char="." align="char">71,764</td></tr><tr><td align="left">Vaccination costs (€)</td><td char="." align="char">272,726,052</td><td char="." align="char">530,697,536</td><td char="." align="char">530,697,536</td><td char="." align="char">448,851,710</td><td char="." align="char">947,507,929</td></tr><tr><td align="left">Antivirals (€)</td><td char="." align="char">35,604,220</td><td char="." align="char">35,161,379</td><td char="." align="char">34,932,777</td><td char="." align="char">33,101,637</td><td char="." align="char">32,330,627</td></tr><tr><td align="left">GP consultations (€)</td><td char="." align="char">114,445,704</td><td char="." align="char">113,070,116</td><td char="." align="char">112.360,216</td><td char="." align="char">106,678,227</td><td char="." align="char">104,287,863</td></tr><tr><td align="left">Complications (€)</td><td char="." align="char">270,351,595</td><td char="." align="char">258,140,933</td><td char="." align="char">251,860,430</td><td char="." align="char">243,250,421</td><td char="." align="char">221,569,616</td></tr><tr><td align="left">Hospital (€)</td><td char="." align="char">235,660,096</td><td char="." align="char">223,794,328</td><td char="." align="char">217,691,856</td><td char="." align="char">209,699,281</td><td char="." align="char">188,638,236</td></tr><tr><td align="left">Outpatient (€)</td><td char="." align="char">34,691,499</td><td char="." align="char">34,346,604</td><td char="." align="char">34,168,574</td><td char="." align="char">33,551,140</td><td char="." align="char">32,931,380</td></tr><tr><td align="left">Medication (€)</td><td char="." align="char">16,555,712</td><td char="." align="char">16,397,536</td><td char="." align="char">16,315,847</td><td char="." align="char">15,705,119</td><td char="." align="char">15,427,611</td></tr><tr><td align="left">Absenteeism (€)</td><td char="." align="char">2,490,006,244</td><td char="." align="char">2,476,765,397</td><td char="." align="char">2,469,904,516</td><td char="." align="char">2,417,409,342</td><td char="." align="char">2,393,527,923</td></tr><tr><td align="left">Costs of deceased (€)</td><td char="." align="char">6,782,508</td><td char="." align="char">6,693,388</td><td char="." align="char">6,647,364</td><td char="." align="char">6,461,287</td><td char="." align="char">6,301,434</td></tr><tr><td align="left">Total costs (€)</td><td char="." align="char">3,206,472,034</td><td char="." align="char">3,436,926,283</td><td char="." align="char">3,422,718,686</td><td char="." align="char">3,271,457,742</td><td char="." align="char">3,720,953,002</td></tr></tbody></table><table-wrap-foot><p><italic>GP</italic> general practitioner</p></table-wrap-foot></table-wrap></p>
+        </sec>
+        <sec id="Sec17">
+          <title>Sensitivity Analyses</title>
+          <p id="Par35">Results of the deterministic sensitivity analyses are depicted in Fig. <xref rid="Fig3" ref-type="fig">3</xref>. The incremental cost difference of €223.9 million between Scenario A and Scenario B was used as a basis. If, for example, the fraction of symptomatic persons who receive medical help is reduced by 25%, this difference equals €226.6 million. The tornado diagram shows the difference between these two increments. In brief, the deterministic sensitivity analysis shows that variations in costs for IIV4-HD and IIV4-SD have the highest influence on the incremental cost difference between scenario A and scenario B.<fig id="Fig3"><label>Fig. 3</label><caption><p>Results of deterministic sensitivity analyses. <italic>compl</italic> complications, <italic>GP</italic> general practitioner, <italic>IIV4-HD</italic> quadrivalent high-dose influenza vaccine, <italic>IIV4-SD</italic> quadrivalent standard-dose influenza vaccine, <italic>Prob</italic> probability, <italic>rVE</italic> relative vaccine efficacy/effectiveness, <italic>Sympt</italic> symptomatic</p></caption><graphic xlink:href="40273_2023_1299_Fig3_HTML" id="MO3"/></fig></p>
+        </sec>
+      </sec>
+      <sec id="Sec18">
+        <title>Discussion</title>
+        <p id="Par36">The modeling approach offers important insights into the nationwide budgetary impact of different vaccination scenarios. In the base case, results for the SHI population show that vaccination of persons aged 60 years and over with IIV4-HD instead of IIV4-SD results in higher overall direct costs of €224 million (+ 40.1%) and prevents 277,026 influenza infections (− 1.1%). Assuming an rVE of 24.2% (scenario C), total costs are €218 million (+ 39.1%) higher and 420,063 influenza infections (− 1.7%) are prevented with IIV4-HD compared with IIV4-SD.</p>
+        <p id="Par37">The base-case calculation incorporates the actual 2019 influenza vaccination coverage of 38.8% for the elderly population. There is a need to improve vaccination coverage in Germany, as the vaccination rate of elderly individuals and the younger at-risk population is currently below the WHO-recommended rate of ≥ 75%. Although the most recent numbers on influenza vaccination coverage from the Organisation for Economic Co-operation and Development show an improvement in coverage among the population aged 65 years and over in 2020, numbers are still lower than in other countries. In 2020, a coverage of 47.3% was reported for Germany [<xref ref-type="bibr" rid="CR47">47</xref>], with this increase being most probably an effect of the COVID-19 pandemic [<xref ref-type="bibr" rid="CR48">48</xref>], and thus it remains unclear whether this level can be maintained. Other countries such as the UK, Denmark, and Korea achieved vaccination rates of 70% and more [<xref ref-type="bibr" rid="CR47">47</xref>]. In order to determine how much an increase in the vaccination rates would affect infection rates and costs, we conducted separate analyses. Our results show that, compared with the base-case scenario with IIV4-HD (scenario B), a higher vaccination coverage oriented towards the WHO goal in individuals aged 60 years and over can be obtained with IIV4-SD (scenario D) at lower costs from the SHI perspective of €−103 million (− 13.2%) along with a reduction of 1,289,648 influenza infections (− 5.1%). While caveating that this calculation does not include the additional cost of campaigns to increase vaccination coverage, it appears worthwhile to aim for increased vaccination coverage among elderly individuals, given the high number of reduced infections alone. Other Organisation for Economic Co-operation and Development countries showed significant increases in vaccination rates in 2020 compared with the previous year. For example, Spain increased its vaccination rate among elderly individuals by 11 percentage points, from 55 to 66%, and Greece even managed a 16 percentage-point increase, from 59 to 75% [<xref ref-type="bibr" rid="CR49">49</xref>]. It therefore seems possible to increase the vaccination rate within short periods of time, and projects such as the currently running ALIVE can possibly help to achieve this in Germany [<xref ref-type="bibr" rid="CR50">50</xref>]. In light of the ongoing COVID-19 pandemic, this is of increased clinical relevance. As measures to contain COVID-19 have been reduced in many countries, it can be expected that severe acute respiratory syndrome coronavirus 2 circulates with other respiratory viruses such as influenza, which increases the probability of co-infections [<xref ref-type="bibr" rid="CR51">51</xref>]. A recently published meta-analysis found that influenza and severe acute respiratory syndrome coronavirus 2 co-infections are associated with an increased risk of admission to an intensive care unit (odds ratio 2.09, 95% CI 1.64–2.68) and mechanical ventilation (odds ratio 2.31, 95% CI 1.10–4.85) [<xref ref-type="bibr" rid="CR52">52</xref>].</p>
+        <p id="Par38">Our modeling approach, consisting of a transmission model and a subsequent budget impact model, has some limitations. First of all, the transmission dynamics incorporated by our model are based on age-dependent contact patterns only and thus rely on simplifying assumptions. The effective contacts were derived from a study on social contacts and mixing patterns that was published in 2008 and it is unclear whether contact behavior in the particular season we examined is consistent with these data. Another apparent limitation is that only the influenza season 2019/2020 was considered. However, it is the most recent season with a neglectable impact from the COVID-19 pandemic on the input parameters, as input data used in the models were obtained before pandemic containment measures (e.g., lockdowns) were initiated. Furthermore, a good data basis regarding the effectiveness of vaccines against the four different strains was given.</p>
+        <p id="Par39">The observation of one season only represents a potential weakness and must be taken into account as a limitation when considering the results. As our model did not consider long-term developments of more than one season, any cross-protection between different strains has not been accounted for. As described above, uncertainties exist with regard to the definition of rVE and because of the extrapolation of data from trivalent to quadrivalent vaccines. These were addressed by performing the analysis with different rVEs and by considering parameter changes in the deterministic sensitivity analysis.</p>
+        <p id="Par40">Apart from the input data, where the influence of COVID-19 is negligible, it cannot be ruled out that the results of the modeling deviate from the actually observed figures. This is due to the mentioned uncertainties related to the input data; however, we are confident that the observed results are robust for changes, as was shown in the sensitivity analyses.</p>
+        <p id="Par41">Another weakness arises from the non-availability of recent population-wide data on influenza infection incidence and prevalence in Germany. As a consequence, our model was calibrated using data on the distribution of susceptible individuals from a previous period and susceptibility for elderly individuals had to be estimated. We agree with Cai et al. [<xref ref-type="bibr" rid="CR37">37</xref>] that the collection of population-level incidence data would reduce the uncertainty of such models. Another potential limitation arises from the non-availability of recent data on vaccination coverage. As a result, only historical data for people younger than 60 years of age and data of regional Association of Statutory Health Insurance Physicians for individuals aged 60 years and over could be implemented in the model. As influenza vaccinations in Germany are also administered at workplaces, it might be possible that the vaccination rate has been underestimated.</p>
+        <p id="Par42">Nevertheless, a comparison with the results of the analysis of the epidemiological bulletin, in which average results over ten seasons are reported, suggests that our results are within a plausible range. Our model results are in-line with the total number of infections, number of symptomatic cases, and number of general practitioner consultations. Of note, in our analysis, the number of fatal cases is slightly lower than the number reported in the bulletin (−9%) [<xref ref-type="bibr" rid="CR14">14</xref>]. Our model incorporates a higher infection incidence for children, which is a main epidemiological feature of influenza [<xref ref-type="bibr" rid="CR53">53</xref>]. At the same time, older people in particular are prone to a high risk of complications. A recently published cost-of-illness study analyzed influenza-associated hospitalizations based on inpatient data for 10 consecutive years. The authors found a high proportion of individuals aged 59 years and over, which made up more than 50% of all hospitalized cases for the seasons from 2017 onward [<xref ref-type="bibr" rid="CR54">54</xref>]. Considering limited comparability, as only laboratory-confirmed cases were considered in this analysis, we come to similar results. In our analyses, around 70% of hospitalizations can be attributed to individuals aged 59 years and over. Around 90% of influenza-related fatal cases occur in individuals over the age of 60 years [<xref ref-type="bibr" rid="CR55">55</xref>]. Confirming this figure, 86% of influenza-related deaths in our analysis occurred in persons aged older than 60 years. To conclude, our calculation represents an example of a specific season and has to be regarded as a snapshot. Extrapolations to subsequent seasons are difficult owing to altered input variables, such as changes in vaccination coverage and the impact of the COVID-19 pandemic on contact behavior. Some of these issues were addressed in the sensitivity analyses.</p>
+      </sec>
+      <sec id="Sec19">
+        <title>Conclusions</title>
+        <p id="Par43">The modeling approach presented here offers important insights into the epidemiological and budgetary impact of different vaccination scenarios. We found that achieving a higher vaccination coverage with IIV4-SD in persons aged 60 years and over would result in lower costs and fewer influenza infections compared with the scenario with IIV4-HD and actual vaccination rates.</p>
+      </sec>
+      <sec sec-type="supplementary-material">
+        <sec id="Sec20">
+          <title>Supplementary Information</title>
+          <p>Below is the link to the electronic supplementary material.<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="40273_2023_1299_MOESM1_ESM.docx"><caption><p>Supplementary file1 (DOCX 25 KB)</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="40273_2023_1299_MOESM2_ESM.docx"><caption><p>Supplementary file2 (DOCX 21 KB)</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM3"><media xlink:href="40273_2023_1299_MOESM3_ESM.docx"><caption><p>Supplementary file3 (DOCX 19 KB)</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM4"><media xlink:href="40273_2023_1299_MOESM4_ESM.docx"><caption><p>Supplementary file4 (DOCX 22 KB)</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM5"><media xlink:href="40273_2023_1299_MOESM5_ESM.docx"><caption><p>Supplementary file5 (DOCX 18 KB)</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM6"><media xlink:href="40273_2023_1299_MOESM6_ESM.docx"><caption><p>Supplementary file6 (DOCX 63 KB)</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM7"><media xlink:href="40273_2023_1299_MOESM7_ESM.docx"><caption><p>Supplementary file7 (DOCX 17 KB)</p></caption></media></supplementary-material></p>
+        </sec>
+      </sec>
+    </body>
+    <back>
+      <fn-group>
+        <fn>
+          <p>Kathrin Pahmeier and Christian Speckemeier: Shared first authorship.</p>
+        </fn>
+      </fn-group>
+      <notes>
+        <title>Declarations</title>
+        <notes id="FPar1" notes-type="funding">
+          <title>Funding</title>
+          <p id="Par44">Open Access funding enabled and organized by Projekt DEAL. The project was funded by Viatris Healthcare GmbH. We acknowledge support by the Open Access Publication Fund of the University of Duisburg-Essen (Projekt DEAL). </p>
+        </notes>
+        <notes id="FPar2" notes-type="COI-statement">
+          <title>Conflict of interest</title>
+          <p id="Par45">Kathrin Pahmeier, Christian Speckemeier, Silke Neusser, Jürgen Wasem, and Janine Biermann-Stallwitz have no conflicts of interest that are directly relevant to the content of this article.</p>
+        </notes>
+        <notes id="FPar3">
+          <title>Ethics approval</title>
+          <p id="Par46">Not applicable.</p>
+        </notes>
+        <notes id="FPar4">
+          <title>Consent to participate</title>
+          <p id="Par47">Not applicable.</p>
+        </notes>
+        <notes id="FPar5">
+          <title>Consent for publication</title>
+          <p id="Par48">Not applicable.</p>
+        </notes>
+        <notes id="FPar6">
+          <title>Availability of data and material</title>
+          <p id="Par49">The datasets generated and/or analyzed during the current study are available from the corresponding author on reasonable request.</p>
+        </notes>
+        <notes id="FPar7">
+          <title>Code availability</title>
+          <p id="Par50">Not applicable.</p>
+        </notes>
+        <notes id="FPar8" notes-type="author-contribution">
+          <title>Author contributions</title>
+          <p id="Par51">KP, CS, SN, and JW developed the study design. KP and CS performed searches for input data and designed the transmission model and the health economic model. SN, JB-S, and JW provided advice throughout the conduct of the study. All authors discussed the study in regular meetings with substantive contributions to the conduct of the analysis. All authors have read and approved the manuscript.</p>
+        </notes>
+      </notes>
+      <ref-list id="Bib1">
+        <title>References</title>
+        <ref id="CR1">
+          <label>1.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Simonsen</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Fukuda</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Schonberger</surname>
+                <given-names>LB</given-names>
+              </name>
+              <name>
+                <surname>Cox</surname>
+                <given-names>NJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The impact of influenza epidemics on hospitalizations</article-title>
+            <source>J Infect Dis</source>
+            <year>2000</year>
+            <volume>181</volume>
+            <issue>3</issue>
+            <fpage>831</fpage>
+            <lpage>837</lpage>
+            <pub-id pub-id-type="doi">10.1086/315320</pub-id>
+            <pub-id pub-id-type="pmid">10720501</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR2">
+          <label>2.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Killingley</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Nguyen-Van-Tam</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Routes of influenza transmission</article-title>
+            <source>Influenza Other Respir Viruses</source>
+            <year>2013</year>
+            <volume>7</volume>
+            <issue>Suppl. 2</issue>
+            <fpage>42</fpage>
+            <lpage>51</lpage>
+            <pub-id pub-id-type="doi">10.1111/irv.12080</pub-id>
+            <pub-id pub-id-type="pmid">24034483</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR3">
+          <label>3.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ehlken</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Anastassopoulou</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hain</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Schröder</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Wahle</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Cost for physician-diagnosed influenza and influenza-like illnesses on primary care level in Germany: results of a database analysis from May 2010 to April 2012</article-title>
+            <source>BMC Public Health</source>
+            <year>2015</year>
+            <volume>21</volume>
+            <issue>15</issue>
+            <fpage>578</fpage>
+            <pub-id pub-id-type="doi">10.1186/s12889-015-1885-0</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR4">
+          <label>4.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Kalil</surname>
+                <given-names>AC</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>PG</given-names>
+              </name>
+            </person-group>
+            <article-title>Influenza virus-related critical illness: pathophysiology and epidemiology</article-title>
+            <source>Crit Care</source>
+            <year>2019</year>
+            <volume>23</volume>
+            <issue>1</issue>
+            <fpage>258</fpage>
+            <pub-id pub-id-type="doi">10.1186/s13054-019-2539-x</pub-id>
+            <pub-id pub-id-type="pmid">31324202</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR5">
+          <label>5.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Scholz</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Damm</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Schneider</surname>
+                <given-names>U</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Epidemiology and cost of seasonal influenza in Germany: a claims data analysis</article-title>
+            <source>BMC Public Health</source>
+            <year>2019</year>
+            <volume>19</volume>
+            <issue>1</issue>
+            <fpage>1090</fpage>
+            <pub-id pub-id-type="doi">10.1186/s12889-019-7458-x</pub-id>
+            <pub-id pub-id-type="pmid">31409319</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR6">
+          <label>6.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Iuliano</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Roguski</surname>
+                <given-names>KM</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>HH</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Estimates of global seasonal influenza-associated respiratory mortality: a modelling study</article-title>
+            <source>Lancet</source>
+            <year>2018</year>
+            <volume>391</volume>
+            <issue>10127</issue>
+            <fpage>1285</fpage>
+            <lpage>1300</lpage>
+            <pub-id pub-id-type="doi">10.1016/s0140-6736(17)33293-2</pub-id>
+            <pub-id pub-id-type="pmid">29248255</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR7">
+          <label>7.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Haas</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Braun</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Wutzler</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Burden of influenza in Germany: a retrospective claims database analysis for the influenza season 2012/2013</article-title>
+            <source>Eur J Health Econ</source>
+            <year>2016</year>
+            <volume>17</volume>
+            <issue>6</issue>
+            <fpage>669</fpage>
+            <lpage>679</lpage>
+            <pub-id pub-id-type="doi">10.1007/s10198-015-0708-7</pub-id>
+            <pub-id pub-id-type="pmid">26143025</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR8">
+          <label>8.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>De Courville</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Cadarette</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Wissinger</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Alvarez</surname>
+                <given-names>FP</given-names>
+              </name>
+            </person-group>
+            <article-title>The economic burden of influenza among adults aged 18 to 64: a systematic literature review</article-title>
+            <source>Influenza Other Respir Viruses</source>
+            <year>2022</year>
+            <volume>16</volume>
+            <issue>3</issue>
+            <fpage>376</fpage>
+            <lpage>385</lpage>
+            <pub-id pub-id-type="doi">10.1111/irv.12963</pub-id>
+            <pub-id pub-id-type="pmid">35122389</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR9">
+          <label>9.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Preaud</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Durand</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Macabeo</surname>
+                <given-names>B</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Annual public health and economic benefits of seasonal influenza vaccination: a European estimate</article-title>
+            <source>BMC Public Health</source>
+            <year>2014</year>
+            <volume>7</volume>
+            <issue>14</issue>
+            <fpage>813</fpage>
+            <pub-id pub-id-type="doi">10.1186/1471-2458-14-813</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR10">
+          <label>10.</label>
+          <mixed-citation publication-type="other">Paul-Ehrlich-Institute. Influenzasaison 2021/2022: erste Grippe-Impfstoff-Chargen freigegeben. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.pei.de/DE/newsroom/hp-meldungen/2021/210831-influenza-saison-2021-2022-erste-grippeimpfstoff-chargen-freigegeben.html">https://www.pei.de/DE/newsroom/hp-meldungen/2021/210831-influenza-saison-2021-2022-erste-grippeimpfstoff-chargen-freigegeben.html</ext-link>. Accessed 30 Aug 2022.</mixed-citation>
+        </ref>
+        <ref id="CR11">
+          <label>11.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <collab>Robert Koch Institute</collab>
+            </person-group>
+            <article-title>Recommendations of the Standing Committee on vaccination 2019/2020 (in German)</article-title>
+            <source>Epid Bull.</source>
+            <year>2019</year>
+            <volume>34</volume>
+            <fpage>13</fpage>
+            <lpage>57</lpage>
+          </element-citation>
+        </ref>
+        <ref id="CR12">
+          <label>12.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Rieck</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Steffen</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Schmid-Küpke</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Feig</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Wichmann</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Siedler</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Impfquoten bei Erwachsenen in Deutschland: Aktuelles aus der KV-Impfsurveillance und der Onlinebefragung von Krankenhauspersonal OKaPII</article-title>
+            <source>Epid Bull.</source>
+            <year>2020</year>
+            <volume>47</volume>
+            <fpage>3</fpage>
+            <lpage>26</lpage>
+            <pub-id pub-id-type="doi">10.25646/7658</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR13">
+          <label>13.</label>
+          <mixed-citation publication-type="other">European Centre for Disease Prevention and Control (ECDC). Influenza vaccination coverage rates in the EU/EEA. 2022. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.ecdc.europa.eu/en/seasonal-influenza/prevention-and-control/vaccines/vaccination-coverage">https://www.ecdc.europa.eu/en/seasonal-influenza/prevention-and-control/vaccines/vaccination-coverage</ext-link>. Accessed 30 Aug 2022.</mixed-citation>
+        </ref>
+        <ref id="CR14">
+          <label>14.</label>
+          <mixed-citation publication-type="other">Robert Koch Institute. Recommendations of the Standing Committee on vaccination. STIKO: Aktualisierung der Influenza-Impfempfehlung für Personen im Alter von ≥ 60 Jahren. Epid Bull. 2021;1.</mixed-citation>
+        </ref>
+        <ref id="CR15">
+          <label>15.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Lewis</surname>
+                <given-names>NM</given-names>
+              </name>
+              <name>
+                <surname>Chung</surname>
+                <given-names>JR</given-names>
+              </name>
+              <name>
+                <surname>Uyeki</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Grohskopf</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Ferdinands</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>MM</given-names>
+              </name>
+            </person-group>
+            <article-title>Interpretation of relative efficacy and effectiveness for influenza vaccines</article-title>
+            <source>Clin Infect Dis</source>
+            <year>2022</year>
+            <volume>75</volume>
+            <issue>1</issue>
+            <fpage>170</fpage>
+            <lpage>175</lpage>
+            <pub-id pub-id-type="doi">10.1093/cid/ciab1016</pub-id>
+            <pub-id pub-id-type="pmid">34875035</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR16">
+          <label>16.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>DiazGranados</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Dunning</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Kimmel</surname>
+                <given-names>M</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Efficacy of high-dose versus standard-dose influenza vaccine in older adults</article-title>
+            <source>N Engl J Med</source>
+            <year>2014</year>
+            <volume>371</volume>
+            <issue>7</issue>
+            <fpage>635</fpage>
+            <lpage>645</lpage>
+            <pub-id pub-id-type="doi">10.1056/nejmoa1315727</pub-id>
+            <pub-id pub-id-type="pmid">25119609</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR17">
+          <label>17.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Lee</surname>
+                <given-names>JKH</given-names>
+              </name>
+              <name>
+                <surname>Lam</surname>
+                <given-names>GKL</given-names>
+              </name>
+              <name>
+                <surname>Shin</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Samson</surname>
+                <given-names>SI</given-names>
+              </name>
+              <name>
+                <surname>Greenberg</surname>
+                <given-names>DP</given-names>
+              </name>
+              <name>
+                <surname>Chit</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Efficacy and effectiveness of high-dose influenza vaccine in older adults by circulating strain and antigenic match: an updated systematic review and meta-analysis</article-title>
+            <source>Vaccine</source>
+            <year>2021</year>
+            <volume>15</volume>
+            <issue>39 Suppl. 1</issue>
+            <fpage>A24</fpage>
+            <lpage>35</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.vaccine.2020.09.004</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR18">
+          <label>18.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Carrat</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Vergu</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Ferguson</surname>
+                <given-names>NM</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Time lines of infection and disease in human influenza: a review of volunteer challenge studies</article-title>
+            <source>Am J Epidemiol</source>
+            <year>2008</year>
+            <volume>167</volume>
+            <issue>7</issue>
+            <fpage>775</fpage>
+            <lpage>785</lpage>
+            <pub-id pub-id-type="doi">10.1093/aje/kwm375</pub-id>
+            <pub-id pub-id-type="pmid">18230677</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR19">
+          <label>19.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sauerbrei</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Langenhan</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Brandstadt</surname>
+                <given-names>A</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Prevalence of antibodies against influenza A and B viruses in children in Germany, 2008 to 2010</article-title>
+            <source>Euro Surveill</source>
+            <year>2014</year>
+            <volume>19</volume>
+            <issue>5</issue>
+            <fpage>20687</fpage>
+            <pub-id pub-id-type="doi">10.2807/1560-7917.es2014.19.5.20687</pub-id>
+            <pub-id pub-id-type="pmid">24524235</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR20">
+          <label>20.</label>
+          <mixed-citation publication-type="other">Arbeitsgemeinschaft Influenza 2020. Influenza-Monatsbericht. Kalenderwochen 37 bis 39 (5.9. bis 25.9.2020). Available from: <ext-link ext-link-type="uri" xlink:href="https://influenza.rki.de/Wochenberichte/2019_2020/2020-39.pdf">https://influenza.rki.de/Wochenberichte/2019_2020/2020-39.pdf</ext-link>. Accessed 21 Sep 2022.</mixed-citation>
+        </ref>
+        <ref id="CR21">
+          <label>21.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Mossong</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Hens</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Jit</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Beutels</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Auranen</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Mikolajczyk</surname>
+                <given-names>R</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Social contacts and mixing patterns relevant to the spread of infectious diseases</article-title>
+            <source>PLoS Med</source>
+            <year>2008</year>
+            <volume>5</volume>
+            <issue>3</issue>
+            <fpage>e74</fpage>
+            <pub-id pub-id-type="doi">10.1371/journal.pmed.0050074</pub-id>
+            <pub-id pub-id-type="pmid">18366252</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR22">
+          <label>22.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Rose</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Damm</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Greiner</surname>
+                <given-names>W</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>The epidemiological impact of childhood influenza vaccination using live-attenuated influenza vaccine (LAIV) in Germany: predictions of a simulation study</article-title>
+            <source>BMC Infect Dis</source>
+            <year>2014</year>
+            <volume>22</volume>
+            <issue>14</issue>
+            <fpage>40</fpage>
+            <pub-id pub-id-type="doi">10.1186/1471-2334-14-40</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR23">
+          <label>23.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Weidemann</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Remschmidt</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Buda</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Buchholz</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Ultsch</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Wichmann</surname>
+                <given-names>O</given-names>
+              </name>
+            </person-group>
+            <article-title>Is the impact of childhood influenza vaccination less than expected: a transmission modelling study</article-title>
+            <source>BMC Infect Dis</source>
+            <year>2017</year>
+            <volume>17</volume>
+            <fpage>258</fpage>
+            <pub-id pub-id-type="doi">10.1186/s12879-017-2344-6</pub-id>
+            <pub-id pub-id-type="pmid">28399801</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR24">
+          <label>24.</label>
+          <mixed-citation publication-type="other">WHO. Vaccine efficacy, effectiveness and protection. 2021. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.who.int/news-room/feature-stories/detail/vaccine-efficacy-effectiveness-and-protection">https://www.who.int/news-room/feature-stories/detail/vaccine-efficacy-effectiveness-and-protection</ext-link>. Accessed 4 Nov 2022.</mixed-citation>
+        </ref>
+        <ref id="CR25">
+          <label>25.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Lewnard</surname>
+                <given-names>JA</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Measurement of vaccine direct effects under the test-negative design</article-title>
+            <source>Am J Epidemiol</source>
+            <year>2018</year>
+            <volume>187</volume>
+            <issue>12</issue>
+            <fpage>2686</fpage>
+            <lpage>2697</lpage>
+            <pub-id pub-id-type="doi">10.1093/aje/kwy163</pub-id>
+            <pub-id pub-id-type="pmid">30099505</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR26">
+          <label>26.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Hadigal</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Cook</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Knowledge and perception regarding effectiveness in influenza vaccines among General Practitioners in Germany: a national survey</article-title>
+            <source>Vaccine X.</source>
+            <year>2022</year>
+            <volume>12</volume>
+            <fpage>100236</fpage>
+            <pub-id pub-id-type="doi">10.1016/j.jvacx.2022.100236</pub-id>
+            <pub-id pub-id-type="pmid">36388764</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR27">
+          <label>27.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Rose</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kissling</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Emborg</surname>
+                <given-names>HD</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Interim 2019/20 influenza vaccine effectiveness: six European studies, September 2019 to January 2020</article-title>
+            <source>Euro Surveill</source>
+            <year>2020</year>
+            <volume>25</volume>
+            <issue>10</issue>
+            <fpage>2000153</fpage>
+            <pub-id pub-id-type="doi">10.2807/1560-7917.es.2020.25.10.2000153</pub-id>
+            <pub-id pub-id-type="pmid">32183932</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR28">
+          <label>28.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Pepin</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nicolas</surname>
+                <given-names>JF</given-names>
+              </name>
+              <name>
+                <surname>Szymanski</surname>
+                <given-names>H</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Immunogenicity and safety of a quadrivalent high-dose inactivated influenza vaccine compared with a standard-dose quadrivalent influenza vaccine in healthy people aged 60 years or older: a randomized phase III trial</article-title>
+            <source>Hum Vaccin Immunother</source>
+            <year>2021</year>
+            <volume>17</volume>
+            <issue>12</issue>
+            <fpage>5475</fpage>
+            <lpage>5486</lpage>
+            <pub-id pub-id-type="doi">10.1080/21645515.2021.1983387</pub-id>
+            <pub-id pub-id-type="pmid">34714720</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR29">
+          <label>29.</label>
+          <mixed-citation publication-type="other">Bundesministerium für Gesundheit, Zahlen und Fakten zur Krankenversicherung. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.bundesgesundheitsministerium.de/themen/krankenversicherung/zahlen-und-fakten-zur-krankenversicherung.html">https://www.bundesgesundheitsministerium.de/themen/krankenversicherung/zahlen-und-fakten-zur-krankenversicherung.html</ext-link>. Accessed 16 Aug 2022.</mixed-citation>
+        </ref>
+        <ref id="CR30">
+          <label>30.</label>
+          <mixed-citation publication-type="other">IQWiG. Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen. Allgemeine Methoden. Version 6.1 vom 24.01.2022. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.iqwig.de/methoden/allgemeine-methoden-v6-1.pdf">https://www.iqwig.de/methoden/allgemeine-methoden-v6-1.pdf</ext-link>. Accessed 2 Sep 2022.</mixed-citation>
+        </ref>
+        <ref id="CR31">
+          <label>31.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ryan</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Zoellner</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Gradl</surname>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Establishing the health and economic impact of influenza vaccination within the European Union 25 countries</article-title>
+            <source>Vaccine</source>
+            <year>2006</year>
+            <volume>24</volume>
+            <issue>47–48</issue>
+            <fpage>6812</fpage>
+            <lpage>6822</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.vaccine.2006.07.042</pub-id>
+            <pub-id pub-id-type="pmid">17034909</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR32">
+          <label>32.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Aballéa</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Chancellor</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Martin</surname>
+                <given-names>M</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>The cost-effectiveness of influenza vaccination for people aged 50 to 64 years: an international model</article-title>
+            <source>Value Health.</source>
+            <year>2007</year>
+            <volume>10</volume>
+            <issue>2</issue>
+            <fpage>98</fpage>
+            <lpage>116</lpage>
+            <pub-id pub-id-type="doi">10.1111/j.1524-4733.2006.00157.x</pub-id>
+            <pub-id pub-id-type="pmid">17391419</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR33">
+          <label>33.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Thorlund</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Awad</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Boivin</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Thabane</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Systematic review of influenza resistance to the neuraminidase inhibitors</article-title>
+            <source>BMC Infect Dis</source>
+            <year>2011</year>
+            <volume>19</volume>
+            <issue>11</issue>
+            <fpage>134</fpage>
+            <pub-id pub-id-type="doi">10.1186/1471-2334-11-134</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR34">
+          <label>34.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Dolk</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Eichner</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Welte</surname>
+                <given-names>R</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Cost-utility of quadrivalent versus trivalent influenza vaccine in Germany, using an individual-based dynamic transmission model</article-title>
+            <source>Pharmacoeconomics</source>
+            <year>2016</year>
+            <volume>34</volume>
+            <issue>12</issue>
+            <fpage>1299</fpage>
+            <lpage>1308</lpage>
+            <pub-id pub-id-type="doi">10.1007/s40273-016-0443-7</pub-id>
+            <pub-id pub-id-type="pmid">27647004</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR35">
+          <label>35.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>von der Beck</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Seeger</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Herold</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Günther</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Löh</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Characteristics and outcomes of a cohort hospitalized for pandemic and seasonal influenza in Germany based on nationwide inpatient data</article-title>
+            <source>PLoS ONE</source>
+            <year>2017</year>
+            <volume>12</volume>
+            <issue>7</issue>
+            <fpage>e0180920</fpage>
+            <pub-id pub-id-type="doi">10.1371/journal.pone.0180920</pub-id>
+            <pub-id pub-id-type="pmid">28708896</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR36">
+          <label>36.</label>
+          <mixed-citation publication-type="other">InEK GmbH. aG-DRG-Report-Browser 2021. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.g-drg.de/datenbrowser-und-begleitforschung/g-drg-report-browser/ag-drg-report-browser-2021">https://www.g-drg.de/datenbrowser-und-begleitforschung/g-drg-report-browser/ag-drg-report-browser-2021</ext-link>. Accessed 16 Aug 2022.</mixed-citation>
+        </ref>
+        <ref id="CR37">
+          <label>37.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Cai</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Gerlier</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Eichner</surname>
+                <given-names>M</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Cost-effectiveness of the cell-based quadrivalent versus the standard egg-based quadrivalent influenza vaccine in Germany</article-title>
+            <source>J Med Econ</source>
+            <year>2021</year>
+            <volume>24</volume>
+            <issue>1</issue>
+            <fpage>490</fpage>
+            <lpage>501</lpage>
+            <pub-id pub-id-type="doi">10.1080/13696998.2021.1908000</pub-id>
+            <pub-id pub-id-type="pmid">33761803</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR38">
+          <label>38.</label>
+          <mixed-citation publication-type="other">Kassenärztliche Bundesvereinigung. EBM catalogue 2019. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.kbv.de/media/sp/EBM_Gesamt_-_Stand_1._Quartal_2019.pdf">https://www.kbv.de/media/sp/EBM_Gesamt_-_Stand_1._Quartal_2019.pdf</ext-link>. Accessed 16 Aug 2022.</mixed-citation>
+        </ref>
+        <ref id="CR39">
+          <label>39.</label>
+          <mixed-citation publication-type="other">LAUER-TAXE. LAUER-FISCHER GmbH; 2022.</mixed-citation>
+        </ref>
+        <ref id="CR40">
+          <label>40.</label>
+          <mixed-citation publication-type="other">InEK GmbH. aG-DRG-Report-Browser Version 2021.3. 2021.</mixed-citation>
+        </ref>
+        <ref id="CR41">
+          <label>41.</label>
+          <mixed-citation publication-type="other">InEK GmbH. Fallpauschalenkatalog 2019. 2018.</mixed-citation>
+        </ref>
+        <ref id="CR42">
+          <label>42.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Bock</surname>
+                <given-names>JO</given-names>
+              </name>
+              <name>
+                <surname>Brettschneider</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Seidl</surname>
+                <given-names>H</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Calculation of standardised unit costs from a societal perspective for health economic evaluation</article-title>
+            <source>Gesundheitswesen</source>
+            <year>2015</year>
+            <volume>77</volume>
+            <issue>1</issue>
+            <fpage>53</fpage>
+            <lpage>61</lpage>
+            <pub-id pub-id-type="doi">10.1055/s-0034-1374621</pub-id>
+            <pub-id pub-id-type="pmid">25025287</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR43">
+          <label>43.</label>
+          <mixed-citation publication-type="other">Eurostat. Employment and activity by sex and age (1992-2020): annual data. Available from: <ext-link ext-link-type="uri" xlink:href="https://ec.europa.eu/eurostat/databrowser/view/lfsi_emp_a_h/default/table?lang=en">https://ec.europa.eu/eurostat/databrowser/view/lfsi_emp_a_h/default/table?lang=en</ext-link>. Accessed 20 Sep 2022.</mixed-citation>
+        </ref>
+        <ref id="CR44">
+          <label>44.</label>
+          <mixed-citation publication-type="other">Eurostat. Employment and unemployment. Available from: <ext-link ext-link-type="uri" xlink:href="https://ec.europa.eu/eurostat/web/lfs/data/database">https://ec.europa.eu/eurostat/web/lfs/data/database</ext-link>. Accessed 20 Sep 2022.</mixed-citation>
+        </ref>
+        <ref id="CR45">
+          <label>45.</label>
+          <mixed-citation publication-type="other">DESTATIS. Wöchentliche Arbeitszeit. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.destatis.de/">https://www.destatis.de/</ext-link>. Accessed 20 Sep 2022.</mixed-citation>
+        </ref>
+        <ref id="CR46">
+          <label>46.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Vemer</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Corro Ramos</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>van Voorn</surname>
+                <given-names>GAK</given-names>
+              </name>
+              <name>
+                <surname>Al</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Feenstra</surname>
+                <given-names>TL</given-names>
+              </name>
+            </person-group>
+            <article-title>AdViSHE: a validation-assessment tool of health-economic models for decision makers and model users</article-title>
+            <source>Pharmacoeconomics</source>
+            <year>2016</year>
+            <volume>34</volume>
+            <issue>4</issue>
+            <fpage>349</fpage>
+            <lpage>361</lpage>
+            <pub-id pub-id-type="doi">10.1007/s40273-015-0327-2</pub-id>
+            <pub-id pub-id-type="pmid">26660529</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR47">
+          <label>47.</label>
+          <mixed-citation publication-type="other">OECD. Influenza vaccination rates (indicator). 2022. Available from: 10.1787/e452582e-en<underline>.</underline> Accessed 19 Sep 2022.</mixed-citation>
+        </ref>
+        <ref id="CR48">
+          <label>48.</label>
+          <mixed-citation publication-type="other">Aerzteblatt. Höhere Impfquote bei Grippeimpfungen während der Coronapandemie. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.aerzteblatt.de/nachrichten/127644/Hoehere-Impfquote-bei-Grippeimpfungen-waehrend-der-Coronapandemie">https://www.aerzteblatt.de/nachrichten/127644/Hoehere-Impfquote-bei-Grippeimpfungen-waehrend-der-Coronapandemie</ext-link>. Accessed 21 Sep 2022.</mixed-citation>
+        </ref>
+        <ref id="CR49">
+          <label>49.</label>
+          <mixed-citation publication-type="other">DESTATIS. Grippeschutzimpfung für Senioren: Erste OECD-Daten für 2020 zeigen deutlich höhere Impfquoten. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.destatis.de/DE/Themen/Laender-Regionen/Internationales/Thema/bevoelkerung-arbeit-soziales/gesundheit/Influenza-2.html">https://www.destatis.de/DE/Themen/Laender-Regionen/Internationales/Thema/bevoelkerung-arbeit-soziales/gesundheit/Influenza-2.html</ext-link>. Accessed 21 Sep 2022.</mixed-citation>
+        </ref>
+        <ref id="CR50">
+          <label>50.</label>
+          <mixed-citation publication-type="other">KBV. ALIVE: Projekt will das Impfen noch präsenter bei älteren Menschen machen. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.kbv.de/html/2022_58911.php#:~:text=Empfohlene%20Impfungen%20f%C3%BCr%20Menschen%20ab,Diphtherie%20und%20Pertussis%20(Keuchhusten">https://www.kbv.de/html/2022_58911.php#:~:text=Empfohlene%20Impfungen%20f%C3%BCr%20Menschen%20ab,Diphtherie%20und%20Pertussis%20(Keuchhusten</ext-link>). Accessed 30 Aug 2022.</mixed-citation>
+        </ref>
+        <ref id="CR51">
+          <label>51.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Swets</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Russell</surname>
+                <given-names>CD</given-names>
+              </name>
+              <name>
+                <surname>Harrison</surname>
+                <given-names>EH</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>SARS-CoV-2 co-infection with influenza viruses, respiratory syncytial virus, or adenoviruses</article-title>
+            <source>Lancet</source>
+            <year>2022</year>
+            <volume>399</volume>
+            <issue>10334</issue>
+            <fpage>1463</fpage>
+            <lpage>1464</lpage>
+            <pub-id pub-id-type="doi">10.1016/s0140-6736(22)00383-x</pub-id>
+            <pub-id pub-id-type="pmid">35344735</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR52">
+          <label>52.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Cong</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Deng</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>The role of respiratory co-infection with influenza or respiratory syncytial virus in the clinical severity of COVID-19 patients: a systematic review and meta-analysis</article-title>
+            <source>J Glob Health</source>
+            <year>2022</year>
+            <volume>17</volume>
+            <issue>12</issue>
+            <fpage>05040</fpage>
+            <pub-id pub-id-type="doi">10.7189/jogh.12.05040</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR53">
+          <label>53.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Vynnycky</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Pitman</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Siddiqui</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Gay</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Edmunds</surname>
+                <given-names>WJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Estimating the impact of childhood influenza vaccination programmes in England and Wales</article-title>
+            <source>Vaccine</source>
+            <year>2008</year>
+            <volume>26</volume>
+            <issue>41</issue>
+            <fpage>5321</fpage>
+            <lpage>5330</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.vaccine.2008.06.101</pub-id>
+            <pub-id pub-id-type="pmid">18647634</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR54">
+          <label>54.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Goettler</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Niekler</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Liese</surname>
+                <given-names>JG</given-names>
+              </name>
+              <name>
+                <surname>Streng</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Epidemiology and direct healthcare costs of influenza-associated hospitalizations: nationwide inpatient data (Germany 2010–2019)</article-title>
+            <source>BMC Public Health</source>
+            <year>2022</year>
+            <volume>22</volume>
+            <issue>1</issue>
+            <fpage>108</fpage>
+            <pub-id pub-id-type="doi">10.1186/s12889-022-12505-5</pub-id>
+            <pub-id pub-id-type="pmid">35033031</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR55">
+          <label>55.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Kwetkat</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Heppner</surname>
+                <given-names>HJ</given-names>
+              </name>
+              <name>
+                <surname>Endres</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Leischker</surname>
+                <given-names>AH</given-names>
+              </name>
+            </person-group>
+            <article-title>Neue Empfehlungen der STIKO zum Impfen im Alter</article-title>
+            <source>MMW Fortschr Med</source>
+            <year>2021</year>
+            <volume>163</volume>
+            <issue>10</issue>
+            <fpage>42</fpage>
+            <lpage>49</lpage>
+            <pub-id pub-id-type="doi">10.1007/s15006-021-9851-5</pub-id>
+            <pub-id pub-id-type="pmid">34033047</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </article>
+</pmc-articleset>

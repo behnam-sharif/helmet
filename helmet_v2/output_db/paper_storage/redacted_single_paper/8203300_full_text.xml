@@ -1,0 +1,438 @@
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+    <?properties open_access?>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">Clinicoecon Outcomes Res</journal-id>
+        <journal-id journal-id-type="iso-abbrev">Clinicoecon Outcomes Res</journal-id>
+        <journal-id journal-id-type="publisher-id">ceor</journal-id>
+        <journal-id journal-id-type="pmc">ceor</journal-id>
+        <journal-title-group>
+          <journal-title>ClinicoEconomics and Outcomes Research: CEOR</journal-title>
+        </journal-title-group>
+        <issn pub-type="epub">1178-6981</issn>
+        <publisher>
+          <publisher-name>Dove</publisher-name>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">34140789</article-id>
+        <article-id pub-id-type="pmc">8203300</article-id>
+        <article-id pub-id-type="publisher-id">305830</article-id>
+        <article-id pub-id-type="doi">10.2147/CEOR.S305830</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Original Research</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>US Budget Impact Model for Selinexor, Bortezomib, and Dexamethasone for the Treatment of Previously Treated Multiple Myeloma</article-title>
+          <alt-title alt-title-type="running-authors">Dolph et al</alt-title>
+          <alt-title alt-title-type="running-title">Dolph et al</alt-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Dolph</surname>
+              <given-names>Mike</given-names>
+            </name>
+            <xref ref-type="aff" rid="aff0001">
+              <sup>1</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Tremblay</surname>
+              <given-names>Gabriel</given-names>
+            </name>
+            <xref ref-type="aff" rid="aff0001">
+              <sup>1</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Leong</surname>
+              <given-names>Hoyee</given-names>
+            </name>
+            <xref ref-type="aff" rid="aff0002">
+              <sup>2</sup>
+            </xref>
+            <xref ref-type="corresp" rid="an0001"/>
+          </contrib>
+          <aff id="aff0001"><label>1</label><institution>Health Economics Department, Purple Squirrel Economics</institution>, <addr-line>New York</addr-line>, <addr-line>NY</addr-line>, <addr-line>10010</addr-line>, <country>USA</country></aff>
+          <aff id="aff0002"><label>2</label><institution>Health Economics and Outcomes Research, Global Medical and Scientific Affairs, Karyopharm Therapeutics</institution>, <addr-line>Newton</addr-line>, <addr-line>MA</addr-line>, <addr-line>02459</addr-line>, <country>USA</country></aff>
+        </contrib-group>
+        <author-notes>
+          <corresp id="an0001">Correspondence: Hoyee Leong Email hleong@karyopharm.com</corresp>
+        </author-notes>
+        <pub-date pub-type="epub">
+          <day>10</day>
+          <month>6</month>
+          <year>2021</year>
+        </pub-date>
+        <pub-date pub-type="collection">
+          <year>2021</year>
+        </pub-date>
+        <volume>13</volume>
+        <fpage>493</fpage>
+        <lpage>502</lpage>
+        <history>
+          <date date-type="received">
+            <day>20</day>
+            <month>3</month>
+            <year>2021</year>
+          </date>
+          <date date-type="accepted">
+            <day>10</day>
+            <month>5</month>
+            <year>2021</year>
+          </date>
+        </history>
+        <permissions>
+          <copyright-statement>© 2021 Dolph et al.</copyright-statement>
+          <copyright-year>2021</copyright-year>
+          <copyright-holder>Dolph et al.</copyright-holder>
+          <license>
+            <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref>
+            <license-p>This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at <ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/terms.php">https://www.dovepress.com/terms.php</ext-link> and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/3.0/">http://creativecommons.org/licenses/by-nc/3.0/</ext-link>). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (<ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/terms.php">https://www.dovepress.com/terms.php</ext-link>).</license-p>
+          </license>
+        </permissions>
+        <kwd-group kwd-group-type="author">
+          <title>Keywords</title>
+          <kwd>budget impact</kwd>
+          <kwd>multiple myeloma</kwd>
+          <kwd>Xpovio</kwd>
+          <kwd>selinexor</kwd>
+          <kwd>XVd</kwd>
+          <kwd>relapsed or refractory multiple myeloma</kwd>
+        </kwd-group>
+        <funding-group>
+          <award-group>
+            <funding-source>
+              <institution-wrap>
+                <institution>Karyopharm Therapeutics</institution>
+                <institution-id institution-id-type="open-funder-registry">10.13039/100007136</institution-id>
+              </institution-wrap>
+            </funding-source>
+          </award-group>
+          <funding-statement>This study was funded by Karyopharm Therapeutics.</funding-statement>
+        </funding-group>
+        <counts>
+          <fig-count count="2"/>
+          <table-count count="3"/>
+          <ref-count count="51"/>
+          <page-count count="10"/>
+        </counts>
+      </article-meta>
+    </front>
+    <body>
+      <sec sec-type="intro" id="s0001">
+        <title>Introduction</title>
+        <p>As the second most common hematological malignancy after non-Hodgkin’s lymphoma in the United States (US), multiple myeloma (MM) was estimated to represent nearly 2% of all new cancer cases and over 2% of all cancer deaths in 2020 with approximately 32,270 new cases and 12,830 deaths.<xref rid="cit0001" ref-type="bibr">1</xref> The treatment of MM has improved in the last two decades, first from the use of high-dose chemotherapy with alkylating agents and autologous stem cell transplantation (SCT), and subsequently to the introduction of immunomodulatory agents (IMiDs; thalidomide, lenalidomide, and pomalidomide), proteasome inhibitors (PIs; bortezomib, carfilzomib and ixazomib), and monoclonal antibodies (daratumumab, elotuzumab, and isatuximab). Despite the approval of a variety of therapies in recent years, MM largely remains an incurable and fatal disease as nearly all patients relapse following each of their sequential therapies, ultimately developing progressive, refractory disease.</p>
+        <p>In the US, bortezomib has been approved for the treatment of MM in combination with a variety of agents and has a broad label and multiple recommendations for use in the National Comprehensive Cancer Network guidelines.<xref rid="cit0002" ref-type="bibr">2</xref>,<xref rid="cit0003" ref-type="bibr">3</xref> However, the approved regimens for previously treated MM utilize twice-weekly dosing of bortezomib which must be administered in the clinic. This dosing frequency can be burdensome for patients, caregivers, and the healthcare system.<xref rid="cit0004" ref-type="bibr">4</xref> Moreover, this twice-weekly dosing frequency of bortezomib induces significant sensory and motor peripheral neuropathy (PN). Peripheral neuropathy, with reported rates of 35% to 55% in doublet and triplet regimens, often leads to treatment interruptions, dose reductions, treatment discontinuation, and ultimately, loss of therapeutic efficacy.<xref rid="cit0005" ref-type="bibr">5–7</xref> PN can be minimized with once-weekly bortezomib therapy, and many physicians employ once weekly bortezomib-based regimens.<xref rid="cit0008" ref-type="bibr">8</xref> Thus, developing novel therapies that demonstrate clinical benefits with once weekly bortezomib will serve a current and rapidly growing unmet medical need in patients with previously treated MM. A once weekly bortezomib-based regimen may provide reduced clinic visits, improved progression-free survival (PFS) and overall response rate (ORR) over twice-weekly bortezomib and moderate dose dexamethasone (Vd), and reduced PN-associated side effects of bortezomib.<xref rid="cit0006" ref-type="bibr">6</xref>,<xref rid="cit0007" ref-type="bibr">7</xref>,<xref rid="cit0009" ref-type="bibr">9</xref>,<xref rid="cit0010" ref-type="bibr">10</xref></p>
+        <p>As an oral, first-in-class selective inhibitor of nuclear export (SINE) compound, selinexor (XPOVIO; Karyopharm Therapeutics, Inc.) works in combination with both bortezomib (and other PIs) and dexamethasone to selectively kill malignant plasma cells.<xref rid="cit0011" ref-type="bibr">11</xref> The US Food and Drug Administration (FDA) has approved selinexor in combination with bortezomib and dexamethasone for the treatment of adult patients with previously treated MM.<xref rid="cit0011" ref-type="bibr">11</xref> In the ongoing BOSTON (Bortezomib, Selinexor, and low dose dexamethasone [XVd] Treatment in Patients with Multiple Myeloma) Phase 3 trial (NCT03110562), adult patients with MM previously treated with one to three lines of therapy, including PIs, were randomly allocated (1:1) to receive XVd (n=195) or Vd (n=207). This once weekly triplet XVd therapy was superior to standard twice weekly Vd despite using 40% less bortezomib and 25% less dexamethasone during the first 24 weeks of treatment than the control arm. In addition to this, XVd demonstrated superior results in nearly all efficacy endpoints (PFS, ORR, greater than or equal to very good partial response [≥VGPR], and duration of response [DOR]) compared to Vd across all patient subgroups, including elderly, frail, bortezomib-naïve, and lenalidomide-pretreated patients and in patients with high-risk cytogenetics.<xref rid="cit0012" ref-type="bibr">12</xref> With the once weekly dosing of bortezomib, there were ~37% fewer clinic visits on XVd compared with the standard Vd control arm.<xref rid="cit0012" ref-type="bibr">12</xref> In addition, the XVd treatment arm was associated with significantly reduced rates of PN, the most common long-term toxicity associated with bortezomib. Bortezomib-induced PN is associated with substantially reduced health-related quality of life (HRQoL) in patients with MM.<xref rid="cit0013" ref-type="bibr">13</xref></p>
+        <p>Although new therapies can be associated with increases in the cost of care for previously treated MM, improvements in life expectancy have been realized: five-year survival has improved from 27% in 1989 to 55.6% in 2017 for all stages of MM combined.<xref rid="cit0001" ref-type="bibr">1</xref>,<xref rid="cit0014" ref-type="bibr">14</xref> Quantifying and understanding potential budget impacts of new therapies in MM is vital for payers to manage costs and assess the value of new therapies.<xref rid="cit0015" ref-type="bibr">15</xref> From 2000 to 2014, per member per month (PMPM) treatment-related drug costs for patients with MM rose from $346 to $4,179, accounting for an estimated 28.5% of total healthcare costs for these patients.<xref rid="cit0016" ref-type="bibr">16</xref> Understanding the potential budget impacts of different therapy options supports the development of value-based frameworks; for example the American Society of Clinical Oncology (ASCO) utilizes these costs in its calculation of net health benefits.<xref rid="cit0017" ref-type="bibr">17–19</xref></p>
+        <p>Building off of a previous budget impact model evaluating selinexor as monotherapy in penta-refractory MM, this work developed an Excel-based budget impact model for XVd from (1) a private US payer perspective and (2) a Medicare perspective, comparing two scenarios for previously treated MM patients: one without the introduction of XVd (Status quo) versus one with the introduction of XVd (XVd scenario).<xref rid="cit0019" ref-type="bibr">19</xref></p>
+      </sec>
+      <sec id="s0002">
+        <title>Materials and Methods</title>
+        <sec id="s0002-s2001">
+          <title>Model Characteristics: Perspective, Time Horizon, Structure</title>
+          <p>Similar to a previous study of the budget impact of selinexor, the budget impact of XVd was compared to the status-quo assessed from the perspective of a US private third-party payer and a Medicare perspective.<xref rid="cit0019" ref-type="bibr">19</xref> The budget impact analysis followed guidelines for economic evaluations in support of formulary listings set by the International Society for Pharmacoeconomics and Outcomes Research (ISPOR) and the Academy of Managed Care Pharmacy (AMCP).<xref rid="cit0019" ref-type="bibr">19–22</xref> A schematic of the budget impact model is shown in <xref ref-type="fig" rid="f0001">Figure 1</xref>.<fig id="f0001" fig-type="figure" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Budget Impact Model Conceptual Model.</p></caption><graphic content-type="print-only" xlink:href="CEOR-13-493-g0001"/></fig></p>
+          <p>To determine total annual treatment costs and assess the projected budget impact of XVd as a treatment option, the model considered costs of primary therapy, secondary therapy (ie, therapy received once patients discontinue their primary therapy, based on the market share-weighted average benefits and costs of all included regimens), administration, routine medical care, serious treatment emergent adverse events (TEAEs), and mortality. All costs were presented in 2020 US dollars and undiscounted, as is standard practice and in alignment with AMCP and ISPOR guidelines.<xref rid="cit0020" ref-type="bibr">20–22</xref> Similar to previous budget impact models, a key assumption was that the use of XVd would not significantly reduce the costs of supportive care that patients would continue to require to address complications of MM such as anemia or infections.<xref rid="cit0019" ref-type="bibr">19</xref>,<xref rid="cit0023" ref-type="bibr">23</xref> The analysis was conducted in one-year increments for the first 3 years after the introduction of XVd. The inclusion of XVd was compared to a status quo (ie, without the introduction of XVd).</p>
+        </sec>
+        <sec id="s0002-s2002">
+          <title>Model Population</title>
+          <p>The number of XVd eligible patients was derived from the estimated proportion of adult patients (based on US estimates from 2018) with MM incidence per 100,000.<xref rid="cit0014" ref-type="bibr">14</xref>,<xref rid="cit0024" ref-type="bibr">24</xref> Two populations were assessed: (1) using a hypothetical private third-party payer plan with a population of 1,000,000 (<underline><ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/get_supplementary_file.php?f=305830.docx">Supplementary Table 1</ext-link></underline>), and (2) 59,499,015 members participating in Medicare (<underline><ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/get_supplementary_file.php?f=305830.docx">Supplementary Table 2</ext-link></underline>).<xref rid="cit0025" ref-type="bibr">25</xref> In addition to the Medicare population including a larger population base, they included an older population and therefore had a higher incidence of MM compared with the private third-party payer plan (0.035% versus 0.006% at the baseline year, respectively).<xref rid="cit0014" ref-type="bibr">14</xref></p>
+        </sec>
+      </sec>
+      <sec id="s0003">
+        <title>Treatment Parameters</title>
+        <sec id="s0003-s2001">
+          <title>Medication Dosing, Duration, and Treatment Costs</title>
+          <p>This model included XVd therapy as conducted in the BOSTON trial (NCT03110562).<xref rid="cit0011" ref-type="bibr">11</xref> The model used a dosage of selinexor (100 mg orally once per week), bortezomib (1.3 mg/m<sup>2</sup> subcutaneously [SC] once per week), and dexamethasone (20 mg orally twice per week). The unit costs for selinexor, bortezomib and dexamethasone were set to wholesale acquisition costs (WAC) obtained from AnalySource.<xref rid="cit0026" ref-type="bibr">26</xref> The WAC per package of selinexor containing 24 tablets of 20 mg strength was $26,400. No WAC discount was assumed in the base-case analysis.</p>
+          <p>Selinexor was given as a fixed oral 100 mg dose (5 tablets of 20 mg each) on Days 1, 8, 15, 22, and 29 of each 35-day cycle (ie, each week, QW), at a cost per month of $23,915 (USD). Bortezomib was given subcutaneously at a dose of 1.3 mg/m<sup>2</sup> SC in the clinic on Days 1, 8, 15, and 22 of each 35-day cycle (ie, 4 out of every 5 weeks), at a cost per month of $5,855 (USD). Dexamethasone was given as an oral 20 mg dose on Days 1, 2, 8, 9, 15, 16, 22, 23, 29, and 30 of each 35-day cycle, at a cost per month of $43 (USD). The combined total cost per month of XVd treatment was $29,814 (USD). The average per person drug cost for 1 year of treatment was calculated using the cost of drug dosage, frequency, and duration of treatment. While selinexor and dexamethasone are orally dosed, bortezomib is subcutaneously dosed, so wastage for bortezomib was considered in the model (ie, if there is remaining drug in a vial each administration, then the price of the entire vial is used; any unused drug in a vial will be discarded, this is applied on a per administration basis). In the base-case analysis, drug adherence for regimens was set to 100%. Drug costs were not reduced by cost-sharing, co-insurance or co-payment.<xref rid="cit0027" ref-type="bibr">27</xref> All other regimens were dosed according to US FDA dosing information or the relevant clinical trials if FDA labels were not available for a regimen.<xref rid="cit0028" ref-type="bibr">28–35</xref></p>
+          <p>Overall and progression-free survival estimates for each regimen were based on their respective clinical trials. In the model, OS drove the mortality of patients while PFS dictated the treatment duration and the duration patients remained in the “progression-free” state where they incurred lower medical costs compared with the “post-progression” state.</p>
+        </sec>
+        <sec id="s0003-s2002">
+          <title>Market Share</title>
+          <p>The model assumed a year 1 uptake for XVd of 5.9% and assumed to increase to 7.2% in year 2, while a peak market share of 7.7% was assumed at year 3.<xref rid="cit0036" ref-type="bibr">36</xref></p>
+        </sec>
+        <sec id="s0003-s2003">
+          <title>Adverse Events</title>
+          <p>The model included grade 3 or higher treatment-emergent adverse events (TEAEs) that occurred in at least 5% of patients.<xref rid="cit0036" ref-type="bibr">36</xref> Adverse event (AE) rates were based on the relevant clinical trials, while the unit costs for each TEAE were based on inpatient and outpatient costs using a weighted average based on the proportion of AEs that were severe in the BOSTON clinical trial (<underline><ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/get_supplementary_file.php?f=305830.docx">Supplementary Table 3</ext-link></underline>).<xref rid="cit0031" ref-type="bibr">31–35</xref>,<xref rid="cit0037" ref-type="bibr">37</xref> Adverse events requiring outpatient care were costed as an outpatient physician visit for an established patient (CPT code 99213), while adverse events requiring inpatient care were obtained from HCUPnet (2017) based on the relevant ICD-10 codes.<xref rid="cit0038" ref-type="bibr">38</xref>,<xref rid="cit0039" ref-type="bibr">39</xref> All costs were inflated to 2020 values using the US Bureau of Labor Statistics CPI Disease Based Price index.<xref rid="cit0023" ref-type="bibr">23</xref> Costs to treat each TEAE are shown in <underline><ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/get_supplementary_file.php?f=305830.docx">Supplementary Table 4</ext-link></underline>, while unit costs for each resource used are shown in <underline><ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/get_supplementary_file.php?f=305830.docx">Supplementary Table 5</ext-link></underline>.</p>
+        </sec>
+        <sec id="s0003-s2004">
+          <title>One-Way Sensitivity Analysis Methods</title>
+          <p>One-way (deterministic) sensitivity analyses were performed, which independently varied key model parameters to assess which inputs have the greatest impact on the results when adjusted. Variations in epidemiology parameters, efficacy inputs, patient characteristics, as well as drug price and other costs were tested in the sensitivity analysis.</p>
+        </sec>
+      </sec>
+      <sec id="s0004">
+        <title>Results</title>
+        <sec id="s0004-s2001">
+          <title>Population</title>
+          <p>In the base-case analysis for a private third-party payer plan with 1,000,000 members, the baseline number of patients considered eligible for XVd ranged from 47 to 49 each year (of which 3 to 4 were projected to be treated with XVd).<xref rid="cit0014" ref-type="bibr">14</xref>,<xref rid="cit0037" ref-type="bibr">37</xref>,<xref rid="cit0040" ref-type="bibr">40</xref>,<xref rid="cit0041" ref-type="bibr">41</xref> In the base-case analysis from the Medicare perspective (59,499,015 members at the baseline year), the annual number of patients considered eligible for XVd ranged from 22,892 to 23,425 (with 1,361 to 1,808 projected to be treated).<xref rid="cit0014" ref-type="bibr">14</xref>,<xref rid="cit0025" ref-type="bibr">25</xref>,<xref rid="cit0036" ref-type="bibr">36</xref>,<xref rid="cit0040" ref-type="bibr">40</xref>,<xref rid="cit0041" ref-type="bibr">41</xref></p>
+        </sec>
+        <sec id="s0004-s2002">
+          <title>Costs</title>
+          <p>In the base-case analysis, the total drug cost per month of XVd treatment was $29,813 per patient. Treatment of severe TEAEs was estimated to cost $166 per month for patients treated with XVd.</p>
+          <p>Total primary therapy costs for a private third-party payer plan with 1,000,000 members with the introduction of XVd were $14.35, $14.23, and $14.09 (Millions, USD) at years 1, 2 and 3, respectively. Without the introduction of XVd (ie, the status quo), total primary therapy costs were $14.17, $14.02, and $13.87 (Millions, USD) at years 1, 2 and 3, respectively.</p>
+          <p>Total medical costs, adverse event costs, and mortality costs were not notably different in either scenario, but secondary therapy costs were lower in the XVd scenario. Secondary therapy costs with the introduction of XVd were $1.83, $1.78, and $1.75 (Millions, USD) at years 1, 2 and 3, respectively, compared to $1.94, $1.92, and $1.90 (Millions, USD) at years 1, 2 and 3, respectively, in the Status Quo scenario.</p>
+          <p>Details of total primary, secondary, and other costs for XVd and other therapies in both scenarios are presented in <xref rid="t0001" ref-type="table">Table 1</xref> and <xref ref-type="fig" rid="f0002">Figure 2</xref>.<table-wrap id="t0001" orientation="portrait" position="float"><label>Table 1</label><caption><p>XVd Scenario Total Costs (Millions, USD)</p></caption><table frame="hsides" rules="groups"><thead><tr><th colspan="2" rowspan="1"/><th colspan="4" rowspan="1">Status Quo Scenario</th><th colspan="4" rowspan="1">XVd Scenario</th></tr><tr><th colspan="2" rowspan="1"/><th rowspan="1" colspan="1">Baseline</th><th rowspan="1" colspan="1">Year 1</th><th rowspan="1" colspan="1">Year 2</th><th rowspan="1" colspan="1">Year 3</th><th rowspan="1" colspan="1">Baseline</th><th rowspan="1" colspan="1">Year 1</th><th rowspan="1" colspan="1">Year 2</th><th rowspan="1" colspan="1">Year 3</th></tr></thead><tbody><tr><td colspan="2" rowspan="1"><bold>Total Primary Therapy Costs</bold></td><td rowspan="1" colspan="1"><bold>14.33</bold></td><td rowspan="1" colspan="1"><bold>14.17</bold></td><td rowspan="1" colspan="1"><bold>14.02</bold></td><td rowspan="1" colspan="1"><bold>13.87</bold></td><td rowspan="1" colspan="1"><bold>14.33</bold></td><td rowspan="1" colspan="1"><bold>14.35</bold></td><td rowspan="1" colspan="1"><bold>14.23</bold></td><td rowspan="1" colspan="1"><bold>14.09</bold></td></tr><tr><td colspan="2" rowspan="1">XVd</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">1.01</td><td rowspan="1" colspan="1">1.23</td><td rowspan="1" colspan="1">1.30</td></tr><tr><td colspan="2" rowspan="1">DPd</td><td rowspan="1" colspan="1">3.53</td><td rowspan="1" colspan="1">3.50</td><td rowspan="1" colspan="1">3.46</td><td rowspan="1" colspan="1">3.42</td><td rowspan="1" colspan="1">3.53</td><td rowspan="1" colspan="1">3.29</td><td rowspan="1" colspan="1">3.21</td><td rowspan="1" colspan="1">3.16</td></tr><tr><td colspan="2" rowspan="1">DRd</td><td rowspan="1" colspan="1">3.18</td><td rowspan="1" colspan="1">3.14</td><td rowspan="1" colspan="1">3.11</td><td rowspan="1" colspan="1">3.07</td><td rowspan="1" colspan="1">3.18</td><td rowspan="1" colspan="1">2.96</td><td rowspan="1" colspan="1">2.88</td><td rowspan="1" colspan="1">2.84</td></tr><tr><td colspan="2" rowspan="1">EPd</td><td rowspan="1" colspan="1">1.94</td><td rowspan="1" colspan="1">1.92</td><td rowspan="1" colspan="1">1.90</td><td rowspan="1" colspan="1">1.88</td><td rowspan="1" colspan="1">1.94</td><td rowspan="1" colspan="1">1.81</td><td rowspan="1" colspan="1">1.76</td><td rowspan="1" colspan="1">1.73</td></tr><tr><td colspan="2" rowspan="1">KRd</td><td rowspan="1" colspan="1">1.97</td><td rowspan="1" colspan="1">1.94</td><td rowspan="1" colspan="1">1.92</td><td rowspan="1" colspan="1">1.90</td><td rowspan="1" colspan="1">1.97</td><td rowspan="1" colspan="1">1.83</td><td rowspan="1" colspan="1">1.78</td><td rowspan="1" colspan="1">1.76</td></tr><tr><td colspan="2" rowspan="1">IRd</td><td rowspan="1" colspan="1">0.93</td><td rowspan="1" colspan="1">0.92</td><td rowspan="1" colspan="1">0.91</td><td rowspan="1" colspan="1">0.90</td><td rowspan="1" colspan="1">0.93</td><td rowspan="1" colspan="1">0.87</td><td rowspan="1" colspan="1">0.84</td><td rowspan="1" colspan="1">0.83</td></tr><tr><td colspan="2" rowspan="1">Vd</td><td rowspan="1" colspan="1">0.26</td><td rowspan="1" colspan="1">0.26</td><td rowspan="1" colspan="1">0.25</td><td rowspan="1" colspan="1">0.25</td><td rowspan="1" colspan="1">0.26</td><td rowspan="1" colspan="1">0.24</td><td rowspan="1" colspan="1">0.24</td><td rowspan="1" colspan="1">0.23</td></tr><tr><td colspan="2" rowspan="1">Rd</td><td rowspan="1" colspan="1">1.73</td><td rowspan="1" colspan="1">1.71</td><td rowspan="1" colspan="1">1.69</td><td rowspan="1" colspan="1">1.67</td><td rowspan="1" colspan="1">1.73</td><td rowspan="1" colspan="1">1.61</td><td rowspan="1" colspan="1">1.57</td><td rowspan="1" colspan="1">1.54</td></tr><tr><td colspan="2" rowspan="1">DAR</td><td rowspan="1" colspan="1">0.16</td><td rowspan="1" colspan="1">0.15</td><td rowspan="1" colspan="1">0.15</td><td rowspan="1" colspan="1">0.15</td><td rowspan="1" colspan="1">0.16</td><td rowspan="1" colspan="1">0.14</td><td rowspan="1" colspan="1">0.14</td><td rowspan="1" colspan="1">0.14</td></tr><tr><td colspan="2" rowspan="1">DRVd</td><td rowspan="1" colspan="1">0.32</td><td rowspan="1" colspan="1">0.32</td><td rowspan="1" colspan="1">0.32</td><td rowspan="1" colspan="1">0.31</td><td rowspan="1" colspan="1">0.32</td><td rowspan="1" colspan="1">0.30</td><td rowspan="1" colspan="1">0.29</td><td rowspan="1" colspan="1">0.29</td></tr><tr><td colspan="2" rowspan="1">Pd</td><td rowspan="1" colspan="1">0.32</td><td rowspan="1" colspan="1">0.31</td><td rowspan="1" colspan="1">0.31</td><td rowspan="1" colspan="1">0.31</td><td rowspan="1" colspan="1">0.32</td><td rowspan="1" colspan="1">0.29</td><td rowspan="1" colspan="1">0.29</td><td rowspan="1" colspan="1">0.28</td></tr><tr><td colspan="2" rowspan="1"><bold>Secondary therapy costs</bold></td><td rowspan="1" colspan="1">1.96</td><td rowspan="1" colspan="1">1.94</td><td rowspan="1" colspan="1">1.92</td><td rowspan="1" colspan="1">1.90</td><td rowspan="1" colspan="1">1.96</td><td rowspan="1" colspan="1">1.83</td><td rowspan="1" colspan="1">1.78</td><td rowspan="1" colspan="1">1.75</td></tr><tr><td colspan="2" rowspan="1"><bold>Medical costs</bold></td><td rowspan="1" colspan="1">1.60</td><td rowspan="1" colspan="1">1.58</td><td rowspan="1" colspan="1">1.56</td><td rowspan="1" colspan="1">1.55</td><td rowspan="1" colspan="1">1.60</td><td rowspan="1" colspan="1">1.58</td><td rowspan="1" colspan="1">1.56</td><td rowspan="1" colspan="1">1.55</td></tr><tr><td colspan="2" rowspan="1"><bold>Adverse event costs</bold></td><td rowspan="1" colspan="1">0.08</td><td rowspan="1" colspan="1">0.08</td><td rowspan="1" colspan="1">0.08</td><td rowspan="1" colspan="1">0.08</td><td rowspan="1" colspan="1">0.08</td><td rowspan="1" colspan="1">0.08</td><td rowspan="1" colspan="1">0.08</td><td rowspan="1" colspan="1">0.08</td></tr><tr><td colspan="2" rowspan="1"><bold>Mortality costs</bold></td><td rowspan="1" colspan="1">1.24</td><td rowspan="1" colspan="1">1.23</td><td rowspan="1" colspan="1">1.21</td><td rowspan="1" colspan="1">1.20</td><td rowspan="1" colspan="1">1.24</td><td rowspan="1" colspan="1">1.23</td><td rowspan="1" colspan="1">1.21</td><td rowspan="1" colspan="1">1.20</td></tr><tr><td colspan="2" rowspan="1"><bold>Total Costs</bold></td><td rowspan="1" colspan="1"><bold>19.22</bold></td><td rowspan="1" colspan="1"><bold>19.01</bold></td><td rowspan="1" colspan="1"><bold>18.80</bold></td><td rowspan="1" colspan="1"><bold>18.59</bold></td><td rowspan="1" colspan="1"><bold>19.22</bold></td><td rowspan="1" colspan="1"><bold>19.07</bold></td><td rowspan="1" colspan="1"><bold>18.87</bold></td><td rowspan="1" colspan="1"><bold>18.67</bold></td></tr></tbody></table><table-wrap-foot><fn id="tfn0001"><p><bold>Notes</bold>: XVd, selinexor + bortezomib + dexamethasone; DPd, daratumumab + pomalidomide + dexamethasone; DRd, daratumumab + lenalidomide + dexamethasone ; EPd, elotuzumab + pomalidomide + dexamethasone; KRd, carfilzomib + lenalidomide + dexamethasone; IRd, ixazomib, lenalidomide, and dexamethasone; Vd, bortezomib + dexamethasone; Rd, lenalidomide + dexamethasone; DAR, daratumumab; DRVd, daratumumab + lenalidomide + bortezomib + dexamethasone; Pd, pomalidomide + dexamethasone.</p></fn></table-wrap-foot></table-wrap>
+<fig id="f0002" fig-type="figure" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Private Payer Perspective: Total Costs Status Quo vs XVd Scenario (Millions, USD).</p></caption><graphic content-type="print-only" xlink:href="CEOR-13-493-g0002"/></fig></p>
+        </sec>
+        <sec id="s0004-s2003">
+          <title>Net Budget Impact</title>
+          <p>Budget impact results are presented in <xref rid="t0002" ref-type="table">Table 2</xref>. From a private third-party payer plan perspective, the absolute budget impact (Millions, USD) of including XVd was $0.06, $0.07, $0.08 and $0.22 for years 1, 2, 3, and in total, respectively (<underline><ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/get_supplementary_file.php?f=305830.docx">Supplementary Figure 1</ext-link></underline>). The relative budget impact of including XVd was 0.33%, 0.40%, 0.43%, and 0.38% for years 1, 2, 3, and in total, respectively (<underline><ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/get_supplementary_file.php?f=305830.docx">Supplementary Figure 2</ext-link></underline>). This translated to a PMPM budget impact of $0.005, $0.006, $0.007, and $0.006 (USD), for years 1, 2, 3, and in total, respectively.<table-wrap id="t0002" orientation="portrait" position="float"><label>Table 2</label><caption><p>Budget Impact</p></caption><table frame="hsides" rules="groups"><thead><tr><th colspan="2" rowspan="1"/><th rowspan="1" colspan="1">Baseline</th><th rowspan="1" colspan="1">Year 1</th><th rowspan="1" colspan="1">Year 2</th><th rowspan="1" colspan="1">Year 3</th><th rowspan="1" colspan="1">Total</th></tr></thead><tbody><tr><td colspan="7" rowspan="1"><bold>Private Payer Perspective</bold></td></tr><tr><td rowspan="4" colspan="1"><bold>Healthcare System</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Absolute Budget Impact (Millions, USD)</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">0.06</td><td rowspan="1" colspan="1">0.07</td><td rowspan="1" colspan="1">0.08</td><td rowspan="1" colspan="1">0.22</td></tr><tr><td rowspan="1" colspan="1">Relative Budget Impact (%)</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">0.33</td><td rowspan="1" colspan="1">0.40</td><td rowspan="1" colspan="1">0.43</td><td rowspan="1" colspan="1">0.38</td></tr><tr><td rowspan="1" colspan="1">Per Member Per Month</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.005</td><td rowspan="1" colspan="1">0.006</td><td rowspan="1" colspan="1">0.007</td><td rowspan="1" colspan="1">0.006</td></tr><tr><td colspan="7" rowspan="1"><bold>Medicare Perspective</bold></td></tr><tr><td rowspan="4" colspan="1"><bold>Healthcare System</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Absolute Budget Impact (Millions, USD)</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">29.68</td><td rowspan="1" colspan="1">36.62</td><td rowspan="1" colspan="1">39.42</td><td rowspan="1" colspan="1">105.72</td></tr><tr><td rowspan="1" colspan="1">Relative Budget Impact (%)</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">0.33</td><td rowspan="1" colspan="1">0.40</td><td rowspan="1" colspan="1">0.43</td><td rowspan="1" colspan="1">0.38</td></tr><tr><td rowspan="1" colspan="1">Per Member Per Month</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.041</td><td rowspan="1" colspan="1">0.051</td><td rowspan="1" colspan="1">0.054</td><td rowspan="1" colspan="1">0.049</td></tr></tbody></table></table-wrap>
+</p>
+          <p>From a Medicare perspective, the absolute budget impact (Millions, USD) of including XVd was $29.68, $36.62, $39.42 and $105.72 for years 1, 2, 3, and in total, respectively (<underline><ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/get_supplementary_file.php?f=305830.docx">Supplementary Figure 1</ext-link></underline>). The relative budget impact of including XVd was 0.33%, 0.40%, 0.43%, and 0.38% for years 1, 2, 3, and in total, respectively (<underline><ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/get_supplementary_file.php?f=305830.docx">Supplementary Figure 2</ext-link></underline>). This translated to a PMPM budget impact of $0.041, $0.051, $0.054, and $0.049 (USD), for years 1, 2, 3, and in total, respectively. The major factor for the increase in budget impact was increased primary therapy cost, but this was partially offset by lower secondary therapy, medical costs, and mortality costs.</p>
+        </sec>
+        <sec id="s0004-s2004">
+          <title>One-Way Sensitivity Analysis Results</title>
+          <p>The sensitivity analyses showed general consistency with the base-case findings, with the greatest sensitivity from variations in drug prices and overall survival estimates. These results are presented in <underline><ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/get_supplementary_file.php?f=305830.docx">Supplementary Figure 3</ext-link></underline> and <underline><ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/get_supplementary_file.php?f=305830.docx">Supplementary Table 6</ext-link></underline>.</p>
+        </sec>
+      </sec>
+      <sec id="s0005">
+        <title>Discussion</title>
+        <p>Determining the potential budget impact of new treatments is essential for payers to assess the value of new therapies and manage healthcare costs. This budget impact model assessed the projected costs of adopting XVd for patients with previously treated MM from the private third-party payer and Medicare perspective in the US. For a hypothetical private third-party payer with a total plan population of 1,000,000 members, the budget impact was estimated to be $0.22 (Millions, USD) over a three-year period. The PMPM cost was estimated to be $0.006 in year 3. For Medicare, with a total population of 59,499,015 members at the baseline year, the budget impact was estimated to be $105.72 million over a three-year period, with a PMPM cost of $0.049 in year 3.</p>
+        <p>A previous study evaluating the budget impact of selinexor, which this analysis was extended upon, was conducted using selinexor’s previously approved indication (penta-refractory MM).<xref rid="cit0019" ref-type="bibr">19</xref> Bassali et al (2020) found that, when considering third-line or greater patients, the cost was $0.0488 for a hypothetical private payer plan with 1,000,000 members and four eligible patients; the PMPM cost was estimated at $0.0103 in year 3, and total costs per month were estimated to be $4,476.<xref rid="cit0019" ref-type="bibr">19</xref> The budget impact of other therapy options for patients with previously treated MM have been performed. Shao et al (2016), using an administrative claims database to assess the cost of therapy for patients with MM in the third-line of therapy, identified total costs per month ranging from $13,377 to $25,850 for lenalidomide, bortezomib, carfilzomib, and pomalidomide based regimens corresponding to total inpatient costs, outpatient costs and pharmacy costs.<xref rid="cit0042" ref-type="bibr">42</xref> Similarly, Hollman et al (2019) assessed different triplet regimens over a one-year time horizon and found total costs per month ranging from $13,890 to $27,342 for daratumumab, elotuzumab, carfilzomib, and ixazomib-based regimens.<xref rid="cit0043" ref-type="bibr">43</xref> In a previous assessment of PMPM costs, Hollmann et al studied the budget impact of adding daratumumab to combination therapy regimens from the perspective of a private third-party payer in the US over a one-year time horizon and found total drug-administration- and TEAE management- costs estimated to be $0.08.<xref rid="cit0044" ref-type="bibr">44</xref> Similarly, Potluri et al (2016) estimated a PMPM budget impact of $0.032 in year 1 for the introduction of elotuzumab (9.7% uptake) in combination with lenalidomide and dexamethasone in a hypothetical private third-party payer plan with 1,000,000 members and an estimated 29 eligible patients.<xref rid="cit0045" ref-type="bibr">45</xref> Compared to these regimens, XVd offers clinical benefit at relatively lower PMPM ($0.006 [USD]) at year 3) and similar total monthly treatment costs per patient ($29,813).</p>
+        <p>The global phase 3 trial (BOSTON) demonstrated the efficacy and safety of XVd for patients with previously treated MM.<xref rid="cit0011" ref-type="bibr">11</xref>,<xref rid="cit0012" ref-type="bibr">12</xref> The safety profile of XVd allows for management of adverse events, avoiding costly emergency care and hospitalization. The once-weekly XVd regimen, in which weekly oral selinexor replaces one of the twice-weekly doses of bortezomib (and thereby reduces required clinic visits), represents a simplification of bortezomib-based triplets for previously treated MM. Compared to Vd (and previous Vd-based triplets), XVd offers several benefits to vulnerable patients: less overall bortezomib use, reduced dexamethasone, reduced neuropathy rates, and fewer clinic visits and their associated risks. Treatment regimens such as XVd, with oral components and reduced time requirements for administration of therapies have been shown to be the strongest predictors of treatment satisfaction in previously treated MM.<xref rid="cit0045" ref-type="bibr">45</xref> Such oral regimens are reportedly more convenient, improving adherence, reducing the cost associated with the number of medical visits per month, time spent in travel, waiting, and receiving treatment that non-oral therapies require.<xref rid="cit0046" ref-type="bibr">46</xref> Increases in drug costs associated with the uptake of XVd are partially offset by lower secondary therapy, routine healthcare, and mortality costs. For example, the addition of selinexor to Vd is associated with significantly reduced rates of any grade and Grade ≥2 PN, common with higher bortezomib dose regimens, which is associated with higher costs and healthcare resource utilization in patients with MM.<xref rid="cit0012" ref-type="bibr">12</xref>,<xref rid="cit0047" ref-type="bibr">47</xref> Patients receiving XVd in BOSTON showed persistent reductions in pain as reported in the European Organization for Research and Treatment of Cancer (EORTC) quality of life questionnaire, whereas patients receiving Vd reported increased pain after 60 days on treatment, likely due to bortezomib-induced PN.<xref rid="cit0013" ref-type="bibr">13</xref> In addition to this, XVd patients reported significantly lower sensory symptom scores on the EORTC chemotherapy-induced PN scale, with a trend towards reduced motor symptom scores while patients receiving Vd experienced a faster rate of sensory symptom worsening and a trend to faster worsening of motor symptoms.<xref rid="cit0013" ref-type="bibr">13</xref></p>
+        <p>The treatment landscape for previously treated MM is evolving with new treatment modalities such as chimeric antigen T-cell (CAR-T) therapy and therapies targeting B-cell antigen maturation factor (BCMA).<xref rid="cit0048" ref-type="bibr">48</xref> Given the evolving landscape, the budget impact of XVd and its market share can be expected to shift over time.</p>
+        <p>These findings suggest a limited budget impact resulting from the introduction of selinexor into a US private third-party payer plan and Medicare. The once weekly XVd regimen for patients with previously treated MM patients has been shown to provide deep and durable clinical benefits regardless of prior therapy. Results of the BOSTON trial showed a 30% reduction in risk of disease progression (median PFS of 13.93 months vs 9.46 months, p=0.0075), improved ORR (76.4% vs 63.3%, p=0.0012) vs Vd alone and improved median time to next treatment; which was significantly longer with XVd vs Vd (16.3 months vs 10.84 months, p=0.0012).<xref rid="cit0012" ref-type="bibr">12</xref> In addition to this, XVd is the first triplet regimen with a lower neuropathy rate than standard doublet Vd: the once-weekly dosing used in the BOSTON XVd arm was associated with significantly lower rates and severity of bortezomib-induced PN compared with twice-weekly Vd (all grades, 32.3% vs 47.1%, p=0.001).<xref rid="cit0031" ref-type="bibr">31</xref> Given that the evolving treatment landscape in MM is highly complex with multiple combinations used across lines of therapy, patients require a long-term, dynamic, individualized treatment plan. As early as first relapse, patients may have already been treated with an IMiD, a PI, and/or an anti-CD38 monoclonal antibody; currently, there are no new mechanisms approved for early-line treatment, limiting how MM cells can be attacked. With only a limited budget impact, XVd provides a novel mechanism of action and has shown clinical benefits in patients with previously treated MM.<xref rid="cit0049" ref-type="bibr">49</xref></p>
+      </sec>
+      <sec id="s0006">
+        <title>Limitations</title>
+        <p>This study assessed both direct costs associated with XVd treatment, variations in market uptake, drug price, mortality, clinical response, and treatment duration. While the current model is quite comprehensive, it does have some limitations. Medical resource utilization data were based on external literature sources which, while based on studies in previously treated MM, may not be totally aligned with the BOSTON clinical trial population. Furthermore, clinical data were also obtained from externally published literature. As homogenous data sources are necessary for internal consistency, this gap may be considered a potential limitation of this analysis. Lastly, the model’s patient pathway is based on an incidence structure which affects the number of patients receiving treatment and the duration of secondary therapy. The incidence structure is a technique used to facilitate efficient modeling, yet it omits a proportion of patients who receive treatment for a duration longer than 1 year. Additionally, mortality is applied at 12 months which may introduce a partial overestimation of all other costs as patients may die at any timepoint before 12 months.</p>
+      </sec>
+      <sec id="s0007">
+        <title>Conclusion</title>
+        <p>This study determined that XVd has a relatively small and manageable budget impact for a private third-party US payer and Medicare. To optimize outcomes in MM, treatments must consider patient age, comorbidities, cytogenetic risk, and response to prior therapies.<xref rid="cit0050" ref-type="bibr">50</xref> XVd provides clinical and humanistic benefits for some patients with previously treated MM, consistently showing superior clinical benefit compared to Vd across various patient subgroups (elderly, frail, bortezomib-naïve, lenalidomide-pretreated patients, and in patients with high-risk cytogenetics) and fulfilling a previously unmet need for this population with a relatively low PMPM impact.<xref rid="cit0051" ref-type="bibr">51</xref></p>
+      </sec>
+    </body>
+    <back>
+      <ack>
+        <title>Acknowledgments</title>
+        <p>Rekar K. Taymour provided writing and editorial support.</p>
+      </ack>
+      <sec id="s0008">
+        <title>Abbreviations</title>
+        <p>AMCP, Academy of Managed Care Pharmacy; ASCO, American Society of Clinical Oncology; BCMA, B-cell antigen maturation factor; CAR-T, chimeric antigen T-cell; DAR, daratumumab; DOR, duration of response; DPd, daratumumab, pomalidomide, and dexamethasone; DRd, lenalidomide and dexamethasone; DRVd, daratumumab, lenalidomide, bortezomib, and dexamethasone; EORTC, European Organization for Research and Treatment of Cancer; EPd, elotuzumab, pomalidomide, and dexamethasone; FDA, Food and Drug Administration; HRQoL, health-related quality of life; KRd, carfilzomib, lenalidomide, and dexamethasone; IMiD, immunomodulatory agents; IRd, ixazomib, lenalidomide, and dexamethasone; ISPOR, International Society for Pharmacoeconomics and Outcomes Research; Mg, milligram; MM, multiple myeloma; ORR, objective response rate; OS, overall response; Pd, pomalidomide and dexamethasone; PFS, progression-free survival; PMPM, per-member-per-month; PN, peripheral neuropathy; PI, proteasome inhibitors; Rd, lenalidomide and dexamethasone; SC, subcutaneously; SCT, stem cell transplantation; SINE, selective inhibitor of nuclear export; TEAE, treatment-emergent adverse event; US, United States; USD, US dollar; VGPR, very good partial response; Vd, bortezomib and dexamethasone; WAC, wholesale acquisition costs; XVd, selinexor, bortezomib, and dexamethasone.</p>
+      </sec>
+      <sec id="s0009">
+        <title>Ethical Declaration</title>
+        <p>Review and approval by an institutional review board or ethics committee was not required for this research. The research does not involve patients/people, medical records, or human samples. The data presented in this publication are publicly available.</p>
+      </sec>
+      <sec id="s0010" sec-type="COI-statement">
+        <title>Disclosure</title>
+        <p>H. Leong is an employee of Karyopharm Therapeutics. M. Dolph and G. Tremblay are employees of Purple Squirrel Economics, which received funding from Karyopharm Therapeutics to conduct this study. The authors report no other conflicts of interest in this work.</p>
+      </sec>
+      <ref-list>
+        <title>References</title>
+        <ref id="cit0001">
+          <label>1.</label>
+          <mixed-citation publication-type="web"><collab>American Cancer Society</collab>. <collab>Cancer Facts &amp; Figures</collab>; <year>2020</year>. <comment>Available from</comment>: <ext-link ext-link-type="uri" xlink:href="https://www.cancer.org/research/cancer-facts-statistics/all-cancer-facts-figures/cancer-facts-figures-2020.html">https://www.cancer.org/research/cancer-facts-statistics/all-cancer-facts-figures/cancer-facts-figures-2020.html</ext-link>. <date-in-citation>Accessed <month>1</month><day>23</day>, 2020</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0002">
+          <label>2.</label>
+          <mixed-citation publication-type="book"><collab>Millennium Pharmaceuticals, Inc</collab>. <article-title>Velcade<sup>®</sup>(bortezomib) injection [Prescribing Information]</article-title>. <publisher-name>Millennium Pharmaceuticals, Inc</publisher-name>; <year>2019</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0003">
+          <label>3.</label>
+          <mixed-citation publication-type="book"><collab>National Comprehensive Cancer Network</collab>. <article-title>NCCN<sup>®</sup> clinical practice guidelines in oncology (NCCN guidelines<sup>®</sup>) for antiemesis. (Version 2.2020)</article-title>. <publisher-name>National Comprehensive Cancer Network (NCCN)</publisher-name>; <year>2020</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0004">
+          <label>4.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Claxton</surname><given-names>AJ</given-names></string-name>, <string-name><surname>Cramer</surname><given-names>J</given-names></string-name>, <string-name><surname>Pierce</surname><given-names>C</given-names></string-name>. <article-title>A systematic review of the associations between dose regimens and medication compliance</article-title>. <source><italic toggle="yes">Clin Ther</italic></source>. <year>2001</year>;<volume>23</volume>(<issue>8</issue>):<fpage>1296</fpage>–<lpage>1310</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S0149-2918(01)80109-0</pub-id><pub-id pub-id-type="pmid">11558866</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0005">
+          <label>5.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Grammatico</surname><given-names>S</given-names></string-name>, <string-name><surname>Cesini</surname><given-names>L</given-names></string-name>, <string-name><surname>Petrucci</surname><given-names>MT</given-names></string-name>. <article-title>Managing treatment-related peripheral neuropathy in patients with multiple myeloma</article-title>. <source><italic toggle="yes">Blood Lymphat Cancer</italic></source>. <year>2016</year>;<volume>6</volume>:<fpage>37</fpage>. doi:<pub-id pub-id-type="doi">10.2147/BLCTT.S91251</pub-id><pub-id pub-id-type="pmid">31360079</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0006">
+          <label>6.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Dimopoulos</surname><given-names>MA</given-names></string-name>, <string-name><surname>Moreau</surname><given-names>P</given-names></string-name>, <string-name><surname>Palumbo</surname><given-names>A</given-names></string-name>, et al. <article-title>Carfilzomib and dexamethasone versus bortezomib and dexamethasone for patients with relapsed or refractory multiple myeloma (ENDEAVOR): a randomised, phase 3, open-label, multicentre study</article-title>. <source><italic toggle="yes">Lancet Oncol</italic></source>. <year>2016</year>;<volume>17</volume>(<issue>1</issue>):<fpage>27</fpage>–<lpage>38</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1470-2045(15)00464-7</pub-id><pub-id pub-id-type="pmid">26671818</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0007">
+          <label>7.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Palumbo</surname><given-names>A</given-names></string-name>, <string-name><surname>Chanan-Khan</surname><given-names>A</given-names></string-name>, <string-name><surname>Weisel</surname><given-names>K</given-names></string-name>, et al. <article-title>Daratumumab, bortezomib, and dexamethasone for multiple myeloma</article-title>. <source><italic toggle="yes">N Engl J Med</italic></source>. <year>2016</year>;<volume>375</volume>(<issue>8</issue>):<fpage>754</fpage>–<lpage>766</lpage>. doi:<pub-id pub-id-type="doi">10.1056/NEJMoa1606038</pub-id><pub-id pub-id-type="pmid">27557302</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0008">
+          <label>8.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Hu</surname><given-names>B</given-names></string-name>, <string-name><surname>Zhou</surname><given-names>Q</given-names></string-name>, <string-name><surname>Hu</surname><given-names>YY</given-names></string-name>, et al. <article-title>Efficacy and safety of once-weekly versus twice-weekly bortezomib in patients with hematologic malignancies: a meta-analysis with trial sequential analysis</article-title>. <source><italic toggle="yes">Pharmacotherapy</italic></source>. <year>2019</year>;<volume>39</volume>(<issue>6</issue>):<fpage>697</fpage>–<lpage>708</lpage>. doi:<pub-id pub-id-type="doi">10.1002/phar.2267</pub-id><pub-id pub-id-type="pmid">30985015</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0009">
+          <label>9.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Richardson</surname><given-names>PG</given-names></string-name>, <string-name><surname>Sonneveld</surname><given-names>P</given-names></string-name>, <string-name><surname>Schuster</surname><given-names>M</given-names></string-name>, et al. <article-title>Extended follow-up of a phase 3 trial in relapsed multiple myeloma: final time-to-event results of the APEX trial</article-title>. <source><italic toggle="yes">Blood J Am Soc Hematol</italic></source>. <year>2007</year>;<volume>110</volume>(<issue>10</issue>):<fpage>3557</fpage>–<lpage>3560</lpage>.</mixed-citation>
+        </ref>
+        <ref id="cit0010">
+          <label>10.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Bringhen</surname><given-names>S</given-names></string-name>, <string-name><surname>Larocca</surname><given-names>A</given-names></string-name>, <string-name><surname>Rossi</surname><given-names>D</given-names></string-name>, et al. <article-title>Efficacy and safety of once-weekly bortezomib in multiple myeloma patients</article-title>. <source><italic toggle="yes">Blood J Am Soc Hematol</italic></source>. <year>2010</year>;<volume>116</volume>(<issue>23</issue>):<fpage>4745</fpage>–<lpage>4753</lpage>.</mixed-citation>
+        </ref>
+        <ref id="cit0011">
+          <label>11.</label>
+          <mixed-citation publication-type="newspaper"><article-title>Karyopharm Therapeutics. XPOVIO (selinexor) [prescribing information]. XPOVIO (Selinexor)</article-title>. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.karyopharm.com/wp-content/uploads/2019/07/NDA-212306-SN-0071-Prescribing-Information-01July2019.pdf">https://www.karyopharm.com/wp-content/uploads/2019/07/NDA-212306-SN-0071-Prescribing-Information-01July2019.pdf</ext-link>. Accessed May 26, <year>2021</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0012">
+          <label>12.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Grosicki</surname><given-names>S</given-names></string-name>, <string-name><surname>Simonova</surname><given-names>M</given-names></string-name>, <string-name><surname>Spicka</surname><given-names>I</given-names></string-name>, et al. <article-title>Once-per-week selinexor, bortezomib, and dexamethasone versus twice-per-week bortezomib and dexamethasone in patients with multiple myeloma (BOSTON): a randomised, open-label, phase 3 trial</article-title>. <source><italic toggle="yes">Lancet</italic></source>. <year>2020</year>;<volume>396</volume>(<issue>10262</issue>):<fpage>1563</fpage>–<lpage>1573</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S0140-6736(20)32292-3</pub-id><pub-id pub-id-type="pmid">33189178</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0013">
+          <label>13.</label>
+          <mixed-citation publication-type="confproc"><string-name><surname>Sanchez</surname><given-names>L</given-names></string-name>, <string-name><surname>Leleu</surname><given-names>X</given-names></string-name>, <string-name><surname>Beaumont</surname><given-names>J</given-names></string-name>, et al. <article-title>Peripheral neuropathy symptoms, pain and functioning in relapsed or refractory multiple myeloma patients treated with selinexor, bortezomib, and dexamethasone</article-title> In: <conf-name>62nd American Society of Hematology Annual Meeting and Exposition</conf-name>. <year>2020</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0014">
+          <label>14.</label>
+          <mixed-citation publication-type="newspaper"><collab>National Institutes of Health</collab>. <article-title>Surveillance, epidemiology, and end results program. multiple myeloma incidence rates per 100,000, SEER 13</article-title>.</mixed-citation>
+        </ref>
+        <ref id="cit0015">
+          <label>15.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Runyan</surname><given-names>A</given-names></string-name>, <string-name><surname>Banks</surname><given-names>J</given-names></string-name>, <string-name><surname>Bruni</surname><given-names>DS</given-names></string-name>. <article-title>Current and future oncology management in the United States</article-title>. <source><italic toggle="yes">J Manag Care Spec Pharm</italic></source>. <year>2019</year>;<volume>25</volume>(<issue>2</issue>):<fpage>272</fpage>–<lpage>281</lpage>. doi:<pub-id pub-id-type="doi">10.18553/jmcp.2019.25.2.272</pub-id><pub-id pub-id-type="pmid">30698085</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0016">
+          <label>16.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Fonseca</surname><given-names>R</given-names></string-name>, <string-name><surname>Abouzaid</surname><given-names>S</given-names></string-name>, <string-name><surname>Bonafede</surname><given-names>M</given-names></string-name>, et al. <article-title>Trends in overall survival and costs of multiple myeloma, 2000–2014</article-title>. <source><italic toggle="yes">Leukemia</italic></source>. <year>2017</year>;<volume>31</volume>(<issue>9</issue>):<fpage>1915</fpage>–<lpage>1921</lpage>. doi:<pub-id pub-id-type="doi">10.1038/leu.2016.380</pub-id><pub-id pub-id-type="pmid">28008176</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0017">
+          <label>17.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Djatche</surname><given-names>LM</given-names></string-name>, <string-name><surname>Goble</surname><given-names>JA</given-names></string-name>, <string-name><surname>Chun</surname><given-names>G</given-names></string-name>, <string-name><surname>Varga</surname><given-names>S</given-names></string-name>. <article-title>Evaluating oncology value-based frameworks in the US marketplace and challenges in real-world application: a multiple myeloma test case</article-title>. <source><italic toggle="yes">J Manag Care Spec Pharm</italic></source>. <year>2018</year>;<volume>24</volume>(<issue>1</issue>):<fpage>39</fpage>–<lpage>46</lpage>. doi:<pub-id pub-id-type="doi">10.18553/jmcp.2018.24.1.39</pub-id><pub-id pub-id-type="pmid">29290169</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0018">
+          <label>18.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Schnipper</surname><given-names>LE</given-names></string-name>, <string-name><surname>Davidson</surname><given-names>NE</given-names></string-name>, <string-name><surname>Wollins</surname><given-names>DS</given-names></string-name>, et al. <article-title>Updating the American Society of Clinical Oncology value framework: revisions and reflections in response to comments received</article-title>. <source><italic toggle="yes">J Clin Oncol</italic></source>. <year>2016</year>;<volume>34</volume>(<issue>24</issue>):<fpage>2925</fpage>–<lpage>2934</lpage>. doi:<pub-id pub-id-type="doi">10.1200/JCO.2016.68.2518</pub-id><pub-id pub-id-type="pmid">27247218</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0019">
+          <label>19.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Bassali</surname><given-names>J</given-names></string-name>, <string-name><surname>Gould</surname><given-names>IG</given-names></string-name>, <string-name><surname>Kaye</surname><given-names>JA</given-names></string-name>, <string-name><surname>Mladsi</surname><given-names>D</given-names></string-name>, <string-name><surname>Mehta</surname><given-names>J</given-names></string-name>. <article-title>US budget impact model for selinexor in relapsed or refractory multiple myeloma</article-title>. <source><italic toggle="yes">Clinicoecon Outcomes Res</italic></source>. <year>2020</year>;<volume>12</volume>:<fpage>317</fpage>. doi:<pub-id pub-id-type="doi">10.2147/CEOR.S251070</pub-id><pub-id pub-id-type="pmid">32606848</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0020">
+          <label>20.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Sullivan</surname><given-names>SD</given-names></string-name>, <string-name><surname>Mauskopf</surname><given-names>JA</given-names></string-name>, <string-name><surname>Augustovski</surname><given-names>F</given-names></string-name>, et al. <article-title>Budget impact analysis—principles of good practice: report of the ISPOR 2012 budget impact analysis good practice II task force</article-title>. <source><italic toggle="yes">Value Health</italic></source>. <year>2014</year>;<volume>17</volume>(<issue>1</issue>):<fpage>5</fpage>–<lpage>14</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jval.2013.08.2291</pub-id><pub-id pub-id-type="pmid">24438712</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0021">
+          <label>21.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Mauskopf</surname><given-names>JA</given-names></string-name>, <string-name><surname>Sullivan</surname><given-names>SD</given-names></string-name>, <string-name><surname>Annemans</surname><given-names>L</given-names></string-name>, et al. <article-title>Principles of good practice for budget impact analysis: report of the ISPOR task force on good research practices—budget impact analysis</article-title>. <source><italic toggle="yes">Value Health</italic></source>. <year>2007</year>;<volume>10</volume>(<issue>5</issue>):<fpage>336</fpage>–<lpage>347</lpage>. doi:<pub-id pub-id-type="doi">10.1111/j.1524-4733.2007.00187.x</pub-id><pub-id pub-id-type="pmid">17888098</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0022">
+          <label>22.</label>
+          <mixed-citation publication-type="newspaper"><collab>The AMCP format for formulary submissions, version 3.1</collab>. <article-title>A format for submission of clinical and economic evidence of pharmaceuticals in support of formulary consideration</article-title>. <month>12</month><year>2012</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0023">
+          <label>23.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>MacEwan</surname><given-names>JP</given-names></string-name>, <string-name><surname>Batt</surname><given-names>K</given-names></string-name>, <string-name><surname>Yin</surname><given-names>W</given-names></string-name>, et al. <article-title>Economic burden of multiple myeloma among patients in successive lines of therapy in the United States</article-title>. <source><italic toggle="yes">Leuk Lymphoma</italic></source>. <year>2018</year>;<volume>59</volume>(<issue>4</issue>):<fpage>941</fpage>–<lpage>949</lpage>. doi:<pub-id pub-id-type="doi">10.1080/10428194.2017.1361035</pub-id><pub-id pub-id-type="pmid">28805105</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0024">
+          <label>24.</label>
+          <mixed-citation publication-type="web"><collab>United Stated Bureau of Labor Statistics</collab>. <article-title>Disease based price index neoplasm diseases</article-title>. <comment>Available from</comment>: <ext-link ext-link-type="uri" xlink:href="https://www.bls.gov/pir/diseasehome.htm">https://www.bls.gov/pir/diseasehome.htm</ext-link>. <date-in-citation>Accessed <month>5</month><day>14</day>, 2021</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0025">
+          <label>25.</label>
+          <mixed-citation publication-type="web"><collab>Kaiser Family Foundation</collab>. <article-title>Medicare beneficiaries as a percent of total population</article-title>. <comment>Available from</comment>: <ext-link ext-link-type="uri" xlink:href="https://www.kff.org/medicare/state-indicator/medicare-beneficiaries-as-of-total-pop/?currentTimeframe=0&amp;sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D">https://www.kff.org/medicare/state-indicator/medicare-beneficiaries-as-of-total-pop/?currentTimeframe=0&amp;sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D</ext-link>. <date-in-citation>Accessed <month>5</month><day>14</day>, 2021</date-in-citation></mixed-citation>
+        </ref>
+        <ref id="cit0026">
+          <label>26.</label>
+          <mixed-citation publication-type="newspaper"><article-title>AnalySource Drug Pricing Resource, 2020</article-title>. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.analysource.com">https://www.analysource.com</ext-link>. Accessed January 2020.</mixed-citation>
+        </ref>
+        <ref id="cit0027">
+          <label>27.</label>
+          <mixed-citation publication-type="book"><string-name><surname>Mauskopf</surname><given-names>J</given-names></string-name>, <string-name><surname>Earnshaw</surname><given-names>SR</given-names></string-name>, <string-name><surname>Brogan</surname><given-names>A</given-names></string-name>, <string-name><surname>Wolowacz</surname><given-names>S</given-names></string-name>, <string-name><surname>Brodtkorb</surname><given-names>T-H</given-names></string-name>. <source><italic toggle="yes">Budget-Impact Analysis of Health Care Interventions</italic></source>. <publisher-name>Springer</publisher-name>; <year>2017</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0028">
+          <label>28.</label>
+          <mixed-citation publication-type="newspaper"><article-title>Janssen Pharmaceutical Companies. DARZALEX (daratumumab) [prescribing information]</article-title>. U.S. Food and Drug Administration website. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/761036s013lbl.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/761036s013lbl.pdf</ext-link>. Accessed March <year>2019</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0029">
+          <label>29.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Voorhees</surname><given-names>PM</given-names></string-name>, <string-name><surname>Kaufman</surname><given-names>JL</given-names></string-name>, <string-name><surname>Laubach</surname><given-names>J</given-names></string-name>, et al. <article-title>Daratumumab, lenalidomide, bortezomib, and dexamethasone for transplant-eligible newly diagnosed multiple myeloma: the GRIFFIN trial</article-title>. <source><italic toggle="yes">Blood</italic></source>. <year>2020</year>;<volume>136</volume>(<issue>8</issue>):<fpage>936</fpage>–<lpage>945</lpage>. doi:<pub-id pub-id-type="doi">10.1182/blood.2020005288</pub-id><pub-id pub-id-type="pmid">32325490</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0030">
+          <label>30.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Attal</surname><given-names>M</given-names></string-name>, <string-name><surname>Richardson</surname><given-names>PG</given-names></string-name>, <string-name><surname>Rajkumar</surname><given-names>SV</given-names></string-name>, et al. <article-title>Isatuximab plus pomalidomide and low-dose dexamethasone versus pomalidomide and low-dose dexamethasone in patients with relapsed and refractory multiple myeloma (ICARIA-MM): a randomised, multicentre, open-label, phase 3 study</article-title>. <source><italic toggle="yes">Lancet</italic></source>. <year>2019</year>;<volume>394</volume>(<issue>10214</issue>):<fpage>2096</fpage>–<lpage>2107</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S0140-6736(19)32556-5</pub-id><pub-id pub-id-type="pmid">31735560</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0031">
+          <label>31.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Siegel</surname><given-names>DS</given-names></string-name>, <string-name><surname>Schiller</surname><given-names>GJ</given-names></string-name>, <string-name><surname>Samaras</surname><given-names>C</given-names></string-name>, et al. <article-title>Pomalidomide, dexamethasone, and daratumumab in relapsed refractory multiple myeloma after lenalidomide treatment</article-title>. <source><italic toggle="yes">Leukemia</italic></source>. <year>2020</year>;<volume>34</volume>(<issue>12</issue>):<fpage>3286</fpage>–<lpage>3297</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41375-020-0813-1</pub-id><pub-id pub-id-type="pmid">32376855</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0032">
+          <label>32.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Dimopoulos</surname><given-names>MA</given-names></string-name>, <string-name><surname>San-Miguel</surname><given-names>J</given-names></string-name>, <string-name><surname>Belch</surname><given-names>A</given-names></string-name>, et al. <article-title>Daratumumab plus lenalidomide and dexamethasone versus lenalidomide and dexamethasone in relapsed or refractory multiple myeloma: updated analysis of POLLUX</article-title>. <source><italic toggle="yes">haematologica</italic></source>. <year>2018</year>;<volume>103</volume>(<issue>12</issue>):<fpage>2088</fpage>. doi:<pub-id pub-id-type="doi">10.3324/haematol.2018.194282</pub-id><pub-id pub-id-type="pmid">30237262</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0033">
+          <label>33.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Dimopoulos</surname><given-names>MA</given-names></string-name>, <string-name><surname>Dytfeld</surname><given-names>D</given-names></string-name>, <string-name><surname>Grosicki</surname><given-names>S</given-names></string-name>, et al. <article-title>Elotuzumab plus pomalidomide and dexamethasone for multiple myeloma</article-title>. <source><italic toggle="yes">N Engl J Med</italic></source>. <year>2018</year>;<volume>379</volume>(<issue>19</issue>):<fpage>1811</fpage>–<lpage>1822</lpage>. doi:<pub-id pub-id-type="doi">10.1056/NEJMoa1805762</pub-id><pub-id pub-id-type="pmid">30403938</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0034">
+          <label>34.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Dimopoulos</surname><given-names>MA</given-names></string-name>, <string-name><surname>Stewart</surname><given-names>AK</given-names></string-name>, <string-name><surname>Masszi</surname><given-names>T</given-names></string-name>, et al. <article-title>Carfilzomib–lenalidomide–dexamethasone vs lenalidomide–dexamethasone in relapsed multiple myeloma by previous treatment</article-title>. <source><italic toggle="yes">Blood Cancer J</italic></source>. <year>2017</year>;<volume>7</volume>(<issue>4</issue>):<fpage>e554</fpage>–<lpage>e554</lpage>. doi:<pub-id pub-id-type="doi">10.1038/bcj.2017.31</pub-id><pub-id pub-id-type="pmid">28430175</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0035">
+          <label>35.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Hou</surname><given-names>J</given-names></string-name>, <string-name><surname>Jin</surname><given-names>J</given-names></string-name>, <string-name><surname>Xu</surname><given-names>Y</given-names></string-name>, et al. <article-title>Randomized, double-blind, placebo-controlled Phase III study of ixazomib plus lenalidomide-dexamethasone in patients with relapsed/refractory multiple myeloma: China continuation study</article-title>. <source><italic toggle="yes">J Hematol Oncol</italic></source>. <year>2017</year>;<volume>10</volume>(<issue>1</issue>):<fpage>1</fpage>–<lpage>13</lpage>. doi:<pub-id pub-id-type="doi">10.1186/s13045-017-0501-4</pub-id><pub-id pub-id-type="pmid">28049484</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0036">
+          <label>36.</label>
+          <mixed-citation publication-type="newspaper"><collab>Karyopharm Therapeutics, Inc</collab>. <article-title>Selinexor brand impact multiple myeloma treatment topline report. Internal data on file</article-title>. <year>2020</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0037">
+          <label>37.</label>
+          <mixed-citation publication-type="report"><collab>Karyopharm Therapeutics Inc</collab>. <article-title>Clinical study report KCP-330-023</article-title>. <year>2020</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0038">
+          <label>38.</label>
+          <mixed-citation publication-type="book"><collab>US Department of Health and Human Services</collab>. <article-title>Agency for healthcare research and quality</article-title>. <publisher-name>HCUPnet. Healthcare Cost and Utilization Project</publisher-name>; <year>2017</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0039">
+          <label>39.</label>
+          <mixed-citation publication-type="book"><string-name><surname>Buck</surname><given-names>CJ</given-names></string-name>. <source><italic toggle="yes">2017 HCPCS Level II Professional Edition-E-Book</italic></source>. <publisher-name>Elsevier Health Sciences</publisher-name>; <year>2017</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0040">
+          <label>40.</label>
+          <mixed-citation publication-type="newspaper"><collab>US Census Bureau Population Division</collab>. <article-title>Annual estimates of the resident population for selected age groups by sex for the United States: April 1, 2010 to July 1, 2019 (NC-EST2019-AGESEX)</article-title>. <year>2019</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0041">
+          <label>41.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Pelligra</surname><given-names>CG</given-names></string-name>, <string-name><surname>Parikh</surname><given-names>K</given-names></string-name>, <string-name><surname>Guo</surname><given-names>S</given-names></string-name>, et al. <article-title>Cost-effectiveness of pomalidomide, carfilzomib, and daratumumab for the treatment of patients with heavily pretreated relapsed–refractory multiple myeloma in the United States</article-title>. <source><italic toggle="yes">Clin Ther</italic></source>. <year>2017</year>;<volume>39</volume>(<issue>10</issue>):<fpage>1986</fpage>–<lpage>2005</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.clinthera.2017.08.010</pub-id><pub-id pub-id-type="pmid">28967482</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0042">
+          <label>42.</label>
+          <mixed-citation publication-type="book"><string-name><surname>Shao</surname><given-names>C</given-names></string-name>, <string-name><surname>Monberg</surname><given-names>M</given-names></string-name>, <string-name><surname>Cao</surname><given-names>X</given-names></string-name>, <string-name><surname>Zhou</surname><given-names>W</given-names></string-name>, <string-name><surname>Zhong</surname><given-names>Y</given-names></string-name>, <string-name><surname>Marinello</surname><given-names>P</given-names></string-name>. <article-title>Real-world treatment patterns, health care utilization, and costs among relapsed/refractory multiple myeloma (rrMM) patients</article-title>. <publisher-loc>Washington, DC</publisher-loc>: <publisher-name>American Society of Hematology</publisher-name>; <year>2016</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0043">
+          <label>43.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Hollmann</surname><given-names>S</given-names></string-name>, <string-name><surname>Moldaver</surname><given-names>D</given-names></string-name>, <string-name><surname>Goyert</surname><given-names>N</given-names></string-name>, <string-name><surname>Grima</surname><given-names>D</given-names></string-name>, <string-name><surname>Maiese</surname><given-names>EM</given-names></string-name>. <article-title>A US cost analysis of triplet regimens for patients with previously treated multiple myeloma</article-title>. <source><italic toggle="yes">J Manag Care Spec Pharm</italic></source>. <year>2019</year>;<volume>25</volume>(<issue>4</issue>):<fpage>449</fpage>–<lpage>459</lpage>. doi:<pub-id pub-id-type="doi">10.18553/jmcp.2019.25.4.449</pub-id><pub-id pub-id-type="pmid">30917078</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0044">
+          <label>44.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Hollmann</surname><given-names>S</given-names></string-name>, <string-name><surname>Goyert</surname><given-names>N</given-names></string-name>, <string-name><surname>Moldaver</surname><given-names>D</given-names></string-name>, <string-name><surname>Grima</surname><given-names>D</given-names></string-name>, <string-name><surname>Maiese</surname><given-names>E</given-names></string-name>. <article-title>U.S. budget impact analysis for daratumumab in combination with lenalidomide and dexamethasone, bortezomib and dexamethasone, or pomalidomide and dexamethasone for the treatment of patients with relapsed/refractory multiple myeloma</article-title>. <source><italic toggle="yes">J Manag Care Spec Pharm</italic></source>. <year>2017</year>;<volume>23</volume>:<fpage>S32</fpage>. doi:<pub-id pub-id-type="doi">10.18553/jmcp.2017.23.10-a.s1</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0045">
+          <label>45.</label>
+          <mixed-citation publication-type="book"><string-name><surname>Potluri</surname><given-names>R</given-names></string-name>, <string-name><surname>Bhandari</surname><given-names>H</given-names></string-name>, <string-name><surname>Ranjan</surname><given-names>S</given-names></string-name>, <string-name><surname>Chen</surname><given-names>C</given-names></string-name>. <article-title>Budget impact analysis of introducing elotuzumab in combination with lenalidomide and dexamethasone for relapsed/refractory multiple myeloma: a US payer perspective</article-title>. <publisher-loc>Washington, DC</publisher-loc>: <publisher-name>American Society of Hematology</publisher-name>; <year>2016</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0046">
+          <label>46.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Chari</surname><given-names>A</given-names></string-name>, <string-name><surname>Romanus</surname><given-names>D</given-names></string-name>, <string-name><surname>DasMahapatra</surname><given-names>P</given-names></string-name>, et al. <article-title>Patient‐reported factors in treatment satisfaction in patients with relapsed/refractory multiple myeloma (RRMM)</article-title>. <source><italic toggle="yes">Oncologist</italic></source>. <year>2019</year>;<volume>24</volume>(<issue>11</issue>):<fpage>1479</fpage>. doi:<pub-id pub-id-type="doi">10.1634/theoncologist.2018-0724</pub-id><pub-id pub-id-type="pmid">31371520</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0047">
+          <label>47.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Song</surname><given-names>X</given-names></string-name>, <string-name><surname>Wilson</surname><given-names>KL</given-names></string-name>, <string-name><surname>Kagan</surname><given-names>J</given-names></string-name>, <string-name><surname>Panjabi</surname><given-names>S</given-names></string-name>. <article-title>Cost of peripheral neuropathy in patients receiving treatment for multiple myeloma: a US administrative claims analysis</article-title>. <source><italic toggle="yes">Ther Adv Hematol</italic></source>. <year>2019</year>;<volume>10</volume>:<fpage>2040620719839025</fpage>. doi:<pub-id pub-id-type="doi">10.1177/2040620719839025</pub-id><pub-id pub-id-type="pmid">30967926</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0048">
+          <label>48.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Shah</surname><given-names>N</given-names></string-name>, <string-name><surname>Chari</surname><given-names>A</given-names></string-name>, <string-name><surname>Scott</surname><given-names>E</given-names></string-name>, <string-name><surname>Mezzi</surname><given-names>K</given-names></string-name>, <string-name><surname>Usmani</surname><given-names>SZ</given-names></string-name>. <article-title>B-cell maturation antigen (BCMA) in multiple myeloma: rationale for targeting and current therapeutic approaches</article-title>. <source><italic toggle="yes">Leukemia</italic></source>. <year>2020</year>;<volume>34</volume>(<issue>4</issue>):<fpage>985</fpage>–<lpage>1005</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41375-020-0734-z</pub-id><pub-id pub-id-type="pmid">32055000</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0049">
+          <label>49.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Kumar</surname><given-names>SK</given-names></string-name>, <string-name><surname>Callander</surname><given-names>NS</given-names></string-name>, <string-name><surname>Hillengass</surname><given-names>J</given-names></string-name>, et al. <article-title>NCCN guidelines: multiple myeloma, version 6.2021</article-title>. <source><italic toggle="yes">J Natl Compr Canc Netw</italic></source>. <year>2021</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0050">
+          <label>50.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Harousseau</surname><given-names>JL</given-names></string-name>, <string-name><surname>Dreyling</surname><given-names>M</given-names></string-name>. <article-title>Multiple myeloma: ESMO clinical practice guidelines for diagnosis, treatment and follow-up</article-title>. <source><italic toggle="yes">Ann Oncol</italic></source>. <year>2010</year>;<volume>21</volume>:<fpage>v155</fpage>–<lpage>v157</lpage>. doi:<pub-id pub-id-type="doi">10.1093/annonc/mdq178</pub-id><pub-id pub-id-type="pmid">20555068</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0051">
+          <label>51.</label>
+          <mixed-citation publication-type="newspaper"><string-name><surname>Patel</surname><given-names>K</given-names></string-name>, <string-name><surname>Parker</surname><given-names>T</given-names></string-name>, <string-name><surname>Mengyang</surname><given-names>D</given-names></string-name>, <string-name><surname>Bar</surname><given-names>N</given-names></string-name>, <string-name><surname>Huntington</surname><given-names>S</given-names></string-name>, <string-name><surname>Giri</surname><given-names>S</given-names></string-name>. <article-title>Cost-effectiveness of once-weekly selinexor, bortezomib, and dexamethasone (XVd) versus twice-weekly bortezomib and dexamethasone (Vd) in relapsed or refractory multiple myeloma</article-title>. <year>2020</year>.</mixed-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </article>
+</pmc-articleset>

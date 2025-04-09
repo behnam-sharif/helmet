@@ -1,0 +1,165 @@
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+    <!--The publisher of this article does not allow downloading of the full text in XML form.-->
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+      <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">J Manag Care Spec Pharm</journal-id>
+        <journal-id journal-id-type="iso-abbrev">J Manag Care Spec Pharm</journal-id>
+        <journal-id journal-id-type="publisher-id">jmcsp</journal-id>
+        <journal-title-group>
+          <journal-title>Journal of Managed Care &amp; Specialty Pharmacy</journal-title>
+        </journal-title-group>
+        <issn pub-type="ppub">2376-0540</issn>
+        <issn pub-type="epub">2376-1032</issn>
+        <publisher>
+          <publisher-name>Academy of Managed Care Pharmacy</publisher-name>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">33043821</article-id>
+        <article-id pub-id-type="pmc">10391059</article-id>
+        <article-id pub-id-type="doi">10.18553/jmcp.2020.20251</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Research</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>Incremental clinical and economic impact of recombinant zoster vaccination: real-world data in a budget impact model</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Patterson</surname>
+              <given-names>Brandon J</given-names>
+            </name>
+            <degrees>PharmD, PhD</degrees>
+            <xref rid="aff1" ref-type="aff">
+              <sup>1</sup>
+            </xref>
+            <xref rid="cor1" ref-type="corresp">
+              <sup>*</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Herring</surname>
+              <given-names>William L</given-names>
+            </name>
+            <degrees>PhD</degrees>
+            <xref rid="aff3" ref-type="aff">
+              <sup>3</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Van Oorschot</surname>
+              <given-names>Desiree</given-names>
+            </name>
+            <degrees>MSc</degrees>
+            <xref rid="aff2" ref-type="aff">
+              <sup>2</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Curran</surname>
+              <given-names>Desmond</given-names>
+            </name>
+            <degrees>PhD</degrees>
+            <xref rid="aff2" ref-type="aff">
+              <sup>2</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Carrico</surname>
+              <given-names>Justin</given-names>
+            </name>
+            <degrees>BS</degrees>
+            <xref rid="aff3" ref-type="aff">
+              <sup>3</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Yuanhui</given-names>
+            </name>
+            <degrees>PhD</degrees>
+            <xref rid="aff3" ref-type="aff">
+              <sup>3</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Ackerson</surname>
+              <given-names>Bradley K</given-names>
+            </name>
+            <degrees>MD</degrees>
+            <xref rid="aff4" ref-type="aff">
+              <sup>4</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Bruxvoort</surname>
+              <given-names>Katia</given-names>
+            </name>
+            <degrees>MPH, PhD</degrees>
+            <xref rid="aff4" ref-type="aff">
+              <sup>4</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Sy</surname>
+              <given-names>Lina S</given-names>
+            </name>
+            <degrees>MPH</degrees>
+            <xref rid="aff4" ref-type="aff">
+              <sup>4</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Tseng</surname>
+              <given-names>Hung-Fu</given-names>
+            </name>
+            <degrees>MPH, PhD</degrees>
+            <xref rid="aff4" ref-type="aff">
+              <sup>4</sup>
+            </xref>
+          </contrib>
+          <aff id="aff1"><label>1</label>GSK, Philadelphia, PA.</aff>
+          <aff id="aff2"><label>2</label>GSK, Wavre, Belgium.</aff>
+          <aff id="aff3"><label>3</label>RTI Health Solutions, Research Triangle, NC.</aff>
+          <aff id="aff4"><label>4</label>Kaiser Permanente Southern California, Pasadena.</aff>
+        </contrib-group>
+        <author-notes>
+          <corresp id="cor1"><label>*</label>AUTHOR CORRESPONDENCE: Brandon J Patterson, 215.983.4608, <email>brandon.j.patterson@gsk.com</email></corresp>
+          <fn fn-type="COI-statement">
+            <p>GlaxoSmithKline Biologicals SA funded this study (GSK study identifier: HO-17-18378) and was involved in all stages of study conduct, including analysis of the data. GlaxoSmithKline Biologicals SA also paid all costs associated with the development and publication of this manuscript.</p>
+            <p>Patterson, Van Oorschot, and Curran are employees of the GSK group of companies and hold shares in the GSK group of companies. Herring, Carrico, and Zhang are employees of RTI Health Solutions, which received funding via a contractual agreement with the GSK group of companies to perform the work contributing to this research. Ackerson, Bruxvoort, Sy, and Tseng are employees of Kaiser Permanente Southern California, which was contracted by the GSK group of companies for the conduct of this study and were members of the KPSC study team. Ackerson, Bruxvoort, Sy, and Tseng report research contracts with the following pharmaceutical companies unrelated to this study: Dynavax (Ackerson, Bruxvoort, and Sy); the GSK group of companies (Ackerson, Bruxvoort, Sy, and Tseng); Novavax (Ackerson, Sy, and Tseng); and Seqirus (Ackerson, Bruxvoort, Sy, and Tseng). Tseng reports having served as a paid consultant for the GSK group of companies. The authors declare no other financial and nonfinancial relationships and activities.</p>
+            <p>Findings from this study were presented at AMCP Nexus 2019; October 29-November 1, 2019; National Harbor, MD.</p>
+          </fn>
+        </author-notes>
+        <pub-date pub-type="ppub">
+          <month>12</month>
+          <year>2020</year>
+        </pub-date>
+        <volume>26</volume>
+        <issue>12</issue>
+        <elocation-id>10.18553/jmcp.2020.20251</elocation-id>
+        <permissions>
+          <copyright-statement>Copyright © 2020, Academy of Managed Care Pharmacy. All rights reserved.</copyright-statement>
+          <copyright-year>2020</copyright-year>
+          <!--Edit 1 -->
+        </permissions>
+      </article-meta>
+    </front>
+  </article>
+</pmc-articleset>

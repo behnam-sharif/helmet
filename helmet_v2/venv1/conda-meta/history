@@ -1,0 +1,19 @@
+==> 2024-12-23 23:47:59 <==
+# cmd: /opt/anaconda3/bin/Conda create -p venv1 python=3.10 -y
+# conda version: 24.9.2
++defaults/noarch::tzdata-2024b-h04d1e81_0
++defaults/osx-64::bzip2-1.0.8-h6c40b1e_6
++defaults/osx-64::ca-certificates-2024.11.26-hecd8cb5_0
++defaults/osx-64::libffi-3.4.4-hecd8cb5_1
++defaults/osx-64::ncurses-6.4-hcec6c5f_0
++defaults/osx-64::openssl-3.0.15-h46256e1_0
++defaults/osx-64::pip-24.2-py310hecd8cb5_0
++defaults/osx-64::python-3.10.16-hce00570_1
++defaults/osx-64::readline-8.2-hca72f7f_0
++defaults/osx-64::setuptools-75.1.0-py310hecd8cb5_0
++defaults/osx-64::sqlite-3.45.3-h6c40b1e_0
++defaults/osx-64::tk-8.6.14-h4d00af3_0
++defaults/osx-64::wheel-0.44.0-py310hecd8cb5_0
++defaults/osx-64::xz-5.4.6-h6c40b1e_1
++defaults/osx-64::zlib-1.2.13-h4b97444_1
+# update specs: ['python=3.10']

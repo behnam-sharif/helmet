@@ -1,0 +1,1061 @@
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="brief-report" dtd-version="1.3">
+    <?properties open_access?>
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+      <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">BMC Res Notes</journal-id>
+        <journal-id journal-id-type="iso-abbrev">BMC Res Notes</journal-id>
+        <journal-title-group>
+          <journal-title>BMC Research Notes</journal-title>
+        </journal-title-group>
+        <issn pub-type="epub">1756-0500</issn>
+        <publisher>
+          <publisher-name>BioMed Central</publisher-name>
+          <publisher-loc>London</publisher-loc>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">36474238</article-id>
+        <article-id pub-id-type="pmc">9724412</article-id>
+        <article-id pub-id-type="publisher-id">6252</article-id>
+        <article-id pub-id-type="doi">10.1186/s13104-022-06252-4</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Research Note</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>Supporting dialysis policy for end stage renal disease (ESRD) in Indonesia: an updated cost-effectiveness model</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author" corresp="yes">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0650-4704</contrib-id>
+            <name>
+              <surname>Putri</surname>
+              <given-names>Septiara</given-names>
+            </name>
+            <address>
+              <email>septiaraputri@ui.ac.id</email>
+            </address>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Nugraha</surname>
+              <given-names>Ryan R.</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Pujiyanti</surname>
+              <given-names>Eka</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Thabrany</surname>
+              <given-names>Hasbullah</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Hasnur</surname>
+              <given-names>Hanifah</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Istanti</surname>
+              <given-names>Novita D.</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Evasari</surname>
+              <given-names>Diah</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Afiatin</surname>
+            </name>
+            <xref ref-type="aff" rid="Aff3">3</xref>
+          </contrib>
+          <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.9581.5</institution-id><institution-id institution-id-type="ISNI">0000000120191471</institution-id><institution>Health Policy and Administration Department, Faculty of Public Health, </institution><institution>University of Indonesia, </institution></institution-wrap>Depok, West Java Indonesia 16424 </aff>
+          <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.9581.5</institution-id><institution-id institution-id-type="ISNI">0000000120191471</institution-id><institution>Center for Health Economics and Policy Studies (CHEPS), </institution><institution>University of Indonesia, </institution></institution-wrap>Depok, West Java Indonesia 16424 </aff>
+          <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.11553.33</institution-id><institution-id institution-id-type="ISNI">0000 0004 1796 1481</institution-id><institution>Internal Medicine Department, Faculty of Medicine, </institution><institution>Universitas Padjajaran, </institution></institution-wrap>Bandung, West Java Indonesia 45363 </aff>
+        </contrib-group>
+        <pub-date pub-type="epub">
+          <day>6</day>
+          <month>12</month>
+          <year>2022</year>
+        </pub-date>
+        <pub-date pub-type="pmc-release">
+          <day>6</day>
+          <month>12</month>
+          <year>2022</year>
+        </pub-date>
+        <pub-date pub-type="collection">
+          <year>2022</year>
+        </pub-date>
+        <volume>15</volume>
+        <elocation-id>359</elocation-id>
+        <history>
+          <date date-type="received">
+            <day>17</day>
+            <month>5</month>
+            <year>2022</year>
+          </date>
+          <date date-type="accepted">
+            <day>23</day>
+            <month>11</month>
+            <year>2022</year>
+          </date>
+        </history>
+        <permissions>
+          <copyright-statement>© The Author(s) 2022</copyright-statement>
+          <license>
+            <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+            <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+          </license>
+        </permissions>
+        <kwd-group xml:lang="en">
+          <title>Keywords</title>
+          <kwd>Peritoneal dialysis</kwd>
+          <kwd>Hemodialysis</kwd>
+          <kwd>End stage renal disease</kwd>
+          <kwd>Cost-effectiveness</kwd>
+        </kwd-group>
+        <funding-group>
+          <award-group>
+            <funding-source>
+              <institution>Baxter Indonesia</institution>
+            </funding-source>
+            <award-id>CHEPS-18122015/Baxter</award-id>
+            <principal-award-recipient>
+              <name>
+                <surname>Thabrany</surname>
+                <given-names>Hasbullah</given-names>
+              </name>
+            </principal-award-recipient>
+          </award-group>
+        </funding-group>
+        <custom-meta-group>
+          <custom-meta>
+            <meta-name>issue-copyright-statement</meta-name>
+            <meta-value>© The Author(s) 2022</meta-value>
+          </custom-meta>
+        </custom-meta-group>
+      </article-meta>
+    </front>
+    <body>
+      <sec id="Sec1">
+        <title>Introduction</title>
+        <p id="Par13">End stage renal disease (ESRD) has significantly contributed for mortality, morbidity, as well as economic impact both for patients and healthcare providers worldwide [<xref ref-type="bibr" rid="CR1">1</xref>–<xref ref-type="bibr" rid="CR3">3</xref>]. Due to the substantial burden of ESRD, there is a growing utilization of renal replacement therapy (RRT), including dialysis and kidney transplantation [<xref ref-type="bibr" rid="CR4">4</xref>]. Approximately 5.4 million people are projected to receive RRT by 2030 [<xref ref-type="bibr" rid="CR5">5</xref>]. Dialysis, is the most common treatment for ESRD, particularly haemodialysis (home or hospital-based) and peritoneal dialysis (PD) [<xref ref-type="bibr" rid="CR6">6</xref>]. PD itself can be specified as continuous ambulatory peritoneal dialysis (CAPD) and automated peritoneal dialysis (APD).</p>
+        <p id="Par14">In Indonesia, the patients’ access to dialysis in Indonesia was not high, approximately 53% with most of ESRD patients receiving HD [<xref ref-type="bibr" rid="CR7">7</xref>]. Indonesia Renal Registry (IRR) reported that HD was the most preferable treatment, 132,142 (98%) patients compared to CAPD which were only 2478 (2%) patients [<xref ref-type="bibr" rid="CR8">8</xref>].</p>
+        <p id="Par15">More than IDR 1.5 trillion was spent in 2014, and dialysis coverage under national health insurance (NHI) system and it remains the current top substantial expense reported by BPJS Kesehatan (Indonesian health security agency) [<xref ref-type="bibr" rid="CR9">9</xref>]. Until 2019, the government targeted a 30% first policy, CAPD however also remains underutilized among eligible ESRD patients even if it is less expensive treatment [<xref ref-type="bibr" rid="CR7">7</xref>, <xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR10">10</xref>]. Therefore, we performed a cost-effectiveness model that directly compares dialysis procedures, focusing on CAPD versus hospital-based HD. We have conducted this study in early 2016, and the study indicated that CAPD was a cost-effective intervention [<xref ref-type="bibr" rid="CR10">10</xref>]. However, there was very limited data available on parameters at that time. Hence, this study is expected to provide more updates on its cost-effectiveness results.</p>
+      </sec>
+      <sec id="Sec2">
+        <title>Methods and materials</title>
+        <sec id="Sec3">
+          <title>Model structure</title>
+          <p id="Par16">A Markov model was constructed with three mutually exclusive states: CAPD, HD, and death, performing 40 years time-horizon with annual cycle. ESRD patients’ cohort (55 years old) started into the model either receiving the CAPD or HD. The structure and assumptions of the model are presented in Additional file <xref rid="MOESM1" ref-type="media">1</xref>: Figure. S1.</p>
+        </sec>
+        <sec id="Sec4">
+          <title>Patient characteristics</title>
+          <p id="Par17">The patient inclusion criteria were following consecutively: (1) Adult (≥ 18 years old) (2) had confirmed ESRD diagnosis by a nephrologist, with glomerular filtration rate (GFR) &lt; 15 ml/min (1.73 m<sup>2</sup>) (3) Patients who received HD or CAPD started within January 2014 to December 2015 (4) Received at least 2 outpatient dialysis treatment in similar hospital/centre. We excluded patients that (1) had been receiving various RRT (2) Different hospitals for continuing dialysis cycle for less than 3 months (3) Drop-out (discontinued), had significant gap (1 month without dialysis), or died within 3 months of dialysis procedure. Consistent with a real ratio between dialysis modalities in Indonesia, we retrieved a total sample of 110 patients (28 CAPD patients, 92 HD patients). Patient characteristics is presented in Additional file <xref rid="MOESM1" ref-type="media">1</xref>: Table S1.</p>
+          <p id="Par18">The non-hospital and private clinics HD exist in Indonesia. However, we only gathered HD patients in the hospital since this study only focused for ESRD patients who were covered under the NHI scheme.</p>
+        </sec>
+        <sec id="Sec5">
+          <title>Survival and transition probability</title>
+          <p id="Par19">Survival data were using published literature data, since there was an absence of updates of survival analysis studies assessing both CAPD relative to HD in Indonesia. The parameter from IRR in 2007–2012 was used in previous studies as an economic model’s parameter, however it is only for HD patients [<xref ref-type="bibr" rid="CR10">10</xref>, <xref ref-type="bibr" rid="CR11">11</xref>] Hence, we argued to utilize and update published literature for survival data as best as we can to represent Indonesia context..The data from the survival study were applied to the model, year 1-year 5 indicated the rates that were transformed into annual probability when running the model. We assumed the probability was constant after year 5. All input parameters were presented in Table <xref rid="Tab1" ref-type="table">1</xref>.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Input parameters</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Parameters</th><th align="left">Value (mean/rate)</th><th align="left">SE</th><th align="left">Range</th><th align="left">Distribution</th><th align="left">References</th></tr></thead><tbody><tr><td align="left" colspan="6">Survival and transition probabilities</td></tr><tr><td align="left"> CAPD to HD</td><td align="left">0.067</td><td align="left">0.020</td><td align="left">0.058–0.081</td><td align="left">Beta</td><td align="left">Surendra et al. [<xref ref-type="bibr" rid="CR16">16</xref>]</td></tr><tr><td align="left"> HD to CAPD</td><td align="left">0.007</td><td align="left">0.002</td><td align="left">0.002–0.001</td><td align="left">Beta</td><td align="left">Surendra et al. [<xref ref-type="bibr" rid="CR16">16</xref>]</td></tr><tr><td align="left"> Peritonitis complication</td><td align="left">0.200</td><td align="left">0.010</td><td align="left">0.180–0.220</td><td align="left">Beta</td><td align="left">Gupta et al. [<xref ref-type="bibr" rid="CR17">17</xref>]</td></tr><tr><td align="left"> Vascular access complication</td><td align="left">0.100</td><td align="left">0.013</td><td align="left">0.075–0.125</td><td align="left">Beta</td><td align="left">Xue et al. [<xref ref-type="bibr" rid="CR18">18</xref>]</td></tr><tr><td align="left" colspan="6">CAPD (survival)</td></tr><tr><td align="left"> Year 1</td><td align="left">0.800</td><td align="left">0.006</td><td align="left">0.788–0.812</td><td align="left">Beta</td><td align="left">Gunawan and Sakti [<xref ref-type="bibr" rid="CR19">19</xref>]</td></tr><tr><td align="left"> Year 2</td><td align="left">0.720</td><td align="left">0.008</td><td align="left">0.704–0.736</td><td align="left">Beta</td><td align="left">Assumed*</td></tr><tr><td align="left"> Year 3</td><td align="left">0.600</td><td align="left">0.009</td><td align="left">0.582–0.617</td><td align="left">Beta</td><td align="left">Gunawan and Sakti [<xref ref-type="bibr" rid="CR19">19</xref>]</td></tr><tr><td align="left"> Year 4</td><td align="left">0.570</td><td align="left">0.009</td><td align="left">0.542–0.577</td><td align="left">Beta</td><td align="left">Assumed</td></tr><tr><td align="left"> Year 5</td><td align="left">0.520</td><td align="left">0.009</td><td align="left">0.502–0.537</td><td align="left">Beta</td><td align="left">Gunawan and Sakti [<xref ref-type="bibr" rid="CR19">19</xref>]</td></tr><tr><td align="left" colspan="6">HD (survival)</td></tr><tr><td align="left"> Year 1</td><td align="left">0.824</td><td align="left">0.006</td><td align="left">0.811–0.837</td><td align="left">Beta</td><td align="left">Afiatin et al., [<xref ref-type="bibr" rid="CR20">20</xref>]</td></tr><tr><td align="left"> Year 2</td><td align="left">0.706</td><td align="left">0.008</td><td align="left">0.690–0.722</td><td align="left">Beta</td><td align="left">Afiatin et al., [<xref ref-type="bibr" rid="CR20">20</xref>]</td></tr><tr><td align="left"> Year 3</td><td align="left">0.621</td><td align="left">0.009</td><td align="left">0.604–0.638</td><td align="left">Beta</td><td align="left">Afiatin et al., [<xref ref-type="bibr" rid="CR20">20</xref>]</td></tr><tr><td align="left"> Year 4</td><td align="left">0.580</td><td align="left">0.009</td><td align="left">0.563–0.598</td><td align="left">Beta</td><td align="left">Afiatin et al., [<xref ref-type="bibr" rid="CR20">20</xref>]</td></tr><tr><td align="left"> Year 5</td><td align="left">0.553</td><td align="left">0.009</td><td align="left">0.536–0.571</td><td align="left">Beta</td><td align="left">Afiatin et al., [<xref ref-type="bibr" rid="CR20">20</xref>]</td></tr><tr><td align="left" colspan="6">Direct medical costs</td></tr><tr><td align="left"> Pre-dialysis set-up_CAPD</td><td align="left">16,010,564</td><td align="left">165,562</td><td align="left">15,686,062–16,335,065</td><td align="left">Gamma</td><td align="left">Hospital billing</td></tr><tr><td align="left"> Pre-dialysis set-up_HD</td><td align="left">16,150,823</td><td align="left">2,337,311</td><td align="left">11,569,693–20,731,952</td><td align="left">Gamma</td><td align="left">Hospital billing</td></tr><tr><td align="left"> DMC_CAPD</td><td align="left">142,328,780</td><td align="left">6,008,598</td><td align="left">135,173,358–149,484,201</td><td align="left">Gamma</td><td align="left">Hospital billing</td></tr><tr><td align="left"> DMC_HD</td><td align="left">120,289,134</td><td align="left">3,650,725</td><td align="left">108,512,280–132,065,987</td><td align="left">Gamma</td><td align="left">Hospital billing</td></tr><tr><td align="left"> CC_CAPD</td><td align="left">9,592,093</td><td align="left">4,178,178</td><td align="left">1,402,864–17,781,321</td><td align="left">Gamma</td><td align="left">Hospital billing</td></tr><tr><td align="left"> CC_HD</td><td align="left">27,173,929</td><td align="left">7,158,016</td><td align="left">13,144,217–41,203,640</td><td align="left">Gamma</td><td align="left">Hospital billing</td></tr><tr><td align="left" colspan="6">Direct non-medical costs</td></tr><tr><td align="left"> DNMC_CAPD</td><td align="left">5,266,455</td><td align="left">1,353,606</td><td align="left">2,613,387–7,919,522</td><td align="left">Gamma</td><td align="left">Interview</td></tr><tr><td align="left"> DNMC_HD</td><td align="left">10,083,572</td><td align="left">950,959</td><td align="left">8,219,690–11,947,453</td><td align="left">Gamma</td><td align="left">Interview</td></tr><tr><td align="left" colspan="6">Indirect costs</td></tr><tr><td align="left"> ID_CAPD</td><td align="left">7,196,578</td><td align="left">1,535,788</td><td align="left">4,186,434–10,206,722</td><td align="left">Gamma</td><td align="left">Interview</td></tr><tr><td align="left"> ID_HD</td><td align="left">10,858,993</td><td align="left">968,098</td><td align="left">8,961,519–12,756,466</td><td align="left">Gamma</td><td align="left">Interview</td></tr><tr><td align="left" colspan="6">Utility</td></tr><tr><td align="left"> U_CAPD</td><td align="left">0.81</td><td align="left">0.04</td><td align="left">0.73–0.88</td><td align="left">Beta</td><td align="left">Interview</td></tr><tr><td align="left"> U_HD</td><td align="left">0.65</td><td align="left">0.03</td><td align="left">0.60–0.71</td><td align="left">Beta</td><td align="left">Interview</td></tr><tr><td align="left"> U_CAPD_com</td><td align="left">0.31</td><td align="left">0.09</td><td align="left">0.13–0.39</td><td align="left">Beta</td><td align="left">Afiatin et al. [<xref ref-type="bibr" rid="CR11">11</xref>],</td></tr><tr><td align="left"> U_HD_com</td><td align="left">0.37</td><td align="left">0.11</td><td align="left">0.15–0.58</td><td align="left">Beta</td><td align="left">Afiatin et al. [<xref ref-type="bibr" rid="CR11">11</xref>],</td></tr><tr><td align="left" colspan="6">Discounting</td></tr><tr><td align="left"> Cost</td><td align="left">3%</td><td align="left"/><td align="left"/><td align="left"/><td align="left">HTA guideline [<xref ref-type="bibr" rid="CR17">17</xref>]</td></tr><tr><td align="left"> Effect</td><td align="left">3%</td><td align="left"/><td align="left"/><td align="left"/><td align="left">HTA guideline [<xref ref-type="bibr" rid="CR17">17</xref>]</td></tr></tbody></table><table-wrap-foot><p>Costs are in IDR, <italic>DMC</italic> direct medical costs, <italic>CC</italic> complication cost, <italic>DNMC</italic> direct non-medical cost, <italic>ID</italic> indirect cost, <italic>U</italic> utility, complication.</p><p>*Due to the data reporting limitation as newly published evidence, we assumed the standard error for CAPD is similar to HD, since there were no significant differences in terms of survival results</p></table-wrap-foot></table-wrap></p>
+        </sec>
+        <sec id="Sec6">
+          <title>Costs</title>
+          <p id="Par20">From a societal perspective, the costs incurred in this study include direct medical costs, direct non-medical costs, and indirect costs. Direct medical costs were collected form hospital billing data. Billing data in this study was in hospital tariff form. Furthermore, direct non-medical costs and costs related to productivity loss (indirect costs) were primarily collected by interviewing patients. Patients were interviewed before receiving dialysis in hospital or starting CAPD (direct face to face interview or by phone). The written approval and informed consent were gathered from patients Table <xref rid="Tab2" ref-type="table">2</xref>.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Total costs, life years gained (LYGs), quality-adjusted life years (QALYs), and incremental cost-effectiveness ratio (ICER)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">CAPD</th><th align="left">HD</th><th align="left">ICER/QALY</th></tr></thead><tbody><tr><td align="left">Costs</td><td align="left">1,348,612,118</td><td align="left">1,368,447,750</td><td align="left">(34,723,527)</td></tr><tr><td align="left">LYG</td><td align="left">6.428</td><td align="left">6.432</td><td align="left"/></tr><tr><td align="left">QALY</td><td align="left">4.79</td><td align="left">4.22</td><td align="left"/></tr></tbody></table><table-wrap-foot><p><italic>ICER</italic> incremental cost-effectiveness ratio, <italic>LY</italic> = life years gained, <italic>QALY</italic> quality adjusted life years</p><p>*Results are in discounted estimation. Costs are in Indonesian rupiah (IDR).One-way scenario-deterministic analysis showed that if we change several key input parameters in range 5–10% assumptions, the final ICER results indicate the good value for money for CAPD. The plots were scattered into two quadrants on CE plane, the scatter plot illustrates that as the incremental costs increased in accordance with the changes in incremental QALY (Fig. <xref rid="Fig1" ref-type="fig">1</xref>a), also particularly in cost saving CE plane area where there was also indicating the probability of CAPD as cost-saving, substantial QALY benefit with lower costs. Uncertainty deemed existed, particularly the wide range of the incremental QALY</p></table-wrap-foot></table-wrap><fig id="Fig1"><label>Fig. 1</label><caption><p><bold>a</bold> cost-effectiveness plane (CE Plane). <bold>b</bold> cost-effectiveness acceptability curve (CEAC)</p></caption><graphic xlink:href="13104_2022_6252_Fig1_HTML" id="MO1"/></fig></p>
+          <p id="Par21">To estimate the annual costs of patients, we manually calculated the monthly expenditures and then multiplied them by twelve. In practice, patients received dialysis 3 times/week, 12 per month. Since we collected data in the 2014–2015 time frame, we adjusted the costs value to 2020 IDR. We performed a 3% discount rate both for costs and effect [<xref ref-type="bibr" rid="CR12">12</xref>].</p>
+        </sec>
+        <sec id="Sec7">
+          <title>Utility</title>
+          <p id="Par22">Quality of life (Qol) values used EuroQoL EQ-5D-3L questionnaire that has been officially translated. Patients were directly interviewed—fitted with our model states. Our previous study was using the Thailand version to convert the QoL scores into value set [<xref ref-type="bibr" rid="CR13">13</xref>]. We finally have our Indonesian value set published in 2017 [<xref ref-type="bibr" rid="CR14">14</xref>], however this is intended to accommodate the EQ-5D-5L questionnaire, we therefore remain to report EQ-5D-3L results using the Thai value set.</p>
+        </sec>
+        <sec id="Sec8">
+          <title>Cost-effectiveness analysis</title>
+          <p id="Par23">The economic assessment for this study applying cost utility analysis (CUA). Since Indonesia has not yet constructed the country-based cost-effectiveness threshold [<xref ref-type="bibr" rid="CR12">12</xref>], the health technology with ICER/QALY values that was not greater than 1–3 GDP/capita was considered as cost-effective (1 GDP = IDR 54,6 million or USD 3,870) [<xref ref-type="bibr" rid="CR15">15</xref>].</p>
+        </sec>
+        <sec id="Sec9">
+          <title>Sensitivity analyses</title>
+          <p id="Par24">One-way deterministic-scenario sensitivity analysis was performed with simulating various plausible ranges of key input parameters (Additional file <xref rid="MOESM1" ref-type="media">1</xref>: Table S2). A probabilistic sensitivity analysis (PSA) was also performed using monte carlo simulation with 1000 iterations simultaneously of all parameters with their respective distribution.</p>
+        </sec>
+      </sec>
+      <sec id="Sec10">
+        <title>Results</title>
+        <p id="Par25">Patients’ characteristics were presented in Additional file <xref rid="MOESM1" ref-type="media">1</xref>. The result of utility data were 0.81 and 0.65, for CAPD and HD respectively. Patients with complications have utility values 0.31 for CAPD and 0.37 for HD [<xref ref-type="bibr" rid="CR10">10</xref>].From base case analysis, the life years gained (LYG) between two modalities were not different, both having 6.43 years. In terms of QALY, CAPD showed its favourability compared to HD, 4.79 and 4.22, respectively. It was indicated due to very slight difference between survival data, however, the quality of life value was considerably different between CAPD and HD, which thus influenced the QALY results.</p>
+        <p id="Par26">The average total costs showed that HD had higher costs than CAPD although CAPD itself has higher direct medical costs. This was because of the larger portion incurred in direct non-medical costs and indirect costs (particularly transportation and productivity costs). Using societal perspective, it concluded that the CAPD may save IDR 34 million (USD 2460) per QALY, compared with HD. For a long run, initial first CAPD policy for eligible ESRD patients potentially be a promising choice and have good value for money.</p>
+        <p id="Par27">At the maximum defined threshold, 1–3 GDP per capita (1 GDP = IDR 54,6 million or USD 3870) besides its cost-saving result, the highest probability to be cost-effective, approximately around threshold IDR 100,000,000–165,000,000 (Fig. <xref rid="Fig1" ref-type="fig">1</xref>b).</p>
+      </sec>
+      <sec id="Sec11">
+        <title>Discussions</title>
+        <p id="Par28">From our analysis using societal perspective, CAPD provided good value for money, as a cost-saving treatment compared to HD. This result finally provided the most updated economic evaluation on CAPD and HD, with more representative input parameters and updated monetary values that potentially enrich evidence-based policy in Indonesia context.</p>
+        <p id="Par29">This economic evaluation echoed with several studies in other countries and setting, PD provided considerable ICER results compared to HD [<xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR22">22</xref>]. In Indian context, initial policy using PD was cost-saving compared to HD for kidney failure patients, with QALY 3.3 versus 1.6, respectively. The result of economic evaluation using societal perspective could be utilized as a base judgement for price negotiation for PD consumables in India [<xref ref-type="bibr" rid="CR17">17</xref>]. Consistent with this finding, a study in Hongkong context confirmed that as first-policy treatment PD is a cost-saving relative to hospital-based HD with ICER USD 1195 per QALY [<xref ref-type="bibr" rid="CR23">23</xref>]. In Finland, cost-effectiveness ratio (CER) was lower in PD than HD in four strategies on initial implementation years [<xref ref-type="bibr" rid="CR24">24</xref>].</p>
+        <p id="Par30">If compared to supportive care, PD also provided the cost-effective result in Malaysia and Singapore setting. [<xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR25">25</xref>] The PD provided the higher clinical benefit, QALY and considerable ICER. Previous study in Indonesia, confirmed that PD exceeds the maximum threshold compared to supportive care. However, budget impact analysis estimated that PD first policy can be beneficial in terms of lower transportation and indirect costs, as well as 5 years financial impact for reimbursement policy [<xref ref-type="bibr" rid="CR11">11</xref>].</p>
+        <p id="Par31">In terms of policy implementation, there are some concerns that should be considered by decision makers such as: Making CAPD more affordable and accessible, CAPD needs to become the priority treatment for ESRD patients, and ensure the supply and capacity of CAPD together with improving of HD services in Indonesia. Moreover, the government needs to strengthen capacity and infrastructure, such as supply chain.</p>
+      </sec>
+      <sec id="Sec12">
+        <title>Conclusions</title>
+        <p id="Par32">CAPD was a cost-effective treatment compared to HD for ESRD patients in Indonesia. It must be noted that the policy impact for this study is not intended to replace or eliminate HD, vice versa. Our results provided the evidence of potential first-policy on dialysis, that is, showing its benefit and supporting rational resource allocation decision plan. The transition of dialysis and other modalities itself indeed remain justified by the specific clinical condition of ESRD patients and other complex decisions beyond this cost-effectiveness evidence.</p>
+      </sec>
+      <sec id="Sec13">
+        <title>Limitations</title>
+        <p id="Par33">First, the sample was limited, particularly in CAPD group. Although the proportion reflects the real number of samples between two groups in Indonesia on dialysis utilization (98% vs 2%, for CAPD vs HD, respectively), this may imply the uncertainty in parameters. Second, due to the lack of local survival data and clinical trials, this study preferred to use the best available data in Indonesia, until now there is no direct comparison evidence between CAPD and HD. Third, the value set used for utility parameters remains using other countries’ data, due to the fact that we did not have an Indonesian value set yet in 2016. We also recognized that the clinical characteristics in this study only based on the age, gender, and geographical distance to healthcare. Moreover, we used hospital sites focusing in Jakarta and West Java to collect costs data. As consequence, there was substantial variation in terms of hospital tariff across regions (direct medical costs) on different hospital levels as well as transportation costs and productivity loss.</p>
+      </sec>
+      <sec sec-type="supplementary-material">
+        <title>Supplementary Information</title>
+        <sec id="Sec14">
+          <p>
+            <supplementary-material content-type="local-data" id="MOESM1">
+              <media xlink:href="13104_2022_6252_MOESM1_ESM.docx">
+                <caption>
+                  <p><bold>Additional file 1. Table S1.</bold> Patient characteristics. <bold>Figure S1.</bold> Schematic Markov model. <bold>Table S2.</bold> One-way deterministic sensitivity analysis.</p>
+                </caption>
+              </media>
+            </supplementary-material>
+          </p>
+        </sec>
+      </sec>
+    </body>
+    <back>
+      <glossary>
+        <title>Abbreviations</title>
+        <def-list>
+          <def-item>
+            <term>CAPD</term>
+            <def>
+              <p id="Par3">Continuous ambulatory peritoneal dialysis</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term>CKD</term>
+            <def>
+              <p id="Par4">Chronic kidney disease</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term>CUA</term>
+            <def>
+              <p id="Par5">Cost utility analysis</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term>ESRD</term>
+            <def>
+              <p id="Par6">End stage renal disease</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term>HD</term>
+            <def>
+              <p id="Par7">Hemodialysis</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term>ICER</term>
+            <def>
+              <p id="Par8">Incremental cost effectiveness ratio</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term>LYG</term>
+            <def>
+              <p id="Par9">Life years gained</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term>NHI</term>
+            <def>
+              <p id="Par10">National health insurance</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term>QALY</term>
+            <def>
+              <p id="Par11">Quality adjusted life years</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term>RRT</term>
+            <def>
+              <p id="Par12">Renal replacement therapy</p>
+            </def>
+          </def-item>
+        </def-list>
+      </glossary>
+      <fn-group>
+        <fn>
+          <p>
+            <bold>Publisher's Note</bold>
+          </p>
+          <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+        </fn>
+      </fn-group>
+      <ack>
+        <title>Acknowledgements</title>
+        <p>We would like to thank all staffs and data collectors from Cikini Hospital, Hasan Sadikin Hospital, and Tarakan Hospital. We also thank the Center for Health Financing and Department, Ministry of Health Republic of Indonesia and PERNEFRI (Indonesia Association of Nephrology) who provided insightful inputs during our initial dissemination from this study.</p>
+      </ack>
+      <notes notes-type="author-contribution">
+        <title>Author contributions</title>
+        <p>Study concept and design: SP, HT, DE; Data supervision: SP, NI, HH, HT; Costs and utility data analysis: EP, NI, HH; Modeling and analysis: SP, RN; Drafting manuscript: SP, RN, AA; Critical review and revision of manuscript: EP, HT, NI, HH, DE, AA. All authors read and approved the final manuscript.</p>
+      </notes>
+      <notes notes-type="funding-information">
+        <title>Funding</title>
+        <p>This study was funded by Baxter Indonesia with agreement letter CHEPS-18122015/Baxter. Baxter Indonesia had no intervention on study design, data collection, analysis, and interpretation. The funder also had no role for influencing the result and discussion in this paper. All authors worked independently for this study.</p>
+      </notes>
+      <notes notes-type="data-availability">
+        <title>Availability of data and materials</title>
+        <p>More detailed patient level data on costs and utility are available from info@cheps.or.id upon reasonable request. Direct medical costs data was directly obtained from hospital billings and the public access is closed. We requested the direct medical cost data under official permission from hospitals.</p>
+      </notes>
+      <notes>
+        <title>Declarations</title>
+        <notes id="FPar1">
+          <title>Ethics approval and consent to participate</title>
+          <p id="Par34">The study was conducted in accordance with the Guidelines and regulations of the Declaration of Helsinki's Principles. Official permission was granted and received from Cikini Hospital, Dharmais, Hasan Sadikin Hospital, and Tarakan Hospital. We obtained all written and signed informed consent from all participants in this study.</p>
+        </notes>
+        <notes id="FPar2">
+          <title>Consent to publication</title>
+          <p id="Par35">Not applicable.</p>
+        </notes>
+        <notes id="FPar3" notes-type="COI-statement">
+          <title>Competing interests</title>
+          <p id="Par36">The authors declared that they have no competing interests.</p>
+        </notes>
+      </notes>
+      <ref-list id="Bib1">
+        <title>References</title>
+        <ref id="CR1">
+          <label>1.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Thurlow</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Joshi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Yan</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Norris</surname>
+                <given-names>KC</given-names>
+              </name>
+              <name>
+                <surname>Agodoa</surname>
+                <given-names>LY</given-names>
+              </name>
+              <name>
+                <surname>Yuan</surname>
+                <given-names>CM</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Global epidemiology of end-stage kidney disease and disparities in kidney replacement therapy</article-title>
+            <source>Am J Nephrol</source>
+            <year>2021</year>
+            <volume>52</volume>
+            <fpage>98</fpage>
+            <lpage>107</lpage>
+            <pub-id pub-id-type="doi">10.1159/000514550</pub-id>
+            <pub-id pub-id-type="pmid">33752206</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR2">
+          <label>2.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Bikbov</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Purcell</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Levey</surname>
+                <given-names>AS</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Abdoli</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Abebe</surname>
+                <given-names>M</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Global, regional, and national burden of chronic kidney disease, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017</article-title>
+            <source>Lancet</source>
+            <year>2020</year>
+            <volume>395</volume>
+            <fpage>709</fpage>
+            <lpage>733</lpage>
+            <pub-id pub-id-type="doi">10.1016/S0140-6736(20)30045-3</pub-id>
+            <pub-id pub-id-type="pmid">32061315</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR3">
+          <label>3.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Wang</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Vilme</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Maciejewski</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Boulware</surname>
+                <given-names>LE</given-names>
+              </name>
+            </person-group>
+            <article-title>The economic burden of chronic kidney disease and end-stage renal disease</article-title>
+            <source>Semin Nephrol</source>
+            <year>2016</year>
+            <volume>36</volume>
+            <fpage>319</fpage>
+            <lpage>330</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.semnephrol.2016.05.008</pub-id>
+            <pub-id pub-id-type="pmid">27475662</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR4">
+          <label>4.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Coresh</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Update on the burden of CKD</article-title>
+            <source>J Am Soc Nephrol</source>
+            <year>2017</year>
+            <volume>28</volume>
+            <fpage>1020</fpage>
+            <lpage>1022</lpage>
+            <pub-id pub-id-type="doi">10.1681/ASN.2016121374</pub-id>
+            <pub-id pub-id-type="pmid">28302756</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR5">
+          <label>5.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Liyanage</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Ninomiya</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Jha</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Neal</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Patrice</surname>
+                <given-names>HM</given-names>
+              </name>
+              <name>
+                <surname>Okpechi</surname>
+                <given-names>I</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Worldwide access to treatment for end-stage kidney disease: a systematic review</article-title>
+            <source>Lancet</source>
+            <year>2015</year>
+            <volume>385</volume>
+            <fpage>1975</fpage>
+            <lpage>1982</lpage>
+            <pub-id pub-id-type="doi">10.1016/S0140-6736(14)61601-9</pub-id>
+            <pub-id pub-id-type="pmid">25777665</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR6">
+          <label>6.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Caskey</surname>
+                <given-names>FJ</given-names>
+              </name>
+              <name>
+                <surname>Kramer</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Elliott</surname>
+                <given-names>RF</given-names>
+              </name>
+              <name>
+                <surname>Stel</surname>
+                <given-names>VS</given-names>
+              </name>
+              <name>
+                <surname>Covic</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Cusumano</surname>
+                <given-names>A</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Global variation in renal replacement therapy for end-stage renal disease</article-title>
+            <source>Nephrol Dial Transplant</source>
+            <year>2011</year>
+            <volume>26</volume>
+            <fpage>2604</fpage>
+            <lpage>2610</lpage>
+            <pub-id pub-id-type="doi">10.1093/ndt/gfq781</pub-id>
+            <pub-id pub-id-type="pmid">21245131</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR7">
+          <label>7.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Novelia</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Nugraha</surname>
+                <given-names>RR</given-names>
+              </name>
+              <name>
+                <surname>Thabrany</surname>
+                <given-names>H</given-names>
+              </name>
+            </person-group>
+            <article-title>Cost effectiveness analysis between hemodialysis and peritoneal dialysis</article-title>
+            <source>J Ekon Kesehat Indones</source>
+            <year>2017</year>
+            <pub-id pub-id-type="doi">10.7454/eki.v1i3.1776</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR8">
+          <label>8.</label>
+          <mixed-citation publication-type="other">PERNEFRI. 11th Report of Indonesian Renal Registry 2018. IRR. 1–46. 2018</mixed-citation>
+        </ref>
+        <ref id="CR9">
+          <label>9.</label>
+          <mixed-citation publication-type="other">BPJS Kesehatan. Dialysis utilization pattern 2014. Internal presentation. Jakarta: 2015.</mixed-citation>
+        </ref>
+        <ref id="CR10">
+          <label>10.</label>
+          <mixed-citation publication-type="other">Center for Health Economics and Policy Studies (CHEPS). 2017 The Economic Evaluation Of Continuous Ambulatory Peritoneal Dialysis (CAPD) and Hemodialysis In Indonesia. Depok. Internal Report.</mixed-citation>
+        </ref>
+        <ref id="CR11">
+          <label>11.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Afiatin</surname>
+                <given-names>KLC</given-names>
+              </name>
+              <name>
+                <surname>Kristin</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Masytoh</surname>
+                <given-names>LS</given-names>
+              </name>
+              <name>
+                <surname>Herlinawaty</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Werayingyong</surname>
+                <given-names>P</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Economic evaluation of policy options for dialysis in end-stage renal disease patients under the universal health coverage in Indonesia</article-title>
+            <source>PLoS ONE</source>
+            <year>2017</year>
+            <pub-id pub-id-type="doi">10.1371/journal.pone.0177436</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR12">
+          <label>12.</label>
+          <mixed-citation publication-type="other">Kemenkes RI. 2017 Buku Panduan Penilaian Teknologi Kesehatan Efektivitas Klinis Buku Panduan Penilaian Teknologi Kesehatan. Efektivitas Klinis. 1–44. </mixed-citation>
+        </ref>
+        <ref id="CR13">
+          <label>13.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Tongsiri</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Cairns</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Estimating population-based values for EQ-5D health states in Thailand</article-title>
+            <source>Value Heal</source>
+            <year>2011</year>
+            <volume>14</volume>
+            <fpage>1142</fpage>
+            <lpage>1145</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.jval.2011.06.005</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR14">
+          <label>14.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Purba</surname>
+                <given-names>FD</given-names>
+              </name>
+              <name>
+                <surname>Hunfeld</surname>
+                <given-names>JAM</given-names>
+              </name>
+              <name>
+                <surname>Iskandarsyah</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Fitriana</surname>
+                <given-names>TS</given-names>
+              </name>
+              <name>
+                <surname>Sadarjoen</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Ramos-Goñi</surname>
+                <given-names>JM</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>The Indonesian EQ-5D-5L Value Set</article-title>
+            <source>Pharmacoeconomics</source>
+            <year>2017</year>
+            <volume>35</volume>
+            <fpage>1153</fpage>
+            <lpage>1165</lpage>
+            <pub-id pub-id-type="doi">10.1007/s40273-017-0538-9</pub-id>
+            <pub-id pub-id-type="pmid">28695543</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR15">
+          <label>15.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Bertram</surname>
+                <given-names>MY</given-names>
+              </name>
+              <name>
+                <surname>Lauer</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>De Joncheere</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Edejer</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Hutubessy</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Kieny</surname>
+                <given-names>M-P</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Policy &amp; practice Cost–effectiveness thresholds: pros and cons Thresholds based on gross domestic product</article-title>
+            <source>Bull World Heal Organ</source>
+            <year>2015</year>
+            <volume>2016</volume>
+            <issue>94</issue>
+            <fpage>925</fpage>
+            <lpage>930</lpage>
+          </element-citation>
+        </ref>
+        <ref id="CR16">
+          <label>16.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Surendra</surname>
+                <given-names>NK</given-names>
+              </name>
+              <name>
+                <surname>Manaf</surname>
+                <given-names>MRA</given-names>
+              </name>
+              <name>
+                <surname>Hooi</surname>
+                <given-names>LS</given-names>
+              </name>
+              <name>
+                <surname>Bavanandan</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nor</surname>
+                <given-names>FSM</given-names>
+              </name>
+              <name>
+                <surname>Khan</surname>
+                <given-names>SSF</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Cost utility analysis of end stage renal disease treatment in Ministry of Health dialysis centres, Malaysia: Hemodialysis versus continuous ambulatory peritoneal dialysis</article-title>
+            <source>PLoS ONE</source>
+            <year>2019</year>
+            <volume>14</volume>
+            <fpage>1</fpage>
+            <lpage>16</lpage>
+            <pub-id pub-id-type="doi">10.1371/journal.pone.0218422</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR17">
+          <label>17.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gupta</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Jyani</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Ramachandran</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Bahuguna</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Ameel</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Dahiya</surname>
+                <given-names>BB</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Peritoneal dialysis–first initiative in India: a cost-effectiveness analysis</article-title>
+            <source>Clin Kidney J</source>
+            <year>2022</year>
+            <volume>15</volume>
+            <fpage>128</fpage>
+            <lpage>135</lpage>
+            <pub-id pub-id-type="doi">10.1093/ckj/sfab126</pub-id>
+            <pub-id pub-id-type="pmid">35035943</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR18">
+          <label>18.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Xue</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Ix</surname>
+                <given-names>JH</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Brunelli</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Lazarus</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hakim</surname>
+                <given-names>R</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Hemodialysis access usage patterns in the incident dialysis year and associated catheter-related complications</article-title>
+            <source>Am J Kidney Dis</source>
+            <year>2013</year>
+            <volume>61</volume>
+            <fpage>123</fpage>
+            <lpage>130</lpage>
+            <pub-id pub-id-type="doi">10.1053/j.ajkd.2012.09.006</pub-id>
+            <pub-id pub-id-type="pmid">23159234</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR19">
+          <label>19.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gunawan</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>SAKTI PT. </surname>
+              </name>
+            </person-group>
+            <article-title>Pos-662 5-year survival rate of continuous ambulatory peritoneal dialysis in end-stage renal disease in indonesia can capd be solution for esrd in low income developing country?</article-title>
+            <source>Kidney Int Rep</source>
+            <year>2021</year>
+            <pub-id pub-id-type="doi">10.1016/j.ekir.2021.03.692</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR20">
+          <label>20.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Afiatin</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>Wahyudi</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Riono</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Roesli</surname>
+                <given-names>RMA</given-names>
+              </name>
+            </person-group>
+            <article-title>Survival analysis of chronic kidney disease patients with hemodialysis in west java. Indonesia, year 2007–2018</article-title>
+            <source>Maj Kedokt Bandung</source>
+            <year>2020</year>
+            <volume>52</volume>
+            <fpage>172</fpage>
+            <lpage>179</lpage>
+            <pub-id pub-id-type="doi">10.15395/mkb.v52n3.2124</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR21">
+          <label>21.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Howell</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Walker</surname>
+                <given-names>RC</given-names>
+              </name>
+              <name>
+                <surname>Howard</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Cost effectiveness of dialysis modalities: a systematic review of economic evaluations</article-title>
+            <source>Appl Health Econ Health Policy</source>
+            <year>2019</year>
+            <volume>17</volume>
+            <fpage>315</fpage>
+            <lpage>330</lpage>
+            <pub-id pub-id-type="doi">10.1007/s40258-018-00455-2</pub-id>
+            <pub-id pub-id-type="pmid">30714086</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR22">
+          <label>22.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Pike</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Hamidi</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Ringerike</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Wisloff</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Klemp</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>More use of peritoneal dialysis gives significant savings: a systematic review and health economic decision model</article-title>
+            <source>J Clin Med Res</source>
+            <year>2017</year>
+            <volume>9</volume>
+            <fpage>104</fpage>
+            <lpage>116</lpage>
+            <pub-id pub-id-type="doi">10.14740/jocmr2817w</pub-id>
+            <pub-id pub-id-type="pmid">28090226</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR23">
+          <label>23.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Wong</surname>
+                <given-names>CKH</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fung</surname>
+                <given-names>SKS</given-names>
+              </name>
+              <name>
+                <surname>Mok</surname>
+                <given-names>MMY</given-names>
+              </name>
+              <name>
+                <surname>Cheng</surname>
+                <given-names>YL</given-names>
+              </name>
+              <name>
+                <surname>Kong</surname>
+                <given-names>I</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Direct and indirect costs of end-stage renal disease patients in the first and second years after initiation of nocturnal home haemodialysis, hospital haemodialysis and peritoneal dialysis</article-title>
+            <source>Nephrol Dial Transplant</source>
+            <year>2019</year>
+            <volume>34</volume>
+            <fpage>1565</fpage>
+            <lpage>1576</lpage>
+            <pub-id pub-id-type="doi">10.1093/ndt/gfy395</pub-id>
+            <pub-id pub-id-type="pmid">30668781</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR24">
+          <label>24.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Salonen</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Reina</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Oksa</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Rissanen</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Pasternack</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Alternative strategies to evaluate the cost-effectiveness of peritoneal dialysis and hemodialysis</article-title>
+            <source>Int Urol Nephrol</source>
+            <year>2007</year>
+            <volume>39</volume>
+            <fpage>289</fpage>
+            <lpage>298</lpage>
+            <pub-id pub-id-type="doi">10.1007/s11255-006-9141-2</pub-id>
+            <pub-id pub-id-type="pmid">17333524</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR25">
+          <label>25.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Yang</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Lau</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Luo</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Cost-effectiveness of haemodialysis and peritoneal dialysis for patients with end-stage renal disease in Singapore</article-title>
+            <source>Nephrology (Carlton)</source>
+            <year>2016</year>
+            <volume>21</volume>
+            <fpage>669</fpage>
+            <lpage>677</lpage>
+            <pub-id pub-id-type="doi">10.1111/nep.12668</pub-id>
+            <pub-id pub-id-type="pmid">26566750</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </article>
+</pmc-articleset>

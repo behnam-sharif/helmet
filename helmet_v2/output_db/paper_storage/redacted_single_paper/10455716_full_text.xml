@@ -1,0 +1,777 @@
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article">
+    <?properties open_access?>
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+      <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">J Indian Assoc Pediatr Surg</journal-id>
+        <journal-id journal-id-type="iso-abbrev">J Indian Assoc Pediatr Surg</journal-id>
+        <journal-id journal-id-type="publisher-id">JIAPS</journal-id>
+        <journal-title-group>
+          <journal-title>Journal of Indian Association of Pediatric Surgeons</journal-title>
+        </journal-title-group>
+        <issn pub-type="ppub">0971-9261</issn>
+        <issn pub-type="epub">1998-3891</issn>
+        <publisher>
+          <publisher-name>Wolters Kluwer - Medknow</publisher-name>
+          <publisher-loc>India</publisher-loc>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">37635890</article-id>
+        <article-id pub-id-type="pmc">10455716</article-id>
+        <article-id pub-id-type="publisher-id">JIAPS-28-278</article-id>
+        <article-id pub-id-type="doi">10.4103/jiaps.jiaps_27_23</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Review Article</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>A Cost-effectiveness Model Comparing Urinary Biomarkers with Diuretic Renogram in Diagnosing Ureteropelvic Junction Obstruction in Children</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Sangeetha</surname>
+              <given-names>Geminiganesan</given-names>
+            </name>
+            <xref rid="aff1" ref-type="aff"/>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Babu</surname>
+              <given-names>Ramesh</given-names>
+            </name>
+            <xref rid="aff2" ref-type="aff">1</xref>
+            <xref rid="cor1" ref-type="corresp"/>
+          </contrib>
+        </contrib-group>
+        <aff id="aff1">Department of Pediatric Nephrology, Sri Ramachandra Institute of Higher Education and Research, Chennai, Tamil Nadu, India</aff>
+        <aff id="aff2"><label>1</label>Department of Pediatric Urology, Sri Ramachandra Institute of Higher Education and Research, Chennai, Tamil Nadu, India</aff>
+        <author-notes>
+          <corresp id="cor1"><bold><italic>Address for correspondence:</italic></bold> Dr. Ramesh Babu, Department of Pediatric Urology, Sri Ramachandra Institute of Higher Education and Research, Chennai - 600 116, Tamil Nadu, India. E-mail: <email xlink:href="drrameshbabu1@gmail.com">drrameshbabu1@gmail.com</email>
+</corresp>
+        </author-notes>
+        <pub-date pub-type="ppub">
+          <season>Jul-Aug</season>
+          <year>2023</year>
+        </pub-date>
+        <pub-date pub-type="epub">
+          <day>11</day>
+          <month>7</month>
+          <year>2023</year>
+        </pub-date>
+        <volume>28</volume>
+        <issue>4</issue>
+        <fpage>278</fpage>
+        <lpage>281</lpage>
+        <history>
+          <date date-type="received">
+            <day>07</day>
+            <month>2</month>
+            <year>2023</year>
+          </date>
+          <date date-type="rev-recd">
+            <day>01</day>
+            <month>3</month>
+            <year>2023</year>
+          </date>
+          <date date-type="accepted">
+            <day>31</day>
+            <month>3</month>
+            <year>2023</year>
+          </date>
+        </history>
+        <permissions>
+          <copyright-statement>Copyright: © 2023 Journal of Indian Association of Pediatric Surgeons</copyright-statement>
+          <copyright-year>2023</copyright-year>
+          <license>
+            <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncsalicense">https://creativecommons.org/licenses/by-nc-sa/4.0/</ali:license_ref>
+            <license-p>This is an open access journal, and articles are distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, which allows others to remix, tweak, and build upon the work non-commercially, as long as appropriate credit is given and the new creations are licensed under the identical terms.</license-p>
+          </license>
+        </permissions>
+        <kwd-group>
+          <kwd>
+            <italic>Biomarkers</italic>
+          </kwd>
+          <kwd>
+            <italic>cost-effectiveness</italic>
+          </kwd>
+          <kwd>
+            <italic>hydronephrosis</italic>
+          </kwd>
+          <kwd>
+            <italic>proteomics</italic>
+          </kwd>
+        </kwd-group>
+      </article-meta>
+    </front>
+    <body>
+      <sec sec-type="intro" id="sec1-1">
+        <title>I<sc>NTRODUCTION</sc></title>
+        <p>Routine fetal ultrasound examination has enabled prompt identification of urinary tract dilatation very frequently. Nonobstructive dilatation (NOD) due to transient hydronephrosis is the most common cause followed by ureteropelvic junction (UPJO) obstruction.[<xref rid="ref1" ref-type="bibr">1</xref>] Once confirmed by postnatal sonography, the main challenge is prompt identification of the 20%–30% of children in whom the disease is likely to progress over time and likely to result in loss of renal function without surgery.[<xref rid="ref2" ref-type="bibr">2</xref>] While the differentiation of these two conditions is indeed crucial to prevent renal impairment, these children are put through multiple invasive investigations[<xref rid="ref3" ref-type="bibr">3</xref>] like diuretic renogram (DR) to arrive at a decision.[<xref rid="ref4" ref-type="bibr">4</xref>]</p>
+        <p>Urinary biomarkers aid in a noninvasive assessment of renal damage and have shown promising results in the differentiation of NOD from UPJO.[<xref rid="ref5" ref-type="bibr">5</xref>] More commonly reported biomarkers include: neutrophil gelatinase-associated lipocalin (NGAL), monocyte chemotactic protein-1 (MCP-1), carbohydrate antigen 19-9 (CA19-9), kidney injury molecule-1 (KIM-1), epidermal growth factor, and interferon-gamma-induced protein-10 (IP-10). A recent meta-analysis compared the sensitivity and specificity of these biomarkers and recommended a panel of biomarkers to improve the accuracy.[<xref rid="ref6" ref-type="bibr">6</xref>] In this hypothetical cost-effectiveness model, we have compared the cost-effectiveness of commonly used urinary biomarkers with conventional DR in diagnosing UPJO. We hypothesized that urinary biomarkers are as effective as DR and in the future could potentially replace the more invasive renogram, thus also reducing the patient/environmental radiation exposure.</p>
+      </sec>
+      <sec sec-type="methods" id="sec1-2">
+        <title>M<sc>ETHODS</sc></title>
+        <p>We used the incremental cost-effectiveness ratio (ICER) as a tool for our cost-effectiveness analysis model.[<xref rid="ref7" ref-type="bibr">7</xref>] It is the ratio of the difference in cost between two possible interventions, divided by the difference in their effect (ICER = Difference in cost/difference in effect). The cost of biomarker assay and renogram were sourced from the same center where the authors work to have a comparable economic/financial setup. The effect to be compared in this model was accuracy of the urine biomarker versus that of the DR. We sourced the sensitivity, specificity, and accuracy data of DR, as well as urinary biomarkers from the relevant publications and used them as the denominator. While quality-adjusted life year is used to compare treatment effects, in a diagnostic test, as in our case, accuracy is the numerator.</p>
+        <p>We constructed four quadrant cost-effectiveness plot to compare DR with the commonly used urine biomarkers. Renogram costs and accuracy were used as benchmark as we wanted to work out the cost-effectiveness of urine biomarkers (single or panel) as its replacement. Based on the working model, the future scope of the urine biomarkers panel was also predicted. Being a hypothetical model, data used were from published articles[<xref rid="ref6" ref-type="bibr">6</xref><xref rid="ref8" ref-type="bibr">8</xref><xref rid="ref9" ref-type="bibr">9</xref>] and not from patient data.</p>
+      </sec>
+      <sec sec-type="results" id="sec1-3">
+        <title>R<sc>ESULTS</sc></title>
+        <p><xref rid="T1" ref-type="table">Table 1</xref> compares the overall accuracy (which considers both sensitivity and specificity), cost and ICER of biomarkers in comparison to renogram. DR was reported to have an accuracy of 92%.[<xref rid="ref8" ref-type="bibr">8</xref>] Most of the biomarkers at present have less accuracy compared to renogram. Overall accuracy was highest at 78% for CA19-9, followed by 77% for NGAL, and 75% for KIM-1.[<xref rid="ref6" ref-type="bibr">6</xref>] The cost of DR at the author's center was 60 USD, whereas that of a single biomarker assay using the ELISA method was 32 USD. <xref rid="T1" ref-type="table">Table 1</xref> compares the ICER of a single biomarker as well as biomarker panel (with hypothetic predictions for the future). As the accuracy of individual biomarker increased, the ICER also got better. As a panel of biomarker was introduced, the ICER went to the negative range suggesting cost saving as well.</p>
+        <table-wrap position="float" id="T1">
+          <label>Table 1</label>
+          <caption>
+            <p>Accuracy, cost, and incremental cost-effectiveness ratio of urinary biomarkers (newer test) <italic>vis-a-vis</italic> diuretic renogram (older test)</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" rowspan="1" colspan="1">Test</th>
+                <th align="center" rowspan="1" colspan="1">Sensitivity (%)</th>
+                <th align="center" rowspan="1" colspan="1">Specificity (%)</th>
+                <th align="center" rowspan="1" colspan="1">Accuracy (%)</th>
+                <th align="center" rowspan="1" colspan="1">Cost (USD)*</th>
+                <th align="center" rowspan="1" colspan="1">ICER</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">DR[<xref rid="ref8" ref-type="bibr">8</xref>]</td>
+                <td align="center" rowspan="1" colspan="1">89</td>
+                <td align="center" rowspan="1" colspan="1">94</td>
+                <td align="center" rowspan="1" colspan="1">92</td>
+                <td align="center" rowspan="1" colspan="1">80</td>
+                <td align="center" rowspan="1" colspan="1">-</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Urine biomarkers (single)</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"> MCP1[<xref rid="ref6" ref-type="bibr">6</xref>]</td>
+                <td align="center" rowspan="1" colspan="1">80</td>
+                <td align="center" rowspan="1" colspan="1">60</td>
+                <td align="center" rowspan="1" colspan="1">71</td>
+                <td align="center" rowspan="1" colspan="1">32</td>
+                <td align="center" rowspan="1" colspan="1">2.2</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"> EGF[<xref rid="ref6" ref-type="bibr">6</xref>]</td>
+                <td align="center" rowspan="1" colspan="1">69</td>
+                <td align="center" rowspan="1" colspan="1">74</td>
+                <td align="center" rowspan="1" colspan="1">72</td>
+                <td align="center" rowspan="1" colspan="1">32</td>
+                <td align="center" rowspan="1" colspan="1">2.2</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"> IP-10[<xref rid="ref6" ref-type="bibr">6</xref>]</td>
+                <td align="center" rowspan="1" colspan="1">74</td>
+                <td align="center" rowspan="1" colspan="1">70</td>
+                <td align="center" rowspan="1" colspan="1">72</td>
+                <td align="center" rowspan="1" colspan="1">32</td>
+                <td align="center" rowspan="1" colspan="1">2.2</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"> KIM-1[<xref rid="ref6" ref-type="bibr">6</xref>]</td>
+                <td align="center" rowspan="1" colspan="1">75</td>
+                <td align="center" rowspan="1" colspan="1">75</td>
+                <td align="center" rowspan="1" colspan="1">75</td>
+                <td align="center" rowspan="1" colspan="1">32</td>
+                <td align="center" rowspan="1" colspan="1">2.8</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"> NGAL[<xref rid="ref6" ref-type="bibr">6</xref>]</td>
+                <td align="center" rowspan="1" colspan="1">78</td>
+                <td align="center" rowspan="1" colspan="1">76</td>
+                <td align="center" rowspan="1" colspan="1">77</td>
+                <td align="center" rowspan="1" colspan="1">32</td>
+                <td align="center" rowspan="1" colspan="1">3.2</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"> CA19-9[<xref rid="ref6" ref-type="bibr">6</xref>]</td>
+                <td align="center" rowspan="1" colspan="1">87</td>
+                <td align="center" rowspan="1" colspan="1">74</td>
+                <td align="center" rowspan="1" colspan="1">78</td>
+                <td align="center" rowspan="1" colspan="1">32</td>
+                <td align="center" rowspan="1" colspan="1">3.4</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Urine biomarkers (panel)</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"> KIM, IP-10 and CA19-9[<xref rid="ref9" ref-type="bibr">9</xref>]</td>
+                <td align="center" rowspan="1" colspan="1">83</td>
+                <td align="center" rowspan="1" colspan="1">84</td>
+                <td align="center" rowspan="1" colspan="1">85</td>
+                <td align="center" rowspan="1" colspan="1">96</td>
+                <td align="center" rowspan="1" colspan="1">−2</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"> Future biomarker panel**</td>
+                <td align="center" rowspan="1" colspan="1">91**</td>
+                <td align="center" rowspan="1" colspan="1">94**</td>
+                <td align="center" rowspan="1" colspan="1">93**</td>
+                <td align="center" rowspan="1" colspan="1">70**</td>
+                <td align="center" rowspan="1" colspan="1">−10**</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn>
+              <p>*Cost based on author’s institution (likely to vary in different countries), **Projections for the future. ICER is worked out by dividing the difference in cost by difference in the accuracy of newer and older tests. ICER: Incremental cost-effectiveness ratio, MCP-1: Monocyte chemotactic protein-1, EGF: Epidermal growth factor, IP-10: Induced protein 10, KIM-1: Kidney injury molecule 1, NGAL: Neutrophil gelatinase-associated lipocalin, CA19-9: Carbohydrate antigen 19-9, DR: Diuretic renogram</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p><xref rid="F1" ref-type="fig">Figure 1</xref> reveals the four-quadrant plot of cost-effectiveness analysis model. ICER of most urine biomarkers is currently in southwest quadrant (less expensive and less effective). When a biomarker panel was applied ICER moved to northeast quadrant (more expensive and more effective). With higher samples, test running cost is likely to go down in the future and thus biomarkers are likely to move to southeast quadrant (less expensive and more effective) compared to DRs after a decade.</p>
+        <fig position="float" id="F1">
+          <label>Figure 1</label>
+          <caption>
+            <p>Four quadrant cost-effectiveness plot, where X-axis represents increasing effect (accuracy) and Y-axis represents increasing cost. The benchmark test (DR) is kept in the middle to make comparison easier. While current single biomarkers are less expensive and less effective, the future panel of biomarkers is likely to be less expensive and more effective. DR: Diuretic renogram, MCP-1: Monocyte chemotactic protein-1, EGF: Epidermal growth factor, IP-10: Induced protein 10, KIM-1: Kidney injury molecule-1, NGAL: Neutrophil gelatinase-associated lipocalin, CA19-9: Carbohydrate antigen 19-9</p>
+          </caption>
+          <graphic xlink:href="JIAPS-28-278-g001" position="float"/>
+        </fig>
+      </sec>
+      <sec sec-type="discussion" id="sec1-4">
+        <title>D<sc>ISCUSSION</sc></title>
+        <p>Urinary biomarkers have become a topic of interest of late due to the noninvasive nature of the test.[<xref rid="ref2" ref-type="bibr">2</xref>] The sequence of events in significant UPJO consists of obstruction affecting glomerular filtration/renal perfusion, activation of renin-angiotensin mechanism, macrophage infiltration, apoptosis, accumulation of interstitial fibroblasts, and epithelial transformation of renal tubular cells.[<xref rid="ref5" ref-type="bibr">5</xref>] Using proteomic analysis, several attempts have been made to evaluate molecules that could be utilized as potential biomarkers of significant UPJO in recent years.[<xref rid="ref10" ref-type="bibr">10</xref>] An ideal biomarker is characterized by the optimal sensitivity, specificity and AUC on receiver operating characteristic curves often used to determine its clinical diagnostic and prognostic value.[<xref rid="ref11" ref-type="bibr">11</xref>] A recent meta-analysis compared the accuracy of the most commonly used urinary biomarkers in the diagnosis of UPJO in the contemporary literature and reported that CA19-9 was the most accurate followed by NGAL and KIM-1.[<xref rid="ref6" ref-type="bibr">6</xref>] While the idea is to reduce the need for invasive investigations like DR, the cost-effectiveness of urinary biomarkers is yet to be analyzed. In this hypothetical model, we compared the cost-effectiveness of biomarkers versus renogram and attempted to analyze their scope.</p>
+        <p>Karakus <italic>et al</italic>.[<xref rid="ref12" ref-type="bibr">12</xref>] reported that IP-10 and MCP-1 were superior to NGAL and KIM-1 in predicting who required surgery. Özkuvancı <italic>et al</italic>.[<xref rid="ref9" ref-type="bibr">9</xref>] compared five different markers and reported that KIM-1 had the best area under the curve (AUC) in predicting UPJO compared to IP-10, NGAL, MCP, or CA19-9. Yücel <italic>et al</italic>.[<xref rid="ref13" ref-type="bibr">13</xref>] also compared five different biomarkers in patients with supranormal function and reported that NGAL and CA19-9 were better in predicting the requirement for surgical correction before the deterioration of renal function. In a recent meta-analysis, the overall accuracy was highest for CA19-9 (78%), followed by 77% for NGAL, and 75% for KIM-1.[<xref rid="ref6" ref-type="bibr">6</xref>]Özkuvancı <italic>et al</italic>.[<xref rid="ref9" ref-type="bibr">9</xref>] reported that a combination of KIM-1 with IP-10 and/or CA19-9 increased diagnostic ability. The sensitivity and specificity increased to 83% and 85% (AUC: 0.91). Yu <italic>et al</italic>.[<xref rid="ref14" ref-type="bibr">14</xref>] also felt that a combination of NGAL and MCP-1 assessments improved diagnostic performance more than either of them alone. Kostic <italic>et al</italic>.[<xref rid="ref15" ref-type="bibr">15</xref>] also supported a combination of biomarkers for best diagnostic accuracy. Yücel <italic>et al</italic>.[<xref rid="ref13" ref-type="bibr">13</xref>] reported that combining NGAL and MCP improved diagnostic accuracy. In a recent meta-analysis,[<xref rid="ref6" ref-type="bibr">6</xref>] a panel of biomarkers combining NGAL, KIM, and CA19-9 was reported to have the best diagnostic accuracy.</p>
+        <p>While the current biomarkers are less effective and less expensive compared to DR, a panel of biomarkers as proposed in many studies is likely to make biomarkers more accurate [<xref rid="F1" ref-type="fig">Figure 1</xref>]. The cost of biomarker analysis is mainly driven by the number of samples available for each run. With the advent of popular use and biomarker panel kits, the cost is likely to come down in the next decade making urine biomarkers less expensive and at least as effective, if not more, than DRs. While one still may have to rely on DRs before surgery to get baseline split renal function, etc., in the majority of children with NOD, a normal biomarker panel may spare them from invasive renogram and thus the radiation exposure.</p>
+        <p>The main limitation of this study is being a hypothetic model based on data from the reviewed literature. One has to substantiate the cost-effectiveness of urinary biomarkers versus DR in an actual clinical setting on patients with a prospective large study. Furthermore, the cutoff value described by different authors for urine biomarkers has varied widely.[<xref rid="ref6" ref-type="bibr">6</xref>] Kostic <italic>et al</italic>.[<xref rid="ref15" ref-type="bibr">15</xref>] reported different cutoff values for male and female children. Madsen <italic>et al</italic>.[<xref rid="ref16" ref-type="bibr">16</xref>] felt that reference values are likely to depend not only on the methods of analysis but also on the biological variation between individuals and probably the age of the child. Further research should focus on standardizing the kits/values to minimize variability in the cutoff. Further studies should also focus on identifying the best panel of marker combinations, rather than individual markers, to improve the accuracy.[<xref rid="ref6" ref-type="bibr">6</xref>] A best urine biomarker panel is likely to reduce the need for repeated invasive investigations like DRs in the future and help physicians in diagnosis as well as postoperative follow-up of children with UPJO.</p>
+      </sec>
+      <sec sec-type="conclusion" id="sec1-5">
+        <title>C<sc>ONCLUSIONS</sc></title>
+        <p>This hypothetical cost-effectiveness model shows that individual urine biomarkers are currently less expensive and less effective compared to DR in predicting UPJO. Future biomarker panel is likely to be more cost-effective and reduce the need for invasive renogram thus reducing the radiation exposure.</p>
+        <sec id="sec2-1">
+          <title>IRB approval</title>
+          <p>IEC/2022/43: Exempted for reviews</p>
+        </sec>
+        <sec sec-type="funding-statement" id="sec2-2">
+          <title>Financial support and sponsorship</title>
+          <p>Nil.</p>
+        </sec>
+        <sec sec-type="COI-statement" id="sec2-3">
+          <title>Conflicts of interest</title>
+          <p>There are no conflicts of interest.</p>
+        </sec>
+      </sec>
+    </body>
+    <back>
+      <ref-list>
+        <title>R<sc>EFERENCES</sc></title>
+        <ref id="ref1">
+          <label>1</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Cheng</surname>
+                <given-names>HL</given-names>
+              </name>
+            </person-group>
+            <article-title>Surgical indications for unilateral neonatal hydronephrosis in considering ureteropelvic junction obstruction</article-title>
+            <source>Urol Sci</source>
+            <year>2014</year>
+            <volume>25</volume>
+            <fpage>73</fpage>
+            <lpage>6</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Mesrobian</surname>
+                <given-names>HG</given-names>
+              </name>
+            </person-group>
+            <article-title>Urinary proteome analysis and the management of ureteropelvic junction obstruction</article-title>
+            <source>Pediatr Nephrol</source>
+            <year>2010</year>
+            <volume>25</volume>
+            <fpage>1595</fpage>
+            <lpage>6</lpage>
+            <pub-id pub-id-type="pmid">20407913</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Babu</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Ninan</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Sai</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Evaluating neonates with antenatal hyderonephrosis using a standard protocol: An audit of hospital records</article-title>
+            <source>Indian Pediatr</source>
+            <year>2018</year>
+            <volume>55</volume>
+            <fpage>966</fpage>
+            <lpage>8</lpage>
+            <pub-id pub-id-type="pmid">29941698</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Babu</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Venkatachalapathy</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Sai</surname>
+                <given-names>V</given-names>
+              </name>
+            </person-group>
+            <article-title>Hydronephrosis severity score: An objective assessment of hydronephrosis severity in children – A preliminary report</article-title>
+            <source>J Pediatr Urol</source>
+            <year>2019</year>
+            <volume>15</volume>
+            <fpage>68.e1</fpage>
+            <lpage>6</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Lucarelli</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Mancini</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Galleggiante</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Rutigliano</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Vavallo</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Battaglia</surname>
+                <given-names>M</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Emerging urinary markers of renal injury in obstructive nephropathy</article-title>
+            <source>Biomed Res Int</source>
+            <year>2014</year>
+            <volume>2014</volume>
+            <fpage>303298</fpage>
+            <pub-id pub-id-type="pmid">25101270</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sangeetha</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Babu</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparing accuracy of urinary biomarkers in differentiation of ureteropelvic junction obstruction from nonobstructive dilatation in children</article-title>
+            <source>Pediatr Nephrol</source>
+            <year>2022</year>
+            <volume>37</volume>
+            <fpage>2277</fpage>
+            <lpage>87</lpage>
+            <pub-id pub-id-type="pmid">35237864</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Harvie</surname>
+                <given-names>HS</given-names>
+              </name>
+              <name>
+                <surname>Amundsen</surname>
+                <given-names>CL</given-names>
+              </name>
+              <name>
+                <surname>Neuwahl</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Honeycutt</surname>
+                <given-names>AA</given-names>
+              </name>
+              <name>
+                <surname>Lukacz</surname>
+                <given-names>ES</given-names>
+              </name>
+              <name>
+                <surname>Sung</surname>
+                <given-names>VW</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Cost-effectiveness of sacral neuromodulation versus onabotulinumtoxina for refractory urgency urinary incontinence: Results of the ROSETTA Randomized Trial</article-title>
+            <source>J Urol</source>
+            <year>2020</year>
+            <volume>203</volume>
+            <fpage>969</fpage>
+            <lpage>77</lpage>
+            <pub-id pub-id-type="pmid">31738113</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Wong</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>Rossleigh</surname>
+                <given-names>MA</given-names>
+              </name>
+              <name>
+                <surname>Farnsworth</surname>
+                <given-names>RH</given-names>
+              </name>
+            </person-group>
+            <article-title>F+0 diuresis renography in infants and children</article-title>
+            <source>J Nucl Med</source>
+            <year>1999</year>
+            <volume>40</volume>
+            <fpage>1805</fpage>
+            <lpage>11</lpage>
+            <pub-id pub-id-type="pmid">10565774</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Özkuvancı</surname>
+                <given-names>Ü</given-names>
+              </name>
+              <name>
+                <surname>Dönmez</surname>
+                <given-names>Mİ</given-names>
+              </name>
+              <name>
+                <surname>Ziylan</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Oktar</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Küçükgergin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Çetin</surname>
+                <given-names>B</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Can urinary biomarkers detect obstruction defined by renal functional loss in antenatal hydronephrosis?</article-title>
+            <source>J Pediatr Urol</source>
+            <year>2020</year>
+            <volume>16</volume>
+            <fpage>844.e1</fpage>
+            <lpage>7</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Washino</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hosohata</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Miyagawa</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Roles played by biomarkers of kidney injury in patients with upper urinary tract obstruction</article-title>
+            <source>Int J Mol Sci</source>
+            <year>2020</year>
+            <volume>21</volume>
+            <fpage>5490</fpage>
+            <pub-id pub-id-type="pmid">32752030</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Paraboschi</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Mantica</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Dalton</surname>
+                <given-names>NR</given-names>
+              </name>
+              <name>
+                <surname>Turner</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Garriboli</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Urinary biomarkers in pelvic-ureteric junction obstruction: A systematic review</article-title>
+            <source>Transl Androl Urol</source>
+            <year>2020</year>
+            <volume>9</volume>
+            <fpage>722</fpage>
+            <lpage>42</lpage>
+            <pub-id pub-id-type="pmid">32420179</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Karakus</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Oktar</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Kucukgergin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Kalelioglu</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Seckin</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Atar</surname>
+                <given-names>A</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Urinary IP-10, MCP-1, NGAL, cystatin-C, and KIM-1 levels in prenatally diagnosed unilateral hydronephrosis: The search for an ideal biomarker</article-title>
+            <source>Urology</source>
+            <year>2016</year>
+            <volume>87</volume>
+            <fpage>185</fpage>
+            <lpage>92</lpage>
+            <pub-id pub-id-type="pmid">26505835</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Yücel</surname>
+                <given-names>ÖB</given-names>
+              </name>
+              <name>
+                <surname>Dönmez</surname>
+                <given-names>Mİ</given-names>
+              </name>
+              <name>
+                <surname>Küçükgergin</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Ziylan</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Seçkin</surname>
+                <given-names>Ş</given-names>
+              </name>
+              <name>
+                <surname>Oktar</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Urinary biomarkers can identify the need for pyeloplasty in presence of supranormal differential renal function in antenatally diagnosed unilateral hydronephrosis</article-title>
+            <source>J Pediatr Urol</source>
+            <year>2022</year>
+            <volume>18</volume>
+            <fpage>6</fpage>
+            <lpage>12</lpage>
+            <pub-id pub-id-type="pmid">34535387</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Yu</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Zhou</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>Q</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Luo</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>C</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Elevated urinary lipocalin-2, interleukin-6 and monocyte chemoattractant protein-1 levels in children with congenital ureteropelvic junction obstruction</article-title>
+            <source>J Pediatr Urol</source>
+            <year>2019</year>
+            <volume>15</volume>
+            <fpage>44.e1</fpage>
+            <lpage>7</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Kostic</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Beozzo</surname>
+                <given-names>GP</given-names>
+              </name>
+              <name>
+                <surname>do Couto</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Kato</surname>
+                <given-names>AH</given-names>
+              </name>
+              <name>
+                <surname>Lima</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Palmeira</surname>
+                <given-names>P</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>The role of renal biomarkers to predict the need of surgery in congenital urinary tract obstruction in infants</article-title>
+            <source>J Pediatr Urol</source>
+            <year>2019</year>
+            <volume>15</volume>
+            <fpage>242.e1</fpage>
+            <lpage>9</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Madsen</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Nørregaard</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Palmfeldt</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Olsen</surname>
+                <given-names>LH</given-names>
+              </name>
+              <name>
+                <surname>Frøkiær</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Jørgensen</surname>
+                <given-names>TM</given-names>
+              </name>
+            </person-group>
+            <article-title>Urinary NGAL, cystatin C, β2-microglobulin, and osteopontin significance in hydronephrotic children</article-title>
+            <source>Pediatr Nephrol</source>
+            <year>2012</year>
+            <volume>27</volume>
+            <fpage>2099</fpage>
+            <lpage>106</lpage>
+            <pub-id pub-id-type="pmid">22710694</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </article>
+</pmc-articleset>

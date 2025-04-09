@@ -1,0 +1,1439 @@
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.3">
+    <?properties open_access?>
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+      <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">Pharmacoecon Open</journal-id>
+        <journal-id journal-id-type="iso-abbrev">Pharmacoecon Open</journal-id>
+        <journal-title-group>
+          <journal-title>PharmacoEconomics Open</journal-title>
+        </journal-title-group>
+        <issn pub-type="ppub">2509-4262</issn>
+        <issn pub-type="epub">2509-4254</issn>
+        <publisher>
+          <publisher-name>Springer International Publishing</publisher-name>
+          <publisher-loc>Cham</publisher-loc>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">36929647</article-id>
+        <article-id pub-id-type="pmc">10169960</article-id>
+        <article-id pub-id-type="publisher-id">404</article-id>
+        <article-id pub-id-type="doi">10.1007/s41669-023-00404-3</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Original Research Article</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>A Cross-Indication Budget Impact Model of Secukinumab for the Treatment of Psoriasis, Psoriatic Arthritis, Ankylosing Spondylitis and Non-radiographic Axial Spondyloarthritis in Italy</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Cortesi</surname>
+              <given-names>Paolo Angelo</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+          </contrib>
+          <contrib contrib-type="author" corresp="yes">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9609-9556</contrib-id>
+            <name>
+              <surname>Fornari</surname>
+              <given-names>Carla</given-names>
+            </name>
+            <address>
+              <email>carla.fornari@unimib.it</email>
+            </address>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Gisondi</surname>
+              <given-names>Paolo</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Iannone</surname>
+              <given-names>Florenzo</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff3">3</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Antonazzo</surname>
+              <given-names>Ippazio Cosimo</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Aloisi</surname>
+              <given-names>Elisabetta</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff4">4</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Fiocchi</surname>
+              <given-names>Martina</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff4">4</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Ritrovato</surname>
+              <given-names>Daniela</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff4">4</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Mantovani</surname>
+              <given-names>Lorenzo Giovanni</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+            <xref ref-type="aff" rid="Aff5">5</xref>
+          </contrib>
+          <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.7563.7</institution-id><institution-id institution-id-type="ISNI">0000 0001 2174 1754</institution-id><institution>Research Centre on Public Health (CESP), </institution><institution>University of Milan-Bicocca, </institution></institution-wrap>Monza, Italy </aff>
+          <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.5611.3</institution-id><institution-id institution-id-type="ISNI">0000 0004 1763 1124</institution-id><institution>Section of Dermatology and Venereology, Department of Medicine, </institution><institution>University of Verona, </institution></institution-wrap>Verona, Italy </aff>
+          <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.7644.1</institution-id><institution-id institution-id-type="ISNI">0000 0001 0120 3326</institution-id><institution>DETO, Rheumatology Unit, </institution><institution>University of Bari, Policlinico, </institution></institution-wrap>Bari, Italy </aff>
+          <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.15585.3c</institution-id><institution>Novartis Farma SpA, </institution></institution-wrap>Origgio, Italy </aff>
+          <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.420421.1</institution-id><institution-id institution-id-type="ISNI">0000 0004 1784 7240</institution-id><institution>Value Based Healthcare Unit, </institution><institution>IRCCS Multimedica, </institution></institution-wrap>Sesto San Giovanni, Italy </aff>
+        </contrib-group>
+        <pub-date pub-type="epub">
+          <day>16</day>
+          <month>3</month>
+          <year>2023</year>
+        </pub-date>
+        <pub-date pub-type="pmc-release">
+          <day>16</day>
+          <month>3</month>
+          <year>2023</year>
+        </pub-date>
+        <pub-date pub-type="collection">
+          <month>5</month>
+          <year>2023</year>
+        </pub-date>
+        <volume>7</volume>
+        <issue>3</issue>
+        <fpage>405</fpage>
+        <lpage>416</lpage>
+        <history>
+          <date date-type="accepted">
+            <day>27</day>
+            <month>2</month>
+            <year>2023</year>
+          </date>
+        </history>
+        <permissions>
+          <copyright-statement>© The Author(s) 2023</copyright-statement>
+          <license>
+            <ali:license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+            <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, which permits any non-commercial use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>.</license-p>
+          </license>
+        </permissions>
+        <funding-group>
+          <award-group>
+            <funding-source>
+              <institution-wrap>
+                <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100004336</institution-id>
+                <institution>Novartis</institution>
+              </institution-wrap>
+            </funding-source>
+          </award-group>
+        </funding-group>
+        <custom-meta-group>
+          <custom-meta>
+            <meta-name>issue-copyright-statement</meta-name>
+            <meta-value>© Springer Nature Switzerland AG 2023</meta-value>
+          </custom-meta>
+        </custom-meta-group>
+      </article-meta>
+    </front>
+    <body>
+      <sec id="d32e334">
+        <title>Key Points for Decision Makers</title>
+        <p id="Par5">
+          <table-wrap id="Taba">
+            <table frame="hsides" rules="groups">
+              <tbody>
+                <tr>
+                  <td align="left">In the new indication for non-radiographic axial spondyloarthritis (nr-axSpA) patients, secukinumab reported no significant changes in the budget required for the management of nr-axSpA patients.</td>
+                </tr>
+                <tr>
+                  <td align="left">In all indications (psoriatic arthritis, plaque psoriasis, ankylosing spondylitis and nr-axSpA) overall, secukinumab was associated with a budget reduction for the Italian National Health System.</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+      </sec>
+      <sec id="Sec2">
+        <title>Introduction</title>
+        <p id="Par6">Autoimmune diseases (ADs) are a heterogeneous group of more than 80 chronic inflammatory disorders that are clinically diverse, yet unified through a common pathology of self-reactive adaptive immune responses [<xref ref-type="bibr" rid="CR1">1</xref>]. The prevalence of ADs is 5–8% worldwide, with a significant increased incidence observed in industrialized countries in recent decades [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR2">2</xref>]. ADs are characterized by slow progression with significant tissue damage accumulated over time [<xref ref-type="bibr" rid="CR1">1</xref>]. Medical treatments aim to modulate/suppress specific pathways of the immune system and include conventional treatments (e.g. methotrexate), biologics (e.g. infliximab) and small molecules (e.g. apremilast).</p>
+        <p id="Par7">Plaque psoriasis (PsO), psoriatic arthritis (PsA), ankylosing spondylitis (AS) and non-radiographic axial spondyloarthritis (nr-axSpA) are chronic ADs. They are usually associated with comorbidities and with a substantial impairment of health-related quality of life (QoL) [<xref ref-type="bibr" rid="CR3">3</xref>–<xref ref-type="bibr" rid="CR8">8</xref>]. They are chronic lifelong diseases characterized by flare-ups and periods of remission, with significant impairment of patients’ physical and psychological well-being, patients’ work productivity and high healthcare costs [<xref ref-type="bibr" rid="CR3">3</xref>–<xref ref-type="bibr" rid="CR8">8</xref>].</p>
+        <p id="Par8">PsO is a chronic inflammatory skin disorder affecting 2–3% of the world’s population [<xref ref-type="bibr" rid="CR9">9</xref>]. A subset of PsO patients (approximately 30%) develop PsA, an inflammatory seronegative spondyloarthropathy characterized by peripheral joint involvement and other manifestations of systemic inflammation [<xref ref-type="bibr" rid="CR10">10</xref>]. In the majority of patients, PsA develops, on average, 10 years after presentation of skin disease [<xref ref-type="bibr" rid="CR11">11</xref>], adding further burden to patients already affected by PsO. PsA worsens the quality of life resulting in increased healthcare and social costs. PsA also requires a treatment approach that is more complex than for PsO [<xref ref-type="bibr" rid="CR12">12</xref>].</p>
+        <p id="Par9">Axial spondyloarthritis (axSpA) is a chronic inflammatory disease of the spine, which includes nr-axSpA and AS [<xref ref-type="bibr" rid="CR13">13</xref>–<xref ref-type="bibr" rid="CR18">18</xref>]. The prevalence of axSpA is reported to be 0.3–1.4% globally [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR17">17</xref>, <xref ref-type="bibr" rid="CR19">19</xref>]. Patients with AS have structural damage in the sacroiliac (SI) joints and/or the spine that is detectable on radiographs [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR20">20</xref>]. Patients with nr-axSpA do not exhibit definitive radiographic sacroiliitis but have a disease burden comparable to that of patients with AS, including inflammatory back pain, morning stiffness, nocturnal awakening, fatigue and reduced spinal mobility [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR18">18</xref>, <xref ref-type="bibr" rid="CR20">20</xref>].</p>
+        <p id="Par10">Early treatments able to control the inflammation, prevent comorbidities and complications and preserve or improve physical function and social activities are fundamental in all these conditions [<xref ref-type="bibr" rid="CR21">21</xref>–<xref ref-type="bibr" rid="CR24">24</xref>]. In the past, the initial treatment for moderate–severe psoriasis included phototherapy and conventional systemic therapy, alone or in combination [<xref ref-type="bibr" rid="CR25">25</xref>], while nonsteroidal anti-inflammatory drugs (NSAIDs) were used as the first-line treatment in PsA, AS and nr-axSpA patients [<xref ref-type="bibr" rid="CR26">26</xref>–<xref ref-type="bibr" rid="CR29">29</xref>].</p>
+        <p id="Par11">In the past decade, the development of several drugs, biologics and non-biologics has substantially improved the outcomes of patients with ADs and changed the treatment approach [<xref ref-type="bibr" rid="CR30">30</xref>]. These include tumour necrosis factor (TNF)-α inhibitors, interleukin (IL)-12 and 23 inhibitors, IL-17A inhibitors and other products. Biologics are currently used for moderate–severe PsO, PsA, AS and nr-axSpA patients inadequately controlled by conventional treatments, and now they are also indicated by international guidelines as first-line treatment in some naïve patients [<xref ref-type="bibr" rid="CR21">21</xref>–<xref ref-type="bibr" rid="CR24">24</xref>].</p>
+        <p id="Par12">Secukinumab is a biologic agent that specifically targets interleukin-17A (IL-17A) involved in the pathological process of PsO, PsA, AS and nr-axSpA. It is a fully human monoclonal antibody. Clinical trials showed secukinumab efficacy for the management of PsO, PsA and AS [<xref ref-type="bibr" rid="CR31">31</xref>, <xref ref-type="bibr" rid="CR32">32</xref>]; moreover, a recent randomized clinical trial reported significant and sustained improvement in signs and symptoms of nr-axSpA patients treated with secukinumab compared with placebo [<xref ref-type="bibr" rid="CR33">33</xref>].</p>
+        <p id="Par13">Recently, secukinumab was approved for the treatment of active nr-axSpA in adults who responded inadequately to NSAIDs and have objective signs of inflammation indicated by elevated C-reactive protein and/or magnetic resonance imaging evidence. Consequently, it is necessary to understand the possible economic impact of these new treatment options to help healthcare decision makers to optimize the implementation of treatments in clinical practice and in the healthcare system. A cross-indication budget impact model was developed and used to estimate the impact on the budget associated with secukinumab, over a 3-year time horizon, including all four indications now approved in Italy.</p>
+      </sec>
+      <sec id="Sec3">
+        <title>Methods</title>
+        <p id="Par14">We developed a decision analytical model in Microsoft Excel for a cross-indication budget impact analysis (BIA) of secukinumab. The model structure was designed to estimate the effects of adding secukinumab in the Italian market overall and for each disease (PsO, PsA, AS and nr-axSpA) from the Italian National Health System (NHS) perspective over a 3-year period, as suggested by the Italian Medicines Agency (AIFA) guidelines 2020 (Fig. <xref rid="Fig1" ref-type="fig">1</xref>) [<xref ref-type="bibr" rid="CR34">34</xref>].<fig id="Fig1"><label>Fig. 1</label><caption><p>Cross-indication budget impact analysis model structure. <italic>AS</italic> ankylosing spondylitis, <italic>Nr-axSpA</italic> non-radiographic axial spondyloarthritis, <italic>PsA</italic> psoriatic arthritis, <italic>PsO</italic> psoriasis</p></caption><graphic xlink:href="41669_2023_404_Fig1_HTML" id="MO1"/></fig></p>
+        <p id="Par15">The model target population was the general adult (≥ 18 years) population living in Italy (Fig. <xref rid="Fig1" ref-type="fig">1</xref>). This population was restricted to patients with PsO, PsA, AS and nr-axSpA and treated with biologics or biosimilars. Starting from the estimated treated population and using market share data, the model created two different scenarios: the ‘scenario without secukinumab’ (1), where the treatment was not available, and the ‘scenario with secukinumab’ (2), where the treatment became available for the diseases. The model estimated total and per-treated-patient cost for each scenario, using data on indication-specific posology and cost of therapies. Finally, the model compared the costs related to the two scenarios and estimated the total and the percentage incremental cost (incremental budget impact) for the four diseases combined and taken individually, over the 3-year period and in each calendar year. Costs are expressed in Euro (€). The model was populated using aggregated data from literature and pharmacological market research including epidemiological data on prevalence of disease and treated patients, present and expected market share data and cost data related to therapies. As a result, no ethics committee approval was required. The model structure and methods are consistent with the recommendation made by the International Society for Pharmacoeconomics and Outcomes Research’s Task Force on Good Research Practices [<xref ref-type="bibr" rid="CR35">35</xref>].</p>
+        <sec id="Sec4">
+          <title>Model Input Data</title>
+          <p id="Par16">We populated the BIA model with estimates of the actual and expected Italian general adult population on January 1st of each year from the National Italian Institute of Statistics (ISTAT) (Table <xref rid="Tab1" ref-type="table">1</xref>). The size of the population with PsO, PsA, AS and Nr-axSpA was estimated using data on prevalence taken from literature and reported in Table <xref rid="Tab1" ref-type="table">1</xref> [<xref ref-type="bibr" rid="CR36">36</xref>–<xref ref-type="bibr" rid="CR39">39</xref>]. PsO and PsA prevalence rates were adjusted to account for overlap between the two conditions. In detail, we assumed that 24% of patients with PsO also had PsA and we reduced prevalence of PsO by 24% [<xref ref-type="bibr" rid="CR40">40</xref>]. After adjustment, PsO and PsA prevalence were 2.55% and 0.37%, respectively. Prevalence rates already account for the quote of incidence cases in each year. Data on patients treated with biologics or biosimilars were extrapolated from pharmacological market research reports.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Model inputs on population, disease and treatment prevalence</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">Value</th><th align="left">Source</th></tr></thead><tbody><tr><td align="left" colspan="3">Overall adult population</td></tr><tr><td align="left"> 2021</td><td align="left">50,878,186</td><td align="left" rowspan="3">Italian National Institute of ISTAT (<ext-link ext-link-type="uri" xlink:href="http://dati.istat.it/Index.aspx?DataSetCode=DCIS_PREVDEM1">http://dati.istat.it/Index.aspx?DataSetCode=DCIS_PREVDEM1</ext-link>)</td></tr><tr><td align="left"> 2022</td><td align="left">50,959,356</td></tr><tr><td align="left"> 2023</td><td align="left">51,042,403</td></tr><tr><td align="left" colspan="3">Disease and treatment</td></tr><tr><td align="left" colspan="3"> PsO</td></tr><tr><td align="left">  Prevalence</td><td align="left">2.90%<sup>1</sup></td><td align="left">[<xref ref-type="bibr" rid="CR36">36</xref>]</td></tr><tr><td align="left">  Diagnosed population treated with Biologics</td><td align="left">1.58%</td><td align="left">[<xref ref-type="bibr" rid="CR37">37</xref>], Market research Stethos PharmAccess 2021</td></tr><tr><td align="left" colspan="3"> PsA</td></tr><tr><td align="left">  Prevalence</td><td align="left">0.42%<sup>a</sup></td><td align="left">[<xref ref-type="bibr" rid="CR38">38</xref>]</td></tr><tr><td align="left">  Diagnosed population treated with biologics</td><td align="left">15.32%</td><td align="left">Market research Stethos PharmAccess 2021</td></tr><tr><td align="left" colspan="3"> AS</td></tr><tr><td align="left">  Prevalence</td><td align="left">0.10%</td><td align="left">[<xref ref-type="bibr" rid="CR39">39</xref>]</td></tr><tr><td align="left">  Diagnosed population treated with biologics</td><td align="left">17.28%</td><td align="left">Market research Stethos PharmAccess 2021</td></tr><tr><td align="left" colspan="3"> Nr-axSpA</td></tr><tr><td align="left">  Prevalence</td><td align="left">0.01%</td><td align="left">Market research Stethos PharmAccess 2021</td></tr><tr><td align="left">  Diagnosed population treated with biologics</td><td align="left">60.16%</td><td align="left">Market research Stethos PharmAccess 2021</td></tr></tbody></table><table-wrap-foot><p><italic>AS</italic> ankylosing spondylitis, <italic>Nr-axSpA</italic> non-radiographic axial spondyloarthritis, <italic>PsA</italic> psoriatic arthritis, <italic>PsO</italic> psoriasis</p><p><sup>a</sup>Prevalence was adjusted to account for overlap between PsO and PsA; 24% of patients with PsO has PsA [<xref ref-type="bibr" rid="CR40">40</xref>]</p></table-wrap-foot></table-wrap></p>
+          <p id="Par17">The two scenarios were created using market shares of the approved biologic or biosimilar and expected market shares with the introduction of secukinumab. Market shares were assumed to change over time (Supplementary Information Tables 1–4, see electronic supplementary material [ESM]); in this way, we accounted for discontinuation of therapies and changes in treatment approach. In detail, the model didn’t include a discontinuation rate for each treatment or a treatment shift over time based on the discontinuation rate, but it estimated a different market share in each simulated year. The annual market share estimated for each drug included the number of patients already treated in the previous year continuing treatment plus the new patients initiating treatment in the simulated year. The market share used in the model assumed a shift from both biosimilar and brand biologic treatments to secukinumab. This approach avoids the impact of secukinumab being underestimated compared with a scenario where only a shift from brand product was assumed. The market shares simulated were based on market research and expert opinions. Four experts (two clinical experts and two experts in health economics) provided their forecast on market share independently based on market research results. An average of the four market share forecasts indicated by the experts was shared for their revision and approval.</p>
+          <p id="Par18">The budgetary impact was estimated based on the consideration of drug acquisition and administration costs; no other direct costs were included in the analysis assuming minor differences between treatments based on previous BIA conducted in Italy [<xref ref-type="bibr" rid="CR41">41</xref>]. Drug acquisition costs for each therapy were estimated by multiplying the unit costs by average dosing and the total number of times the drug was administered. Average doses for each licenced treatment were taken from the European public assessment report (EPAR) by the European Medicines Agency [<xref ref-type="bibr" rid="CR42">42</xref>] and were different between the first year of therapy and the subsequent ones (Table <xref rid="Tab2" ref-type="table">2</xref>). Ex-factory AIFA unit costs of treatments [<xref ref-type="bibr" rid="CR43">43</xref>] net of statutory discounts (− 5%, followed by − 5%) were considered, as required by Italian law for each reimbursed drug. Cost per dose for infliximab was computed using mean population weight for each condition: 88.54 kg for PsO [<xref ref-type="bibr" rid="CR44">44</xref>], 87.11 kg for PsA [<xref ref-type="bibr" rid="CR45">45</xref>] and 81.36 kg for AS [<xref ref-type="bibr" rid="CR46">46</xref>].<table-wrap id="Tab2"><label>Table 2</label><caption><p>Model inputs on doses and costs for treatments</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2">Treatment option</th><th align="left" colspan="2">Doses</th><th align="left" rowspan="2">Cost per dose<sup>a</sup> (€)</th><th align="left" rowspan="2">Indication</th><th align="left" rowspan="2">Source</th></tr><tr><th align="left">Year 1</th><th align="left">Year 2 +</th></tr></thead><tbody><tr><td align="left">Secukinumab 150 mg</td><td align="left">16</td><td align="left">12</td><td align="left">473.81</td><td align="left">PsA, AS, nr-axSpA</td><td align="left" rowspan="2"><ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/cosentyx">https://www.ema.europa.eu/en/medicines/human/EPAR/cosentyx</ext-link></td></tr><tr><td align="left">Secukinumab 300 mg</td><td align="left">16</td><td align="left">12</td><td align="left">947.63</td><td align="left">PsO, PsA, AS</td></tr><tr><td align="left">Adalimumab 40 mg</td><td align="left">26</td><td align="left">26</td><td align="left">482.19</td><td align="left">PsO, PsA, AS, nr-axSpA</td><td align="left" rowspan="2"><ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/humira">https://www.ema.europa.eu/en/medicines/human/EPAR/humira</ext-link></td></tr><tr><td align="left">Adalimumab biosimilar 40 mg</td><td align="left">26</td><td align="left">26</td><td align="left">342.35</td><td align="left">PsO, PsA, AS, nr-axSpA</td></tr><tr><td align="left">Apremilast 30 mg</td><td align="left">695</td><td align="left">730</td><td align="left">13.54</td><td align="left">PsO, PsA</td><td align="left"><ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/otezla">https://www.ema.europa.eu/en/medicines/human/EPAR/otezla</ext-link></td></tr><tr><td align="left">Brodalumab</td><td align="left">28</td><td align="left">26</td><td align="left">552.63</td><td align="left">PsO</td><td align="left"><ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/kyntheum">https://www.ema.europa.eu/en/medicines/human/EPAR/kyntheum</ext-link></td></tr><tr><td align="left">Certolizumab 200 mg</td><td align="left">29</td><td align="left">26</td><td align="left">460.38</td><td align="left">PsA, AS, nr-axSpA</td><td align="left"><ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/cimzia">https://www.ema.europa.eu/en/medicines/human/EPAR/cimzia</ext-link></td></tr><tr><td align="left">Etanercept 50 mg</td><td align="left">52</td><td align="left">52</td><td align="left">230.25</td><td align="left">PsO, PsA, AS, nr-axSpA</td><td align="left" rowspan="2"><ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/enbrel">https://www.ema.europa.eu/en/medicines/human/EPAR/enbrel</ext-link></td></tr><tr><td align="left">Etanercept biosimilar 50 mg</td><td align="left">52</td><td align="left">52</td><td align="left">149.27</td><td align="left">PsO, PsA, AS, nr-axSpA</td></tr><tr><td align="left">Golimumab 50 mg</td><td align="left">12</td><td align="left">12</td><td align="left">1044.19</td><td align="left">PsA, AS, nr-axSpA</td><td align="left"><ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/simponi">https://www.ema.europa.eu/en/medicines/human/EPAR/simponi</ext-link></td></tr><tr><td align="left">Guselkumab</td><td align="left">8</td><td align="left">7</td><td align="left">2062.98</td><td align="left">PsO</td><td align="left"><ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/tremfya">https://www.ema.europa.eu/en/medicines/human/EPAR/tremfya</ext-link></td></tr><tr><td align="left">Infliximab<sup>b</sup></td><td align="left">8</td><td align="left">7</td><td align="left"><p>2018.87</p><p>1885.58</p></td><td align="left">PsA, AS</td><td align="left" rowspan="2"><ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/remicade">https://www.ema.europa.eu/en/medicines/human/EPAR/remicade</ext-link></td></tr><tr><td align="left">Infliximab biosimilar<sup>b</sup></td><td align="left">8</td><td align="left">7</td><td align="left"><p>1710.02</p><p>1682.41</p><p>1571.34</p></td><td align="left">PsO, PsA, AS</td></tr><tr><td align="left">Ixekizumab<sup>c</sup></td><td align="left">18/14/15</td><td align="left">13</td><td align="left">1012.70</td><td align="left">PsO, PsA, nr-axSpA</td><td align="left"><ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/taltz">https://www.ema.europa.eu/en/medicines/human/EPAR/taltz</ext-link></td></tr><tr><td align="left">Ustekinumab 45 mg</td><td align="left">6</td><td align="left">4</td><td align="left">2842.88</td><td align="left">PsO, PsA</td><td align="left"><ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/stelara">https://www.ema.europa.eu/en/medicines/human/EPAR/stelara</ext-link></td></tr><tr><td align="left">Risankizumab</td><td align="left">7</td><td align="left">4</td><td align="left">3230.00</td><td align="left">PsO</td><td align="left"><ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/skyrizi">https://www.ema.europa.eu/en/medicines/human/EPAR/skyrizi</ext-link></td></tr><tr><td align="left">Tildrakizumab</td><td align="left">6</td><td align="left">4</td><td align="left">3118.45</td><td align="left">PsO</td><td align="left"><ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/ilumetri">https://www.ema.europa.eu/en/medicines/human/EPAR/ilumetri</ext-link></td></tr><tr><td align="left">Tofacitinib</td><td align="left">731</td><td align="left">731</td><td align="left">12.87</td><td align="left">PsA</td><td align="left"><ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/xeljanz">https://www.ema.europa.eu/en/medicines/human/EPAR/xeljanz</ext-link></td></tr></tbody></table><table-wrap-foot><p>Source: EMA Europe – product information, accessed on 15 Feb 2023</p><p><italic>AS</italic> ankylosing spondylitis, <italic>Nr-axSpA</italic> non-radiographic axial spondyloarthritis, <italic>PsA</italic> psoriatic arthritis, <italic>PsO</italic> psoriasis</p><p><sup>a</sup>For each year</p><p><sup>b</sup>Cost per dose for infliximab is computed using mean population weight (PsO – Langley et al. [<xref ref-type="bibr" rid="CR44">44</xref>]; PsA – McInnes et al. [<xref ref-type="bibr" rid="CR45">45</xref>]; AS – Marzo-Ortega et al. [<xref ref-type="bibr" rid="CR46">46</xref>])</p><p><sup>c</sup>18 doses for PSO, 14 for PsA and AS, 15 for nr-axSpA</p></table-wrap-foot></table-wrap></p>
+          <p id="Par19">In the administration cost we put costs related to intravenous infusion of infliximab; the cost was estimated at €291.00 per infusion [<xref ref-type="bibr" rid="CR41">41</xref>]. Therapies administered subcutaneously are assumed to be self-administered outside the hospital or ambulatory setting with no cost associated, this assumption was based on the clinical practice in Italy.</p>
+          <p id="Par20">All other costs of treating PsA, PsO, AS and nr-axSpA are assumed to be the same between treatments and not affected by introducing new products to the market or changing market share of existing products. All costs refer to the 2021 price, prices related to a time period before 2021 were adjusted for a discount factor associated with inflation in Italian healthcare costs [<xref ref-type="bibr" rid="CR47">47</xref>].</p>
+        </sec>
+        <sec id="Sec5">
+          <title>Sensitivity Analyses</title>
+          <p id="Par21">The simulated BIA model also included a sensitivity analysis to assess the robustness of the results. The analysis was performed, varying by ± 10% one of the following model parameters at a time: prevalence, secukinumab cost, secukinumab market share. Associated total incremental budget impact changes are reported.</p>
+        </sec>
+      </sec>
+      <sec id="Sec6">
+        <title>Results</title>
+        <sec id="Sec7">
+          <title>Population</title>
+          <p id="Par22">The population with diagnosed PsA, PsO, AS and nr-axSpA treated with biologics over the 3-year time period was estimated to be 68,121 in 2021, growing to 68,341 in 2023 (Fig. <xref rid="Fig2" ref-type="fig">2</xref>a); the estimation was based on the annual ISTAT estimates of the Italian general adult population and disease prevalence taken from literature (Table <xref rid="Tab1" ref-type="table">1</xref>). The total populations in the year 2023 included 23,388 patients with PsA, 32,838 with PsO, 8820 with AS and 3295 with nr-axSpA. Of all treated patients, more than 16,000 per year were estimated to be treated with secukinumab: 16,813 in 2021, 16,449 in 2022 and 17,005 in 2023 (Fig. <xref rid="Fig2" ref-type="fig">2</xref>b). In detail, the patients with nr-axSpA and treated with secukinumab grew rapidly from the first year (<italic>N</italic> = 39) to subsequent years (362 and 491). For the other conditions, the number of patients treated with secukinumab was quite stable.<fig id="Fig2"><label>Fig. 2</label><caption><p>Estimated number of patients treated with biologics (<bold>a</bold>) and with secukinumb (<bold>b</bold>). <italic>AS</italic> ankylosing spondylitis, <italic>Nr-axSpA</italic> non-radiographic axial spondyloarthritis, <italic>PsA</italic> psoriatic arthritis, <italic>PsO</italic> psoriasis</p></caption><graphic xlink:href="41669_2023_404_Fig2_HTML" id="MO2"/></fig></p>
+        </sec>
+        <sec id="Sec8">
+          <title>Budget Impact Analysis</title>
+          <p id="Par23">The introduction of secukinumab in the Italian market led to an overall total budget reduction of €33.69 million over the 3 years, which was associated with a percentage reduction of 1.5% of the budget impact of the scenario without secukinumab (Fig. <xref rid="Fig3" ref-type="fig">3</xref>). Per-patient cost savings were estimated to be €493.90 per person over the 3 years.<fig id="Fig3"><label>Fig. 3</label><caption><p>Three-year cumulative budget impact results on total cost. <italic>AS</italic> ankylosing spondylitis, <italic>Nr-axSpA</italic> non-radiographic axial spondyloarthritis, <italic>PsA</italic> psoriatic arthritis, <italic>PsO</italic> psoriasis</p></caption><graphic xlink:href="41669_2023_404_Fig3_HTML" id="MO3"/></fig></p>
+          <p id="Par24">The availability of secukinumab for the treatment of PsO and PsA was expected to reduce the total budget by 1.0% and 3.4% over the cumulative period, with total incremental budget impacts of − €7.80 million and − €34.88 million, respectively. Therefore, the introduction of secukinumab had a major impact on costs related to PsA treatments, with per-person cost savings of €1063.95. On the other hand, the incremental budget impacts associated with the new scenario of secukinumab for the treatment of AS and nr-axSpA were estimated to be €79.5 million and €1.04 million, respectively, with percentage increases of 2.8% and 1.0% of the total cost of the scenario without the treatment. The per-patient incremental budget impact was €902.76 and €315.01 in AS and nr-axSpA, respectively.</p>
+          <p id="Par25">The direction of the 3-year cumulative incremental budget impact was confirmed in each singular year with a greater reduction of costs in the first year overall and for PsO (Tables <xref rid="Tab3" ref-type="table">3</xref>, <xref rid="Tab4" ref-type="table">4</xref>). The percentage reduction was constant for PsA, while for the diseases implying a budget increase, the impact was greater in the last year included in the analysis; the percentage incremental budget impact ranged from 2.5 to 3.1% for AS and from 0.1 to 1.9% for nr-axSpA. Annual budget impact results per treated patient confirmed what was reported for total cost and are reported in Supplementary Information Table 5 (see ESM).<table-wrap id="Tab3"><label>Table 3</label><caption><p>Overall budget impact results on total and per treated patient costs by year</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">2021</th><th align="left">2022</th><th align="left">2023</th></tr></thead><tbody><tr><td align="left" colspan="4"><bold>Total cost</bold></td></tr><tr><td align="left" colspan="4"><italic>Scenario without secukinumab</italic></td></tr><tr><td align="left">Drug acquisition cost</td><td align="left">€755,870,248.26</td><td align="left">€748,313,595.20</td><td align="left">€746,406,186.79</td></tr><tr><td align="left">Administration cost</td><td align="left">€3,698,276.38</td><td align="left">€3,776,390.44</td><td align="left">€3,426,338.20</td></tr><tr><td align="left">Total</td><td align="left">€759,568,524.64</td><td align="left">€752,089,985.64</td><td align="left">€749,832,525.00</td></tr><tr><td align="left" colspan="4"><italic>Scenario with secukinumab</italic></td></tr><tr><td align="left">Drug acquisition cost</td><td align="left">€743,614,868.80</td><td align="left">€738,810,257.35</td><td align="left">€737,285,731.92</td></tr><tr><td align="left">Administration cost</td><td align="left">€2,763,183.35</td><td align="left">€2,798,509.96</td><td align="left">€2,524,582.47</td></tr><tr><td align="left">Total</td><td align="left">€746,378,052.15</td><td align="left">€741,608,767.31</td><td align="left">€739,810,314.39</td></tr><tr><td align="left"><italic>Incremental budget impact</italic></td><td align="left">− €13,190,472.49</td><td align="left">− €10,481,218.33</td><td align="left">− €10,022,210.60</td></tr><tr><td align="left"><italic>Incremental budget impact %</italic></td><td align="left">− 1.8%</td><td align="left">− 1.4%</td><td align="left">− 1.4%</td></tr><tr><td align="left" colspan="4"><bold>Cost per treated patient</bold></td></tr><tr><td align="left" colspan="4"><italic>Scenario without secukinumab</italic></td></tr><tr><td align="left">Drug acquisition cost</td><td align="left">€11,095.96</td><td align="left">€10,967.54</td><td align="left">€10,921.78</td></tr><tr><td align="left">Administration cost</td><td align="left">€54.29</td><td align="left">€55.35</td><td align="left">€50.14</td></tr><tr><td align="left">Total</td><td align="left">€11,150.25</td><td align="left">€11,022.88</td><td align="left">€10,971.92</td></tr><tr><td align="left" colspan="4"><italic>Scenario with secukinumab</italic></td></tr><tr><td align="left">Drug acquisition cost</td><td align="left">€10,916.06</td><td align="left">€10,828.25</td><td align="left">€10,788.33</td></tr><tr><td align="left">Administration cost</td><td align="left">€40.56</td><td align="left">€41.02</td><td align="left">€36.94</td></tr><tr><td align="left">Total</td><td align="left">€10,956.62</td><td align="left">€10,869.27</td><td align="left">€10,825.27</td></tr><tr><td align="left"><italic>Incremental budget impact €</italic></td><td align="left">− €193.63</td><td align="left">− €153.62</td><td align="left">− €146.65</td></tr><tr><td align="left"><italic>Incremental budget impact %</italic></td><td align="left">− 1.8%</td><td align="left">− 1.4%</td><td align="left">− 1.4%</td></tr></tbody></table></table-wrap><table-wrap id="Tab4"><label>Table 4</label><caption><p>Budget impact results on total cost by disease and by year</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">2021</th><th align="left">2022</th><th align="left">2023</th></tr></thead><tbody><tr><td align="left" colspan="4"><bold>PsO</bold></td></tr><tr><td align="left" colspan="4"><italic>Scenario without secukinumab</italic></td></tr><tr><td align="left">Drug acquisition cost</td><td align="left">€278,724,312.72</td><td align="left">€272,982,822.84</td><td align="left">€273,914,135.11</td></tr><tr><td align="left">Administration cost</td><td align="left">€962,580.97</td><td align="left">€998,700.01</td><td align="left">€881,474.10</td></tr><tr><td align="left">Total</td><td align="left">€279,686,893.69</td><td align="left">€273,981,522.86</td><td align="left">€274,795,609.21</td></tr><tr><td align="left" colspan="4"><italic>Scenario with secukinumab</italic></td></tr><tr><td align="left">Drug acquisition cost</td><td align="left">€275,181,155.26</td><td align="left">€271,206,602.92</td><td align="left">€272,120,096.16</td></tr><tr><td align="left">Administration cost</td><td align="left">€712,309.92</td><td align="left">€761,009.41</td><td align="left">€682,848.61</td></tr><tr><td align="left">Total</td><td align="left">€275,893,465.18</td><td align="left">€271,967,612.33</td><td align="left">€272,802,944.77</td></tr><tr><td align="left"><italic>Incremental budget impact €</italic></td><td align="left">− €3,793,428.51</td><td align="left">− €2,013,910.52</td><td align="left">− €1,992,664.45</td></tr><tr><td align="left"><italic>Incremental budget impact %</italic></td><td align="left">− 1.4%</td><td align="left">− 0.7%</td><td align="left">− 0.7%</td></tr><tr><td align="left" colspan="4"><bold>PsA</bold></td></tr><tr><td align="left" colspan="4"><italic>Scenario without secukinumab</italic></td></tr><tr><td align="left">Drug acquisition cost</td><td align="left">€350,370,284.71</td><td align="left">€350,276,569.75</td><td align="left">€348,317,417.21</td></tr><tr><td align="left">Administration cost</td><td align="left">€1,834,613.43</td><td align="left">€1,825,290.07</td><td align="left">€1,529,849.59</td></tr><tr><td align="left">Total</td><td align="left">€352,204,898.14</td><td align="left">€352,101,859.82</td><td align="left">€349,847,266.79</td></tr><tr><td align="left" colspan="4"><italic>Scenario with secukinumab</italic></td></tr><tr><td align="left">Drug acquisition cost</td><td align="left">€339,006,136.18</td><td align="left">€339,320,850.65</td><td align="left">€337,087,777.30</td></tr><tr><td align="left">Administration cost</td><td align="left">€1,366,787.01</td><td align="left">€1,368,967.55</td><td align="left">€1,121,889.70</td></tr><tr><td align="left">Total</td><td align="left">€340,372,923.19</td><td align="left">€340,689,818.20</td><td align="left">€338,209,667.00</td></tr><tr><td align="left"><italic>Incremental budget impact €</italic></td><td align="left">− €11,831,974.95</td><td align="left">− €11,412,041.62</td><td align="left">− €11,637,599.79</td></tr><tr><td align="left"><italic>Incremental budget impact %</italic></td><td align="left">− 3.5%</td><td align="left">− 3.4%</td><td align="left">− 3.5%</td></tr><tr><td align="left" colspan="4"><bold>AS</bold></td></tr><tr><td align="left" colspan="4"><italic>Scenario without secukinumab</italic></td></tr><tr><td align="left">Drug acquisition cost</td><td align="left">€92,313,546.20</td><td align="left">€91,217,703.37</td><td align="left">€90,675,918.55</td></tr><tr><td align="left">Administration cost</td><td align="left">€901,081.98</td><td align="left">€952,400.36</td><td align="left">€1,015,014.51</td></tr><tr><td align="left">Total</td><td align="left">€93,214,628.17</td><td align="left">€92,170,103.73</td><td align="left">€91,690,933.06</td></tr><tr><td align="left" colspan="4"><italic>Scenario with secukinumab</italic></td></tr><tr><td align="left">Drug acquisition cost</td><td align="left">€94,930,838.88</td><td align="left">€94,093,650.86</td><td align="left">€93,929,193.58</td></tr><tr><td align="left">Administration cost</td><td align="left">€684,086.43</td><td align="left">€668,533.00</td><td align="left">€719,844.17</td></tr><tr><td align="left">Total</td><td align="left">€95,614,925.30</td><td align="left">€94,762,183.86</td><td align="left">€94,649,037.75</td></tr><tr><td align="left"><italic>Incremental budget impact €</italic></td><td align="left">€2,400,297.13</td><td align="left">€2,592,080.13</td><td align="left">€2,958,104.69</td></tr><tr><td align="left"><italic>Incremental budget impact %</italic></td><td align="left">2.5%</td><td align="left">2.8%</td><td align="left">3.1%</td></tr><tr><td align="left" colspan="4"><bold>Nr-axSpA</bold></td></tr><tr><td align="left" colspan="4"><italic>Scenario without secukinumab</italic></td></tr><tr><td align="left">Drug acquisition cost</td><td align="left">€34,462,104.63</td><td align="left">€33,836,499.23</td><td align="left">€33,498,715.93</td></tr><tr><td align="left">Administration cost</td><td align="left">€0.00</td><td align="left">€0.00</td><td align="left">€0.00</td></tr><tr><td align="left">Total</td><td align="left">€34,462,104.63</td><td align="left">€33,836,499.23</td><td align="left">€33,498,715.93</td></tr><tr><td align="left" colspan="4"><italic>Scenario with secukinumab</italic></td></tr><tr><td align="left">Drug acquisition cost</td><td align="left">€34,496,738.47</td><td align="left">€34,189,152.91</td><td align="left">€34,148,664.87</td></tr><tr><td align="left">Administration cost</td><td align="left">€0.00</td><td align="left">€0.00</td><td align="left">€0.00</td></tr><tr><td align="left">Total</td><td align="left">€34,496,738.47</td><td align="left">€34,189,152.91</td><td align="left">€34,148,664.87</td></tr><tr><td align="left"><italic>Incremental budget impact €</italic></td><td align="left">€34,633.84</td><td align="left">€352,653.68</td><td align="left">€649,948.94</td></tr><tr><td align="left"><italic>Incremental budget impact %</italic></td><td align="left">0.1%</td><td align="left">1.0%</td><td align="left">1.9%</td></tr></tbody></table><table-wrap-foot><p><italic>AS</italic> ankylosing spondylitis, <italic>Nr-axSpA</italic> non-radiographic axial spondyloarthritis, <italic>PsA</italic> psoriatic arthritis, <italic>PsO</italic> psoriasis</p></table-wrap-foot></table-wrap></p>
+        </sec>
+        <sec id="Sec9">
+          <title>Sensitivity Analysis</title>
+          <p id="Par26">The results of the sensitivity analysis on overall total cost are reported in Fig. <xref rid="Fig4" ref-type="fig">4</xref>. The budget impact was most affected by secukinumab price: a variation of ± 10% would lead the incremental budget impact to range from − €85.88 million to €18.50 million. Less extensive variations were reported when we changed the model input prevalence parameter and secukinumab market share, the incremental budget impact ranged from − €37.06 to − €30.32 million and from − €36.13 to − €31.13 million, respectively.<fig id="Fig4"><label>Fig. 4</label><caption><p>Sensitivity analysis on incremental total budget impact. The <italic>y</italic> axis is the average incremental budget impact − €33.69 million</p></caption><graphic xlink:href="41669_2023_404_Fig4_HTML" id="MO4"/></fig></p>
+        </sec>
+      </sec>
+      <sec id="Sec10">
+        <title>Discussion</title>
+        <p id="Par27">The BIA conducted on all four indications of secukinumab, from the Italian NHS point of view, showed a positive impact of secukinumab with an overall cost reduction of €33.69 million over 3 years, − 1.5% of the overall budget.</p>
+        <p id="Par28">The highest saving was reported in PsA patients (− €34.9 million), followed by PsO patients (− €7.8 million). The cost saving produced by secukinumab in PsO patients was balanced by the increased budget of + €8.0 million reported in AS patients, while in the new indication, nr-axSpA, secukinumab reported no significant change in the budget with a cost difference of €1.0 million on an overall budget of €100.0 million over the 3 years simulated (+ 1.0% of nr-axSpA budget). Considering all indications, secukinumab is economically sustainable and provides a chance to save money and reinvest it for improving treatment of these conditions.</p>
+        <p id="Par29">The results obtained with our study present some differences from a previous study conducted in Italy on three of the four indications considered in our analysis. The study, conducted by Colombo et al., reported a budget reduction associated with secukinumab in PsA (− €19.3 million) and PsO (− €8.3 million) patients [<xref ref-type="bibr" rid="CR41">41</xref>]. These results are in line with our study, which showed a higher saving in PsA patients, while a significant difference was reported in AS patients with an increasing budget of €8 million reported in our study and a budget reduction of €38.5 million in Colombo et al. [<xref ref-type="bibr" rid="CR41">41</xref>]. This difference is due to the significant change in treatment cost and treatment scenario that we have observed in recent years. Compared with the previous work by Colombo et al. [<xref ref-type="bibr" rid="CR41">41</xref>], we observed significant changes in the treatment scenario of rheumatic and dermatological autoimmune diseases: some old products (e.g. adalimumab) are now generic, with a significant price cut, and some new products have entered the market; market shares have changed based on the availability of these new products. These aspects are particularly important to highlight the need for frequent updates of BIA in diseases with frequent changes in costs and treatment alternatives, such as these.</p>
+        <p id="Par30">BIAs were previously conducted in other countries, but they assessed the impact on PsA, PsO and AS without including the new indication for nr-axSpA patients. In the study conducted by Duteil et al., secukinumab was associated with a budget reduction of €83.6 million over a 6-year time period for patients with PsO, AS and PsA in France [<xref ref-type="bibr" rid="CR48">48</xref>]. The impact of secukinumab on PsA, PsO and AS patients was also assessed from the Greek healthcare payer’s perspective [<xref ref-type="bibr" rid="CR49">49</xref>]. The overall budget results reported an increase by 1%, 2% and 0% in the first, second and third simulated years, respectively [<xref ref-type="bibr" rid="CR49">49</xref>]. Finally, a BIA of secukinumab in only AS patients was conducted in the UK; the results of the UK study reported a cumulative budget savings of €49.2 million over a 5-year period [<xref ref-type="bibr" rid="CR50">50</xref>]. The variability of these results within European countries confirmed the need for a specific BIA for each country. The different healthcare systems and healthcare costs reported within European countries combined with the rapid changes observed over time for PsA, PsO, AS and nr-axSpA management and treatments make the need for this even more important.</p>
+        <p id="Par31">The study presents some limitations. Data on BIA are based on epidemiological data and market share projections. Some of the data used to estimate the target population prevalence and market share forecast are from studies conducted in other countries or based on market research. These limits are often reported in BIA; however, we used reliable estimation reported in literature and specific market research conducted in Italy to define the Italian PsA, PsO, AS and nr-axSPA populations treated with biological therapies and the use of different biological treatments within each indication in the next 3 years. Further, we tested the impact of secukinumab market share on the budget impact in the sensitivity analysis. The availability of several treatment options increased the chance of treatment switch over time in the two scenarios, however our analysis was based on market share estimated from market research data and expert opinion and no other specific data were available to assume a different market share to apply in the model. Two or more of the ADs considered in our study can be diagnosed in the same patient. To avoid a possible treatment double counting, we accounted for overlap between PsO and PsA assuming 24% of patients had both PsO and PsA [<xref ref-type="bibr" rid="CR40">40</xref>]. However, other studies are lacking to account for possible overlaps between the four ADs included. Further, we conducted an analysis from the Italian NHS point of view. This approach does not include all the costs associated with ADs considered relevant to society (e.g. informal care, loss of productivity, burden on caregivers). The use of the Italian NHS point of view in economic evaluation is recommended by AIFA, and in our analysis we included treatment and administration costs. Other direct costs (other pharma therapies, hospitalization costs, costs for adverse events, etc.) were not included in the analysis based on the assumption that these costs are more specific to the treated condition (PsO, PsA, etc.) than the treatment use [<xref ref-type="bibr" rid="CR41">41</xref>]. Further, in Italy patients are usually not hospitalized for psoriasis, but are managed at the ambulatory level with a lower impact on the overall cost. However, other studies including all direct and indirect costs could be interesting to explicate the overall burden of these conditions and the impact of secukinumab.</p>
+      </sec>
+      <sec id="Sec11">
+        <title>Conclusion</title>
+        <p id="Par32">The updated BIA conducted in our study showed the scenario of PsA, PsO and AS costs and the associated impact of secukinumab. Further, we have provided for the first time an analysis that also includes the economic impact of secukinumab on nr-axSpA patients. In this new indication, secukinumab reported no significant changes in the budget required for the management of nr-axSpA patients, providing an additional effective treatment option for this condition. Further, considering all four indications together, secukinumab is a sustainable treatment option for the Italian NHS associated with an overall cost reduction of €33.69 million over 3 years, − 1.5% of the overall budget.</p>
+      </sec>
+      <sec sec-type="supplementary-material">
+        <title>Supplementary Information</title>
+        <sec id="Sec12">
+          <p>Below is the link to the electronic supplementary material.<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="41669_2023_404_MOESM1_ESM.docx"><caption><p>Supplementary file1 (DOCX 25 KB)</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="41669_2023_404_MOESM2_ESM.pdf"><caption><p>Supplementary file2 (PDF 153 KB)</p></caption></media></supplementary-material></p>
+        </sec>
+      </sec>
+    </body>
+    <back>
+      <notes>
+        <title>Declarations</title>
+        <notes id="FPar1" notes-type="funding">
+          <title>Funding</title>
+          <p id="Par33">The study was supported by a grant from Novartis SpA. There are no grant numbers to declare. Novartis also provided support in the form of salaries for Elisabetta Aloisi, Martina Fiocchi and Daniela Ritrovato. The specific roles of these authors are articulated in the ‘author contributions’ section. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. Novartis SpA also provided the open access fee.</p>
+        </notes>
+        <notes id="FPar2" notes-type="COI-statement">
+          <title>Conflict of interest</title>
+          <p id="Par34">Paolo Angelo Cortesi has received a research grant from Baxalta, now part of Shire, and speaking honoraria from Pfizer and Roche. Lorenzo Giovanni Mantovani has received grants and personal fees from Bayer AG, Boehringer Ingelheim, Pfizer and Daiichi-Sankyo. Carla Fornari and Ippazio Cosimo Antonazzo have no conflicts of interest to disclose. Paolo Gisondi has served as a speaker for Abbvie, Almirall, Eli Lilly, Novartis, Jannsen, Pfizer, UCB, Sanofi and Pierre Fabre. Fiorenzo Iannone received speaker’s fees and consultation grants from AbbVie, Actelion, BMS, Biogen, Lilly, MSD, Pfizer, Roche, Sanofi and UCB outside the submitted work. Elisabetta Aloisi, Martina Fiocchi and Daniela Ritrovato are employees of Novartis Pharma SpA Italy. This does not alter our adherence to Journal policies on sharing data and materials. The marketed product secukinumab is associated with this research.</p>
+        </notes>
+        <notes id="FPar4">
+          <title>Ethics approval</title>
+          <p id="Par36">Ethical approval is not required for simulation-based studies in the present study’s jurisdiction.</p>
+        </notes>
+        <notes id="FPar5">
+          <title>Consent to participate</title>
+          <p id="Par37">Not relevant to this study.</p>
+        </notes>
+        <notes id="FPar6">
+          <title>Consent for publication</title>
+          <p id="Par38">Not relevant to this study.</p>
+        </notes>
+        <notes id="FPar3">
+          <title>Availability of data and material</title>
+          <p id="Par35">The budget impact model structure and the data sources analysed during the current study are available from the corresponding author on reasonable request. All data used to construct the model from both primary and secondary sources has also been presented within this manuscript.</p>
+        </notes>
+        <notes id="FPar7">
+          <title>Code availability</title>
+          <p id="Par39">The budget impact model structure is available from the corresponding author on reasonable request.</p>
+        </notes>
+        <notes id="FPar8" notes-type="author-contribution">
+          <title>Author contributions</title>
+          <p id="Par40">All authors contributed to conception and planning of the study. PAC and CF performed the analysis, which was reviewed by all the other authors. The first draft of the manuscript was written by PAC and CF and all authors commented on previous versions of the manuscript. All authors read and approved the final version of the manuscript.</p>
+        </notes>
+      </notes>
+      <ref-list id="Bib1">
+        <title>References</title>
+        <ref id="CR1">
+          <label>1.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Rose</surname>
+                <given-names>NR</given-names>
+              </name>
+            </person-group>
+            <article-title>Prediction and prevention of autoimmune disease in the 21st century: a review and preview</article-title>
+            <source>Am J Epidemiol</source>
+            <year>2016</year>
+            <pub-id pub-id-type="doi">10.1093/aje/kwv292</pub-id>
+            <pub-id pub-id-type="pmid">27941068</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR2">
+          <label>2.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Cooper</surname>
+                <given-names>GS</given-names>
+              </name>
+              <name>
+                <surname>Bynum</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Somers</surname>
+                <given-names>EC</given-names>
+              </name>
+            </person-group>
+            <article-title>Recent insights in the epidemiology of autoimmune diseases: improved prevalence estimates and understanding of clustering of diseases</article-title>
+            <source>J Autoimmun</source>
+            <year>2009</year>
+            <volume>33</volume>
+            <issue>3–4</issue>
+            <fpage>197</fpage>
+            <lpage>207</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.jaut.2009.09.008</pub-id>
+            <pub-id pub-id-type="pmid">19819109</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR3">
+          <label>3.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Olivieri</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Cortesi</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>de Portu</surname>
+                <given-names>S</given-names>
+              </name>
+              <collab>PACE Working Group</collab>
+              <etal/>
+            </person-group>
+            <article-title>Long-term costs and outcomes in psoriatic arthritis patients not responding to conventional therapy treated with tumour necrosis factor inhibitors: the extension of the Psoriatic Arthritis Cost Evaluation (PACE) study</article-title>
+            <source>Clin Exp Rheumatol</source>
+            <year>2016</year>
+            <volume>34</volume>
+            <issue>1</issue>
+            <fpage>68</fpage>
+            <lpage>75</lpage>
+            <pub-id pub-id-type="pmid">26633622</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR4">
+          <label>4.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Cooksey</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Husain</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Brophy</surname>
+                <given-names>S</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>The cost of ankylosing spondylitis in the UK using linked routine and patient-reported survey data</article-title>
+            <source>PLoS ONE</source>
+            <year>2015</year>
+            <pub-id pub-id-type="doi">10.1371/journal.pone.0126105</pub-id>
+            <pub-id pub-id-type="pmid">26185984</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR5">
+          <label>5.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Palla</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Trieste</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Tani</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Talarico</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Cortesi</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Mosca</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Turchetti</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>A systematic literature review of the economic impact of ankylosing spondylitis</article-title>
+            <source>Clin Exp Rheumatol</source>
+            <year>2012</year>
+            <volume>30</volume>
+            <issue>4 Suppl 73</issue>
+            <fpage>S136</fpage>
+            <lpage>S141</lpage>
+            <pub-id pub-id-type="pmid">23072824</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR6">
+          <label>6.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>D'Angiolella</surname>
+                <given-names>LS</given-names>
+              </name>
+              <name>
+                <surname>Cortesi</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Lafranconi</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Micale</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Mangano</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Cesana</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Mantovani</surname>
+                <given-names>LG</given-names>
+              </name>
+            </person-group>
+            <article-title>Cost and cost effectiveness of treatments for psoriatic arthritis: a systematic literature review</article-title>
+            <source>Pharmacoeconomics</source>
+            <year>2018</year>
+            <pub-id pub-id-type="doi">10.1007/s40273-018-0618-5</pub-id>
+            <pub-id pub-id-type="pmid">29441473</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR7">
+          <label>7.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Burgos-Pol</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Martínez-Sesmero</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Ventura-Cerdá</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Elías</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Caloto</surname>
+                <given-names>MT</given-names>
+              </name>
+              <name>
+                <surname>Casado</surname>
+                <given-names>MÁ</given-names>
+              </name>
+            </person-group>
+            <article-title>The Cost of psoriasis and psoriatic arthritis in 5 European countries: a systematic review</article-title>
+            <source>Actas Dermosifiliogr</source>
+            <year>2016</year>
+            <pub-id pub-id-type="doi">10.1016/j.ad.2016.04.018</pub-id>
+            <pub-id pub-id-type="pmid">27316590</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR8">
+          <label>8.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sieper</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Holbrook</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Black</surname>
+                <given-names>CM</given-names>
+              </name>
+              <name>
+                <surname>Wood</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Hu</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Kachroo</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Burden of illness associated with non-radiographic axial spondyloarthritis: a multiperspective European cross-sectional observational study</article-title>
+            <source>Clin Exp Rheumatol</source>
+            <year>2016</year>
+            <volume>34</volume>
+            <issue>6</issue>
+            <fpage>975</fpage>
+            <lpage>983</lpage>
+            <pub-id pub-id-type="pmid">27749215</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR9">
+          <label>9.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Prey</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Paul</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Bronsard</surname>
+                <given-names>V</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Assessment of the risk of psoriatic arthritis in patients with plaque psoriasis: a systematic review of the literature</article-title>
+            <source>J Eur Acad Dermatol Venereol</source>
+            <year>2010</year>
+            <volume>24</volume>
+            <issue>Suppl. 2</issue>
+            <fpage>31</fpage>
+            <lpage>35</lpage>
+            <pub-id pub-id-type="doi">10.1111/j.1468-3083.2009.03565.x</pub-id>
+            <pub-id pub-id-type="pmid">20443998</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR10">
+          <label>10.</label>
+          <mixed-citation publication-type="other">Gottlieb A, Korman NJ, Gordon KB, et al. Guidelines of care for the management of psoriasis and psoriatic arthritis. Section 2. Psoriatic arthritis: overview and guidelines of care for treatment with an emphasis on the biologics. J Am Acad Dermatol. 2008. 10.1016/j.jaad.2008.02.040.</mixed-citation>
+        </ref>
+        <ref id="CR11">
+          <label>11.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Lloyd</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Ryan</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Menter</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Psoriatic arthritis: an update</article-title>
+            <source>Arthritis</source>
+            <year>2012</year>
+            <pub-id pub-id-type="doi">10.1155/2012/176298</pub-id>
+            <pub-id pub-id-type="pmid">23209897</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR12">
+          <label>12.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Boehncke</surname>
+                <given-names>WH</given-names>
+              </name>
+              <name>
+                <surname>Menter</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Burden of disease: psoriasis and psoriatic arthritis</article-title>
+            <source>Am J Clin Dermatol</source>
+            <year>2013</year>
+            <pub-id pub-id-type="doi">10.1007/s40257-013-0032-x</pub-id>
+            <pub-id pub-id-type="pmid">23771648</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR13">
+          <label>13.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sieper</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Poddubnyy</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Axial spondyloarthritis</article-title>
+            <source>Lancet</source>
+            <year>2017</year>
+            <pub-id pub-id-type="doi">10.1016/S0140-6736(16)31591-4</pub-id>
+            <pub-id pub-id-type="pmid">28110981</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR14">
+          <label>14.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sieper</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Braun</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Dougados</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Baeten</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Axial spondyloarthritis</article-title>
+            <source>Nat Rev Dis Primers</source>
+            <year>2015</year>
+            <pub-id pub-id-type="doi">10.1038/nrdp.2015.13</pub-id>
+            <pub-id pub-id-type="pmid">27188328</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR15">
+          <label>15.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Deodhar</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Strand</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Kay</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Braun</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>The term ‘non-radiographic axial spondyloarthritis’ is much more important to classify than to diagnose patients with axial spondyloarthritis</article-title>
+            <source>Ann Rheum Dis</source>
+            <year>2016</year>
+            <pub-id pub-id-type="doi">10.1136/annrheumdis-2015-208852</pub-id>
+            <pub-id pub-id-type="pmid">27974302</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR16">
+          <label>16.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Lockwood</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Gensler</surname>
+                <given-names>LS</given-names>
+              </name>
+            </person-group>
+            <article-title>Nonradiographic axial spondyloarthritis</article-title>
+            <source>Best Pract Res Clin Rheumatol</source>
+            <year>2017</year>
+            <pub-id pub-id-type="doi">10.1016/j.berh.2018.08.008</pub-id>
+            <pub-id pub-id-type="pmid">30509442</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR17">
+          <label>17.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Wang</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Ward</surname>
+                <given-names>MM</given-names>
+              </name>
+            </person-group>
+            <article-title>Epidemiology of axial spondyloarthritis: an update</article-title>
+            <source>Curr Opin Rheumatol</source>
+            <year>2018</year>
+            <pub-id pub-id-type="doi">10.1097/BOR.0000000000000475</pub-id>
+            <pub-id pub-id-type="pmid">29227352</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR18">
+          <label>18.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Malaviya</surname>
+                <given-names>AN</given-names>
+              </name>
+              <name>
+                <surname>Rawat</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Agrawal</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Patil</surname>
+                <given-names>NS</given-names>
+              </name>
+            </person-group>
+            <article-title>The nonradiographic axial spondyloarthritis, the radiographic axial spondyloarthritis, and ankylosing spondylitis: the tangled skein of rheumatology</article-title>
+            <source>Int J Rheumatol</source>
+            <year>2017</year>
+            <pub-id pub-id-type="doi">10.1155/2017/1824794</pub-id>
+            <pub-id pub-id-type="pmid">28555158</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR19">
+          <label>19.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Burgos-Varga</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Wei</surname>
+                <given-names>JC</given-names>
+              </name>
+              <name>
+                <surname>Rahman</surname>
+                <given-names>MU</given-names>
+              </name>
+              <name>
+                <surname>Akkoc</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Haq</surname>
+                <given-names>SA</given-names>
+              </name>
+              <name>
+                <surname>Hammoudeh</surname>
+                <given-names>M</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>The prevalence and clinical characteristics of nonradiographic axial spondyloarthritis among patients with inflammatory back pain in rheumatology practices: a multinational, multicenter study</article-title>
+            <source>Arthritis Res Ther</source>
+            <year>2016</year>
+            <pub-id pub-id-type="doi">10.1186/s13075-016-1027-9</pub-id>
+            <pub-id pub-id-type="pmid">27267875</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR20">
+          <label>20.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Poddubnyy</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Rudwaleit</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Early spondyloarthritis</article-title>
+            <source>Rheum Dis Clin North Am</source>
+            <year>2012</year>
+            <pub-id pub-id-type="doi">10.1016/j.rdc.2012.04.007</pub-id>
+            <pub-id pub-id-type="pmid">23083758</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR21">
+          <label>21.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gisondi</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Altomare</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Ayala</surname>
+                <given-names>F</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Italian guidelines on the systemic treatments of moderate-to-severe plaque psoriasis</article-title>
+            <source>J Eur Acad Dermatol Venereol</source>
+            <year>2017</year>
+            <pub-id pub-id-type="doi">10.1111/jdv.14114</pub-id>
+            <pub-id pub-id-type="pmid">28895202</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR22">
+          <label>22.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gossec</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Baraliakos</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Kerschbaumer</surname>
+                <given-names>A</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>EULAR recommendations for the management of psoriatic arthritis with pharmacological therapies: 2019 update</article-title>
+            <source>Ann Rheum Dis</source>
+            <year>2020</year>
+            <pub-id pub-id-type="doi">10.1136/annrheumdis-2020-217159</pub-id>
+            <pub-id pub-id-type="pmid">33355152</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR23">
+          <label>23.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Manara</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Prevete</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Marchesoni</surname>
+                <given-names>A</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>The Italian Society for Rheumatology recommendations for the management of axial spondyloarthritis</article-title>
+            <source>Reumatismo</source>
+            <year>2021</year>
+            <pub-id pub-id-type="doi">10.4081/reumatismo.2021.1367</pub-id>
+            <pub-id pub-id-type="pmid">34342210</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR24">
+          <label>24.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ward</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Deodhar</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Gensler</surname>
+                <given-names>LS</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Update of the American College of Rheumatology/Spondylitis Association of America/spondyloarthritis research and treatment network recommendations for the treatment of ankylosing spondylitis and nonradiographic axial spondyloarthritis</article-title>
+            <source>Arthritis Rheumatol</source>
+            <year>2019</year>
+            <pub-id pub-id-type="doi">10.1002/art.41042</pub-id>
+            <pub-id pub-id-type="pmid">31566933</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR25">
+          <label>25.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Mrowietz</surname>
+                <given-names>U</given-names>
+              </name>
+            </person-group>
+            <article-title>Implementing treatment goals for successful long-term management of psoriasis</article-title>
+            <source>J Eur Acad Dermatol Venereol</source>
+            <year>2012</year>
+            <pub-id pub-id-type="doi">10.1111/j.1468-3083.2011.04411.x</pub-id>
+            <pub-id pub-id-type="pmid">22830601</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR26">
+          <label>26.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gossec</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Smolen</surname>
+                <given-names>JS</given-names>
+              </name>
+              <name>
+                <surname>Ramiro</surname>
+                <given-names>S</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>European League Against Rheumatism (EULAR) recommendations for the management of psoriatic arthritis with pharmacological therapies: 2015 update</article-title>
+            <source>Ann Rheum Dis</source>
+            <year>2016</year>
+            <pub-id pub-id-type="doi">10.1136/annrheumdis-2015-208337</pub-id>
+            <pub-id pub-id-type="pmid">27903508</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR27">
+          <label>27.</label>
+          <mixed-citation publication-type="other">Coates LC, Kavanaugh A, Mease PJ, et al. Group for Research and Assessment of Psoriasis and Psoriatic Arthritis 2015 treatment recommendations for psoriatic arthritis. Arthritis Rheumatol. 2016. 10.1002/art.39573.</mixed-citation>
+        </ref>
+        <ref id="CR28">
+          <label>28.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ward</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Deodhar</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Akl</surname>
+                <given-names>EA</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>American College of Rheumatology/ Spondylitis Association of America/Spondyloarthritis Research and Treatment Network 2015 recommendations for the treatment of ankylosing spondylitis and nonradiographic axial spondyloarthritis</article-title>
+            <source>Arthritis Rheumatol</source>
+            <year>2016</year>
+            <volume>68</volume>
+            <issue>2</issue>
+            <fpage>282</fpage>
+            <lpage>298</lpage>
+            <pub-id pub-id-type="doi">10.1002/art.39298</pub-id>
+            <pub-id pub-id-type="pmid">26401991</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR29">
+          <label>29.</label>
+          <mixed-citation publication-type="other">Van der Heijde D, Ramiro S, Landewé R, et al. 2016 update of the ASASEULAR management recommendations for axial spondyloarthritis. Ann Rheum Dis. 2017. 10.1136/annrheumdis-2016-210770.</mixed-citation>
+        </ref>
+        <ref id="CR30">
+          <label>30.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Norlin</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Steen Carlsson</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Persson</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Schmitt-Egenolf</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Switch to biological agent in psoriasis significantly improved clinical and patient-reported outcomes in real-world practice</article-title>
+            <source>Dermatology</source>
+            <year>2012</year>
+            <pub-id pub-id-type="doi">10.1159/000345715</pub-id>
+            <pub-id pub-id-type="pmid">23328678</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR31">
+          <label>31.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Koenders</surname>
+                <given-names>MI</given-names>
+              </name>
+              <name>
+                <surname>van den Berg</surname>
+                <given-names>WB</given-names>
+              </name>
+            </person-group>
+            <article-title>Secukinumab for rheumatology: development and its potential place in therapy</article-title>
+            <source>Drug Des Dev Ther</source>
+            <year>2016</year>
+            <volume>24</volume>
+            <issue>10</issue>
+            <fpage>2069</fpage>
+            <lpage>2080</lpage>
+            <pub-id pub-id-type="doi">10.2147/DDDT.S105263</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR32">
+          <label>32.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Frieder</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kivelevitch</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Menter</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Secukinumab: a review of the anti-IL-17A biologic for the treatment of psoriasis</article-title>
+            <source>Ther Adv Chronic Dis.</source>
+            <year>2018</year>
+            <pub-id pub-id-type="doi">10.1177/2040622317738910</pub-id>
+            <pub-id pub-id-type="pmid">29344327</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR33">
+          <label>33.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Deodhar</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Blanco</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Dokoupilová</surname>
+                <given-names>E</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Improvement of signs and symptoms of nonradiographic axial spondyloarthritis in patients treated with secukinumab: primary results of a randomized, placebo-controlled phase III study</article-title>
+            <source>Arthritis Rheumatol</source>
+            <year>2021</year>
+            <pub-id pub-id-type="doi">10.1002/art.41477</pub-id>
+            <pub-id pub-id-type="pmid">34196498</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR34">
+          <label>34.</label>
+          <mixed-citation publication-type="other">Italian Medicines Agency (AIFA) guidelines 2020. <ext-link ext-link-type="uri" xlink:href="https://www.aifa.gov.it/documents/20142/1283800/Linee_guida_dossier_domanda_rimborsabilita.pdf">https://www.aifa.gov.it/documents/20142/1283800/Linee_guida_dossier_domanda_rimborsabilita.pdf</ext-link>. Accessed 15 Feb 2023.</mixed-citation>
+        </ref>
+        <ref id="CR35">
+          <label>35.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sullivan</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Mauskopf</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Augustovski</surname>
+                <given-names>F</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Principles of good practice for budget impact analysis II: report of the ISPOR task force on good research practices—budget impact analysis</article-title>
+            <source>Value Health.</source>
+            <year>2014</year>
+            <volume>17</volume>
+            <issue>1</issue>
+            <fpage>5</fpage>
+            <lpage>14</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.jval.2013.08.2291</pub-id>
+            <pub-id pub-id-type="pmid">24438712</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR36">
+          <label>36.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Saraceno</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Mannheimer</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Chimenti</surname>
+                <given-names>S</given-names>
+              </name>
+            </person-group>
+            <article-title>Regional distribution of psoriasis in Italy</article-title>
+            <source>J Eur Acad Dermatol Venereol</source>
+            <year>2008</year>
+            <pub-id pub-id-type="doi">10.1111/j.1468-3083.2007.02423.x</pub-id>
+            <pub-id pub-id-type="pmid">18269600</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR37">
+          <label>37.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Khalid</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>Globe</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Fox</surname>
+                <given-names>KM</given-names>
+              </name>
+              <name>
+                <surname>Chau</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Maguire</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Chiou</surname>
+                <given-names>CF</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment and referral patterns for psoriasis in United Kingdom primary care: a retrospective cohort study</article-title>
+            <source>BMC Dermatol</source>
+            <year>2013</year>
+            <pub-id pub-id-type="doi">10.1186/1471-5945-13-9</pub-id>
+            <pub-id pub-id-type="pmid">23957883</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR38">
+          <label>38.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>De Angelis</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Salaffi</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Grassi</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>Prevalence of spondyloarthropathies in an Italian population sample: a regional community-based study</article-title>
+            <source>Scand J Rheumatol</source>
+            <year>2007</year>
+            <pub-id pub-id-type="doi">10.1080/03009740600904243</pub-id>
+            <pub-id pub-id-type="pmid">17454930</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR39">
+          <label>39.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Dean</surname>
+                <given-names>LE</given-names>
+              </name>
+              <name>
+                <surname>Jones</surname>
+                <given-names>GT</given-names>
+              </name>
+              <name>
+                <surname>MacDonald</surname>
+                <given-names>AG</given-names>
+              </name>
+              <name>
+                <surname>Downham</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Sturrock</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Macfarlane</surname>
+                <given-names>GJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Global prevalence of ankylosing spondylitis</article-title>
+            <source>Rheumatology (Oxford)</source>
+            <year>2014</year>
+            <pub-id pub-id-type="doi">10.1093/rheumatology/ket387</pub-id>
+            <pub-id pub-id-type="pmid">25213130</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR40">
+          <label>40.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gladman</surname>
+                <given-names>DD</given-names>
+              </name>
+              <name>
+                <surname>Antoni</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Mease</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Clegg</surname>
+                <given-names>DO</given-names>
+              </name>
+              <name>
+                <surname>Nash</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Psoriatic arthritis: epidemiology, clinical features, course, and outcome</article-title>
+            <source>Ann Rheum Dis</source>
+            <year>2005</year>
+            <volume>64</volume>
+            <issue>Suppl 2</issue>
+            <fpage>ii14</fpage>
+            <lpage>ii17</lpage>
+            <pub-id pub-id-type="pmid">15708927</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR41">
+          <label>41.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Colombo</surname>
+                <given-names>GL</given-names>
+              </name>
+              <name>
+                <surname>Di Matteo</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Martinotti</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Jugl</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Gunda</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Naclerio</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Bruno</surname>
+                <given-names>GM</given-names>
+              </name>
+            </person-group>
+            <article-title>Budget impact model of secukinumab for the treatment of moderate-to-severe psoriasis, psoriatic arthritis, and ankylosing spondylitis in Italy: a cross-indication initiative</article-title>
+            <source>Clinicoecon Outcomes Res.</source>
+            <year>2018</year>
+            <pub-id pub-id-type="doi">10.2147/CEOR.S171560</pub-id>
+            <pub-id pub-id-type="pmid">30214261</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR42">
+          <label>42.</label>
+          <mixed-citation publication-type="other">European Medicine Agency (EMA) Science Medicines Health website. <ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/field_ema_web_categories%253Aname_field/Human">https://www.ema.europa.eu/en/medicines/field_ema_web_categories%253Aname_field/Human</ext-link>. Accessed 15 Feb 2023</mixed-citation>
+        </ref>
+        <ref id="CR43">
+          <label>43.</label>
+          <mixed-citation publication-type="other">Agenzia Italiana del Farmaco. Italian medicine agency. Lists of class A and class H medicinal products. Rome: Agenzia Italiana del Farmaco. <ext-link ext-link-type="uri" xlink:href="https://www.aifa.gov.it/liste%20-farmaci-a-h">https://www.aifa.gov.it/liste%20-farmaci-a-h</ext-link>. Accessed 15 Feb 2023.</mixed-citation>
+        </ref>
+        <ref id="CR44">
+          <label>44.</label>
+          <mixed-citation publication-type="other">Langley RG, Elewski BE, Lebwohl M, et al., Erasure Study Group, and Fixture Study Group. Secukinumab in plaque psoriasis—results of two phase 3 trials. N Engl J Med. 2014. 10.1056/NEJMoa1314258.</mixed-citation>
+        </ref>
+        <ref id="CR45">
+          <label>45.</label>
+          <mixed-citation publication-type="other">McInnes IB, Mease PJ, Kirkham B, et al. and Future Study Group. Secukinumab, a human anti-interleukin-17A monoclonal antibody, in patients with psoriatic arthritis (FUTURE 2): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet. 2015. 10.1016/S0140-6736(15)61134-5.</mixed-citation>
+        </ref>
+        <ref id="CR46">
+          <label>46.</label>
+          <mixed-citation publication-type="other">Marzo-Ortega, HJ, Sieper A, Kivitz R, Cohen BM, Martin R, Readie A, Richards HB, Porter B, Group Measure 2 Study 2017. Secukinumab and sustained improvement in signs and symptoms of patients with active ankylosing spondylitis through two years: results from a phase III study. Arthritis Care Res (Hoboken). 2017. 10.1002/acr.23233.</mixed-citation>
+        </ref>
+        <ref id="CR47">
+          <label>47.</label>
+          <mixed-citation publication-type="other">Italian National Institute of Statistics (ISTAT). Consumer Price Index table. 2021. <ext-link ext-link-type="uri" xlink:href="https://www.istat.it/en/archivio/265516">https://www.istat.it/en/archivio/265516</ext-link>. Accessed 15 Feb 2023.</mixed-citation>
+        </ref>
+        <ref id="CR48">
+          <label>48.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Duteil</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Rachdi</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Cariou</surname>
+                <given-names>C</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Budget impact analysis of secukinumab in moderate to severe plaque psoriaris, ankylosing spondylitis and psoriatic arthritis In France</article-title>
+            <source>Value Health.</source>
+            <year>2016</year>
+            <volume>19</volume>
+            <issue>7</issue>
+            <fpage>A458</fpage>
+            <pub-id pub-id-type="doi">10.1016/j.jval.2016.09.647</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR49">
+          <label>49.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Kalogeropoulou</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kushwaha</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Jain</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Gunta</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Verroiou</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Passa</surname>
+                <given-names>O</given-names>
+              </name>
+            </person-group>
+            <article-title>PMU28—a cross indication budget impact analysis of secukinumab: a Greek perspective</article-title>
+            <source>Value Health.</source>
+            <year>2018</year>
+            <volume>21</volume>
+            <issue>3</issue>
+            <fpage>S312</fpage>
+            <lpage>S313</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.jval.2018.09.1864</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR50">
+          <label>50.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Halliday</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hacking</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Jugl</surname>
+                <given-names>SM</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Budget impact of secukinumab for ankylosing spondylitis in the UK</article-title>
+            <source>Value Health.</source>
+            <year>2016</year>
+            <volume>19</volume>
+            <issue>7</issue>
+            <fpage>A535</fpage>
+            <pub-id pub-id-type="doi">10.1016/j.jval.2016.09.1095</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </article>
+</pmc-articleset>

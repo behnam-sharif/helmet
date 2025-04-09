@@ -1,0 +1,2257 @@
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.3">
+    <?properties open_access?>
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+      <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">Pharmacoecon Open</journal-id>
+        <journal-id journal-id-type="iso-abbrev">Pharmacoecon Open</journal-id>
+        <journal-title-group>
+          <journal-title>PharmacoEconomics Open</journal-title>
+        </journal-title-group>
+        <issn pub-type="ppub">2509-4262</issn>
+        <issn pub-type="epub">2509-4254</issn>
+        <publisher>
+          <publisher-name>Springer International Publishing</publisher-name>
+          <publisher-loc>Cham</publisher-loc>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">36757567</article-id>
+        <article-id pub-id-type="pmc">9910243</article-id>
+        <article-id pub-id-type="publisher-id">386</article-id>
+        <article-id pub-id-type="doi">10.1007/s41669-023-00386-2</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Original Research Article</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>A Budget Impact Model of Maintenance Treatment of Chronic Inflammatory Demyelinating Polyneuropathy with IgPro20 (Hizentra) Relative to Intravenous Immunoglobulin in the United States</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Mallick</surname>
+              <given-names>Rajiv</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+          </contrib>
+          <contrib contrib-type="author" corresp="yes">
+            <name>
+              <surname>Carlton</surname>
+              <given-names>Rashad</given-names>
+            </name>
+            <address>
+              <email>rashad.carlton@xcenda.com</email>
+            </address>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Van Stiphout</surname>
+              <given-names>Joris</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff3">3</xref>
+          </contrib>
+          <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.428413.8</institution-id><institution-id institution-id-type="ISNI">0000 0004 0524 3511</institution-id><institution>CSL Behring, </institution></institution-wrap>King of Prussia, PA USA </aff>
+          <aff id="Aff2"><label>2</label>Xcenda L.L.C., 5025 Plano Parkway, Carrollton, TX 75010 USA </aff>
+          <aff id="Aff3"><label>3</label>Xcenda Switzerland GmbH, Bern, Switzerland </aff>
+        </contrib-group>
+        <pub-date pub-type="epub">
+          <day>9</day>
+          <month>2</month>
+          <year>2023</year>
+        </pub-date>
+        <pub-date pub-type="pmc-release">
+          <day>9</day>
+          <month>2</month>
+          <year>2023</year>
+        </pub-date>
+        <pub-date pub-type="collection">
+          <month>3</month>
+          <year>2023</year>
+        </pub-date>
+        <volume>7</volume>
+        <issue>2</issue>
+        <fpage>243</fpage>
+        <lpage>255</lpage>
+        <history>
+          <date date-type="accepted">
+            <day>3</day>
+            <month>1</month>
+            <year>2023</year>
+          </date>
+        </history>
+        <permissions>
+          <copyright-statement>© The Author(s) 2023</copyright-statement>
+          <license>
+            <ali:license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+            <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, which permits any non-commercial use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>.</license-p>
+          </license>
+        </permissions>
+        <funding-group>
+          <award-group>
+            <funding-source>
+              <institution-wrap>
+                <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100008322</institution-id>
+                <institution>CSL Behring</institution>
+              </institution-wrap>
+            </funding-source>
+          </award-group>
+        </funding-group>
+        <custom-meta-group>
+          <custom-meta>
+            <meta-name>issue-copyright-statement</meta-name>
+            <meta-value>© The Author(s) 2023</meta-value>
+          </custom-meta>
+        </custom-meta-group>
+      </article-meta>
+    </front>
+    <body>
+      <sec id="d32e256">
+        <title>Key Points for Decision Makers</title>
+        <p id="Par6">
+          <table-wrap id="Taba">
+            <table frame="hsides" rules="groups">
+              <tbody>
+                <tr>
+                  <td align="left">Hizentra is the first subcutaneous immunoglobulin (IG) for the treatment of chronic inflammatory demyelinating polyneuropathy (CIDP). As a subcutaneous treatment, Hizentra reduces patient burden by allowing for flexibly timed self-infusion at home compared with the burden of hospital or office administration of intravenous immunoglobulin (IVIG).</td>
+                </tr>
+                <tr>
+                  <td align="left">The initial dose of Hizentra for the treatment of CIDP is expected to enable significant cost savings per patient compared with the corresponding higher dose of IVIG, even after accounting for upward titration of the initial Hizentra dose that may be needed for effective management of the minority of patients who relapse.</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+      </sec>
+      <sec id="Sec2">
+        <title>Background</title>
+        <p id="Par7">Chronic inflammatory demyelinating polyneuropathy (CIDP) is a rare, progressive autoimmune disease causing peripheral nervous system (PNS) dysfunction [<xref ref-type="bibr" rid="CR1">1</xref>], with an estimated prevalence in an adult population of 8.9 per 100,000 persons [<xref ref-type="bibr" rid="CR2">2</xref>]. CIDP is challenging to diagnose accurately and to distinguish from similar neuropathic or muscular conditions due to a heterogeneous patient population and varying clinical presentations across patients [<xref ref-type="bibr" rid="CR3">3</xref>, <xref ref-type="bibr" rid="CR4">4</xref>]. The delayed recognition of CIDP symptoms and inaccurate diagnosis of true CIDP can lead to disease progression, resulting in axonal damage, increased loss of physical function, and permanent disability [<xref ref-type="bibr" rid="CR5">5</xref>–<xref ref-type="bibr" rid="CR8">8</xref>]. Furthermore, ineffective treatment of CIDP patients can result in relapse among stable patients, resulting in disability and additional management costs [<xref ref-type="bibr" rid="CR9">9</xref>–<xref ref-type="bibr" rid="CR12">12</xref>].</p>
+        <p id="Par8">Corticosteroids are recommended as short-term induction therapy for patients with disabling symptoms of CIDP [<xref ref-type="bibr" rid="CR13">13</xref>]. While short-term use of relatively inexpensive corticosteroids is arguably both clinically and financially attractive for decision makers, the long-term use of corticosteroids is known to be associated with substantial adverse consequences [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR14">14</xref>]. Furthermore, corticosteroids are contraindicated in CIDP patients with pure motor-type CIDP or those with diabetes [<xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR16">16</xref>]. Other immunosuppressives or immunomodulatory drugs are considered as corticosteroid-sparing agents, especially for patients refractory to first-line treatment [<xref ref-type="bibr" rid="CR17">17</xref>–<xref ref-type="bibr" rid="CR19">19</xref>]. Some of these treatments include azathioprine, cyclophosphamide, methotrexate, cyclosporine, mycophenolate mofetil, and rituximab and immunomodulatory agents such as interferon (IFN)-α and IFN-β. Plasmapheresis is an additional option for short-term treatment but can be associated with significant device-related costs, including the need for hospitalization, highly trained staff, and uncertain outcomes including possible serious adverse effects in long-term use [<xref ref-type="bibr" rid="CR20">20</xref>, <xref ref-type="bibr" rid="CR21">21</xref>]. Key guidelines and consensus statements recommend the use of corticosteroids or immunoglobulin (IG) therapy as an immunomodulatory agent in CIDP for maintenance treatment [<xref ref-type="bibr" rid="CR22">22</xref>–<xref ref-type="bibr" rid="CR25">25</xref>]. In patients with CIDP, IG therapy has documented benefits in terms of preventing relapse of muscle weakness and numbness of the limbs [<xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR26">26</xref>], improved and/or maintained functional performance of the arms and legs [<xref ref-type="bibr" rid="CR26">26</xref>, <xref ref-type="bibr" rid="CR27">27</xref>], and improved and/or maintained quality of life in both physical function and mental health domains [<xref ref-type="bibr" rid="CR27">27</xref>].</p>
+        <p id="Par9">While the efficacy and safety of intravenous immunoglobulin (IVIG) treatment for CIDP has been established [<xref ref-type="bibr" rid="CR28">28</xref>], originally via the ICE study, there are still drawbacks and unmet medical needs associated with this treatment option. These include adverse effects such as thromboembolic events [<xref ref-type="bibr" rid="CR29">29</xref>], hemolysis (although this risk has been shown to be reduced recently with improved immunoaffinity chromatography production methods in the case of Privigen) [<xref ref-type="bibr" rid="CR26">26</xref>, <xref ref-type="bibr" rid="CR30">30</xref>], aseptic meningitis [<xref ref-type="bibr" rid="CR31">31</xref>], and venous access-related complications [<xref ref-type="bibr" rid="CR32">32</xref>]. Furthermore, due to the relatively staggered dosing frequency, the pharmacodynamic profile of IVIGs suggests wear-off effects [<xref ref-type="bibr" rid="CR33">33</xref>, <xref ref-type="bibr" rid="CR34">34</xref>], as measured by intra-cycle fluctuations in daily grip strength with IVIG treatment in CIDP [<xref ref-type="bibr" rid="CR35">35</xref>].</p>
+        <p id="Par10">In addition to issues germane to IVIGs in general noted above, there are others of particular relevance by site of IVIG infusions. Overall, patients across various conditions where IG therapy is indicated in the United States (US) predominantly receive IVIG therapy away from home [<xref ref-type="bibr" rid="CR36">36</xref>]. Administering IVIG at standalone infusion or hospital outpatient centers is costlier than administering at home [<xref ref-type="bibr" rid="CR37">37</xref>, <xref ref-type="bibr" rid="CR38">38</xref>]. Furthermore, patients administered IVIG at infusion or hospital outpatient centers report lower quality of life than those administered IVIG at home [<xref ref-type="bibr" rid="CR38">38</xref>].</p>
+        <p id="Par11">Patients with CIDP, once stabilized on IVIG, should be able to transition to subcutaneous Hizentra (immune globulin subcutaneous [Human] 20% liquid). In the largest CIDP clinical trial to date (the PATH study), patients, once stabilized on IVIG, who transitioned to subcutaneous Hizentra (at the eventually approved starting maintenance dose of 0.2 g/kg body weight, once weekly) were associated with maintained freedom from relapse and maintained functionality [<xref ref-type="bibr" rid="CR39">39</xref>]. The PATH study included patients with definite and probable CIDP, including motor, sensory, and other types of atypical CIDP. Moreover, these CIDP patients either improved or maintained health status, in terms of key domains of the EQ-5D [<xref ref-type="bibr" rid="CR40">40</xref>], and maintained <italic>daily activities and participation,</italic> as measured by the Inflammatory Rasch-Built Overall Disability Scale (I-RODS) [<xref ref-type="bibr" rid="CR41">41</xref>]. In addition, Hizentra self-infusion at home appears to have been preferred over continued maintenance with IVIG [<xref ref-type="bibr" rid="CR42">42</xref>]. Separately, studies in conditions such as primary immune deficiency reveal that Hizentra reduces the burden of care for some patients by enabling them to self-administer their treatment outside of the hospital setting [<xref ref-type="bibr" rid="CR43">43</xref>, <xref ref-type="bibr" rid="CR44">44</xref>]. Finally, Hizentra is associated with an improved adverse effect profile, and patients with CIDP treated with Hizentra have a lower rate of systemic adverse events (AEs) compared with treatment with IVIG [<xref ref-type="bibr" rid="CR39">39</xref>].</p>
+        <p id="Par12">The objective of this analysis was to develop an economic and budget impact model (BIM) of the costs and budget impact of Hizentra, the only approved subcutaneous immunoglobulin (SCIG) for maintenance treatment of CIDP in the US, by incorporating its documented clinical benefit [<xref ref-type="bibr" rid="CR39">39</xref>] in comparison with a market share basket of IVIGs in patients receiving IG treatment.</p>
+      </sec>
+      <sec id="Sec3">
+        <title>Methods</title>
+        <sec id="Sec4">
+          <title>Model Structure</title>
+          <p id="Par13">A BIM was developed in accordance with the Academy of Managed Care Pharmacy (AMCP) and International Society for Pharmacoeconomics and Outcomes Research (ISPOR) best practices [<xref ref-type="bibr" rid="CR45">45</xref>, <xref ref-type="bibr" rid="CR46">46</xref>] over a 1-year model time horizon to estimate the budget impact of adding Hizentra to a health plan formulary for the treatment of CIDP. A 1-year time horizon was selected to model out the initial starting doses in CIDP and to capture any titration in dosing due to patient relapse at 24 weeks. The model adopts primarily a US integrated delivery network (IDN) perspective and, secondarily, a commercial perspective. A decision tree approach was employed for the model structure (Fig. <xref rid="Fig1" ref-type="fig">1</xref>) in Microsoft Excel (Microsoft Corporation, Redmond, WA, USA). An unlocked version of the model, except for US label-based dosing and relapse parameters to be consistent with Hizentra prescribing information, has been provided as electronic supplementary material (ESM).<fig id="Fig1"><label>Fig. 1</label><caption><p>Decision tree model of maintenance treatment of CIDP with Hizentra versus IVIGs. <italic>CIDP</italic> chronic inflammatory demyelinating polyneuropathy, <italic>IVIG</italic> intravenous immunoglobulin</p></caption><graphic xlink:href="41669_2023_386_Fig1_HTML" id="MO1"/></fig></p>
+        </sec>
+        <sec id="Sec5">
+          <title>Model Inputs</title>
+          <p id="Par14">The data inputs for this model were taken from various literature-based sources. These included key clinical studies in CIDP for Hizentra and Gamunex, the two approved maintenance products with evidence on relapse rates in stable CIDP patients, product-specific US labels, published papers describing AEs associated with intravenous infusions (including those related to the use of infusion ports), and various studies providing cost estimates for the management of the AEs. Disease prevalence was based on US epidemiologic data, with a prevalence of 8.9 per 100,000 [<xref ref-type="bibr" rid="CR2">2</xref>]. Drug costs were obtained from January 2022 Centers for Medicare and Medicaid Services (CMS) average sales price (ASP) and average wholesale price (AWP)/wholesale acquisition cost (WAC) list price sources (Red Book) [<xref ref-type="bibr" rid="CR47">47</xref>] for both Hizentra and IVIG products (Table <xref rid="Tab1" ref-type="table">1</xref>). A payment mix of ASP (73%), AWP (25%), and WAC (2%) was used in the base case [<xref ref-type="bibr" rid="CR48">48</xref>].<table-wrap id="Tab1"><label>Table 1</label><caption><p>Model comparator market shares and pricing</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">IVIG market share (%)</th><th align="left">ASP<sup>a</sup> (US$)</th><th align="left">WAC<sup>a</sup> (US$)</th><th align="left">AWP<sup>a</sup> (US$)</th></tr></thead><tbody><tr><td align="left">Hizentra</td><td char="." align="char"/><td char="." align="char">11.785</td><td char="." align="char">200.20</td><td char="." align="char">240.24</td></tr><tr><td align="left">Gamunex-C</td><td char="." align="char">28.9</td><td char="." align="char">46.509</td><td char="." align="char">130.12</td><td char="." align="char">156.14</td></tr><tr><td align="left">Gammagard liquid</td><td char="." align="char">38.6</td><td char="." align="char">46.667</td><td char="." align="char">155.24</td><td char="." align="char">186.29</td></tr><tr><td align="left">Privigen</td><td char="." align="char">13.3</td><td char="." align="char">45.008</td><td char="." align="char">159.40</td><td char="." align="char">191.28</td></tr><tr><td align="left">Octagam</td><td char="." align="char">6.0</td><td char="." align="char">41.613</td><td char="." align="char">179.60</td><td char="." align="char">215.52</td></tr><tr><td align="left">Panzyga</td><td char="." align="char">7.2</td><td char="." align="char">55.360</td><td char="." align="char">190.16</td><td char="." align="char">228.19</td></tr><tr><td align="left">Flebogamma</td><td char="." align="char">6.0</td><td char="." align="char">35.893</td><td char="." align="char">104.98</td><td char="." align="char">125.98</td></tr><tr><td align="left"><bold>IVIG average</bold></td><td char="." align="char"><bold>100.00</bold></td><td char="." align="char"><bold>46.077</bold></td><td char="." align="char"><bold>149.49</bold></td><td char="." align="char"><bold>179.39</bold></td></tr></tbody></table><table-wrap-foot><p>Bold font represents the weighted average for IVIG</p><p><italic>ASP</italic> average sales price, <italic>AWP</italic> average wholesale price, <italic>CMS</italic> Centers for Medicare and Medicaid Services, <italic>IVIG</italic> intravenous immunoglobulin, <italic>WAC</italic> wholesale acquisition cost</p><p><sup>a</sup>ASP reported by the CMS is ASP + 6%; ASP is reported per 100 mg for Hizentra and per 500 mg for other IVIG products. WAC and AWP are reported per gram</p></table-wrap-foot></table-wrap></p>
+          <p id="Par15">The dosing of Hizentra and IVIGs was based on an average US adult patient weight of 85.9 kg [<xref ref-type="bibr" rid="CR49">49</xref>]. The average patient weight was calculated based on the average adult female weight of 77.5 kg and the average adult male weight of 90.6 kg [<xref ref-type="bibr" rid="CR49">49</xref>]. The average male and female weights were weighted by a gender distribution of 64.7% male and 35.3% female from the ICE and PATH studies [<xref ref-type="bibr" rid="CR28">28</xref>, <xref ref-type="bibr" rid="CR39">39</xref>]. For Hizentra, the initial maintenance weekly dose was 0.2 g/kg body weight, based on US prescribing information (label) and the PATH study [<xref ref-type="bibr" rid="CR39">39</xref>]. At 24 weeks, patients were evaluated for relapse in the PATH study [<xref ref-type="bibr" rid="CR39">39</xref>]; those who did not relapse were assumed to continue on the stable 0.2 g/kg body weight dose. For those who did relapse, subsequent dose management was assumed to entail dose up-titration to 0.4 g/kg body weight for an additional 24 weeks, consistent with US prescribing information, and subsequent relapse rates were taken from the PATH extension study [<xref ref-type="bibr" rid="CR42">42</xref>]. Observed initial and subsequent relapse rates from the placebo-controlled PATH study [<xref ref-type="bibr" rid="CR39">39</xref>] and PATH extension study [<xref ref-type="bibr" rid="CR42">42</xref>], respectively, were adjusted in this indirect comparison with IVIGs, as below.</p>
+          <p id="Par16">Underlying populations in the PATH and ICE studies were evaluated in terms of their respective relapse rates. In the PATH study, the observed relapse rate for the Hizentra maintenance dose of 0.2 g/kg body weight was 33% and the corresponding placebo relapse rate was 56% [<xref ref-type="bibr" rid="CR39">39</xref>]. In the ICE study, the observed relapse rate for the Gamunex (immune globulin injection [human] 10% caprylate/chromatography purified) maintenance dose of 1 g/kg body weight was 13% [<xref ref-type="bibr" rid="CR28">28</xref>, <xref ref-type="bibr" rid="CR50">50</xref>] and the placebo relapse rate was 42%. Since the placebo relapse rates were unequal across the two studies, indicative of population heterogeneity, the relapse rate for the Hizentra 0.2 g/kg body weight dose was adjusted as follows:<list list-type="bullet"><list-item><p id="Par17">observed relative risk of Hizentra 0.2 g/kg dose versus IVIG (Gamunex) relapse rate = 0.33/0.13 = 2.53</p></list-item><list-item><p id="Par18">adjusted relative risk of Hizentra 0.2 g/kg dose versus IVIG (Gamunex) relapse rate = (0.33/0.56)/(0.13/0.42) = 1.90</p></list-item><list-item><p id="Par19">adjusted relapse rate for Hizentra 0.2 g/kg body weight = (13%) × (1.90) = 24.8%.</p></list-item></list></p>
+          <p id="Par20">The subsequent relapse rate was similarly adjusted for the 24.8% of Hizentra 0.2 g/kg body weight-dosed patients who were projected to relapse at 24 weeks and were uptitrated to the higher 0.4 g/kg body weight dosing, from the observed 8% in the PATH extension study [<xref ref-type="bibr" rid="CR38">38</xref>] to 6%, as above. Finally, for the 75.2% of patients who did not relapse in the initial 24 weeks and remained on the same stable dose of 0.2 g/kg body weight, the observed relapse rate of 30% in the following 6 months was adjusted to 22.5%.</p>
+          <p id="Par21">Maintenance dosing for IVIGs was calculated at 1.0 g/kg body weight, with a post-relapse induction dose of 2.0 g/kg [<xref ref-type="bibr" rid="CR28">28</xref>, <xref ref-type="bibr" rid="CR50">50</xref>]. As noted, the ICE study was the basis of incorporated relapse rates at the initial assessment period (24 weeks) and post-relapse subsequent management [<xref ref-type="bibr" rid="CR28">28</xref>]. IG maintenance was assumed to involve 15 yearly administrations, based on analysis of US patients from a global Guillain–Barré Syndrome (GBS)/CIDP Foundation patient survey [<xref ref-type="bibr" rid="CR51">51</xref>]. The market shares of different IVIG products were taken from US data from the aforementioned GBS/CIDP global patient survey (Table <xref rid="Tab1" ref-type="table">1</xref>) [<xref ref-type="bibr" rid="CR51">51</xref>].</p>
+          <p id="Par22">For IVIGs, literature-based estimates were used for costs of IVIG infusions by site of care [<xref ref-type="bibr" rid="CR37">37</xref>], IVIG site of care distribution [<xref ref-type="bibr" rid="CR51">51</xref>], costs of IVIG complications (venous access, need for implanted infusion port, implanted infusion port complications), and types of infection and corresponding rates and costs [<xref ref-type="bibr" rid="CR52">52</xref>–<xref ref-type="bibr" rid="CR54">54</xref>] (Table <xref rid="Tab2" ref-type="table">2</xref>). Hizentra AE rates from the Hizentra prescribing information were assessed for inclusion in the model. The most frequent AEs for patients treated with 0.2g/kg Hizentra were local reactions (19.3%), fatigue (8.8%), headache (7%), and nasopharyngitis (7%) [<xref ref-type="bibr" rid="CR55">55</xref>]. The vast majority of Hizentra AEs were mild, easily treated, and self-limiting and thus were not included in the model. Similar rates of common minor AEs were seen with Gamunex-C, such as headache (8%), pharyngitis (5%), injection site reaction (5%), and cough increased (7%) [<xref ref-type="bibr" rid="CR50">50</xref>]. As the rates of minor AEs were similar between Hizentra and IVIG, and costs to treat these AEs were minimal, the model only considered serious AEs. Costs in the model reflect 2022 US dollars. In accordance with ISPOR guidelines and recommendations for budget impact modeling, no discounting was performed [<xref ref-type="bibr" rid="CR46">46</xref>].<table-wrap id="Tab2"><label>Table 2</label><caption><p>IG site of care (administration) and infusion-related costs: Hizentra and IVIGs</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Input</th><th align="left">Value</th><th align="left">Costs (US$)</th><th align="left">Source</th></tr></thead><tbody><tr><td align="left">Hizentra home (self-administered) percentage</td><td align="left">100%</td><td align="left">–</td><td align="left">Assumption</td></tr><tr><td align="left">IVIG home (nurse-administered) percentage</td><td align="left">39%</td><td align="left">–</td><td align="left">GBS/CIDP Foundation 2018 [<xref ref-type="bibr" rid="CR51">51</xref>]</td></tr><tr><td align="left">IVIG hospital outpatient percentage</td><td align="left">31%</td><td align="left">–</td><td align="left">GBS/CIDP Foundation 2018 [<xref ref-type="bibr" rid="CR51">51</xref>]</td></tr><tr><td align="left">IVIG office/other percentage</td><td align="left">30%</td><td align="left">–</td><td align="left">GBS/CIDP Foundation 2018 [<xref ref-type="bibr" rid="CR51">51</xref>]</td></tr><tr><td align="left">Hizentra home (self-administered) patient/caregiver training hours</td><td align="left">4</td><td align="left">–</td><td align="left">GBS/CIDP Foundation 2018 [<xref ref-type="bibr" rid="CR51">51</xref>]</td></tr><tr><td align="left">Cost per training hour</td><td align="left">$55.82</td><td align="left">–</td><td align="left">CPT 98960 [<xref ref-type="bibr" rid="CR56">56</xref>]</td></tr><tr><td align="left">Home (nurse-administered) cost per infusion</td><td align="left">$310</td><td align="left">–</td><td align="left">Slen, 2014 [<xref ref-type="bibr" rid="CR36">36</xref>]; Luthra, 2014 [<xref ref-type="bibr" rid="CR37">37</xref>]</td></tr><tr><td align="left">IVIG administration, hospital outpatient</td><td align="left">$2299</td><td align="left">–</td><td align="left">Slen 2014 [<xref ref-type="bibr" rid="CR36">36</xref>]; Luthra 2014 [<xref ref-type="bibr" rid="CR37">37</xref>]</td></tr><tr><td align="left">Co-pay infusion</td><td align="left">$25.00</td><td align="left">–</td><td align="left">Assumption</td></tr><tr><td align="left">Home (nurse-administered) infusion time, hours</td><td align="left">3.75</td><td align="left">31.31/h</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; US Bureau of Labor Statistics [<xref ref-type="bibr" rid="CR57">57</xref>]</td></tr><tr><td align="left">Hospital outpatient infusion time, hours</td><td align="left">8.25</td><td align="left">31.31/h</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; US Bureau of Labor Statistics [<xref ref-type="bibr" rid="CR57">57</xref>]</td></tr><tr><td align="left">Hospital outpatient caregiver time, hours</td><td align="left">8.25</td><td align="left">31.31/h</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; US Bureau of Labor Statistics [<xref ref-type="bibr" rid="CR57">57</xref>]</td></tr><tr><td align="left">IVIG administration, office</td><td align="left">$826.00</td><td align="left">–</td><td align="left">Slen 2014 [<xref ref-type="bibr" rid="CR32">32</xref>]</td></tr><tr><td align="left">Office, infusion time, hours</td><td align="left">7.75</td><td align="left">31.31/h</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; US Bureau of Labor Statistics [<xref ref-type="bibr" rid="CR57">57</xref>]</td></tr><tr><td align="left">Office, caregiver hours</td><td align="left">7.75</td><td align="left">31.31/h</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; US Bureau of Labor Statistics [<xref ref-type="bibr" rid="CR57">57</xref>]</td></tr><tr><td align="left">Patients requiring permanent PICC, surgically implanted CVC or infusion port</td><td align="left">20%</td><td align="left">46.00</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; Pierce 2004 [<xref ref-type="bibr" rid="CR58">58</xref>]</td></tr><tr><td align="left">Catheter-related infections</td><td align="left">0.93%</td><td align="left">12,842</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; AHRQ HCUP [<xref ref-type="bibr" rid="CR59">59</xref>]</td></tr><tr><td align="left">Catheter-related blood stream infections</td><td align="left">1.5%</td><td align="left">56,167</td><td align="left">Maki 2006 [<xref ref-type="bibr" rid="CR60">60</xref>]; Dimick 2001 [<xref ref-type="bibr" rid="CR54">54</xref>]</td></tr><tr><td align="left">Thrombophlebitis (clotting excluding infection)</td><td align="left">2.2%</td><td align="left">5136</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; AHRQ HCUP [<xref ref-type="bibr" rid="CR59">59</xref>]</td></tr><tr><td align="left">Infiltration and extravasation</td><td align="left">0.6%</td><td align="left">7401</td><td align="left">Hadaway 2007 [<xref ref-type="bibr" rid="CR61">61</xref>]; AHRQ HCUP [<xref ref-type="bibr" rid="CR59">59</xref>]</td></tr><tr><td align="left">Thromboembolic events</td><td align="left">0.38%</td><td align="left">13,200</td><td align="left">Ramirez 2014 [<xref ref-type="bibr" rid="CR29">29</xref>]; Grosse 2016 [<xref ref-type="bibr" rid="CR62">62</xref>]</td></tr><tr><td align="left">Aseptic meningitis</td><td align="left">0.07%</td><td align="left">12,013</td><td align="left">Bharath 2014 [<xref ref-type="bibr" rid="CR63">63</xref>]; AHRQ HCUP [<xref ref-type="bibr" rid="CR59">59</xref>]</td></tr><tr><td align="left">Acute hemolysis</td><td align="left">0.04%</td><td align="left">10,050</td><td align="left">Daw 2008 [<xref ref-type="bibr" rid="CR64">64</xref>]; AHRQ HCUP [<xref ref-type="bibr" rid="CR59">59</xref>]</td></tr><tr><td align="left">Travel cost – fuel cost per infusion</td><td align="left"/><td align="left">8.70</td><td align="left">Weiss 2021 [<xref ref-type="bibr" rid="CR65">65</xref>]</td></tr><tr><td align="left">Travel cost – parking/tolls per infusion</td><td align="left"/><td align="left">13.00</td><td align="left">Premnath 2020 [<xref ref-type="bibr" rid="CR66">66</xref>]</td></tr><tr><td align="left">Hizentra home (self-administered) percentage</td><td align="left">100%</td><td align="left">–</td><td align="left">Assumption</td></tr><tr><td align="left">IVIG home (nurse-administered) percentage</td><td align="left">39%</td><td align="left">–</td><td align="left">GBS/CIDP Foundation 2018 [<xref ref-type="bibr" rid="CR51">51</xref>]</td></tr><tr><td align="left">IVIG hospital outpatient percentage</td><td align="left">31%</td><td align="left">–</td><td align="left">GBS/CIDP Foundation 2018 [<xref ref-type="bibr" rid="CR51">51</xref>]</td></tr><tr><td align="left">IVIG office/other percentage</td><td align="left">30%</td><td align="left">–</td><td align="left">GBS/CIDP Foundation 2018 [<xref ref-type="bibr" rid="CR51">51</xref>]</td></tr><tr><td align="left">Hizentra home (self-administered) patient/caregiver training hours</td><td align="left">4</td><td align="left">–</td><td align="left">GBS/CIDP Foundation 2018 [<xref ref-type="bibr" rid="CR51">51</xref>]</td></tr><tr><td align="left">Cost per training hour</td><td align="left">$55.82</td><td align="left">–</td><td align="left">CPT 98960 [<xref ref-type="bibr" rid="CR56">56</xref>]</td></tr><tr><td align="left">Home (nurse-administered) cost per infusion</td><td align="left">$310</td><td align="left">–</td><td align="left">Slen 2014 [<xref ref-type="bibr" rid="CR36">36</xref>]; Luthra 2014[<xref ref-type="bibr" rid="CR37">37</xref>]</td></tr><tr><td align="left">IVIG administration, hospital outpatient</td><td align="left">$2299</td><td align="left">–</td><td align="left">Slen 2014 [<xref ref-type="bibr" rid="CR36">36</xref>]; Luthra 2014 [<xref ref-type="bibr" rid="CR37">37</xref>]</td></tr><tr><td align="left">Co-pay infusion</td><td align="left">$25.00</td><td align="left">–</td><td align="left">Assumption</td></tr><tr><td align="left">Home (nurse-administered) infusion time, hours</td><td align="left">3.75</td><td align="left">31.31/h</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; US Bureau of Labor Statistics [<xref ref-type="bibr" rid="CR57">57</xref>]</td></tr><tr><td align="left">Hospital outpatient infusion time hours</td><td align="left">8.25</td><td align="left">31.31/h</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; US Bureau of Labor Statistics [<xref ref-type="bibr" rid="CR57">57</xref>]</td></tr><tr><td align="left">Hospital outpatient caregiver time, hours</td><td align="left">8.25</td><td align="left">31.31/h</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; US Bureau of Labor Statistics [<xref ref-type="bibr" rid="CR57">57</xref>]</td></tr><tr><td align="left">IVIG administration, office</td><td align="left">$826.00</td><td align="left">–</td><td align="left">Slen 2014 [<xref ref-type="bibr" rid="CR31">31</xref>]</td></tr><tr><td align="left">Office, infusion time, hours</td><td align="left">7.75</td><td align="left">31.31/h</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; US Bureau of Labor Statistics [<xref ref-type="bibr" rid="CR57">57</xref>]</td></tr><tr><td align="left">Office, caregiver hours</td><td align="left">7.75</td><td align="left">31.31/h</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; US Bureau of Labor Statistics [<xref ref-type="bibr" rid="CR57">57</xref>]</td></tr><tr><td align="left">Patients requiring permanent PICC, surgically implanted CVC or infusion port</td><td align="left">20%</td><td align="left">46.00</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; Pierce 2004 [<xref ref-type="bibr" rid="CR58">58</xref>]</td></tr><tr><td align="left">Catheter-related infections</td><td align="left">0.93%</td><td align="left">12,842</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; AHRQ HCUP [<xref ref-type="bibr" rid="CR59">59</xref>]</td></tr><tr><td align="left">Catheter-related blood stream infections</td><td align="left">1.5%</td><td align="left">56,167</td><td align="left">Maki 2006 [<xref ref-type="bibr" rid="CR60">60</xref>]; Dimick 2001 [<xref ref-type="bibr" rid="CR54">54</xref>]</td></tr><tr><td align="left">Thrombophlebitis (clotting, excluding infection)</td><td align="left">2.2%</td><td align="left">5136</td><td align="left">GBS/CIDP Patient Survey [<xref ref-type="bibr" rid="CR51">51</xref>]; AHRQ HCUP [<xref ref-type="bibr" rid="CR59">59</xref>]</td></tr><tr><td align="left">Infiltration and extravasation</td><td align="left">0.6%</td><td align="left">7401</td><td align="left">Hadaway 2007 [<xref ref-type="bibr" rid="CR61">61</xref>]; AHRQ HCUP [<xref ref-type="bibr" rid="CR59">59</xref>]</td></tr><tr><td align="left">Thromboembolic events</td><td align="left">0.38%</td><td align="left">13,200</td><td align="left">Ramirez 2014 [<xref ref-type="bibr" rid="CR29">29</xref>]; Grosse 2016 [<xref ref-type="bibr" rid="CR62">62</xref>]</td></tr><tr><td align="left">Aseptic meningitis</td><td align="left">0.07%</td><td align="left">12,013</td><td align="left">Bharath 2014 [<xref ref-type="bibr" rid="CR63">63</xref>]; AHRQ HCUP [<xref ref-type="bibr" rid="CR59">59</xref>]</td></tr><tr><td align="left">Acute hemolysis</td><td align="left">0.04%</td><td align="left">10,050</td><td align="left">Daw 2008 [<xref ref-type="bibr" rid="CR64">64</xref>]; AHRQ HCUP [<xref ref-type="bibr" rid="CR59">59</xref>]</td></tr><tr><td align="left">Travel cost – fuel cost per infusion</td><td align="left"/><td align="left">8.70</td><td align="left">Weiss 2021 [<xref ref-type="bibr" rid="CR65">65</xref>]</td></tr><tr><td align="left">Travel cost – parking/tolls per infusion</td><td align="left"/><td align="left">13.00</td><td align="left">Premnath 2020 [<xref ref-type="bibr" rid="CR66">66</xref>]</td></tr></tbody></table><table-wrap-foot><p><italic>AHRQ HCUP</italic> Agency for Healthcare Research and Quality Healthcare Cost and Utilization Project, <italic>CIDP</italic> chronic inflammatory demyelinating polyneuropathy, <italic>CPT</italic> Common Procedural Terminology, <italic>GBS</italic> Guillain–Barré Syndrome, <italic>CVC</italic> central venous catheter, <italic>IG</italic> immunoglobulin, <italic>IVIG</italic> intravenous immunoglobulin, <italic>PICC</italic> peripherally inserted central catheter</p><p><sup>a</sup>Based on an average distance traveled of 8.7 miles each way (17.4 miles round trip) at a cost of $0.50/mile</p></table-wrap-foot></table-wrap></p>
+          <p id="Par23">The distribution of site of care (IG administration) was based on the aforementioned GBS/CIDP Foundation survey. Finally, indirect costs for infusion time and caregiver time were included for the IDN perspective (base case). For the model base case from the IDN perspective, the percentage of patients requiring a caregiver was derived from evidence from two studies in a similar neuromuscular condition, myasthenia gravis [<xref ref-type="bibr" rid="CR67">67</xref>, <xref ref-type="bibr" rid="CR68">68</xref>]. As the percentage of patients requiring a caregiver varied by underlying age and gender (higher age and males being associated with greater caregiving) in these studies, this relationship was applied to the age and gender distribution in the CIDP population from the ICE and PATH studies to arrive at an expected caregiver rate of 84% for the model base case [<xref ref-type="bibr" rid="CR28">28</xref>, <xref ref-type="bibr" rid="CR39">39</xref>]. Travel cost per infusion, including fuel cost and parking/tolls, were also included from the IDN perspective.</p>
+          <p id="Par24">A one-way sensitivity analysis was conducted by varying the key model input parameters one at a time while holding all other inputs constant to determine the sensitivity and robustness of the model. The base-case variance percentage was set to ±10%. An alternative sensitivity scenario with variance set to ±20% was also evaluated.</p>
+          <p id="Par25">Various scenario analyses were also conducted. These consisted of (1) comparing Hizentra with Gamunex-C; (2) Hizentra compared with Panzyga; (3) Hizentra compared with hospital-based IVIG alone; (4) Hizentra compared with home-based IVIG alone; (5) Hizentra compared with IVIG, with all IVIG patients requiring infusion ports; (6) Hizentra compared with IVIG from a commercial perspective, excluding indirect costs; (7) Hizentra compared with IVIG using unadjusted relapse rates; (8) Hizentra compared with IVIG, with AEs excluded; (9) Hizentra versus IVIG using only the ASP; and (10) Hizentra versus IVIG using mean average weights for males and females.</p>
+        </sec>
+      </sec>
+      <sec id="Sec6">
+        <title>Results</title>
+        <sec id="Sec7">
+          <title>Budget Impact</title>
+          <p id="Par26">Based on the US-labeled starting dose of 0.2 g/kg for maintenance treatment of CIDP, the output of the model revealed that Hizentra is expected to result in annual cost savings of about US$32,000 per patient compared with a market basket of IVIGs (Fig. <xref rid="Fig2" ref-type="fig">2</xref>). As seen, slightly over US$10,000 of the per-patient expected savings are attributable to drug costs and the remaining approximately US$22,000 are attributable to non-drug (infusion and AE) costs. For a hypothetical 25-million-member IDN, the budget impact of a 10% market share shift from IVIG to Hizentra results in annual expected savings of about US$2.29 million (Fig. <xref rid="Fig3" ref-type="fig">3</xref>). Assuming a 5% market share shift from IVIG to Hizentra results in an annual expected savings of US$1.15 million, while assuming a 20% market share shift from IVIG to Hizentra results in an annual expected savings of US$4.59 million. When evaluated in relation to Gamunex, the originally approved IVIG that is the basis for the efficacy outcomes (relapse rates) used in this model, the annual expected savings per patient are US$26,488, with a budget savings of about US$1.87 million. By contrast, savings in relation to the most costly IVIG, Panzyga (immune globulin intravenous [human]-ifas 10% liquid preparation), are an expected US$63,733 per patient and a favorable budget impact of US$4.51 million for the healthcare plan (Table <xref rid="Tab3" ref-type="table">3</xref>).<fig id="Fig2"><label>Fig. 2</label><caption><p>Average cost per patient in the treatment of CIDP. <italic>CIDP</italic> chronic inflammatory demyelinating polyneuropathy, <italic>IVIG</italic> intravenous immunoglobulin</p></caption><graphic xlink:href="41669_2023_386_Fig2_HTML" id="MO2"/></fig><fig id="Fig3"><label>Fig. 3</label><caption><p>Budget impact of Hizentra in the treatment of CIDP. The budget impact is calculated as the difference between the total cost of the current scenario (without Hizentra) and the total cost of the new scenario (with Hizentra) in year 1. <italic>CIDP</italic> chronic inflammatory demyelinating polyneuropathy</p></caption><graphic xlink:href="41669_2023_386_Fig3_HTML" id="MO3"/></fig><table-wrap id="Tab3"><label>Table 3</label><caption><p>Model results by scenario</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Scenario</th><th align="left">Per patient cost savings (Hizentra vs. IVIG) [US$]</th><th align="left">Budget impact (US$, million)</th></tr></thead><tbody><tr><td align="left">Hizentra vs. IVIG market basket (base case)</td><td char="," align="char">32,447</td><td char="." align="char">2.29</td></tr><tr><td align="left">Hizentra vs. Gamunex</td><td char="," align="char">26,488</td><td char="." align="char">1.87</td></tr><tr><td align="left">Hizentra vs. Panzyga</td><td char="," align="char">63,733</td><td char="." align="char">4.51</td></tr><tr><td align="left">Hizentra vs. hospital-based IVIG</td><td char="," align="char">53,773</td><td char="." align="char">3.81</td></tr><tr><td align="left">Hizentra vs. home-based IVIG</td><td char="," align="char">16,881</td><td char="." align="char">1.19</td></tr><tr><td align="left">Hizentra vs. IVIG with all patients requiring infusion ports</td><td char="," align="char">46,552</td><td char="." align="char">3.29</td></tr><tr><td align="left">Hizentra vs. IVIG (commercial perspective) <italic>[excludes indirect costs]</italic></td><td char="," align="char">30,896</td><td char="." align="char">2.19</td></tr><tr><td align="left">Hizentra vs. IVIG, unadjusted relapse rates</td><td char="," align="char">27,400</td><td char="." align="char">1.94</td></tr><tr><td align="left">Hizentra vs. IVIG, IVIG adverse events excluded</td><td char="," align="char">28,113</td><td char="." align="char">1.99</td></tr><tr><td align="left">Hizentra vs. IVIG, using ASP</td><td char="," align="char">32,949</td><td char="." align="char">2.33</td></tr><tr><td align="left">Hizentra vs. IVIG, using average male weight (90.6 kg)</td><td char="," align="char">32,999</td><td char="." align="char">2.34</td></tr><tr><td align="left">Hizentra vs. IVIG, using average female weight (77.5 kg)</td><td char="," align="char">31,460</td><td char="." align="char">2.23</td></tr></tbody></table><table-wrap-foot><p><italic>ASP</italic> average sales price, <italic>IVIG</italic> intravenous immunoglobulin</p></table-wrap-foot></table-wrap></p>
+          <p id="Par27">The savings and budget impact savings seen in the model are expected to be more favorable for a shift from IVIGs to Hizentra under certain conditions or for specific subgroups. The first scenario is a greater share of hospital-based and infusion center-based IVIG infusions, as opposed to home administration of IVIG. This is especially so for hospital-based IVIG infusions. Thus, for patients transitioning from hospital-based IVIG infusion to Hizentra self-infusion, the expected annual savings for each such patient is US$53,773 and US$3.81 million if all IVIG patients were receiving hospital infusions. Nevertheless, even for patients who may choose self-infusion over home-based IVIG infusion with a healthcare professional, our model projected annual savings of about US$16,881 per patient and US$1.19 million at the organization level.</p>
+          <p id="Par28">A second group for whom expected savings are likely to be greater is patients who require implantable ports for IVIG infusions. For them, because of the excess incidence of AEs and associated costs for patients on implantable infusion ports, the expected savings from a transition to Hizentra subcutaneous infusion would be US$46,552 and US$3.29 million for the organization if all patients receiving IVIG required implantable ports.</p>
+          <p id="Par29">In addition to variability in patient-level costs, the model predicts additional opportunity for an IDN to increase projected cost savings with a larger shift of the IVIG population to Hizentra. Thus, a shift of 15% (from an assumed current Hizentra share of 10% to 25% in 1 year) would yield a projected cost savings of about US$3.44 million.</p>
+          <p id="Par30">Under other scenarios, overall expected savings and budget impact from an IVIG to Hizentra switch may be more modest. First, if indirect costs such as patient and caregiver time were not valued as in the commercial perspective, the annual cost savings per patient would be smaller, at US$30,896 per patient compared with the market basket of IVIGs, and US$2.19 million for a commercial health plan that is not responsible for patient and caregiver time costs.</p>
+          <p id="Par31">Second, if we did not adjust for severity differences in the underlying populations of the Hizentra clinical study (PATH) [more severe as reflected in a higher placebo relapse rate] and the Gamunex clinical study (ICE) [less severe with a lower placebo relapse rate], the expected annual cost savings per patient would be US$27,400 and the organizational annual budget savings would be around US$1.94 million.</p>
+          <p id="Par32">Third, if the IVIG AEs were not included (i.e., were assumed to be negligible), then the expected annual cost savings per patient would be about US$28,113 and the annual budget savings would be limited to US$1.99 million. Finally, we included a scenario using only the ASP; the expected savings per patient would be about US$32,949 and the budget impact savings would be US$2.33 million, a slight increase from the model base case.</p>
+        </sec>
+        <sec id="Sec8">
+          <title>Sensitivity Analysis</title>
+          <p id="Par33">The output for the one-way sensitivity analysis is the budget impact with a base-case value of US$2,296,235. The results of the sensitivity analysis suggest that the model parameters with the largest impact on the budget impact results were, in order of decreasing impact, the number of yearly IVIG administrations, the IVIG maintenance dose (g/kg), the number of yearly Hizentra administrations, and the Hizentra price (ASP). The sensitivity analysis showed a maximum expected annual budget impact of US$3,458,586 when the number of yearly IVIG administrations was increased by 10%, and a minimum expected budget impact of US$1,133,884 when the number of yearly IVIG administrations was reduced by 10% (Fig. <xref rid="Fig4" ref-type="fig">4</xref>). When adjusting the input variables by ±20%, the key drivers of the model did not vary, but the budget impact ranged from US$4,620,936 to US$28,466.<fig id="Fig4"><label>Fig. 4</label><caption><p>Tornado diagram. <italic>ASP</italic> average sales price, <italic>AWP</italic> average wholesale price, <italic>CIDP</italic> chronic inflammatory demyelinating polyneuropathy, <italic>Ig</italic> immunoglobulin, <italic>IVIG</italic> intravenous immunoglobulin, <italic>SCIG</italic> subcutaneous immunoglobulin, <italic>WAC</italic> wholesale acquisition cost</p></caption><graphic xlink:href="41669_2023_386_Fig4_HTML" id="MO4"/></fig></p>
+        </sec>
+      </sec>
+      <sec id="Sec9">
+        <title>Discussion</title>
+        <p id="Par34">Due to its progressive neuromuscular pathophysiology, the journey of a patient with CIDP is typically characterized by decreasing physical function and quality of life [<xref ref-type="bibr" rid="CR69">69</xref>] and high disability levels [<xref ref-type="bibr" rid="CR70">70</xref>, <xref ref-type="bibr" rid="CR71">71</xref>]. Going beyond diagnosis and early treatments with immunosuppressives, including corticosteroids, IGs have been demonstrated to be variously associated with improvement from acutely dysfunctional to stable physical function and subsequent maintained relapse-free state for most patients [<xref ref-type="bibr" rid="CR27">27</xref>, <xref ref-type="bibr" rid="CR28">28</xref>, <xref ref-type="bibr" rid="CR39">39</xref>]. In addition, maintenance treatment with IGs, specifically Hizentra, has been shown to be associated with maintenance of patient-reported health status and quality of life [<xref ref-type="bibr" rid="CR40">40</xref>].</p>
+        <p id="Par35">Within the class of IG treatments, additional benefit in terms of patient-reported treatment satisfaction has been shown to occur with a switch from healthcare professional administration of IVIGs to self-infusion with SCIGs in a number of clinical studies [<xref ref-type="bibr" rid="CR38">38</xref>, <xref ref-type="bibr" rid="CR72">72</xref>, <xref ref-type="bibr" rid="CR73">73</xref>] in another indication for IG treatment: primary immune deficiency. Furthermore, a clinical study of patients with CIDP also demonstrated a clear patient preference for SCIG administration over IVIGs [<xref ref-type="bibr" rid="CR42">42</xref>].</p>
+        <p id="Par36">In addition to improvement in patient health status and treatment satisfaction, an improvement in infusion process-related AEs [<xref ref-type="bibr" rid="CR29">29</xref>–<xref ref-type="bibr" rid="CR32">32</xref>] may result from a switch from IVIGs to an SCIG such as Hizentra [<xref ref-type="bibr" rid="CR74">74</xref>]. This switch has the potential for both a clinical and an economic benefit for CIDP patients.</p>
+        <p id="Par37">For this study, we utilized literature-based inputs to develop a BIM of the introduction of Hizentra for maintenance treatment of CIDP to a formulary to inform corresponding economic and financial implications. This BIM suggests that the introduction of Hizentra administration in CIDP maintenance is expected to produce cost savings. Specifically, a switch from Hizentra was projected to save over US$30,000 per patient switched from IVIG and about US$2.3 million for a 25-million-member IDN that valued its members’ time and out-of-pocket infusion costs. For health plans that do not reimburse patients and caregivers for time and out-of-pocket expenses related to travel for any infusion (including IVIG) [<xref ref-type="bibr" rid="CR65">65</xref>, <xref ref-type="bibr" rid="CR66">66</xref>], savings are expected to nevertheless be as much as US$31,000 per patient and about US$2.2 million at the plan level, in addition to the intangible benefit of reducing patient and caregiver burden. Organizational-level savings were projected based on an assumption of a 10% shift (increase) in Hizentra market share, offset by a corresponding reduction in IVIG market share. Of note, a larger increase in Hizentra market share was expected to result in a proportionate increase in organization-level savings and may help offset any training and structural costs associated with a shift from IVIG infusions to SCIG infusions.</p>
+        <p id="Par38">Our projected savings from a switch from IVIG to SCIG infusions, especially when the former are administered in a hospital setting [<xref ref-type="bibr" rid="CR75">75</xref>], are consistent with similar conclusions with regard to use of self-injected biologics in other conditions, such as rheumatoid arthritis [<xref ref-type="bibr" rid="CR76">76</xref>, <xref ref-type="bibr" rid="CR77">77</xref>]. Although some savings are admittedly possible with a shift from the hospital to home setting for IVIG infusions, our study showed optimal cost savings with self-administered subcutaneous infusions.</p>
+        <p id="Par39">Our budget impact findings are supported by those of an Australian cost-utility analysis of IVIG versus SCIG, which found that SCIG is cost effective in 93.2% of simulations, given a willingness-to-pay threshold of A$50,000 per quality-adjusted life-year [<xref ref-type="bibr" rid="CR78">78</xref>]. Additionally, from a cost-minimization perspective, the analysis found that IVIG and SCIG were associated with average cost values of A$297,547 and A$251,713, respectively [<xref ref-type="bibr" rid="CR78">78</xref>]. Although based on a related indication of primary immune deficiency, other economic evidence is consistent with the findings of our novel analysis in CIDP. According to economic analyses performed in Sweden, Germany, the UK, Canada, and France, home-based SCIG was found to be 25–75% less costly to the healthcare system than hospital-based IVIG [<xref ref-type="bibr" rid="CR79">79</xref>–<xref ref-type="bibr" rid="CR83">83</xref>]. While findings on economic analyses on other approved indications and other countries are not directly comparable with our estimated expected BIM from a US plan perspective, especially when considering regional healthcare differences and product prices, the directionality and similarity of magnitude of cost benefit in each suggest that SCIG is more financially appealing than IVIG.</p>
+        <p id="Par40">The recent coronavirus disease 2019 (COVID-19) pandemic has prompted fundamental shifts in drug infusions from real or perceived high-risk encounters in healthcare settings to the home environment [<xref ref-type="bibr" rid="CR84">84</xref>]. It is expected that these trends may continue with greater patient independence and caution, even after the pandemic has subsided, thus providing continued impetus to health plans for encouraging such shifts in care.</p>
+        <sec id="Sec10">
+          <title>Limitations</title>
+          <p id="Par41">As with any economic model, the validity of the results is dependent on the inputs and assumptions made within the model. Model inputs are based on a variety of assumptions, including the size of the target population, pharmacy costs, medical costs, and market shares. While we employed methodologically sound modeling techniques and tested our assumptions with sensitivity analyses, the inputs and assumptions used in this model may not be appropriate for all healthcare plans.</p>
+          <p id="Par42">Additionally, we assumed that all patients administered Hizentra within the home setting would be self-administering therapy. In real-world settings, Hizentra administration may be facilitated via an infusion nurse for select patients.</p>
+        </sec>
+      </sec>
+      <sec id="Sec11">
+        <title>Conclusion</title>
+        <p id="Par43">This budget impact analysis strongly suggests that Hizentra is expected to be associated with favorable economic benefits compared with IVIG in the management of CIDP. As such, there may be economic value in switching patients from IVIG to an SCIG, in addition to intangible benefits in terms of greater treatment satisfaction for appropriate patients. Clearly, such a transition must be supported by adequate self-infusion training for patients. Other necessary training may revolve around alleviating any modifiable patient-level factors that could decrease the chance of successful and sustained uptake to SCIG. Furthermore, choice of IVIG versus SCIG and corresponding choice of site of administration are predicated upon a variety of patient-level and patient-influencing factors, including but not limited to those revolving around the COVID-19 pandemic, which may have influenced greater and perhaps enduring patient independence worldwide.</p>
+      </sec>
+      <sec sec-type="supplementary-material">
+        <title>Supplementary Information</title>
+        <sec id="Sec12">
+          <p>Below is the link to the electronic supplementary material.<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="41669_2023_386_MOESM1_ESM.xlsm"><caption><p>Supplementary file1 (XLSM 230 KB) </p></caption></media></supplementary-material></p>
+        </sec>
+      </sec>
+    </body>
+    <back>
+      <ack>
+        <p>The authors would like to acknowledge Kylie Matthews from Xcenda for copyediting and manuscript preparation.</p>
+      </ack>
+      <notes>
+        <title>Declarations</title>
+        <notes id="FPar1" notes-type="funding">
+          <title>Funding</title>
+          <p id="Par44">This study was funded by CSL Behring.</p>
+        </notes>
+        <notes id="FPar2" notes-type="COI-statement">
+          <title>Conflicts of interest</title>
+          <p id="Par45">Rajiv Mallick is an employee of CSL Behring and holds stock options. Rashad Carlton and Joris Van Stiphout are employees of Xcenda, which received funding from CSL Behring for this analysis.</p>
+        </notes>
+        <notes id="FPar3">
+          <title>Data availability</title>
+          <p id="Par46">Data for the model were obtained from a variety of sources, including published studies, publicly available costs and databases, and assumptions as necessary.</p>
+        </notes>
+        <notes id="FPar4">
+          <title>Ethics approval</title>
+          <p id="Par47">As this was an economic analysis that did not use any identifiable patient data, no ethics approval was required.</p>
+        </notes>
+        <notes id="FPar5">
+          <title>Consent to participate</title>
+          <p id="Par48">Not applicable.</p>
+        </notes>
+        <notes id="FPar6">
+          <title>Consent for publication</title>
+          <p id="Par49">Not applicable.</p>
+        </notes>
+        <notes id="FPar7">
+          <title>Code availability</title>
+          <p id="Par50">An unlocked version of the model has been provided as ESM. The input parameters specific to the US-approved labeling for Hizentra, including dosing and relapse parameters, are not modifiable. The VBA coding is proprietary to the model developers and is not publicly available.</p>
+        </notes>
+        <notes id="FPar8" notes-type="author-contribution">
+          <title>Author contributions</title>
+          <p id="Par51">Conceptualization: RM, RC, and JVS. Methodology: RM, RC, and JVS. Formal analysis: RM, RC, and JVS. Writing, review, and editing: RM, RC, and JVS.</p>
+        </notes>
+      </notes>
+      <ref-list id="Bib1">
+        <title>References</title>
+        <ref id="CR1">
+          <label>1.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Bunschoten</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Jacobs</surname>
+                <given-names>BC</given-names>
+              </name>
+              <name>
+                <surname>Van den Bergh</surname>
+                <given-names>PYK</given-names>
+              </name>
+              <name>
+                <surname>Cornblath</surname>
+                <given-names>DR</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+            </person-group>
+            <article-title>Progress in diagnosis and treatment of chronic inflammatory demyelinating polyradiculoneuropathy</article-title>
+            <source>Lancet Neurol</source>
+            <year>2019</year>
+            <volume>18</volume>
+            <issue>8</issue>
+            <fpage>784</fpage>
+            <lpage>794</lpage>
+            <pub-id pub-id-type="doi">10.1016/S1474-4422(19)30144-9</pub-id>
+            <pub-id pub-id-type="pmid">31076244</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR2">
+          <label>2.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Laughlin</surname>
+                <given-names>RS</given-names>
+              </name>
+              <name>
+                <surname>Dyck</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Melton</surname>
+                <given-names>LJ</given-names>
+                <suffix>3rd</suffix>
+              </name>
+              <name>
+                <surname>Leibson</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Ransom</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Dyck</surname>
+                <given-names>PJB</given-names>
+              </name>
+            </person-group>
+            <article-title>Incidence and prevalence of CIDP and the association of diabetes mellitus</article-title>
+            <source>Neurology</source>
+            <year>2009</year>
+            <volume>73</volume>
+            <issue>1</issue>
+            <fpage>39</fpage>
+            <lpage>45</lpage>
+            <pub-id pub-id-type="doi">10.1212/WNL.0b013e3181aaea47</pub-id>
+            <pub-id pub-id-type="pmid">19564582</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR3">
+          <label>3.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Viala</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Maisonobe</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Stojkovic</surname>
+                <given-names>T</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>A current view of the diagnosis, clinical variants, response to treatment and prognosis of chronic inflammatory demyelinating polyradiculoneuropathy</article-title>
+            <source>J Peripher Nerv Syst</source>
+            <year>2010</year>
+            <volume>15</volume>
+            <issue>1</issue>
+            <fpage>50</fpage>
+            <lpage>56</lpage>
+            <pub-id pub-id-type="doi">10.1111/j.1529-8027.2010.00251.x</pub-id>
+            <pub-id pub-id-type="pmid">20433605</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR4">
+          <label>4.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Kieseier</surname>
+                <given-names>BC</given-names>
+              </name>
+              <name>
+                <surname>Dalakas</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Hartung</surname>
+                <given-names>H-P</given-names>
+              </name>
+            </person-group>
+            <article-title>Immune mechanisms in chronic inflammatory demyelinating neuropathy</article-title>
+            <source>Neurology</source>
+            <year>2002</year>
+            <volume>59</volume>
+            <issue>12 Suppl 6</issue>
+            <fpage>S7</fpage>
+            <lpage>S12</lpage>
+            <pub-id pub-id-type="doi">10.1212/WNL.59.12_suppl_6.S7</pub-id>
+            <pub-id pub-id-type="pmid">12499465</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR5">
+          <label>5.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Bunschoten</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Blomkwist-Markens</surname>
+                <given-names>PH</given-names>
+              </name>
+              <name>
+                <surname>Horemans</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+              <name>
+                <surname>Jacobs</surname>
+                <given-names>BC</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical factors, diagnostic delay, and residual deficits in chronic inflammatory demyelinating polyradiculoneuropathy</article-title>
+            <source>J Peripher Nerv Syst</source>
+            <year>2019</year>
+            <volume>24</volume>
+            <issue>3</issue>
+            <fpage>253</fpage>
+            <lpage>259</lpage>
+            <pub-id pub-id-type="doi">10.1111/jns.12344</pub-id>
+            <pub-id pub-id-type="pmid">31410938</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR6">
+          <label>6.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Chiò</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Cocito</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Bottacchi</surname>
+                <given-names>E</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Idiopathic chronic inflammatory demyelinating polyneuropathy: an epidemiological study in Italy</article-title>
+            <source>J Neurol Neurosurg Psychiatry</source>
+            <year>2007</year>
+            <volume>78</volume>
+            <issue>12</issue>
+            <fpage>1349</fpage>
+            <lpage>1353</lpage>
+            <pub-id pub-id-type="doi">10.1136/jnnp.2007.114868</pub-id>
+            <pub-id pub-id-type="pmid">17494979</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR7">
+          <label>7.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gorson</surname>
+                <given-names>KC</given-names>
+              </name>
+              <name>
+                <surname>van Schaik</surname>
+                <given-names>IN</given-names>
+              </name>
+              <name>
+                <surname>Merkies</surname>
+                <given-names>ISJ</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Chronic inflammatory demyelinating polyneuropathy disease activity status: recommendations for clinical research standards and use in clinical practice</article-title>
+            <source>J Peripher Nerv Syst</source>
+            <year>2010</year>
+            <volume>15</volume>
+            <issue>4</issue>
+            <fpage>326</fpage>
+            <lpage>333</lpage>
+            <pub-id pub-id-type="doi">10.1111/j.1529-8027.2010.00284.x</pub-id>
+            <pub-id pub-id-type="pmid">21199104</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR8">
+          <label>8.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>dos Santos</surname>
+                <given-names>PL</given-names>
+              </name>
+              <name>
+                <surname>Nogueira de Almeida-Ribeiro</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>Daoud Silva</surname>
+                <given-names>DM</given-names>
+              </name>
+              <name>
+                <surname>Marques</surname>
+                <given-names>W</given-names>
+                <suffix>Jr</suffix>
+              </name>
+              <name>
+                <surname>Barreira</surname>
+                <given-names>AA</given-names>
+              </name>
+            </person-group>
+            <article-title>Chronic inflammatory demyelinating polyneuropathy: quality of life, sociodemographic profile and physical complaints</article-title>
+            <source>Arq Neuropsiquiatr.</source>
+            <year>2014</year>
+            <volume>72</volume>
+            <issue>3</issue>
+            <fpage>179</fpage>
+            <lpage>183</lpage>
+            <pub-id pub-id-type="doi">10.1590/0004-282X20130232</pub-id>
+            <pub-id pub-id-type="pmid">24676433</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR9">
+          <label>9.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Dyck</surname>
+                <given-names>PJB</given-names>
+              </name>
+              <name>
+                <surname>Tracy</surname>
+                <given-names>JA</given-names>
+              </name>
+            </person-group>
+            <article-title>History, diagnosis, and management of chronic inflammatory demyelinating polyradiculoneuropathy</article-title>
+            <source>Mayo Clin Proc</source>
+            <year>2018</year>
+            <volume>93</volume>
+            <issue>6</issue>
+            <fpage>777</fpage>
+            <lpage>793</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.mayocp.2018.03.026</pub-id>
+            <pub-id pub-id-type="pmid">29866282</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR10">
+          <label>10.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Taylor</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Chronic inflammatory demyelinating polyradiculoneuropathy: in a remote northern Ontario hospital</article-title>
+            <source>Can Fam Physician</source>
+            <year>2013</year>
+            <volume>59</volume>
+            <issue>4</issue>
+            <fpage>368</fpage>
+            <lpage>371</lpage>
+            <pub-id pub-id-type="pmid">23585604</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR11">
+          <label>11.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Eftimov</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>van Schaik</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <article-title>Chronic inflammatory demyelinating polyradiculoneuropathy: update on clinical features, phenotypes and treatment options</article-title>
+            <source>Curr Opin Neurol</source>
+            <year>2013</year>
+            <volume>26</volume>
+            <issue>5</issue>
+            <fpage>496</fpage>
+            <lpage>502</lpage>
+            <pub-id pub-id-type="doi">10.1097/WCO.0b013e328363bfa4</pub-id>
+            <pub-id pub-id-type="pmid">23852276</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR12">
+          <label>12.</label>
+          <mixed-citation publication-type="other">Eftimov F, Winer JB, Vermeulen M, de Haan R, van Schaik IN. Intravenous immunoglobulin for chronic inflammatory demyelinating polyradiculoneuropathy. Cochrane Database Syst Rev. 2013;(12):CD001797. 10.1002/14651858.CD001797.pub3.</mixed-citation>
+        </ref>
+        <ref id="CR13">
+          <label>13.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Van Lieverloo</surname>
+                <given-names>GGA</given-names>
+              </name>
+              <name>
+                <surname>Peric</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Doneddu</surname>
+                <given-names>PE</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>A retrospective, multicentre study, comparing efficacy and safety of daily prednisolone, pulsed dexamethasone, and pulsed intravenous methylprednisolone</article-title>
+            <source>J Neurol</source>
+            <year>2018</year>
+            <volume>265</volume>
+            <issue>9</issue>
+            <fpage>2052</fpage>
+            <lpage>2059</lpage>
+            <pub-id pub-id-type="doi">10.1007/s00415-018-8948-y</pub-id>
+            <pub-id pub-id-type="pmid">29968199</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR14">
+          <label>14.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Hughes</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Mehndiratta</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Rajabally</surname>
+                <given-names>YA</given-names>
+              </name>
+            </person-group>
+            <article-title>Corticosteroids for chronic inflammatory demyelinating polyradiculoneuropathy</article-title>
+            <source>Cochrane Database Syst Rev.</source>
+            <year>2017</year>
+            <volume>11</volume>
+            <issue>11</issue>
+            <fpage>CD002062</fpage>
+            <pub-id pub-id-type="pmid">29185258</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR15">
+          <label>15.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Van den Bergh</surname>
+                <given-names>PY</given-names>
+              </name>
+              <name>
+                <surname>Hadden</surname>
+                <given-names>RDM</given-names>
+              </name>
+              <name>
+                <surname>Bouche</surname>
+                <given-names>P</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>European Federation of Neurological Societies/Peripheral Nerve Society guideline on management of chronic inflammatory demyelinating polyradiculoneuropathy: report of a joint task force of the European Federation of Neurological Societies and the Peripheral Nerve Society—first revision</article-title>
+            <source>Eur J Neurol</source>
+            <year>2010</year>
+            <volume>17</volume>
+            <issue>3</issue>
+            <fpage>356</fpage>
+            <lpage>363</lpage>
+            <pub-id pub-id-type="doi">10.1111/j.1468-1331.2009.02930.x</pub-id>
+            <pub-id pub-id-type="pmid">20456730</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR16">
+          <label>16.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Nobile-Orazio</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Cocito</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Jann</surname>
+                <given-names>S</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Intravenous immunoglobulin versus intravenous methylprednisolone for chronic inflammatory demyelinating polyradiculoneuropathy: a randomised controlled trial</article-title>
+            <source>Lancet Neurol</source>
+            <year>2012</year>
+            <volume>11</volume>
+            <issue>6</issue>
+            <fpage>493</fpage>
+            <lpage>502</lpage>
+            <pub-id pub-id-type="doi">10.1016/S1474-4422(12)70093-5</pub-id>
+            <pub-id pub-id-type="pmid">22578914</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR17">
+          <label>17.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Mahdi-Rogers</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>McCrone</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Hughes</surname>
+                <given-names>RA</given-names>
+              </name>
+            </person-group>
+            <article-title>Economic costs and quality of life in chronic inflammatory neuropathies in southeast England</article-title>
+            <source>Eur J Neurol</source>
+            <year>2014</year>
+            <volume>21</volume>
+            <issue>1</issue>
+            <fpage>34</fpage>
+            <lpage>39</lpage>
+            <pub-id pub-id-type="doi">10.1111/ene.12245</pub-id>
+            <pub-id pub-id-type="pmid">23930744</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR18">
+          <label>18.</label>
+          <mixed-citation publication-type="other">Hughes RA, Swan AV, van Doorn PA. Cytotoxic drugs and interferons for chronic inflammatory demyelinating polyradiculoneuropathy. Cochrane Database Syst Rev. 2003;(1):CD003280. 10.1002/14651858.CD003280.</mixed-citation>
+        </ref>
+        <ref id="CR19">
+          <label>19.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Kuitwaard</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>PA</given-names>
+              </name>
+            </person-group>
+            <article-title>Newer therapeutic options for chronic inflammatory demyelinating polyradiculoneuropathy</article-title>
+            <source>Drugs</source>
+            <year>2009</year>
+            <volume>69</volume>
+            <issue>8</issue>
+            <fpage>987</fpage>
+            <lpage>1001</lpage>
+            <pub-id pub-id-type="doi">10.2165/00003495-200969080-00004</pub-id>
+            <pub-id pub-id-type="pmid">19496628</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR20">
+          <label>20.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Dyck</surname>
+                <given-names>PJ</given-names>
+              </name>
+              <name>
+                <surname>Daube</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>O’Brien</surname>
+                <given-names>P</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Plasma exchange in chronic inflammatory demyelinating polyradiculoneuropathy</article-title>
+            <source>N Engl J Med</source>
+            <year>1986</year>
+            <volume>314</volume>
+            <issue>8</issue>
+            <fpage>461</fpage>
+            <lpage>465</lpage>
+            <pub-id pub-id-type="doi">10.1056/NEJM198602203140801</pub-id>
+            <pub-id pub-id-type="pmid">3511382</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR21">
+          <label>21.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Hahn</surname>
+                <given-names>AF</given-names>
+              </name>
+              <name>
+                <surname>Bolton</surname>
+                <given-names>CF</given-names>
+              </name>
+              <name>
+                <surname>Pillay</surname>
+                <given-names>N</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Plasma-exchange therapy in chronic inflammatory demyelinating polyradiculoneuropathy. A double-blind, sham-controlled, crossover study</article-title>
+            <source>Brain</source>
+            <year>1996</year>
+            <volume>119</volume>
+            <issue>Pt 4</issue>
+            <fpage>1055</fpage>
+            <lpage>1066</lpage>
+            <pub-id pub-id-type="doi">10.1093/brain/119.4.1055</pub-id>
+            <pub-id pub-id-type="pmid">8813270</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR22">
+          <label>22.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Donofrio</surname>
+                <given-names>PD</given-names>
+              </name>
+              <name>
+                <surname>Berger</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Brannagan</surname>
+                <given-names>TH</given-names>
+                <suffix>3rd</suffix>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Consensus statement: the use of intravenous immunoglobulin in the treatment of neuromuscular conditions report of the AANEM ad hoc committee</article-title>
+            <source>Muscle Nerve</source>
+            <year>2009</year>
+            <volume>40</volume>
+            <issue>5</issue>
+            <fpage>890</fpage>
+            <lpage>900</lpage>
+            <pub-id pub-id-type="doi">10.1002/mus.21433</pub-id>
+            <pub-id pub-id-type="pmid">19768755</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR23">
+          <label>23.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Patwa</surname>
+                <given-names>HS</given-names>
+              </name>
+              <name>
+                <surname>Chaudhry</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Katzberg</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Rae-Grant</surname>
+                <given-names>AD</given-names>
+              </name>
+              <name>
+                <surname>So</surname>
+                <given-names>YT</given-names>
+              </name>
+            </person-group>
+            <article-title>Evidence-based guideline: intravenous immunoglobulin in the treatment of neuromuscular disorders: report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology</article-title>
+            <source>Neurology</source>
+            <year>2012</year>
+            <volume>78</volume>
+            <issue>13</issue>
+            <fpage>1009</fpage>
+            <lpage>1015</lpage>
+            <pub-id pub-id-type="doi">10.1212/WNL.0b013e31824de293</pub-id>
+            <pub-id pub-id-type="pmid">22454268</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR24">
+          <label>24.</label>
+          <mixed-citation publication-type="other">European Federation of Neurological Societies/Peripheral Nerve Society guideline on management of chronic inflammatory demyelinating polyradiculoneuropathy: report of a joint task force of the European Federation of Neurological Societies and the Peripheral Nerve Society—First Revision. J Peripher Nerv Syst. 2010;15(1):1–9.</mixed-citation>
+        </ref>
+        <ref id="CR25">
+          <label>25.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Van den Bergh</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>van Doorn</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Hadden</surname>
+                <given-names>R</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>European Academy of Neurology/Peripheral Nerve Society guideline on diagnosis and treatment of chronic inflammatory demyelinating polyradiculoneuropathy: report of a joint task force-second revision</article-title>
+            <source>J Peripher Nerv Syst.</source>
+            <year>2021</year>
+            <volume>26</volume>
+            <fpage>242</fpage>
+            <lpage>268</lpage>
+            <pub-id pub-id-type="doi">10.1111/jns.12455</pub-id>
+            <pub-id pub-id-type="pmid">34085743</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR26">
+          <label>26.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Léger</surname>
+                <given-names>JM</given-names>
+              </name>
+              <name>
+                <surname>De Bleecker</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Sommer</surname>
+                <given-names>C</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Efficacy and safety of Privigen in patients with chronic inflammatory demyelinating polyneuropathy: results of a prospective, single-arm, open-label phase III study (the PRIMA study)</article-title>
+            <source>J Peripher Nerv Syst</source>
+            <year>2013</year>
+            <volume>18</volume>
+            <issue>2</issue>
+            <fpage>130</fpage>
+            <lpage>140</lpage>
+            <pub-id pub-id-type="doi">10.1111/jns5.12017</pub-id>
+            <pub-id pub-id-type="pmid">23781960</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR27">
+          <label>27.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Merkies</surname>
+                <given-names>ISJ</given-names>
+              </name>
+              <name>
+                <surname>Bril</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Dalakas</surname>
+                <given-names>MC</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Health-related quality-of-life improvements in CIDP with immune globulin IV 10%: the ICE study</article-title>
+            <source>Neurology</source>
+            <year>2009</year>
+            <volume>72</volume>
+            <issue>15</issue>
+            <fpage>1337</fpage>
+            <lpage>1344</lpage>
+            <pub-id pub-id-type="doi">10.1212/WNL.0b013e3181a0fd80</pub-id>
+            <pub-id pub-id-type="pmid">19365055</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR28">
+          <label>28.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Hughes</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Donofrio</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Bril</surname>
+                <given-names>V</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Intravenous immune globulin (10% caprylate-chromatography purified) for the treatment of chronic inflammatory demyelinating polyradiculoneuropathy (ICE study): a randomised placebo-controlled trial</article-title>
+            <source>Lancet Neurol</source>
+            <year>2008</year>
+            <volume>7</volume>
+            <issue>2</issue>
+            <fpage>136</fpage>
+            <lpage>144</lpage>
+            <pub-id pub-id-type="doi">10.1016/S1474-4422(07)70329-0</pub-id>
+            <pub-id pub-id-type="pmid">18178525</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR29">
+          <label>29.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ramírez</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Romero-Garrido</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>López-Granados</surname>
+                <given-names>E</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Symptomatic thromboembolic events in patients treated with intravenous-immunoglobulins: results from a retrospective cohort study</article-title>
+            <source>Thromb Res</source>
+            <year>2014</year>
+            <volume>133</volume>
+            <issue>6</issue>
+            <fpage>1045</fpage>
+            <lpage>1051</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.thromres.2014.03.046</pub-id>
+            <pub-id pub-id-type="pmid">24731561</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR30">
+          <label>30.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Totzeck</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Stettner</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hagenacker</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Early platelet and leukocyte decline in patients with neuroinflammatory disorders after intravenous immunoglobulins</article-title>
+            <source>Eur J Neurol</source>
+            <year>2017</year>
+            <volume>24</volume>
+            <issue>4</issue>
+            <fpage>638</fpage>
+            <lpage>644</lpage>
+            <pub-id pub-id-type="doi">10.1111/ene.13264</pub-id>
+            <pub-id pub-id-type="pmid">28224702</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR31">
+          <label>31.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sekul</surname>
+                <given-names>EA</given-names>
+              </name>
+              <name>
+                <surname>Cupler</surname>
+                <given-names>EJ</given-names>
+              </name>
+              <name>
+                <surname>Dalakas</surname>
+                <given-names>MC</given-names>
+              </name>
+            </person-group>
+            <article-title>Aseptic meningitis associated with high-dose intravenous immunoglobulin therapy: frequency and risk factors</article-title>
+            <source>Ann Intern Med</source>
+            <year>1994</year>
+            <volume>121</volume>
+            <issue>4</issue>
+            <fpage>259</fpage>
+            <lpage>262</lpage>
+            <pub-id pub-id-type="doi">10.7326/0003-4819-121-4-199408150-00004</pub-id>
+            <pub-id pub-id-type="pmid">8037406</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR32">
+          <label>32.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Dychter</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Gold</surname>
+                <given-names>DA</given-names>
+              </name>
+              <name>
+                <surname>Carson</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Haller</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Intravenous therapy: a review of complications and economic considerations of peripheral access</article-title>
+            <source>J Infus Nurs</source>
+            <year>2012</year>
+            <volume>35</volume>
+            <issue>2</issue>
+            <fpage>84</fpage>
+            <lpage>91</lpage>
+            <pub-id pub-id-type="doi">10.1097/NAN.0b013e31824237ce</pub-id>
+            <pub-id pub-id-type="pmid">22382792</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR33">
+          <label>33.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Harbo</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Andersen</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Hess</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hansen</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Sindrup</surname>
+                <given-names>SH</given-names>
+              </name>
+              <name>
+                <surname>Jakobsen</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Subcutaneous versus intravenous immunoglobulin in multifocal motor neuropathy: a randomized, single-blinded cross-over trial</article-title>
+            <source>Eur J Neurol</source>
+            <year>2009</year>
+            <volume>16</volume>
+            <issue>5</issue>
+            <fpage>631</fpage>
+            <lpage>638</lpage>
+            <pub-id pub-id-type="doi">10.1111/j.1468-1331.2009.02568.x</pub-id>
+            <pub-id pub-id-type="pmid">19236457</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR34">
+          <label>34.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Misbah</surname>
+                <given-names>SA</given-names>
+              </name>
+            </person-group>
+            <article-title>Effective dosing strategies for therapeutic immunoglobulin: managing wear-off effects in antibody replacement to immunomodulation</article-title>
+            <source>Clin Exp Immunol</source>
+            <year>2014</year>
+            <volume>178</volume>
+            <issue>Suppl 1</issue>
+            <fpage>70</fpage>
+            <lpage>71</lpage>
+            <pub-id pub-id-type="doi">10.1111/cei.12517</pub-id>
+            <pub-id pub-id-type="pmid">25546768</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR35">
+          <label>35.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Allen</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Pasnoor</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Burns</surname>
+                <given-names>T</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Intravenous immunoglobulin (IVIg) treatment-related fluctuations in chronic inflammatory demyelinating polyneuropathy (CIDP) patients using daily grip strength measurements (GRIPPER): study design and progress update (P2.269)</article-title>
+            <source>Neurology</source>
+            <year>2016</year>
+            <volume>86</volume>
+            <issue>16 Suppl</issue>
+            <fpage>P2.269</fpage>
+          </element-citation>
+        </ref>
+        <ref id="CR36">
+          <label>36.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Slen</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>Infused therapies: costs savings benefits through home infusion</article-title>
+            <source>Spec Pharm Times.</source>
+            <year>2014</year>
+            <volume>5</volume>
+            <issue>1</issue>
+            <fpage>24</fpage>
+            <lpage>25</lpage>
+          </element-citation>
+        </ref>
+        <ref id="CR37">
+          <label>37.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Luthra</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Quimbo</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Iver</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Luo</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>An analysis of intravenous immunoglobulin site of care: home vs outpatient hospital</article-title>
+            <source>Am J Pharm Benefits.</source>
+            <year>2014</year>
+            <volume>6</volume>
+            <issue>a</issue>
+            <fpage>e41</fpage>
+            <lpage>e49</lpage>
+          </element-citation>
+        </ref>
+        <ref id="CR38">
+          <label>38.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Nicolay</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Kiessling</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Berger</surname>
+                <given-names>M</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Health-related quality of life and treatment satisfaction in North American patients with primary immunedeficiency diseases receiving subcutaneous IgG self-infusions at home</article-title>
+            <source>J Clin Immunol</source>
+            <year>2006</year>
+            <volume>26</volume>
+            <issue>1</issue>
+            <fpage>65</fpage>
+            <lpage>72</lpage>
+            <pub-id pub-id-type="doi">10.1007/s10875-006-8905-x</pub-id>
+            <pub-id pub-id-type="pmid">16418804</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR39">
+          <label>39.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>van Schaik</surname>
+                <given-names>IN</given-names>
+              </name>
+              <name>
+                <surname>Bril</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>van Geloven</surname>
+                <given-names>N</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Subcutaneous immunoglobulin for maintenance treatment in chronic inflammatory demyelinating polyneuropathy (PATH): a randomised, double-blind, placebo-controlled, phase 3 trial</article-title>
+            <source>Lancet Neurol</source>
+            <year>2018</year>
+            <volume>17</volume>
+            <issue>1</issue>
+            <fpage>35</fpage>
+            <lpage>46</lpage>
+            <pub-id pub-id-type="doi">10.1016/S1474-4422(17)30378-2</pub-id>
+            <pub-id pub-id-type="pmid">29122523</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR40">
+          <label>40.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Hartung</surname>
+                <given-names>H-P</given-names>
+              </name>
+              <name>
+                <surname>Mallick</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Bril</surname>
+                <given-names>V</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Patient-reported outcomes with subcutaneous immunoglobulin in chronic inflammatory demyelinating polyneuropathy: the PATH study</article-title>
+            <source>Eur J Neurol</source>
+            <year>2020</year>
+            <volume>27</volume>
+            <issue>1</issue>
+            <fpage>196</fpage>
+            <lpage>203</lpage>
+            <pub-id pub-id-type="doi">10.1111/ene.14056</pub-id>
+            <pub-id pub-id-type="pmid">31400231</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR41">
+          <label>41.</label>
+          <mixed-citation publication-type="other">Merkies ISJ, Mallick R, Haudrich A, et al. Impact of CIDP on daily activity and participation: I-RODS analysis from a US patient survey. In: Presented at the Annual Meeting of the Peripheral Nerve Society; June 2018; Baltimore, MD.</mixed-citation>
+        </ref>
+        <ref id="CR42">
+          <label>42.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>van Schaik</surname>
+                <given-names>IN</given-names>
+              </name>
+              <name>
+                <surname>Mielke</surname>
+                <given-names>O</given-names>
+              </name>
+              <name>
+                <surname>Bril</surname>
+                <given-names>V</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Long-term safety and efficacy of subcutaneous immunoglobulin IgPro20 in CIDP PATH extension study</article-title>
+            <source>Neurol Neuroimmunol Neuroinflamm.</source>
+            <year>2019</year>
+            <volume>6</volume>
+            <issue>5</issue>
+            <fpage>e590</fpage>
+            <pub-id pub-id-type="doi">10.1212/NXI.0000000000000590</pub-id>
+            <pub-id pub-id-type="pmid">31355323</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR43">
+          <label>43.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Cocito</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Merola</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Romagnolo</surname>
+                <given-names>A</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Subcutaneous immunoglobulin in CIDP and MMN: a different long-term clinical response?</article-title>
+            <source>J Neurol Neurosurg Psychiatry</source>
+            <year>2016</year>
+            <volume>87</volume>
+            <issue>7</issue>
+            <fpage>791</fpage>
+            <lpage>793</lpage>
+            <pub-id pub-id-type="doi">10.1136/jnnp-2014-310280</pub-id>
+            <pub-id pub-id-type="pmid">26109674</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR44">
+          <label>44.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Hadden</surname>
+                <given-names>RD</given-names>
+              </name>
+              <name>
+                <surname>Marreno</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Switch from intravenous to subcutaneous immunoglobulin in CIDP and MMN: improved tolerability and patient satisfaction</article-title>
+            <source>Ther Adv Neurol Disord</source>
+            <year>2015</year>
+            <volume>8</volume>
+            <issue>1</issue>
+            <fpage>14</fpage>
+            <lpage>19</lpage>
+            <pub-id pub-id-type="doi">10.1177/1756285614563056</pub-id>
+            <pub-id pub-id-type="pmid">25584070</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR45">
+          <label>45.</label>
+          <mixed-citation publication-type="other">Academy of Managed Care Pharmacy. The AMCP Format for Formulary Submissions Version 4.1. 2020. <ext-link ext-link-type="uri" xlink:href="https://www.amcp.org/sites/default/files/2019-12/AMCP_Format%204.1_1219_final.pdf">https://www.amcp.org/sites/default/files/2019-12/AMCP_Format%204.1_1219_final.pdf</ext-link>. Accessed 5 May 2022.</mixed-citation>
+        </ref>
+        <ref id="CR46">
+          <label>46.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sullivan</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Mauskopf</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Augustovski</surname>
+                <given-names>F</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Budget impact analysis—principles of good practice: report of the ISPOR 2012 Budget Impact Analysis Good Practice II Task Force</article-title>
+            <source>Value Health.</source>
+            <year>2014</year>
+            <volume>17</volume>
+            <issue>1</issue>
+            <fpage>5</fpage>
+            <lpage>14</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.jval.2013.08.2291</pub-id>
+            <pub-id pub-id-type="pmid">24438712</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR47">
+          <label>47.</label>
+          <mixed-citation publication-type="other">Red Book, IBM Micromedex. 2021: Copyright IBM Corporation.</mixed-citation>
+        </ref>
+        <ref id="CR48">
+          <label>48.</label>
+          <mixed-citation publication-type="other">Academy of Managed Care Pharmacy. AMCP guide to pharmaceutical payment methods, 2013 update. Version 3.0. Published April 2013.</mixed-citation>
+        </ref>
+        <ref id="CR49">
+          <label>49.</label>
+          <mixed-citation publication-type="other">Fryar CD, Carroll MD, Gu Q, Afful J, Ogden CL. Anthropometric reference data for children and adults: United States, 2015–2018. National Center for Health Statistics. Vital Health Stat., series 3, number 46; 2021, p. 1–441.</mixed-citation>
+        </ref>
+        <ref id="CR50">
+          <label>50.</label>
+          <mixed-citation publication-type="other">Gamunex-C prescribing information. Research Triangle Park, NC: Grifols Therapeutics LLC; 2017.</mixed-citation>
+        </ref>
+        <ref id="CR51">
+          <label>51.</label>
+          <mixed-citation publication-type="other"><italic>GBS</italic>/CIPD Foundation patient reported outcomes and treatment survey 2018. 2018 Peripheral Nerve Society Annual Meeting 21–25 July, 2018, Baltimore, Maryland. J Peripher Nerv Syst. 2018;23(4):249–405.</mixed-citation>
+        </ref>
+        <ref id="CR52">
+          <label>52.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Barton</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Danek</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Johns</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Coons</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Improving patient outcomes through CQI: vascular access planning</article-title>
+            <source>J Nurs Care Qual</source>
+            <year>1998</year>
+            <volume>13</volume>
+            <issue>2</issue>
+            <fpage>77</fpage>
+            <lpage>85</lpage>
+            <pub-id pub-id-type="doi">10.1097/00001786-199812000-00010</pub-id>
+            <pub-id pub-id-type="pmid">9842178</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR53">
+          <label>53.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Kokotis</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Cost containment and infusion services</article-title>
+            <source>J Infus Nurs</source>
+            <year>2005</year>
+            <volume>28</volume>
+            <issue>3 Suppl</issue>
+            <fpage>S22</fpage>
+            <lpage>S32</lpage>
+            <pub-id pub-id-type="doi">10.1097/00129804-200505001-00005</pub-id>
+            <pub-id pub-id-type="pmid">15965377</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR54">
+          <label>54.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Dimick</surname>
+                <given-names>JB</given-names>
+              </name>
+              <name>
+                <surname>Pelz</surname>
+                <given-names>RK</given-names>
+              </name>
+              <name>
+                <surname>Consunji</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Swoboda</surname>
+                <given-names>SM</given-names>
+              </name>
+              <name>
+                <surname>Hendrix</surname>
+                <given-names>CW</given-names>
+              </name>
+              <name>
+                <surname>Lipsett</surname>
+                <given-names>PA</given-names>
+              </name>
+            </person-group>
+            <article-title>Increased resource use associated with catheter-related bloodstream infection in the surgical intensive care unit</article-title>
+            <source>Arch Surg</source>
+            <year>2001</year>
+            <volume>136</volume>
+            <issue>2</issue>
+            <fpage>229</fpage>
+            <lpage>234</lpage>
+            <pub-id pub-id-type="doi">10.1001/archsurg.136.2.229</pub-id>
+            <pub-id pub-id-type="pmid">11177147</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR55">
+          <label>55.</label>
+          <mixed-citation publication-type="other">Hizentra prescribing information. Kanakee, IL: CSL Behring; 2022.</mixed-citation>
+        </ref>
+        <ref id="CR56">
+          <label>56.</label>
+          <mixed-citation publication-type="other">Find-a-code. CPT 98960. <ext-link ext-link-type="uri" xlink:href="https://www.findacode.com/cpt/98960-cpt-code.html">https://www.findacode.com/cpt/98960-cpt-code.html</ext-link>. Accessed 4 Feb 2021.</mixed-citation>
+        </ref>
+        <ref id="CR57">
+          <label>57.</label>
+          <mixed-citation publication-type="other">United States Bureau of Labor Statistics. Economic news release. Table B-3: Average hourly and weekly earnings of all employees on private nonfarm payrolls by industry sector, seasonally adjusted. <ext-link ext-link-type="uri" xlink:href="https://www.bls.gov/news.release/empsit.t19.htm">https://www.bls.gov/news.release/empsit.t19.htm</ext-link>. Accessed 5 May 2022.</mixed-citation>
+        </ref>
+        <ref id="CR58">
+          <label>58.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Pierce</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Baker</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>A nursing process model: quantifying infusion therapy resource consumption</article-title>
+            <source>J Inf Nurs.</source>
+            <year>2004</year>
+            <volume>27</volume>
+            <issue>4</issue>
+            <fpage>232</fpage>
+            <lpage>244</lpage>
+            <pub-id pub-id-type="doi">10.1097/00129804-200407000-00008</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR59">
+          <label>59.</label>
+          <mixed-citation publication-type="other">Agency for Healthcare Research and Quality (AHRQ). Healthcare Cost and Utilization Project (HCUP). <ext-link ext-link-type="uri" xlink:href="https://hcupnet.ahrq.gov/#setup">https://hcupnet.ahrq.gov/#setup</ext-link>. Accessed 5 May 2022.</mixed-citation>
+        </ref>
+        <ref id="CR60">
+          <label>60.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Maki</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Kluger</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Crnich</surname>
+                <given-names>C</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Risk of bloodstream infection in adults with different intra-vascular devices: a systematic review of 200 published prospective studies</article-title>
+            <source>Mayo Clinic Proc</source>
+            <year>2006</year>
+            <volume>81</volume>
+            <issue>9</issue>
+            <fpage>1159</fpage>
+            <lpage>1171</lpage>
+            <pub-id pub-id-type="doi">10.4065/81.9.1159</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR61">
+          <label>61.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Hadaway</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Infiltration and extravasation: preventing a complication of IV catheterization</article-title>
+            <source>Am J Nurs.</source>
+            <year>2007</year>
+            <volume>107</volume>
+            <issue>8</issue>
+            <fpage>64</fpage>
+            <lpage>72</lpage>
+            <pub-id pub-id-type="doi">10.1097/01.NAJ.0000282299.03441.c7</pub-id>
+            <pub-id pub-id-type="pmid">17667395</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR62">
+          <label>62.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Grosse</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nelson</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Nyarko</surname>
+                <given-names>K</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>The economic burden of incident venous thromboembolism in the United States: a review of estimated attributable healthcare costs</article-title>
+            <source>Thromb Res</source>
+            <year>2016</year>
+            <volume>137</volume>
+            <fpage>3</fpage>
+            <lpage>10</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.thromres.2015.11.033</pub-id>
+            <pub-id pub-id-type="pmid">26654719</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR63">
+          <label>63.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Bharath</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Eckert</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Kang</surname>
+                <given-names>M</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Incidence and natural history of IVIG-induced aseptic meningitis: a retrospective review at a single tertiary care centre</article-title>
+            <source>Blood</source>
+            <year>2014</year>
+            <volume>124</volume>
+            <issue>21</issue>
+            <fpage>2884</fpage>
+            <pub-id pub-id-type="doi">10.1182/blood.V124.21.2884.2884</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR64">
+          <label>64.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Daw</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Padmore</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Neurath</surname>
+                <given-names>D</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Hemolytic transfusion reactions after administration of intravenous immune (gamma) globulin: a case series analysis</article-title>
+            <source>Transfusion</source>
+            <year>2008</year>
+            <volume>48</volume>
+            <fpage>1598</fpage>
+            <lpage>1601</lpage>
+            <pub-id pub-id-type="doi">10.1111/j.1537-2995.2008.01721.x</pub-id>
+            <pub-id pub-id-type="pmid">18466176</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR65">
+          <label>65.</label>
+          <mixed-citation publication-type="other">Weiss AJ, Pickens G, Roemer M. Methods for calculating patient travel distance to hospital in HCUP data. HCUP Methods Series Report # 2021-02 Online. December 6, 2021. <ext-link ext-link-type="uri" xlink:href="http://www.hcup-us.ahrq.gov/reports/methods/methods.jsp">www.hcup-us.ahrq.gov/reports/methods/methods.jsp</ext-link>. Accessed 14 Oct 2022.</mixed-citation>
+        </ref>
+        <ref id="CR66">
+          <label>66.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Premnath</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Grewal</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Gupta</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Park the parking</article-title>
+            <source>JCO Oncol Pract.</source>
+            <year>2020</year>
+            <volume>16</volume>
+            <issue>5</issue>
+            <fpage>215</fpage>
+            <lpage>217</lpage>
+            <pub-id pub-id-type="doi">10.1200/OP.20.00065</pub-id>
+            <pub-id pub-id-type="pmid">32243240</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR67">
+          <label>67.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Kleman</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Myren</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Tursunova</surname>
+                <given-names>S</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Impact of generalised myasthenia gravis on activities of daily living and employment for patients and caregivers</article-title>
+            <source>Eur J Neurol</source>
+            <year>2022</year>
+            <volume>29</volume>
+            <issue>Suppl 1</issue>
+            <fpage>612</fpage>
+          </element-citation>
+        </ref>
+        <ref id="CR68">
+          <label>68.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Jacob</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Dewilde</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Qi</surname>
+                <given-names>C</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Productivity losses for generalized myasthenia gravis patients and their caregivers: association with disease severity</article-title>
+            <source>J Neuromuscul Dis.</source>
+            <year>2022</year>
+            <volume>9</volume>
+            <issue>Suppl 1</issue>
+            <fpage>S245</fpage>
+            <lpage>S246</lpage>
+          </element-citation>
+        </ref>
+        <ref id="CR69">
+          <label>69.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Merkies</surname>
+                <given-names>IS</given-names>
+              </name>
+              <name>
+                <surname>Hughes</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Donofrio</surname>
+                <given-names>P</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Understanding the consequences of chronic inflammatory demyelinating polyradiculoneuropathy from impairments to activity and participation restrictions and reduced quality of life: the ICE study</article-title>
+            <source>J Peripher Nerv Syst</source>
+            <year>2010</year>
+            <volume>15</volume>
+            <issue>3</issue>
+            <fpage>208</fpage>
+            <lpage>215</lpage>
+            <pub-id pub-id-type="doi">10.1111/j.1529-8027.2010.00274.x</pub-id>
+            <pub-id pub-id-type="pmid">21040143</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR70">
+          <label>70.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Lunn</surname>
+                <given-names>MP</given-names>
+              </name>
+              <name>
+                <surname>Manji</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Choudhary</surname>
+                <given-names>PP</given-names>
+              </name>
+              <name>
+                <surname>Hughes</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Thomas</surname>
+                <given-names>PK</given-names>
+              </name>
+            </person-group>
+            <article-title>Chronic inflammatory demyelinating polyradiculoneuropathy: a prevalence study in south east England</article-title>
+            <source>J Neurol Neurosurg Psychiatry</source>
+            <year>1999</year>
+            <volume>66</volume>
+            <issue>5</issue>
+            <fpage>677</fpage>
+            <lpage>680</lpage>
+            <pub-id pub-id-type="doi">10.1136/jnnp.66.5.677</pub-id>
+            <pub-id pub-id-type="pmid">10209187</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR71">
+          <label>71.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Cocito</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Paolasso</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Antonini</surname>
+                <given-names>G</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>A nationwide retrospective analysis on the effect of immune therapies in patients with chronic inflammatory demyelinating polyradiculoneuropathy</article-title>
+            <source>Eur J Neurol</source>
+            <year>2010</year>
+            <volume>17</volume>
+            <issue>2</issue>
+            <fpage>289</fpage>
+            <lpage>294</lpage>
+            <pub-id pub-id-type="doi">10.1111/j.1468-1331.2009.02802.x</pub-id>
+            <pub-id pub-id-type="pmid">19863650</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR72">
+          <label>72.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gardulf</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Nicolay</surname>
+                <given-names>U</given-names>
+              </name>
+              <name>
+                <surname>Math</surname>
+                <given-names>D</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Children and adults with primary antibody deficiencies gain quality of life by subcutaneous IgG self-infusions at home</article-title>
+            <source>J Allergy Clin Immunol</source>
+            <year>2004</year>
+            <volume>114</volume>
+            <issue>4</issue>
+            <fpage>936</fpage>
+            <lpage>942</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.jaci.2004.06.053</pub-id>
+            <pub-id pub-id-type="pmid">15480339</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR73">
+          <label>73.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Mallick</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Jolles</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kanegane</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Agbor-Tarh</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Rojavin</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment satisfaction with subcutaneous immunoglobulin replacement therapy in patients with primary immunodeficiency: a pooled analysis of six Hizentra<sup>®</sup> studies</article-title>
+            <source>J Clin Immunol</source>
+            <year>2018</year>
+            <volume>38</volume>
+            <issue>8</issue>
+            <fpage>886</fpage>
+            <lpage>897</lpage>
+            <pub-id pub-id-type="doi">10.1007/s10875-018-0562-3</pub-id>
+            <pub-id pub-id-type="pmid">30465179</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR74">
+          <label>74.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Guo</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Tian</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>X</given-names>
+              </name>
+              <name>
+                <surname>Xiao</surname>
+                <given-names>Z</given-names>
+              </name>
+            </person-group>
+            <article-title>Adverse effects of immunoglobulin therapy</article-title>
+            <source>Front Immunol</source>
+            <year>2018</year>
+            <volume>9</volume>
+            <fpage>1299</fpage>
+            <pub-id pub-id-type="doi">10.3389/fimmu.2018.01299</pub-id>
+            <pub-id pub-id-type="pmid">29951056</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR75">
+          <label>75.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Himmelstein</surname>
+                <given-names>DU</given-names>
+              </name>
+              <name>
+                <surname>Jun</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Busse</surname>
+                <given-names>R</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>A comparison of hospital administrative costs in eight nations: US costs exceed all others by far</article-title>
+            <source>Health Aff (Millwood).</source>
+            <year>2014</year>
+            <volume>33</volume>
+            <issue>9</issue>
+            <fpage>1586</fpage>
+            <lpage>1594</lpage>
+            <pub-id pub-id-type="doi">10.1377/hlthaff.2013.1327</pub-id>
+            <pub-id pub-id-type="pmid">25201663</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR76">
+          <label>76.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Yazdany</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Dudley</surname>
+                <given-names>RA</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Lin</surname>
+                <given-names>GA</given-names>
+              </name>
+              <name>
+                <surname>Tseng</surname>
+                <given-names>CW</given-names>
+              </name>
+            </person-group>
+            <article-title>Coverage for high-cost specialty drugs for rheumatoid arthritis in Medicare Part D</article-title>
+            <source>Arthritis Rheumatol</source>
+            <year>2015</year>
+            <volume>67</volume>
+            <issue>6</issue>
+            <fpage>1474</fpage>
+            <lpage>1480</lpage>
+            <pub-id pub-id-type="doi">10.1002/art.39079</pub-id>
+            <pub-id pub-id-type="pmid">25900105</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR77">
+          <label>77.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Schmeir</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ogden</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Nickman</surname>
+                <given-names>N</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Costs of providing infusion therapy for rheumatoid arthritis in a hospital-based infusion center setting</article-title>
+            <source>Clin Ther</source>
+            <year>2017</year>
+            <volume>39</volume>
+            <issue>8</issue>
+            <fpage>1600</fpage>
+            <lpage>1617</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.clinthera.2017.06.007</pub-id>
+            <pub-id pub-id-type="pmid">28716293</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR78">
+          <label>78.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Windegger</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Nghiem</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Nguyen</surname>
+                <given-names>KH</given-names>
+              </name>
+              <name>
+                <surname>Fung</surname>
+                <given-names>YL</given-names>
+              </name>
+              <name>
+                <surname>Scuffham</surname>
+                <given-names>PA</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Primary immunodeficiency disease: a cost-utility analysis comparing intravenous vs subcutaneous immunoglobulin replacement therapy in Australia</article-title>
+            <source>Blood Transfus</source>
+            <year>2020</year>
+            <volume>18</volume>
+            <issue>2</issue>
+            <fpage>96</fpage>
+            <lpage>105</lpage>
+            <pub-id pub-id-type="pmid">32271703</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR79">
+          <label>79.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gardulf</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Jonsson</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>A comparison of the patient-borne costs of therapy with gamma globulin given at the hospital or at home</article-title>
+            <source>Int J Technol Assess Health Care</source>
+            <year>1995</year>
+            <volume>11</volume>
+            <issue>2</issue>
+            <fpage>345</fpage>
+            <lpage>353</lpage>
+            <pub-id pub-id-type="doi">10.1017/S0266462300006942</pub-id>
+            <pub-id pub-id-type="pmid">7540602</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR80">
+          <label>80.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Högy</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Keinecke</surname>
+                <given-names>HO</given-names>
+              </name>
+              <name>
+                <surname>Borte</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Pharmacoeconomic evaluation of immunoglobulin treatment in patients with antibody deficiencies from the perspective of the German statutory health insurance</article-title>
+            <source>Eur J Health Econ.</source>
+            <year>2005</year>
+            <volume>6</volume>
+            <issue>1</issue>
+            <fpage>24</fpage>
+            <lpage>29</lpage>
+            <pub-id pub-id-type="doi">10.1007/s10198-004-0250-5</pub-id>
+            <pub-id pub-id-type="pmid">15480920</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR81">
+          <label>81.</label>
+          <mixed-citation publication-type="other">Liu Z, Albon E, Hyde C. The effectiveness and cost effectiveness of immunoglobulin replacement therapy for primary immunodeficiency and chronic lymphocytic leukaemia: a systematic review and economic evaluation. University of Birmingham. 2005. <ext-link ext-link-type="uri" xlink:href="https://www.birmingham.ac.uk/Documents/college-mds/haps/projects/WMHTAC/REPreports/2005/IgRT.pdf">https://www.birmingham.ac.uk/Documents/college-mds/haps/projects/WMHTAC/REPreports/2005/IgRT.pdf</ext-link>. Accessed 12 Oct 2020.</mixed-citation>
+        </ref>
+        <ref id="CR82">
+          <label>82.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Martin</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lavoie</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Goetghebeur</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Schellenberg</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Economic benefits of subcutaneous rapid push versus intravenous immunoglobulin therapy in adult patients with primary immune deficiency</article-title>
+            <source>Transfus Med</source>
+            <year>2013</year>
+            <volume>23</volume>
+            <issue>1</issue>
+            <fpage>55</fpage>
+            <lpage>60</lpage>
+            <pub-id pub-id-type="doi">10.1111/j.1365-3148.2012.01201.x</pub-id>
+            <pub-id pub-id-type="pmid">23167310</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR83">
+          <label>83.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Beauté</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Levy</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Millet</surname>
+                <given-names>V</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Economic evaluation of immunoglobulin replacement in patients with primary antibody deficiencies</article-title>
+            <source>Clin Exp Immunol</source>
+            <year>2010</year>
+            <volume>160</volume>
+            <issue>2</issue>
+            <fpage>240</fpage>
+            <lpage>245</lpage>
+            <pub-id pub-id-type="doi">10.1111/j.1365-2249.2009.04079.x</pub-id>
+            <pub-id pub-id-type="pmid">20041884</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR84">
+          <label>84.</label>
+          <mixed-citation publication-type="other">Flaherty L. Covid infusion therapy shifts to the home. <ext-link ext-link-type="uri" xlink:href="https://www.hmenews.com/article/covid-infusion-therapy-shifts-to-the-home">https://www.hmenews.com/article/covid-infusion-therapy-shifts-to-the-home</ext-link>. Accessed 29 Apr 2022.</mixed-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </article>
+</pmc-articleset>

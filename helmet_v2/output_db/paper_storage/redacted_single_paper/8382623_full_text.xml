@@ -1,0 +1,652 @@
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.3">
+    <?properties open_access?>
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+      <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">Cardiovasc Intervent Radiol</journal-id>
+        <journal-id journal-id-type="iso-abbrev">Cardiovasc Intervent Radiol</journal-id>
+        <journal-title-group>
+          <journal-title>Cardiovascular and Interventional Radiology</journal-title>
+        </journal-title-group>
+        <issn pub-type="ppub">0174-1551</issn>
+        <issn pub-type="epub">1432-086X</issn>
+        <publisher>
+          <publisher-name>Springer US</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">34155526</article-id>
+        <article-id pub-id-type="pmc">8382623</article-id>
+        <article-id pub-id-type="publisher-id">2848</article-id>
+        <article-id pub-id-type="doi">10.1007/s00270-021-02848-8</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Scientific Paper (other)</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>A Budget Impact Model for the use of Drug-Eluting Stents in Patients with Symptomatic Lower-Limb Peripheral Arterial Disease: An Australian Perspective</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author" corresp="yes">
+            <name>
+              <surname>Altaf</surname>
+              <given-names>Nishath</given-names>
+            </name>
+            <address>
+              <email>nishaltaf@gmail.com</email>
+            </address>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Ariyaratne</surname>
+              <given-names>Thathya Venu</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Peacock</surname>
+              <given-names>Adrian</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff3">3</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Deltetto</surname>
+              <given-names>Irene</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff3">3</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>El-Hoss</surname>
+              <given-names>Jad</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Thomas</surname>
+              <given-names>Shannon</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff4">4</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Taylor</surname>
+              <given-names>Colman</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff3">3</xref>
+            <xref ref-type="aff" rid="Aff5">5</xref>
+            <xref ref-type="aff" rid="Aff6">6</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Mwipatayi</surname>
+              <given-names>Bibombe Patrice</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+          </contrib>
+          <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.416195.e</institution-id><institution-id institution-id-type="ISNI">0000 0004 0453 3875</institution-id><institution>Department of Vascular Surgery, </institution><institution>Royal Perth Hospital, Royal Perth Bentley Group, </institution></institution-wrap>Level 6, North Block, Wellington Street, Perth, WA 6000 Australia </aff>
+          <aff id="Aff2"><label>2</label>Boston Scientific Corporation, Sydney, NSW Australia </aff>
+          <aff id="Aff3"><label>3</label>Health Technology Analysts, Sydney, NSW Australia </aff>
+          <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.415193.b</institution-id><institution>Department of Vascular Surgery, </institution><institution>Prince of Wales Hospital, </institution></institution-wrap>Sydney, NSW Australia </aff>
+          <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.415508.d</institution-id><institution-id institution-id-type="ISNI">0000 0001 1964 6010</institution-id><institution>The George Institute for Global Health, </institution></institution-wrap>Sydney, NSW Australia </aff>
+          <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="GRID">grid.1005.4</institution-id><institution-id institution-id-type="ISNI">0000 0004 4902 0432</institution-id><institution>The University of NSW, </institution></institution-wrap>Sydney, NSW Australia </aff>
+        </contrib-group>
+        <pub-date pub-type="epub">
+          <day>21</day>
+          <month>6</month>
+          <year>2021</year>
+        </pub-date>
+        <pub-date pub-type="pmc-release">
+          <day>21</day>
+          <month>6</month>
+          <year>2021</year>
+        </pub-date>
+        <pub-date pub-type="ppub">
+          <year>2021</year>
+        </pub-date>
+        <volume>44</volume>
+        <issue>9</issue>
+        <fpage>1375</fpage>
+        <lpage>1383</lpage>
+        <history>
+          <date date-type="received">
+            <day>25</day>
+            <month>11</month>
+            <year>2020</year>
+          </date>
+          <date date-type="accepted">
+            <day>13</day>
+            <month>4</month>
+            <year>2021</year>
+          </date>
+        </history>
+        <permissions>
+          <copyright-statement>© The Author(s) 2021</copyright-statement>
+          <license>
+            <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+            <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p>
+          </license>
+        </permissions>
+        <kwd-group xml:lang="en">
+          <title>Keywords</title>
+          <kwd>Peripheral arterial disease</kwd>
+          <kwd>Budget impact model</kwd>
+          <kwd>Target lesion revascularisation</kwd>
+          <kwd>Paclitaxel-eluting stent</kwd>
+          <kwd>Superficial femoral artery</kwd>
+          <kwd>Healthcare system costs</kwd>
+        </kwd-group>
+        <funding-group>
+          <award-group>
+            <funding-source>
+              <institution-wrap>
+                <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100008497</institution-id>
+                <institution>Boston Scientific Corporation</institution>
+              </institution-wrap>
+            </funding-source>
+          </award-group>
+        </funding-group>
+        <custom-meta-group>
+          <custom-meta>
+            <meta-name>issue-copyright-statement</meta-name>
+            <meta-value>© Springer Science+Business Media, LLC, part of Springer Nature and the Cardiovascular and Interventional Radiological Society of Europe (CIRSE) 2021</meta-value>
+          </custom-meta>
+        </custom-meta-group>
+      </article-meta>
+    </front>
+    <body>
+      <sec id="Sec1">
+        <title>Introduction</title>
+        <p id="Par5">Peripheral arterial disease (PAD) management continues to evolve with the advent of improvements in technology. Consequences of financial and resource utilisation to the health payer are often overlooked. In a value-driven, hyperopic healthcare system, the superior efficacy and safety outcomes that further reduce resource utilisation and thereby promote additional economically relevant outcomes can result in considerable cost savings to the healthcare payer.</p>
+        <p id="Par6">The introduction of Zilver PTX (Cook Medical, Bloomington, IN, USA), a non-polymer-based paclitaxel-coated nitinol stent, represented a significant clinical innovation for endovascular therapies a decade ago, leading to improved patency rates and reduced rates of target lesion revascularisation (TLR) as compared to those with bare metal stents (BMS) and drug-coated balloons, respectively [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR2">2</xref>].</p>
+        <p id="Par7">Recently, a primary patency rate of 96.4% at 12 months was reported for Eluvia (Boston Scientific, Marlborough, MA, USA), a novel paclitaxel-eluting stent with more sustained drug elution over a longer period [<xref ref-type="bibr" rid="CR3">3</xref>]. The IMPERIAL randomised controlled trial compared the safety and efficacy of the Eluvia paclitaxel-eluting stent with those of the Zilver PTX drug-coated stent in treating lesions in the femoropopliteal artery [<xref ref-type="bibr" rid="CR4">4</xref>–<xref ref-type="bibr" rid="CR6">6</xref>]. At 12 months, the primary patency in the Eluvia arm (86.8%, 231/266) was superior to that in the Zilver PTX arm (81.5%, 106/130; <italic>p</italic> &lt; 0.001) [<xref ref-type="bibr" rid="CR4">4</xref>]. Notably, at 12 months, the proportion of patients who underwent CD-TLR in the Eluvia group was half of that in the Zilver PTX group (4.5%, 13/287 vs. 9%, 13/145; <italic>p</italic> = 0.067) [<xref ref-type="bibr" rid="CR4">4</xref>]. At 24 months, the significance of this outcome was confirmed in the Eluvia group, which exhibited a 42% reduction in CD-TLRs as compared to the Zilver PTX group (12.7% vs. 20.1%; <italic>p</italic> = 0.049)[<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR6">6</xref>].</p>
+        <p id="Par8">The Eluvia drug-eluting stent (DES) was first introduced in 2017 to Australian clinical practice, where medical device utilisation in the resource-constrained public healthcare system is based on tender-driven contracts between manufacturers and public hospitals. Public hospitals are, in turn, funded by state governments through activity-based funding. While value-based procurement is not widely prevalent in the Australian public healthcare system, evidence of cost savings via improvements in patient outcomes is relevant to stakeholders at all layers of the healthcare system.</p>
+        <p id="Par9">The present study aimed to compare the 5-year financial impact of treatment with Eluvia DES versus treatment with Zilver PTX drug-coated stent among Australian patients with PAD lesions in the superficial femoral artery (SFA) by developing a budget impact model (BIM).</p>
+      </sec>
+      <sec id="Sec2">
+        <title>Materials and Methods</title>
+        <sec id="Sec3">
+          <title>Model Structure</title>
+          <p id="Par10">The BIM was constructed based on published international health economic guidelines for BIM development [<xref ref-type="bibr" rid="CR7">7</xref>]. Australian patients with symptomatic PAD lesions in the SFA who were not eligible for or had not responded to treatments such as lifestyle modifications, exercise regimens, or pharmacological interventions were included in the model cohort. The impact of Eluvia DES use versus Zilver PTX drug-coated stent use was evaluated at both a national and state level. This model also enabled the comparison of outcomes at the individual hospital or local health district level. Potential budget savings or gains were expressed as the difference in costs between a scenario in which only Zilver PTX and only Eluvia DES was used.</p>
+        </sec>
+        <sec id="Sec4">
+          <title>Perspective and Time Horizon</title>
+          <p id="Par11">The primary perspective of the BIM was that of the Australian public healthcare system. In Australia, public hospitals receive funding from state budgets based on the number and mix of patients they treat. Hospitals receive a predetermined amount for a case, irrespective of how long they stay in hospital. This incentivises hospitals to save money through reducing length of stay [<xref ref-type="bibr" rid="CR8">8</xref>]. Therefore, an additional ‘hospital perspective’ was included to capture potential cost savings not observed through a pure activity-based funding perspective (‘Australian public healthcare system’). The model considered a 5-year horizon commencing in 2019, whereby the outcomes of the IMPERIAL trial at 12 and 24 months as well as the related costs were applied to each annual patient cohort.</p>
+        </sec>
+        <sec id="Sec5">
+          <title>Epidemiology, Clinical Outcomes and Resource Utilisation</title>
+          <p id="Par12">A funnel approach employing national epidemiological data, published literature, and clinical expert input (Table <xref rid="Tab1" ref-type="table">1</xref>; detailed in Supplement) was used to estimate the base-case patient cohort, using data from published sources as well as data from Australian hospital audits [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR10">10</xref>]. Annual procedure growth rate was informed by the mean yearly increase of the number of stent procedures in Australia over the years 2014–2017 [<xref ref-type="bibr" rid="CR11">11</xref>]. From a resource-use perspective, critical outcomes of PAD treatment pertain to restenosis and subsequent hospital readmissions for adverse events (AEs) were considered, including CD-TLRs and major limb amputations. The model used all primary major AE outcomes from the 12-month and 24-month IMPERIAL trial data (Table <xref rid="Tab2" ref-type="table">2</xref>), to estimate event rates in the cohort, and their direct costs related to treatment with Eluvia DES and Zilver PTX. Patients requiring TLR had undergone one of the following procedures: percutaneous transluminal angioplasty (PTA) without stenting, PTA with single-stent placement, PTA with two-stent placement, or open surgical intervention [<xref ref-type="bibr" rid="CR12">12</xref>]. The number of hospital days due to AEs observed in the IMPERIAL trial was also considered in the model to estimate hospital-related costs (Table <xref rid="Tab2" ref-type="table">2</xref>). In the IMPERIAL trial, hospital days were recorded and reported for patients who were admitted due to AEs rather than for the primary intervention [<xref ref-type="bibr" rid="CR4">4</xref>].<table-wrap id="Tab1"><label>Table 1</label><caption><p>Number of patients receiving Eluvia DES in each year cohort using a funnel approach*</p></caption><graphic position="anchor" xlink:href="270_2021_2848_Tab1_HTML" id="MO6"/><table-wrap-foot><p>Values in bold were included in the base-case analysis</p><p><italic>DES</italic> drug-eluting stent, <italic>EVP</italic> endovascular procedure, <italic>SFA</italic> superficial femoral artery, <italic>SPAD</italic> symptomatic peripheral arterial disease</p><p>*See online Supplement for a detailed explanation of the funnel approach</p><p><sup>a</sup>The ranges were tested when sensitivity analyses were performed</p></table-wrap-foot></table-wrap><table-wrap id="Tab2"><label>Table 2</label><caption><p>Primary safety and key clinical outcomes and resource-use parameters from the IMPERIAL trial included in the model [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR6">6</xref>]</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2"/><th align="left" colspan="3">12 months<sup>a</sup></th><th align="left" colspan="3">24 months<sup>b</sup></th></tr><tr><th align="left">Eluvia (<italic>n</italic> = 309)</th><th align="left">Zilver PTX (<italic>n</italic> = 156)</th><th align="left"><italic>p</italic>-value</th><th align="left">Eluvia (<italic>n</italic> = 309)</th><th align="left">Zilver PTX (<italic>n</italic> = 156)</th><th align="left"><italic>p</italic>-value</th></tr></thead><tbody><tr><td align="left" colspan="7">Major AEs</td></tr><tr><td align="left"> CD-TLR</td><td align="left">4.5% (13/287)</td><td align="left">9.0% (13/145)</td><td char="." align="char">0.067</td><td align="left">12.7% (35/275)</td><td align="left">20.1% (27/134)</td><td char="." align="char">0.049</td></tr><tr><td align="left"> Percutaneous intervention</td><td align="left">96.7%</td><td align="left">96.0%</td><td char="." align="char">1.00</td><td align="left">95.7%</td><td align="left">97.1%</td><td char="." align="char">1.00</td></tr><tr><td align="left"> Surgery (open)</td><td align="left">3.3%</td><td align="left">4.0%</td><td char="." align="char">1.00</td><td align="left">4.3%</td><td align="left">2.9%</td><td char="." align="char">1.00</td></tr><tr><td align="left"> Major amputation of the target limb</td><td align="left">0.3% (1/287)</td><td align="left">0% (0/145)</td><td char="." align="char">1.00</td><td align="left">1.5% (4/275)</td><td align="left">0.7% (1/134)</td><td char="." align="char"> &gt; 0.99</td></tr><tr><td align="left" colspan="7">Hospitalisation outcomes</td></tr><tr><td align="left"> Hospital days for all AE<sup>c</sup></td><td align="left">13.9 (123/309)</td><td align="left">17.7 (60/156)</td><td char="." align="char"> &gt; 0.05</td><td align="left">21.5 (169/309)</td><td align="left">18.9 (81/156)</td><td char="." align="char">0.620</td></tr></tbody></table><table-wrap-foot><p><italic>AEs</italic> adverse events, <italic>CD-TLR</italic> clinically driven target lesion revascularisation</p><p><sup>a</sup>Adapted from Table <xref rid="Tab3" ref-type="table">3</xref> and Table A6 of Gray et al. [<xref ref-type="bibr" rid="CR4">4</xref>]</p><p><sup>b</sup>Adapted from Müller-Hülsbeck, Benko [<xref ref-type="bibr" rid="CR6">6</xref>] and data on file (hospitalisation outcomes)</p><p><sup>c</sup>The average length of hospital stay for AE was calculated as 5.5 days for Eluvia DES group and 6.8 days for Zilver PTX group at 12 months (where average hospital stay = hospital days for AE * <italic>n</italic>/<italic>N</italic>), representing a 19% reduction for eluvia DES group at 12 months</p></table-wrap-foot></table-wrap></p>
+        </sec>
+        <sec id="Sec6">
+          <title>Costs</title>
+          <p id="Par13">Cost inputs applied in the model are presented in Table <xref rid="Tab3" ref-type="table">3</xref>. All cost inputs in this BIM were obtained from published sources [<xref ref-type="bibr" rid="CR13">13</xref>] (see Supplement) and were measured in Australian dollars (AUD), where 1 AUD is approximately equivalent to 0.69 USD and 0.61 EUR (June 2020).<table-wrap id="Tab3"><label>Table 3</label><caption><p>Cost* inputs applied in the budget impact model</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Description</th><th align="left">Value</th><th align="left">Reference</th></tr></thead><tbody><tr><td align="left">Cost of percutaneous endovascular intervention</td><td align="left">$5495</td><td align="left">[<xref ref-type="bibr" rid="CR13">13</xref>]</td></tr><tr><td align="left">Cost of surgical (open) intervention</td><td align="left">$16,411</td><td align="left">[<xref ref-type="bibr" rid="CR13">13</xref>]</td></tr><tr><td align="left">Cost of amputation</td><td align="left">$35,354</td><td align="left">[<xref ref-type="bibr" rid="CR13">13</xref>]</td></tr><tr><td align="left">Cost per day of hospital stay</td><td align="left">$2003</td><td align="left">[<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR23">23</xref>]</td></tr></tbody></table><table-wrap-foot><p>*The price of Eluvia and Zilver PTX stents (difference = $0) were referenced from the 2019 Australian Prostheses List (Part A) available at <ext-link ext-link-type="uri" xlink:href="https://www.health.gov.au/resources/publications/prostheses-list">https://www.health.gov.au/resources/publications/prostheses-list</ext-link></p></table-wrap-foot></table-wrap></p>
+          <sec id="Sec7">
+            <title>Healthcare system costs</title>
+            <p id="Par15">Healthcare system costs are those incurred by state governments through activity-based funding. All direct costs related to primary procedure and event rates as observed in the IMPERIAL trial over a 24-month period were included in the model, irrespective of statistical significance. To assess expenditure from a healthcare system perspective, unit costs related to initial and subsequent hospitalisations were identified from relevant AR-DRG codes and cost weights as determined by the Independent Hospital Pricing Authority (Supplementary Table A1).</p>
+          </sec>
+          <sec id="Sec8">
+            <title>Hospital costs</title>
+            <p id="Par16">The impact of hospital readmissions for adverse events (hospital days) was assessed using the national weighted average cost per hospital day as these hospital-level savings are not directly captured within DRG costs (Supplementary Table A2) [<xref ref-type="bibr" rid="CR13">13</xref>].</p>
+          </sec>
+        </sec>
+        <sec id="Sec9">
+          <title>Sensitivity Analysis</title>
+          <p id="Par17">Sensitivity analysis was conducted to assess the impact of uncertainties in key model inputs and several scenarios. These included variations in population inputs, including the rates of patients eligible for endovascular procedures (EVP; 70–99%) and DES use rates (10–40%), and cost inputs, such as stent prices (± 5–10%) and average cost of a hospital bed day (± 5–10%).</p>
+        </sec>
+      </sec>
+      <sec id="Sec10">
+        <title>Results</title>
+        <p id="Par18">The model estimated that 5674 patients would receive DES in Year 1, increasing to 7890 patients in Year 6, with a total of 40,399 treated patients over a 5-year period starting in 2019 (Table <xref rid="Tab4" ref-type="table">4</xref>). From the perspective of the Australian public healthcare system payer, the base-case model projected a 5-year potential budget saving of $12.1 million in total for a scenario in which all patients eligible for DES implantation were treated with the novel Eluvia DES rather than with the Zilver PTX drug-coated stent. An average of 700 CD-TLRs were saved annually, totalling to a sum of 4198 CD-TLRs potentially avoided from using Eluvia DES compared with Zilver PTX between 2019 and 2024.<table-wrap id="Tab4"><label>Table 4</label><caption><p>Base-case results from the 5-year Eluvia DES BIM for the Australian national population ($, AUD)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">Year 0 (2019)</th><th align="left">Year 1 (2020)</th><th align="left">Year 2 (2021)</th><th align="left">Year 3 (2022)</th><th align="left">Year 4 (2023)</th><th align="left">Year 5 (2024)</th><th align="left">Total</th></tr></thead><tbody><tr><td align="left">DES-treated population</td><td align="left"><bold>5674</bold></td><td align="left"><bold>6060</bold></td><td align="left"><bold>6474</bold></td><td align="left"><bold>6915</bold></td><td align="left"><bold>7386</bold></td><td align="left"><bold>7890</bold></td><td align="left"><bold>40,399</bold></td></tr><tr><td align="left" colspan="8">Zilver PTX</td></tr><tr><td align="left"> Number of CD-TLRs</td><td align="left">509</td><td char="." align="left">1684</td><td align="left">1798</td><td char="." align="left">1921</td><td align="left">2052</td><td char="." align="left">2192</td><td char="," align="left"><bold>10,156</bold></td></tr><tr><td align="left"> Hospital days for AEs</td><td align="left">7082</td><td char="." align="left">23,327</td><td align="left">24,917</td><td char="." align="left">26,617</td><td char="." align="left">28,430</td><td align="left">30,368</td><td char="," align="left"><bold>140,741</bold></td></tr><tr><td align="left"> Total cost to the healthcare system (AUD)</td><td char="." align="left">$47,538,021</td><td char="." align="left">$59,778,429</td><td align="left">$63,859,715</td><td char="." align="left">$68,211,658</td><td align="left">$72,857,805</td><td char="." align="left">$77,828,052</td><td char=", ," align="left"><bold>$390,073,681</bold></td></tr><tr><td align="left"> Total cost to the hospital system (hospital days) (AUD)</td><td align="left">$14,184,422</td><td char="." align="left">$46,724,823</td><td char="." align="left">$49,907,846</td><td align="left">$53,314,184</td><td align="left">$56,945,772</td><td align="left">$60,826,805</td><td char=", ," align="left"><bold>$281,903,851</bold></td></tr><tr><td align="left" colspan="8">Eluvia DES</td></tr><tr><td align="left"> Number of CD-TLRs</td><td align="left">257</td><td char="." align="left">995</td><td align="left">1063</td><td align="left">1135</td><td align="left">1213</td><td char="." align="left">1295</td><td char="," align="left"><bold>5959</bold></td></tr><tr><td align="left"> Hospital days for AEs</td><td align="left">3063</td><td char="." align="left">15,958</td><td char="." align="left">17,045</td><td char="." align="left">18,209</td><td char="." align="left">19,449</td><td char="." align="left">20,774</td><td char="," align="left"><bold>94,498</bold></td></tr><tr><td align="left"> Total cost to the healthcare system (AUD)</td><td char="." align="left">$46,598,484</td><td char="." align="left">$57,831,379</td><td align="left">$61,779,920</td><td char="." align="left">$65,989,990</td><td char="." align="left">$70,484,807</td><td char="." align="left">$75,293,271</td><td char=", ," align="left"><bold>$377,977,851</bold></td></tr><tr><td align="left"> Total cost to the hospital system (hospital days) (AUD)</td><td align="left">$6,134,905</td><td align="left">$31,964,449</td><td char="." align="left">$34,140,860</td><td char="." align="left">$36,471,868</td><td char="." align="left">$38,956,238</td><td align="left">$41,610,650</td><td char=", ," align="left"><bold>$189,278,972</bold></td></tr><tr><td align="left" colspan="8">Difference</td></tr><tr><td align="left"> Number of CD-TLRs avoided</td><td align="left">252</td><td align="left">689</td><td align="left">736</td><td char="." align="left">786</td><td align="left">839</td><td align="left">897</td><td char="," align="left"><bold>4198</bold></td></tr><tr><td align="left"> Hospital days averted</td><td char="." align="left">4019</td><td char="." align="left">7369</td><td align="left">7872</td><td char="." align="left">8409</td><td align="left">8981</td><td align="left">9594</td><td char="," align="left"><bold>46,243</bold></td></tr><tr><td align="left"> Total savings to the public healthcare system (AUD)</td><td char="." align="left">$939,538</td><td align="left">$1,947,050</td><td align="left">$2,079,795</td><td char="." align="left">$2,221,668</td><td align="left">$2,372,998</td><td align="left">$2,534,782</td><td char=", ," align="left"><bold>$12,095,830</bold></td></tr><tr><td align="left"> Total savings to the hospital (hospital days) (AUD)</td><td char="." align="left">$8,049,517</td><td char="." align="left">$14,760,374</td><td char="." align="left">$15,766,985</td><td align="left">$16,842,315</td><td align="left">$17,989,534</td><td align="left">$19,216,155</td><td char=", ," align="left"><bold>$92,624,879</bold></td></tr></tbody></table><table-wrap-foot><p>Values in bold represent Totals</p><p><italic>AEs</italic> adverse events, <italic>AUD</italic> Australian dollars, <italic>DES</italic> drug-eluting stent, <italic>CD-TLR</italic> clinically driven target lesion revascularisation</p></table-wrap-foot></table-wrap></p>
+        <p id="Par19">From a hospital perspective, the base-case model predicted a 5-year potential budget saving of $92.6 million in total attributable to a reduction in length of hospital stay from subsequent readmissions. A total of 46,243 hospital bed days were made available with Eluvia DES use over the 5-year period, as compared to Zilver PTX use, translating to an average reduction of 7707 days per year in the length of stay.</p>
+        <sec id="Sec11">
+          <title>Australian State Perspective</title>
+          <p id="Par20">The BIM investigated the 5-year budget impact of Eluvia versus Zilver PTX at the Australian state/territory level for DES usage rates from low (10%) to the average base-case rate (28%) (Table <xref rid="Tab5" ref-type="table">5</xref>). At the Australian state/territory level, the potential healthcare system budget savings were driven by the reduction of diagnostic related group (DRG) payments for AEs, as a result of events avoided through use of Eluvia DES. The greatest budget savings (in $ Million, M) were observed in states/territories with highest volumes of DES across a 5-year period: New South Wales and Australian Capital Territory (ACT), $1.430–4.005 M; Victoria, $1.093–3.060 M; Queensland, $0.852–2.386 M; and Western Australia, $0.445–1.247 M. Moreover, these states/territories also showed the greatest potential hospital-level savings due to hospital days avoided for AE: New South Wales and ACT, $10.954–30.670 M; Victoria, $8.370–23.431 M; Queensland, $6.525–18.271 M; and Western Australia, $3.410–9.547 M. <table-wrap id="Tab5"><label>Table 5</label><caption><p>The net 5-Year BIM results ($, AUD) at the Australian State/Territory level from Eluvia DES use compared with Zilver PTX use, assuming DES use rates between 10.and 28%</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">NSW &amp; ACT</th><th align="left">VIC</th><th align="left">SA</th><th align="left">WA</th><th align="left">NT</th><th align="left">QLD</th><th align="left">TAS</th></tr></thead><tbody><tr><td align="left">Number of patients treated</td><td char="–" align="char">4788–13,377</td><td char="–" align="char">3651–10,220</td><td char="–" align="char">994–2787</td><td char="–" align="char">1487–4164</td><td char="–" align="char">142–399</td><td char="–" align="char">2846–7969</td><td char="–" align="char">301–845</td></tr><tr><td align="left">Number of CD-TLRs avoided</td><td char="–" align="char">496–1390</td><td char="–" align="char">379–1062</td><td char="–" align="char">103–290</td><td char="–" align="char">155–433</td><td char="–" align="char">15–41</td><td char="–" align="char">296–828</td><td char="–" align="char">31–88</td></tr><tr><td align="left">Hospital days for AE avoided</td><td char="–" align="char">5469–15,312</td><td char="–" align="char">4179–11,698</td><td char="–" align="char">1138–3190</td><td char="–" align="char">1702–4766</td><td char="–" align="char">162–457</td><td char="–" align="char">3258–9122</td><td char="–" align="char">344–967</td></tr><tr><td align="left">Total savings to healthcare system (Millions)</td><td char="–" align="char">$1.430–4.005</td><td char="–" align="char">$1.093–3.060</td><td char="–" align="char">$0.297–0.834</td><td char="–" align="char">$0.445–1,247</td><td char="–" align="char">$0.042–0.119</td><td char="–" align="char">$0.852–2.386</td><td char="–" align="char">$0.090–0.253</td></tr><tr><td align="left">Total savings to hospital (Millions)</td><td char="–" align="char">$10.954–30.670</td><td char="–" align="char">$8.370–23.431</td><td char="–" align="char">$2.279–6.390</td><td char="–" align="char">$3.410–9.547</td><td char="–" align="char">$0.325–0.915</td><td char="–" align="char">$6.525–18.271</td><td char="–" align="char">$0.690–1.937</td></tr></tbody></table><table-wrap-foot><p><italic>ACT</italic> Australian capital territory, <italic>AEs</italic> adverse events, <italic>AUD</italic> Australian dollars, <italic>DES</italic> drug-eluting stent, <italic>CD-TLR</italic> clinically driven target lesion revascularisation, <italic>NSW</italic> New South Wales, <italic>NT</italic> Northern Territory, <italic>QLD</italic> Queensland, <italic>SA</italic> South Australia, <italic>TAS</italic> Tasmania, <italic>VIC</italic> Victoria, <italic>WA</italic> Western Australia</p></table-wrap-foot></table-wrap></p>
+        </sec>
+        <sec id="Sec12">
+          <title>Sensitivity Analysis</title>
+          <p id="Par21">Scenario analyses were conducted to test the 5-year budget impact of Eluvia DES compared with Zilver PTX, against base-case assumptions (Fig. <xref rid="Fig1" ref-type="fig">1</xref> and Supplementary Table A4). The results illustrate some notable patterns on the budget impact, to variations of frequencies of EVP procedures, DES use, costs, and the price of stents assumed in the base-case. Importantly, the higher the volume of EVP, the greater the potential savings that could be realised from Eluvia DES use when compared with Zilver PTX use. Similarly, a reduction in the overall rate of DES use lowers the magnitude of savings that could be realised from Eluvia use as compared with Zilver PTX. To illustrate, if a DES use rate of 10% was assumed as compared with 28% in the base-case model, the potential healthcare system budget savings reduce to $4.3 million from $12.1million potential savings in the base-case and hospital-level budget savings reduces to $33.1 million from $92.6 million potential savings in the base-case. As such, the potential budget savings that could be realised from use of Eluvia DES were robust to usage rates, suggesting savings could be realised even at low-volume settings.<fig id="Fig1"><label>Fig. 1</label><caption><p>Scenario analyses of net 5-year budget impact ($, AUD) With Eluvia DES versus Zilver PTX only, compared to base-case. <italic>DES</italic> drug-eluting stent, <italic>EVP</italic> endovascular procedure</p></caption><graphic xlink:href="270_2021_2848_Fig1_HTML" id="MO1"/></fig></p>
+        </sec>
+      </sec>
+      <sec id="Sec13">
+        <title>Discussion</title>
+        <p id="Par22">The budget impact analysis in the present study revealed financial ramifications of using Eluvia DES as compared with Zilver PTX drug-coated stent, for the treatment of patients with symptomatic PAD lesions in the SFA. The 5-year budget impact model which assumed EVP eligibility rate of 80%, and DES use rate ranging from 10 to 28% (superficial femoral artery lesions only) indicated considerable economic impact for the Eluvia DES in the Australian context, underpinned by the superior clinical outcomes observed for this stent in a head-to-head, global RCT [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR5">5</xref>]. In the IMPERIAL trial, Eluvia DES observed a significant 37% reduction in CD-TLRs at 24 months compared with Zilver PTX; and a 19% reduction in hospital length of stay for adverse events at 12 months, which is the timeframe in which representation for complications, including restenosis is most likely. The model estimated potential budget savings of the magnitude of $4.3–$12.1 million from a healthcare system perspective; and potential savings of $33.1–$92.6 million from a hospital perspective, driven by estimated 1499–4198 fewer CD-TLRs; and 16,515–46,243 fewer hospital days for adverse events, with the use of Eluvia DES than with Zilver PTX across a 5-year period. There was a marked increase in adverse event rates between the first and second cycles, attributed to the inclusion of 24-month outcomes to the first cohort.</p>
+        <p id="Par23">From the primary perspective of the public healthcare system payer, the savings from adopting Eluvia DES are considerable, which are driven by reductions in hospitalisations and corresponding activity-based funding cost weights. Delving deeper into how these improved clinical outcomes may impact hospitals, the budget impact or cost savings from hospital perspective is approximately eightfold higher. As the activity-based funding system in Australia reimburses procedures based on their nature rather than on their outcomes, hospitals are incentivised to improve efficiency over time via means such as reduction in the length of stay [<xref ref-type="bibr" rid="CR14">14</xref>]. The results of this BIM indicated that Eluvia DES offered a clinically effective and cost saving endovascular solution not only to the healthcare system but also to individual hospitals, as savings were realised from both perspectives.</p>
+        <p id="Par24">Zilver PTX has been previously compared to BMS and PTA alone, and treatment with Zilver PTX has been shown to be associated with superior 12-month outcomes [<xref ref-type="bibr" rid="CR1">1</xref>], which were sustained over 5 years [<xref ref-type="bibr" rid="CR15">15</xref>]. Consequently, Zilver PTX was progressively regarded as the most suitable stent for treating symptomatic PAD. Eluvia DES represents a further advancement in peripheral stenting technology, as highlighted by the results of the IMPERIAL trial. BMSs are still used in practice in Australia, and they remain to be considered as the standard of care for peripheral interventions in some countries. Based on the results of this model and from the previously published budget impact analysis, it could be inferred that transitioning from BMS to Eluvia DES would be associated with considerable cost savings. A budget impact assessment comparing BMS to Eluvia DES should be conducted to address this gap in the literature. Nevertheless, as Zilver PTX was the most likely stent to be replaced by Eluvia DES in Australia, this was deemed the most appropriate comparator.</p>
+        <p id="Par25">Both Eluvia and Zilver PTX are approved for symptomatic PAD treatment in Australia and are included on the Prostheses List, which dictates the benefit private health insurances are required to pay for a listed product as part of a hospital treatment. While stents are reimbursed for the same amount at private hospitals, the cost to both public and private hospitals for each stent may fluctuate within 5–10% of the reimbursed amount; therefore, this value was tested in sensitivity analysis. A key assumption in the model is that the price of stents does not change over the time horizon of the model. From the hospital perspective, stent prices did not affect potential savings because savings were driven by observed length of stay for adverse events in the in the IMPERIAL trial (higher for Zilver PTX at 12 months). Post-discharge costs such as outpatient procedure costs and pharmaceuticals costs were not included, as these are reimbursed under funding mechanisms outside the defined scope of this analysis.</p>
+        <p id="Par26">The costs related to symptomatic PAD treatment have been previously investigated. De Cock et al. [<xref ref-type="bibr" rid="CR16">16</xref>] sought to evaluate the financial impact of the implementation of Zilver PTX use as a substitute for BMS in France. The model estimated that staggered introduction of Zilver PTX into the market over 5 years would result in a cumulative saving of €6.8 million to the third-party payer, driven primarily by lower CD-TLR rates. Similarly, the results from this analysis highlight that improved clinical outcomes are associated with considerable cost savings in the treatment of PAD.</p>
+        <p id="Par27">Kohn et al. [<xref ref-type="bibr" rid="CR17">17</xref>] have recently examined the economic burden of hospitalisations for PAD in the USA and reported a median hospital length of stay of 5 days (interquartile range, 3–9) with a total hospital cost of US$15,775, equating to a total annual cost burden of US$6.3 billion. The study determined that hospitalisations due to PAD resulted in a considerable economic burden on the healthcare system, which could be alleviated via improvements in screening and use of effective primary treatment. Accordingly, our study identified the cost savings realised when selecting a treatment option that provides superior clinical outcomes.</p>
+        <p id="Par28">The model has several limitations. It was assumed that a patient could not undergo more than one CD-TLR or other revascularisation procedures similar to those in previous models and that any secondary stent placement utilised the same branded stent as in the primary procedure [<xref ref-type="bibr" rid="CR16">16</xref>]. Model inputs are derived from the IMPERIAL trial; an international multicentre RCT; however, the study did not enrol Australian patients. The IMPERIAL is the only trial that directly compares the safety and efficacy of the Eluvia stent with the established Zilver PTX, which is the alternative stent of choice for treatment in Australia. The IMPERIAL trial was selected as the only source of model input data due to the sound design and methodology, and the high internal validity compared with existing literature. The hospital readmissions and length of stay data were also collected and published, as part of the IMPERIAL trial, making this economic evaluation in effect an extension of the trial. Another trial that enrolled patients from Australia, the MAJESTIC trial [<xref ref-type="bibr" rid="CR18">18</xref>], a single-arm, multicentre trial of Eluvia in 57 patients with lower-limb ischaemia reported patient baseline characteristics and outcomes at 12 months, with a TLR event rate of 3.5% (2/57), consistent with the IMPERIAL trial [<xref ref-type="bibr" rid="CR4">4</xref>]. This is comparable to the rate of CD-TLR in the Eluvia arm of the IMPERIAL trial at 12 months (4.5%; 13/287). Furthermore, mortality was not included in the model, as no death was reported in either group in the IMPERIAL trial at 12 months.</p>
+        <p id="Par29">Nonetheless, this evaluation has strengths in that it was informed by clinical trial-based outcomes and conservatively estimated the budget savings via inclusion of clinically significant and non-significant readmissions for adverse events as part of the total cost and resource-use equation. For instance, although no significant differences were observed for the rates of major amputation of the target limb in the IMPERIAL trial, which likely occurred as a result of random chance rather than due to device-related reasons, the costs related to the event were considered in this BIM. Additionally, the model conservatively assumed that all readmissions occurred in 24-month time intervals from primary stent intervention and performed no projections beyond this period. It is expected that long-term data from the IMPERIAL trial (up to 5-year follow-up) will be available to inform the model in the future.</p>
+      </sec>
+      <sec id="Sec14">
+        <title>Conclusion</title>
+        <p id="Par30">This budget impact model showed considerable potential savings for hospitals and state budgets of the Australian healthcare system, when comparing Zilver PTX to Eluvia as the DES of choice for endovascular interventions. These realised cost savings are underpinned by superior clinical outcomes observed with Eluvia, compared with Zilver PTX, for the treatment of symptomatic lower-limb PAD. The results of this study may yield similar cost savings in other countries; however, country-specific analyses are required.</p>
+      </sec>
+      <sec sec-type="supplementary-material">
+        <title>Supplementary Information</title>
+        <sec id="Sec15">
+          <p>Below is the link to the electronic supplementary material.<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="270_2021_2848_MOESM1_ESM.docx"><caption><p>Supplementary file1 (DOCX 54 KB)</p></caption></media></supplementary-material></p>
+        </sec>
+      </sec>
+    </body>
+    <back>
+      <fn-group>
+        <fn>
+          <p>
+            <bold>Publisher's Note</bold>
+          </p>
+          <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+        </fn>
+      </fn-group>
+      <notes notes-type="funding-information">
+        <title>Funding</title>
+        <p>This research was carried out with financial support from Boston Scientific, in accordance with ICMJE recommendations.</p>
+      </notes>
+      <notes>
+        <title>Declarations</title>
+        <notes id="FPar1" notes-type="COI-statement">
+          <title>Conflict of interest</title>
+          <p id="Par31">The authors declare that they have no conflict of interest.</p>
+        </notes>
+        <notes id="FPar2">
+          <title>Consent for Publication</title>
+          <p id="Par32">For this type of study, consent for publication is not required.</p>
+        </notes>
+        <notes id="FPar3">
+          <title>Ethical Approval</title>
+          <p id="Par33">For this type of study, formal consent is not required.</p>
+        </notes>
+        <notes id="FPar4">
+          <title>Informed Consent</title>
+          <p id="Par34">For this type of study, informed consent is not required.</p>
+        </notes>
+      </notes>
+      <ref-list id="Bib1">
+        <title>References</title>
+        <ref id="CR1">
+          <label>1.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Dake</surname>
+                <given-names>MD</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Paclitaxel-eluting stents show superiority to balloon angioplasty and bare metal stents in femoropopliteal disease: twelve-month Zilver PTX randomized study results</article-title>
+            <source>Circ Cardiovasc Interv</source>
+            <year>2011</year>
+            <volume>4</volume>
+            <issue>5</issue>
+            <fpage>495</fpage>
+            <lpage>504</lpage>
+            <pub-id pub-id-type="doi">10.1161/CIRCINTERVENTIONS.111.962324</pub-id>
+            <pub-id pub-id-type="pmid">21953370</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR2">
+          <label>2.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Abdullah</surname>
+                <given-names>K</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Drug-eluting stents for treatment of peripheral artery disease</article-title>
+            <source>Am J Cardiovasc Drugs</source>
+            <year>2018</year>
+            <volume>18</volume>
+            <issue>3</issue>
+            <fpage>175</fpage>
+            <lpage>80</lpage>
+            <pub-id pub-id-type="doi">10.1007/s40256-018-0265-4</pub-id>
+            <pub-id pub-id-type="pmid">29737505</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR3">
+          <label>3.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Iida</surname>
+                <given-names>O</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Timing of the restenosis following nitinol stenting in the superficial femoral artery and the factors associated with early and late restenoses</article-title>
+            <source>Catheter Cardiovasc Interv</source>
+            <year>2011</year>
+            <volume>78</volume>
+            <issue>4</issue>
+            <fpage>611</fpage>
+            <lpage>7</lpage>
+            <pub-id pub-id-type="doi">10.1002/ccd.23064</pub-id>
+            <pub-id pub-id-type="pmid">21805562</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR4">
+          <label>4.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gray</surname>
+                <given-names>WA</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>A polymer-coated, paclitaxel-eluting stent (Eluvia) versus a polymer-free, paclitaxel-coated stent (Zilver PTX) for endovascular femoropopliteal intervention (IMPERIAL): a randomised, non-inferiority trial</article-title>
+            <source>Lancet</source>
+            <year>2018</year>
+            <volume>392</volume>
+            <issue>10157</issue>
+            <fpage>1541</fpage>
+            <lpage>51</lpage>
+            <pub-id pub-id-type="doi">10.1016/S0140-6736(18)32262-1</pub-id>
+            <pub-id pub-id-type="pmid">30262332</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR5">
+          <label>5.</label>
+          <mixed-citation publication-type="other">Iida O. Two-year outcomes from the IMPERIAL randomized study of Eluvia and Zilver PTX. In: Vascular Interventional Advances (VIVA) Annual Conference. Las Vegas, Nevada, USA, 04–07, November. 2019.</mixed-citation>
+        </ref>
+        <ref id="CR6">
+          <label>6.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Müller-Hülsbeck</surname>
+                <given-names>S</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Two-year efficacy and safety results from the IMPERIAL randomized study of the Eluvia polymer-coated drug-eluting stent and the Zilver PTX polymer-free drug-coated stent</article-title>
+            <source>Cardiovasc Intervent Radiol</source>
+            <year>2021</year>
+            <volume>44</volume>
+            <issue>3</issue>
+            <fpage>368</fpage>
+            <lpage>75</lpage>
+            <pub-id pub-id-type="doi">10.1007/s00270-020-02693-1</pub-id>
+            <pub-id pub-id-type="pmid">33225377</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR7">
+          <label>7.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sullivan</surname>
+                <given-names>SD</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Budget impact analysis—principles of good practice: report of the ISPOR 2012 budget impact analysis good practice II task force</article-title>
+            <source>Val Health</source>
+            <year>2014</year>
+            <volume>17</volume>
+            <issue>1</issue>
+            <fpage>5</fpage>
+            <lpage>14</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.jval.2013.08.2291</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR8">
+          <label>8.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Mihailovic</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Kocic</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Jakovljevic</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Review of diagnosis-related group-based financing of hospital care</article-title>
+            <source>Health Serv Res Manag Epidemiol</source>
+            <year>2016</year>
+            <volume>3</volume>
+            <fpage>2333392816647892</fpage>
+            <pub-id pub-id-type="pmid">28462278</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR9">
+          <label>9.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Müller-Hülsbeck</surname>
+                <given-names>S</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Long-term results from the MAJESTIC trial of the Eluvia paclitaxel-eluting stent for femoropopliteal treatment: 3-year follow-up</article-title>
+            <source>Cardiovasc Intervent Radiol</source>
+            <year>2017</year>
+            <volume>40</volume>
+            <issue>12</issue>
+            <fpage>1832</fpage>
+            <lpage>8</lpage>
+            <pub-id pub-id-type="doi">10.1007/s00270-017-1771-5</pub-id>
+            <pub-id pub-id-type="pmid">28948322</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR10">
+          <label>10.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Zeller</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Current state of endovascular treatment of femoro-popliteal artery disease</article-title>
+            <source>Vasc Med</source>
+            <year>2007</year>
+            <volume>12</volume>
+            <issue>3</issue>
+            <fpage>223</fpage>
+            <lpage>34</lpage>
+            <pub-id pub-id-type="doi">10.1177/1358863X07079823</pub-id>
+            <pub-id pub-id-type="pmid">17848483</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR11">
+          <label>11.</label>
+          <mixed-citation publication-type="other">Australian Institute of Health and Welfare. Procedures data cubes. Canberra; 2019.</mixed-citation>
+        </ref>
+        <ref id="CR12">
+          <label>12.</label>
+          <mixed-citation publication-type="other">Boston Scientific. IMPERIAL trial data on file. Marlborough, MA, USA. 2019.</mixed-citation>
+        </ref>
+        <ref id="CR13">
+          <label>13.</label>
+          <mixed-citation publication-type="other">Independent Hospital Pricing Authority. National Hospital Cost Data Collection, Public Hospitals Cost Report, Round 21 (Financial Year 2016–17), Independent Hospital Pricing Authority, Editor. Darlinghurst, Australia. 2019.</mixed-citation>
+        </ref>
+        <ref id="CR14">
+          <label>14.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Biorn</surname>
+                <given-names>E</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>The effect of activity-based financing on hospital efficiency: a panel data analysis of DEA efficiency scores 1992–2000</article-title>
+            <source>Health Care Manag Sci</source>
+            <year>2003</year>
+            <volume>6</volume>
+            <issue>4</issue>
+            <fpage>271</fpage>
+            <lpage>83</lpage>
+            <pub-id pub-id-type="doi">10.1023/A:1026212820367</pub-id>
+            <pub-id pub-id-type="pmid">14686633</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR15">
+          <label>15.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Dake</surname>
+                <given-names>MD</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Durable clinical effectiveness with paclitaxel-eluting stents in the femoropopliteal artery</article-title>
+            <source>Circulation</source>
+            <year>2016</year>
+            <volume>133</volume>
+            <issue>15</issue>
+            <fpage>1472</fpage>
+            <lpage>83</lpage>
+            <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.115.016900</pub-id>
+            <pub-id pub-id-type="pmid">26969758</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR16">
+          <label>16.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>De Cock</surname>
+                <given-names>E</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>A budget impact model for paclitaxel-eluting stent in femoropopliteal disease in France</article-title>
+            <source>Cardiovasc Intervent Radiol</source>
+            <year>2013</year>
+            <volume>36</volume>
+            <issue>2</issue>
+            <fpage>362</fpage>
+            <lpage>70</lpage>
+            <pub-id pub-id-type="doi">10.1007/s00270-012-0494-x</pub-id>
+            <pub-id pub-id-type="pmid">23073560</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR17">
+          <label>17.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Kohn</surname>
+                <given-names>CG</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Cost and inpatient burden of peripheral artery disease: findings from the national inpatient sample</article-title>
+            <source>Atherosclerosis</source>
+            <year>2019</year>
+            <volume>286</volume>
+            <fpage>142</fpage>
+            <lpage>6</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.atherosclerosis.2019.05.026</pub-id>
+            <pub-id pub-id-type="pmid">31170647</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR18">
+          <label>18.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Müller-Hülsbeck</surname>
+                <given-names>S</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Twelve-month results from the MAJESTIC trial of the Eluvia paclitaxel-eluting stent for treatment of obstructive femoropopliteal disease</article-title>
+            <source>J Endovasc Ther</source>
+            <year>2016</year>
+            <volume>23</volume>
+            <issue>5</issue>
+            <fpage>701</fpage>
+            <lpage>7</lpage>
+            <pub-id pub-id-type="doi">10.1177/1526602816650206</pub-id>
+            <pub-id pub-id-type="pmid">27193308</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR19">
+          <label>19.</label>
+          <mixed-citation publication-type="other">Australian Bureau of Statistics. 3235.0-Regional population by age and sex, Australia, 2017. ABS: Canberra. 2018.</mixed-citation>
+        </ref>
+        <ref id="CR20">
+          <label>20.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ng</surname>
+                <given-names>EL</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Prevalence of and risk factors for peripheral arterial disease in older adults in an Australian emergency department</article-title>
+            <source>Vascular</source>
+            <year>2013</year>
+            <volume>22</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <lpage>2</lpage>
+            <pub-id pub-id-type="doi">10.1177/1708538112472288</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR21">
+          <label>21.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gerhard-Herman Marie</surname>
+                <given-names>D</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>2016 AHA/ACC guideline on the management of patients with lower extremity peripheral artery disease: executive summary: a report of the American college of cardiology/American heart association task force on clinical practice guidelines</article-title>
+            <source>Circulation</source>
+            <year>2017</year>
+            <volume>135</volume>
+            <issue>12</issue>
+            <fpage>e686</fpage>
+            <lpage>725</lpage>
+            <pub-id pub-id-type="pmid">27840332</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR22">
+          <label>22.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <collab>Medical Advisory Secretariat</collab>
+            </person-group>
+            <article-title>Stenting for peripheral artery disease of the lower extremities: an evidence-based analysis</article-title>
+            <source>Ont Health Technol Assess Ser</source>
+            <year>2010</year>
+            <volume>10</volume>
+            <issue>18</issue>
+            <fpage>1</fpage>
+            <lpage>88</lpage>
+          </element-citation>
+        </ref>
+        <ref id="CR23">
+          <label>23.</label>
+          <mixed-citation publication-type="other">Australian Institute of Health and Welfare. Hospital performance: Costs of acute admitted patients in public hospitals from 2012–13 to 2014–15., in Cat. no. HPF 18. AIHW: Canberra. 2018.</mixed-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </article>
+</pmc-articleset>

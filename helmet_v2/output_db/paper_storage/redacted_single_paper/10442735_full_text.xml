@@ -1,0 +1,2264 @@
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+    <?properties open_access?>
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+      <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">JMIR Form Res</journal-id>
+        <journal-id journal-id-type="iso-abbrev">JMIR Form Res</journal-id>
+        <journal-id journal-id-type="publisher-id">JFR</journal-id>
+        <journal-title-group>
+          <journal-title>JMIR Formative Research</journal-title>
+        </journal-title-group>
+        <issn pub-type="epub">2561-326X</issn>
+        <publisher>
+          <publisher-name>JMIR Publications</publisher-name>
+          <publisher-loc>Toronto, Canada</publisher-loc>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">37548994</article-id>
+        <article-id pub-id-type="pmc">10442735</article-id>
+        <article-id pub-id-type="publisher-id">v7i1e35790</article-id>
+        <article-id pub-id-type="doi">10.2196/35790</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Original Paper</subject>
+          </subj-group>
+          <subj-group subj-group-type="article-type">
+            <subject>Original Paper</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>Clinical and Economic Assessment of MyDiaCare, Digital Tools Combined With Diabetes Nurse Educator Support, for Managing Diabetes in South Africa: Observational Multicenter, Retrospective Study Associated With a Budget Impact Model</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="editor">
+            <name>
+              <surname>Mavragani</surname>
+              <given-names>Amaryllis</given-names>
+            </name>
+          </contrib>
+        </contrib-group>
+        <contrib-group>
+          <contrib contrib-type="reviewer">
+            <name>
+              <surname>Baker</surname>
+              <given-names>Kelley</given-names>
+            </name>
+          </contrib>
+          <contrib contrib-type="reviewer">
+            <name>
+              <surname>Haverinen</surname>
+              <given-names>Jari</given-names>
+            </name>
+          </contrib>
+        </contrib-group>
+        <contrib-group>
+          <contrib id="contrib1" contrib-type="author" corresp="yes">
+            <name>
+              <surname>Makan</surname>
+              <given-names>Hemant</given-names>
+            </name>
+            <degrees>MSc, MBBCh</degrees>
+            <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1485-765X</contrib-id>
+            <xref rid="aff1" ref-type="aff">1</xref>
+            <address>
+              <institution>Centre for Diabetes</institution>
+              <addr-line>80 Gemsbok Avenue</addr-line>
+              <addr-line>Lenasia, Johannesburg, 1827</addr-line>
+              <country>South Africa</country>
+              <phone>27 011 852 4397</phone>
+              <email>h.makan@megaweb.co.za</email>
+            </address>
+          </contrib>
+          <contrib id="contrib2" contrib-type="author">
+            <name>
+              <surname>Makan</surname>
+              <given-names>Lindie</given-names>
+            </name>
+            <degrees>BSc, MSc, PGD</degrees>
+            <xref rid="aff1" ref-type="aff">1</xref>
+            <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-0096-768X</contrib-id>
+          </contrib>
+          <contrib id="contrib3" contrib-type="author">
+            <name>
+              <surname>Lubbe</surname>
+              <given-names>Jacqueline</given-names>
+            </name>
+            <degrees>DNE</degrees>
+            <xref rid="aff2" ref-type="aff">2</xref>
+            <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-8889-6512</contrib-id>
+          </contrib>
+          <contrib id="contrib4" contrib-type="author">
+            <name>
+              <surname>Alami</surname>
+              <given-names>Sarah</given-names>
+            </name>
+            <degrees>PharmD</degrees>
+            <xref rid="aff3" ref-type="aff">3</xref>
+            <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-7893-0011</contrib-id>
+          </contrib>
+          <contrib id="contrib5" contrib-type="author">
+            <name>
+              <surname>Lancman</surname>
+              <given-names>Guila</given-names>
+            </name>
+            <degrees>MD</degrees>
+            <xref rid="aff3" ref-type="aff">3</xref>
+            <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-2603-8547</contrib-id>
+          </contrib>
+          <contrib id="contrib6" contrib-type="author">
+            <name>
+              <surname>Schaller</surname>
+              <given-names>Manuella</given-names>
+            </name>
+            <degrees>MSc</degrees>
+            <xref rid="aff3" ref-type="aff">3</xref>
+            <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-6344-9049</contrib-id>
+          </contrib>
+          <contrib id="contrib7" contrib-type="author">
+            <name>
+              <surname>Delval</surname>
+              <given-names>Cécile</given-names>
+            </name>
+            <degrees>MD</degrees>
+            <xref rid="aff3" ref-type="aff">3</xref>
+            <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3766-7776</contrib-id>
+          </contrib>
+          <contrib id="contrib8" contrib-type="author">
+            <name>
+              <surname>Kok</surname>
+              <given-names>Adri</given-names>
+            </name>
+            <degrees>MBBCh, Dip (PEC)</degrees>
+            <xref rid="aff2" ref-type="aff">2</xref>
+            <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3418-8286</contrib-id>
+          </contrib>
+        </contrib-group>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Centre for Diabetes</institution>
+          <addr-line>Lenasia, Johannesburg</addr-line>
+          <country>South Africa</country>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>Netcare Alberton Hospital</institution>
+          <addr-line>Alberton</addr-line>
+          <country>South Africa</country>
+        </aff>
+        <aff id="aff3">
+          <label>3</label>
+          <institution>Air Liquide Santé International</institution>
+          <addr-line>Bagneux</addr-line>
+          <country>France</country>
+        </aff>
+        <author-notes>
+          <corresp>Corresponding Author: Hemant Makan <email>h.makan@megaweb.co.za</email></corresp>
+        </author-notes>
+        <pub-date pub-type="collection">
+          <year>2023</year>
+        </pub-date>
+        <pub-date pub-type="epub">
+          <day>7</day>
+          <month>8</month>
+          <year>2023</year>
+        </pub-date>
+        <volume>7</volume>
+        <elocation-id>e35790</elocation-id>
+        <history>
+          <date date-type="received">
+            <day>18</day>
+            <month>12</month>
+            <year>2021</year>
+          </date>
+          <date date-type="rev-request">
+            <day>27</day>
+            <month>7</month>
+            <year>2022</year>
+          </date>
+          <date date-type="rev-recd">
+            <day>22</day>
+            <month>9</month>
+            <year>2022</year>
+          </date>
+          <date date-type="accepted">
+            <day>14</day>
+            <month>12</month>
+            <year>2022</year>
+          </date>
+        </history>
+        <permissions>
+          <copyright-statement>©Hemant Makan, Lindie Makan, Jacqueline Lubbe, Sarah Alami, Guila Lancman, Manuella Schaller, Cécile Delval, Adri Kok. Originally published in JMIR Formative Research (https://formative.jmir.org), 07.08.2023.</copyright-statement>
+          <copyright-year>2023</copyright-year>
+          <license>
+            <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+            <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (<ext-link xlink:href="https://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">https://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in JMIR Formative Research, is properly cited. The complete bibliographic information, a link to the original publication on <ext-link xlink:href="https://formative.jmir.org" ext-link-type="uri">https://formative.jmir.org</ext-link>, as well as this copyright and license information must be included.</license-p>
+          </license>
+        </permissions>
+        <self-uri xlink:href="https://formative.jmir.org/2023/1/e35790"/>
+        <kwd-group>
+          <kwd>diabetes mellitus</kwd>
+          <kwd>diabetes nurse educator</kwd>
+          <kwd>digital tool</kwd>
+          <kwd>MyDiaCare program</kwd>
+          <kwd>type 2</kwd>
+        </kwd-group>
+      </article-meta>
+    </front>
+    <body>
+      <sec sec-type="introduction">
+        <title>Introduction</title>
+        <sec>
+          <title>Background</title>
+          <p>The International Diabetes Federation estimated that in 2021, in South Africa, 4.2 million adults, aged between 20 and 79 years, will have diabetes, with almost 100,000 diabetes-related deaths annually [<xref rid="ref1" ref-type="bibr">1</xref>]. The number of adults with diabetes is expected to reach 5.4 million by 2030.</p>
+          <p>There are several reasons for this increase in prevalence, mainly driven by type 2 diabetes. The risk of type 2 diabetes increases with age. However, the most important risk factor for diabetes is obesity [<xref rid="ref2" ref-type="bibr">2</xref>]. In South Africa, the recent increases in urbanization and consumption of high-calorie diets, accompanied by diminished physical activity, have resulted in increased obesity: 69% of women and 39% of men are reported to be overweight or obese [<xref rid="ref2" ref-type="bibr">2</xref>]. Obesity is estimated to account for 87% of type 2 diabetes cases in South Africa [<xref rid="ref2" ref-type="bibr">2</xref>].</p>
+          <p>The South African health care system is already burdened by high rates of HIV infection, AIDS, tuberculosis, noncommunicable diseases, maternal and childhood mortality, and injury-related disorders. The predicted diabetes epidemic, with sequelae of microvascular and macrovascular complications, will further burden the already fragile health care sector and the South African economy [<xref rid="ref2" ref-type="bibr">2</xref>]. In 2021, the total diabetes-related health expenditure in South Africa is estimated at US $7.2 billion [<xref rid="ref1" ref-type="bibr">1</xref>]. Diabetes is known to have severely impacted the South African economy [<xref rid="ref3" ref-type="bibr">3</xref>]. Indeed, about two-thirds of diabetes-related deaths occurred in working-class people younger than 60 years.</p>
+          <p>The occurrence of diabetes-related complications severely impacts patient health and quality of life, reduces productivity, and incurs high costs. The risk of developing micro- and macrovascular diabetes-related complications is known to increase with increasing glycated hemoglobin (HbA<sub>1c</sub>) levels. Microvascular complications increase above a threshold of 6.5%, and macrovascular complications increase above a threshold of 7% [<xref rid="ref4" ref-type="bibr">4</xref>].</p>
+          <p>In South Africa, many people with diabetes do not receive optimal treatment [<xref rid="ref5" ref-type="bibr">5</xref>-<xref rid="ref7" ref-type="bibr">7</xref>]. A retrospective cross-sectional study reported that, in 2013, only 15.5% of people with type 2 diabetes reached the recommended target HbA<sub>1c</sub> of less than 7% [<xref rid="ref8" ref-type="bibr">8</xref>,<xref rid="ref9" ref-type="bibr">9</xref>]. Furthermore, in the South African cohort of the International Diabetes Management Study, the 899 patients with type 1 or type 2 diabetes had a mean HbA<sub>1c</sub> of 8.2%, with only 30% of patients reaching an HbA<sub>1c</sub> below the 7% target [<xref rid="ref6" ref-type="bibr">6</xref>]. The international real-world DISCOVER study program was a prospective observational study that assessed diabetes management in 15,992 patients with type 2 diabetes in 38 countries [<xref rid="ref10" ref-type="bibr">10</xref>]. The South African cohort of the DISCOVER study had a mean HbA<sub>1c</sub> of 9% at baseline, 8.2% after 6 months of follow-up, 8.4% after 12 months, and 8.3% after 24 months [<xref rid="ref5" ref-type="bibr">5</xref>]. In comparison, in the global DISCOVER study, mean HbA<sub>1c</sub> was 8.3% at baseline [<xref rid="ref11" ref-type="bibr">11</xref>]. It is well established that suboptimal treatment increases the risk of diabetes complications [<xref rid="ref4" ref-type="bibr">4</xref>], reduces quality of life [<xref rid="ref12" ref-type="bibr">12</xref>], and increases the economic burden [<xref rid="ref13" ref-type="bibr">13</xref>].</p>
+          <p>Digital tools, with or without support by a health care professional, have proven to be effective in lowering HbA<sub>1c</sub> levels and promoting diabetes self-management [<xref rid="ref14" ref-type="bibr">14</xref>-<xref rid="ref16" ref-type="bibr">16</xref>]. These benefits have been confirmed in meta-analyses based on systematic reviews [<xref rid="ref14" ref-type="bibr">14</xref>,<xref rid="ref15" ref-type="bibr">15</xref>,<xref rid="ref17" ref-type="bibr">17</xref>]. However, in South Africa, evidence to support the use of digital tools for diabetes management is scarce.</p>
+        </sec>
+        <sec>
+          <title>Objectives</title>
+          <p>The real-world Diabetes Nurse Educator (DNE) study was designed to assess the benefit of the MyDiaCare program, combining digital tools (patient mobile apps and a health care professional platform) with DNE support, for diabetes management support in South Africa after at least 6 months of use. Furthermore, an economic study estimated the cost-effectiveness of MyDiaCare for patients with type 2 diabetes in the South African private sector.</p>
+        </sec>
+      </sec>
+      <sec sec-type="methods">
+        <title>Methods</title>
+        <sec>
+          <title>Study Design</title>
+          <p>The real-world DNE study was designed as an observational, retrospective, multicenter, single-group study. The study was performed on South African patients with diabetes who had participated in the MyDiaCare program for at least 6 months.</p>
+        </sec>
+        <sec>
+          <title>Program Description</title>
+          <p>The MyDiaCare program combines digital tools with regular DNE face-to-face interventions (See <xref rid="figure1" ref-type="fig">Figure 1</xref>).</p>
+          <fig position="float" id="figure1">
+            <label>Figure 1</label>
+            <caption>
+              <p>The MyDiaCare program. HbA<sub>1c</sub>: glycated hemoglobin.</p>
+            </caption>
+            <graphic xlink:href="formative_v7i1e35790_fig1" position="float"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>Patient Recruitment</title>
+          <p>Patients older than 18 years with type 1 or type 2 diabetes who had participated in MyDiaCare for at least 6 months were eligible for the study. Patients using another telemonitoring program, without complementary health insurance, or participating in another diabetes education program were ineligible. Furthermore, patients with limited or complete legal incapacity were not enrolled.</p>
+          <p>All eligible patients who presented at any one of the 2 participating health care centers for a routine visit between November 25, 2019, and June 30, 2020, and who agreed to participate in the study were enrolled. At enrollment, the patients performed the only study-specific visit.</p>
+        </sec>
+        <sec>
+          <title>Study Procedures and Data Collected</title>
+          <p>During this study-specific visit, patient and diabetes-specific data were collected. In addition, relevant data collected in the MyDiaCare program were pseudonymized and extracted from the digital platform from the date the patient joined MyDiaCare until the date they left the program or at the latest on the June 30, 2020. These data included diabetes-related data (type of diabetes, date of diagnosis, diabetes treatment, concomitant treatments, diabetes complications, and comorbidities), clinical assessment (blood pressure, body weight, and waist circumference), and standard laboratory tests used for diabetes monitoring (HbA<sub>1c</sub>, low-density-lipoprotein [LDL] cholesterol, high-density-lipoprotein [HDL] cholesterol, total cholesterol, and triglyceride levels). Furthermore, patients’ diabetic care plans were assessed, including clinical targets (blood pressure, body weight, and waist circumference) and HbA<sub>1c</sub> and blood lipid levels targets.</p>
+          <p>The BMI was calculated from the weight and height data collected. Moreover, patient, physician, and DNE satisfaction with MyDiaCare was assessed using self-administered and study-specific questionnaires.</p>
+        </sec>
+        <sec>
+          <title>Study Outcomes</title>
+          <p>The outcome measures were the change in HbA<sub>1c</sub> and cardiovascular risk factors (LDL, HDL, total cholesterol, triglyceride, systolic blood pressure [SBP], and diastolic blood pressure [DBP] levels, as well as body weight and waist circumference). Furthermore, the proportions of patients that achieved their targets for these parameters, the adherence to the care plans, and the satisfaction of the patients, physicians, and DNEs with MyDiaCare were also assessed. Adherence was defined as the percentage of tests or consultations performed over the tests planned, adjusted to the duration of follow-up for each patient. Patients’ satisfaction was assessed at least 6 months after joining the MyDiaCare program.</p>
+        </sec>
+        <sec>
+          <title>Statistical Analysis</title>
+          <p>The data are described using descriptive statistics. Quantitative variables are presented as means and SD and medians with IQR. While qualitative variables are presented as frequencies with percentages. The numbers of missing data are indicated. Missing data were not replaced. Analyses were performed using SAS (version 9.4; SAS Institute).</p>
+        </sec>
+        <sec>
+          <title>Economic Evaluation</title>
+          <sec>
+            <title>Economic Study Objective</title>
+            <p>The economic evaluation focused on people with type 2 diabetes. A budget impact analysis was performed to estimate the economic impact of using MyDiaCare for treating patients with type 2 diabetes older than 19 years in the South African private health care sector. The model estimated the number of key medical events and budget impact of introducing MyDiaCare for managing adult patients with type 2 diabetes compared to standard of care. The analysis was performed according to HbA<sub>1c</sub> improvement. The model compared 2 scenarios: type 2 diabetes management without MyDiaCare (standard of care) and management with MyDiaCare. The difference between the 2 scenarios provided an estimate of the number of diabetes complications avoided, the net budget impact per year, the cumulative budget impact over a 5-year time horizon, and the net budget impact per patient for the first year after introducing MyDiaCare. The methodology for the budget impact analysis is shown in <xref rid="figure2" ref-type="fig">Figure 2</xref>.</p>
+            <fig position="float" id="figure2">
+              <label>Figure 2</label>
+              <caption>
+                <p>Economic study (budget impact analysis) methodology. HbA<sub>1c</sub>: glycated hemoglobin.</p>
+              </caption>
+              <graphic xlink:href="formative_v7i1e35790_fig2" position="float"/>
+            </fig>
+          </sec>
+          <sec>
+            <title>Simulated Populations</title>
+            <p>The model initially determined the mean HbA<sub>1c</sub> level at baseline and then at 6 months for the 2 scenarios. The data from the DNE study, herein reported, were used to model type 2 diabetes management with MyDiaCare. The standard of care cohort was modeled using data from the South African cohort of the DISCOVER study [<xref rid="ref5" ref-type="bibr">5</xref>,<xref rid="ref18" ref-type="bibr">18</xref>].</p>
+            <p>The DISCOVER study was selected from a literature search that identified 6 publications that described type 2 diabetes management in South Africa [<xref rid="ref9" ref-type="bibr">9</xref>,<xref rid="ref19" ref-type="bibr">19</xref>-<xref rid="ref23" ref-type="bibr">23</xref>]. The South African cohort of the DISCOVER study was chosen since it included patients from the private sector and had the necessary HbA<sub>1c</sub> data to assess diabetes evolution [<xref rid="ref5" ref-type="bibr">5</xref>]. Overall, the DISCOVER study was the most representative of the South African diabetes standard of care and was compared to the type 2 diabetes cohort of the DNE study.</p>
+          </sec>
+          <sec>
+            <title>Estimation of the Incidence of Diabetes Complications According to HbA<sub>1c</sub> Levels</title>
+            <p>The increase in the number of diabetes complications according to HbA<sub>1c</sub> levels was estimated using the reported annual incidence rates [<xref rid="ref5" ref-type="bibr">5</xref>,<xref rid="ref21" ref-type="bibr">21</xref>,<xref rid="ref24" ref-type="bibr">24</xref>,<xref rid="ref25" ref-type="bibr">25</xref>] and the increased risk according to HbA<sub>1c</sub> levels reported in the ADVANCE study [<xref rid="ref4" ref-type="bibr">4</xref>].</p>
+            <p>The annual incidence rates of macrovascular and microvascular events in South African patients with type 2 diabetes were obtained from the literature: 6% for myocardial infarctions [<xref rid="ref5" ref-type="bibr">5</xref>], 4% for strokes [<xref rid="ref21" ref-type="bibr">21</xref>], 17% for cardiovascular diseases [<xref rid="ref25" ref-type="bibr">25</xref>], 25% for nephropathy [<xref rid="ref25" ref-type="bibr">25</xref>], 15% for retinopathy [<xref rid="ref21" ref-type="bibr">21</xref>], 13% for foot ulcers and diabetic foot [<xref rid="ref24" ref-type="bibr">24</xref>], and 3% for amputations [<xref rid="ref25" ref-type="bibr">25</xref>].</p>
+            <p>The international ADVANCE study assessed the association between HbA<sub>1c</sub> levels in patients with type 2 diabetes and the risk of diabetes complications [<xref rid="ref4" ref-type="bibr">4</xref>]. The study established HbA<sub>1c</sub> thresholds for the occurrence of macrovascular and microvascular events. The risk of a macrovascular event increased by 38% for every 1% increase in HbA<sub>1c</sub> level above the 7% threshold. While the risk of a microvascular event increased by 40% for every 1% increase in HbA<sub>1c</sub> level above the 6.5% threshold. Below these thresholds, the risk of such events remained stable.</p>
+            <p>The incidence rates of diabetes complications were then adjusted according to HbA<sub>1c</sub> levels at baseline and at 6 months [<xref rid="ref4" ref-type="bibr">4</xref>]. The incidence of diabetes complications for the standard of care cohort was based on the mean HbA<sub>1c</sub> level at baseline and after 6 months observed in the South African cohort of the DISCOVER study [<xref rid="ref5" ref-type="bibr">5</xref>]. While for the MyDiaCare cohort, the HbA<sub>1c</sub> levels observed in the DNE study were used.</p>
+            <p>The model initially determined the mean HbA<sub>1c</sub> levels at baseline in the cohorts. The changes in HbA<sub>1c</sub> levels from baseline to 6 months were then calculated. The model, for extrapolation over a 5-year time horizon, assumed that the HbA<sub>1c</sub> levels beyond 6 months remained stable. The increased risk of diabetes complications, in increments of 0.1%, was estimated using the thresholds reported in the ADVANCE study [<xref rid="ref4" ref-type="bibr">4</xref>]. In each cohort, the baseline incidences of the diabetes complications were then adjusted according to the increased risk to estimate the adjusted 6-month incidence rates for the complications.</p>
+          </sec>
+          <sec>
+            <title>Estimating the Diabetes Monitoring Frequency and Medical Resources Consumed in the Scenarios</title>
+            <p>In the standard of care scenario, the model includes health care visits and laboratory tests recommended for monitoring patients with type 2 diabetes by the Society for Endocrine, Metabolism, and Diabetes of South Africa (SEMDSA) guidelines published in 2017 [<xref rid="ref8" ref-type="bibr">8</xref>].</p>
+            <p>The annual numbers of health care visits, as well as the numbers of HbA<sub>1c</sub> and renal tests performed by patients with type 2 diabetes in the South African private sector, come from published real-life data [<xref rid="ref22" ref-type="bibr">22</xref>]. These data were included in the model once verified and validated by the experts, selected as key opinion leaders in South Africa, involved in the primary market research (PMR).</p>
+            <p>In the MyDiaCare scenario, the medical resources used were:</p>
+            <list list-type="order">
+              <list-item>
+                <p>The diabetes follow-up procedure in MyDiaCare:</p>
+                <list list-type="simple">
+                  <list-item>
+                    <p>Laboratory tests: HbA<sub>1c</sub>, lipid tests, and microalbuminuria (MAU) (determined by albumin-to-creatinine ratio [ACR]).</p>
+                  </list-item>
+                  <list-item>
+                    <p>Health care visits: DNE, doctor, and dietetic consultations.</p>
+                  </list-item>
+                  <list-item>
+                    <p>Examinations: eye and foot screenings.</p>
+                  </list-item>
+                </list>
+              </list-item>
+              <list-item>
+                <p>Concerning ophthalmologist and biokineticist visits; renal, creatinine, and potassium testing; and the urine dipstick, recommended by SEMDSA [<xref rid="ref8" ref-type="bibr">8</xref>], but not systematically tracked in MyDiaCare, it was assumed that the program would not impact patients adherence. Consequently, the frequencies of these procedures in the standard of care cohort were also used for the MyDiaCare cohort.</p>
+              </list-item>
+            </list>
+          </sec>
+          <sec>
+            <title>The Cost of Medical Resources</title>
+            <p>The analysis incorporated direct medical costs associated with health care visits, tests, and investigations. The unit costs for the health care resources used (health care visits, tests, and investigations) were established from The National Health Reference Price List (NHRPL) [<xref rid="ref26" ref-type="bibr">26</xref>], from the literature [<xref rid="ref13" ref-type="bibr">13</xref>,<xref rid="ref27" ref-type="bibr">27</xref>,<xref rid="ref28" ref-type="bibr">28</xref>], and from interviews with the key opinion leaders. The unit costs were reported in different years. These costs were therefore inflated to 2021 values using the medical inflation rates from Statistics South Africa [<xref rid="ref29" ref-type="bibr">29</xref>]. Similarly, the costs of diabetes complications were obtained from the literature and inflated [<xref rid="ref13" ref-type="bibr">13</xref>,<xref rid="ref27" ref-type="bibr">27</xref>,<xref rid="ref28" ref-type="bibr">28</xref>].</p>
+            <p>The unit costs, adjusted for inflation, were multiplied by the frequencies of health care visits, tests, and investigations, as well as the incidences of diabetes complications, to calculate the total costs in each scenario (standard of care without and with MyDiaCare).</p>
+            <p>The cost of diabetes complications in each cohort was calculated based on the adjusted incidence and the unit cost of each complication. Cost of macrovascular and microvascular events were sourced from the literature. While the costs for foot ulcers and diabetic foot disease were estimated by key opinion leaders during PMR. The estimated cost of diabetes complications per event (in South African Rands [ZAR]) is shown in <xref rid="table1" ref-type="table">Table 1</xref> with the source and cost inflated to 2021 values using the medical inflation rates from Statistics South Africa [<xref rid="ref30" ref-type="bibr">30</xref>].</p>
+            <table-wrap position="float" id="table1">
+              <label>Table 1</label>
+              <caption>
+                <p>Estimated costs of diabetes complication per event (in South African Rands). A currency exchange rate of South African Rand (ZAR) 1=US $0.053 is applicable.</p>
+              </caption>
+              <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+                <col width="340" span="1"/>
+                <col width="170" span="1"/>
+                <col width="190" span="1"/>
+                <col width="300" span="1"/>
+                <col width="0" span="1"/>
+                <thead>
+                  <tr valign="top">
+                    <td rowspan="2" colspan="1">Resource</td>
+                    <td rowspan="2" colspan="1">Cost of event (ZAR)</td>
+                    <td rowspan="2" colspan="1">Source</td>
+                    <td rowspan="2" colspan="1">Cost in 2021 (ZAR)</td>
+                    <td rowspan="1" colspan="1">
+                      <break/>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td rowspan="1" colspan="1">
+                      <break/>
+                    </td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr valign="top">
+                    <td rowspan="1" colspan="1">Myocardial infarction</td>
+                    <td rowspan="1" colspan="1">43,415</td>
+                    <td rowspan="1" colspan="1">Torborg et al [<xref rid="ref27" ref-type="bibr">27</xref>]</td>
+                    <td rowspan="1" colspan="1">65,025</td>
+                    <td rowspan="1" colspan="1">
+                      <break/>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td rowspan="1" colspan="1">Stroke</td>
+                    <td rowspan="1" colspan="1">34,722</td>
+                    <td rowspan="1" colspan="1">Erzse et al [<xref rid="ref28" ref-type="bibr">28</xref>]</td>
+                    <td rowspan="1" colspan="1">38,245</td>
+                    <td rowspan="1" colspan="1">
+                      <break/>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td rowspan="1" colspan="1">Cardiovascular disease</td>
+                    <td rowspan="1" colspan="1">21,598</td>
+                    <td rowspan="1" colspan="1">Erzse et al [<xref rid="ref28" ref-type="bibr">28</xref>]</td>
+                    <td rowspan="1" colspan="1">23,789</td>
+                    <td rowspan="1" colspan="1">
+                      <break/>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td rowspan="1" colspan="1">Nephropathy</td>
+                    <td rowspan="1" colspan="1">503,399</td>
+                    <td rowspan="1" colspan="1">Erzse et al [<xref rid="ref28" ref-type="bibr">28</xref>]</td>
+                    <td rowspan="1" colspan="1">554,469</td>
+                    <td rowspan="1" colspan="1">
+                      <break/>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td rowspan="1" colspan="1">Retinopathy</td>
+                    <td rowspan="1" colspan="1">3973</td>
+                    <td rowspan="1" colspan="1">Erzse et al [<xref rid="ref28" ref-type="bibr">28</xref>]</td>
+                    <td rowspan="1" colspan="1">4376</td>
+                    <td rowspan="1" colspan="1">
+                      <break/>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td rowspan="1" colspan="1">Foot ulcers and diabetic foot</td>
+                    <td rowspan="1" colspan="1">83,333</td>
+                    <td rowspan="1" colspan="1">PMR<sup>a</sup></td>
+                    <td rowspan="1" colspan="1">83,333</td>
+                    <td rowspan="1" colspan="1">
+                      <break/>
+                    </td>
+                  </tr>
+                  <tr valign="top">
+                    <td rowspan="1" colspan="1">Amputations</td>
+                    <td rowspan="1" colspan="1">323,418</td>
+                    <td rowspan="1" colspan="1">Thompson et al [<xref rid="ref13" ref-type="bibr">13</xref>]</td>
+                    <td rowspan="1" colspan="1">339,589</td>
+                    <td rowspan="1" colspan="1">
+                      <break/>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn id="table1fn1">
+                  <p><sup>a</sup>PMR: Primary Market Research.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+            <p>These calculations were used to estimate the number of diabetes complications avoided, the net budget impact per year, the cumulative budget impact over a 5-year time horizon, and the net budget impact per patient.</p>
+          </sec>
+          <sec>
+            <title>Sensitivity Analysis</title>
+            <p>One-way deterministic sensitivity analyses were performed. Analyses were performed on relevant parameters (eg, type 2 diabetes prevalence and mean HbA<sub>1c</sub> levels). The individual parameters were varied over a range of plausible values (eg, low and high estimates) while holding other parameters constant to assess the effect on the overall outcome. If the optimal strategy did not change over the range of parameter values, then the model was considered to be insensitive to that parameter.</p>
+          </sec>
+        </sec>
+        <sec>
+          <title>Ethics Approval</title>
+          <p>The study was approved by the Research Ethics Committee of the South African Medical Association (registration number 1927/000136/08 NPC). All patients provided written informed consent before participating in the study. Furthermore, the study was conducted in compliance with Good Clinical Practice (International Council for Harmonization E6, the current version), the provisions of the Declaration of Helsinki (Fortaleza, Brazil, October 2013), and the applicable local regulatory requirements. The data was processed in accordance with the local regulations, notably the European Union Regulation 2016/679 (General Data Protection Regulation).</p>
+        </sec>
+      </sec>
+      <sec sec-type="results">
+        <title>Results</title>
+        <sec>
+          <title>Participant Characteristics</title>
+          <p>Overall, at 2 study centers, a total of 118 patients were included instead of the approximately 200 planned due to the COVID-19 pandemic. One patient, with a follow-up duration of only 3.45 months, was excluded from the analysis. In total, 117 patients were finally analyzed: 93% (109/117) with type 2 diabetes and 7% (8/117) with type 1 diabetes. Details concerning the demographic characteristics as well as diabetes treatments, complications, and comorbidities are summarized in <xref rid="table2" ref-type="table">Table 2</xref>.</p>
+          <table-wrap position="float" id="table2">
+            <label>Table 2</label>
+            <caption>
+              <p>Participant characteristics at baseline.</p>
+            </caption>
+            <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+              <col width="30" span="1"/>
+              <col width="340" span="1"/>
+              <col width="210" span="1"/>
+              <col width="0" span="1"/>
+              <col width="230" span="1"/>
+              <col width="0" span="1"/>
+              <col width="190" span="1"/>
+              <thead>
+                <tr valign="top">
+                  <td colspan="2" rowspan="1">Variable</td>
+                  <td colspan="2" rowspan="1">Type 1 diabetes patients (n=8)</td>
+                  <td colspan="2" rowspan="1">Type 2 diabetes patients (n=109)</td>
+                  <td rowspan="1" colspan="1">Pooled (N=117)</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr valign="top">
+                  <td colspan="7" rowspan="1">
+                    <bold>Age (in years)</bold>
+                  </td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Median (IQR)</td>
+                  <td rowspan="1" colspan="1">33.5 (29.5-35.5)</td>
+                  <td colspan="2" rowspan="1">57 (51-64)</td>
+                  <td colspan="2" rowspan="1">56 (49-63)</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Mean (SD)</td>
+                  <td rowspan="1" colspan="1">31.8 (6.5)</td>
+                  <td colspan="2" rowspan="1">57.1 (10.8)</td>
+                  <td colspan="2" rowspan="1">55.3 (12.3)</td>
+                </tr>
+                <tr valign="top">
+                  <td colspan="2" rowspan="1">Sex (female), n (%)</td>
+                  <td colspan="2" rowspan="1">4 (50)</td>
+                  <td colspan="2" rowspan="1">50 (46)</td>
+                  <td rowspan="1" colspan="1">54 (46)</td>
+                </tr>
+                <tr valign="top">
+                  <td colspan="7" rowspan="1">
+                    <bold>Time interval between diabetes diagnosis and start of program (in years)</bold>
+                  </td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Median (IQR)</td>
+                  <td rowspan="1" colspan="1">11.2 (8.7-16.9)</td>
+                  <td colspan="2" rowspan="1">9.8 (3.7-14.9)</td>
+                  <td colspan="2" rowspan="1">9.9 (3.8-14.9)</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Mean (SD)</td>
+                  <td rowspan="1" colspan="1">14.3 (10)</td>
+                  <td colspan="2" rowspan="1">10.5 (8.4)</td>
+                  <td colspan="2" rowspan="1">10.7 (8.5)</td>
+                </tr>
+                <tr valign="top">
+                  <td colspan="7" rowspan="1">
+                    <bold>HbA<sub>1c</sub><sup>a</sup> levels (%)</bold>
+                  </td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Median (IQR)</td>
+                  <td rowspan="1" colspan="1">7.9 (7.4-8.7)</td>
+                  <td colspan="2" rowspan="1">7.7 (6.8-8.6)<sup>b</sup></td>
+                  <td colspan="2" rowspan="1">7.7 (6.8-8.6)<sup>b</sup></td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Mean (SD)</td>
+                  <td rowspan="1" colspan="1">8.2 (1)</td>
+                  <td colspan="2" rowspan="1">7.8 (1.4)<sup>b</sup></td>
+                  <td colspan="2" rowspan="1">7.8 (1.4)<sup>b</sup></td>
+                </tr>
+                <tr valign="top">
+                  <td colspan="7" rowspan="1">
+                    <bold>Diabetes treatments, n (%)</bold>
+                  </td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Oral therapy only</td>
+                  <td rowspan="1" colspan="1">0 (0)</td>
+                  <td colspan="2" rowspan="1">65 (60)</td>
+                  <td colspan="2" rowspan="1">65 (56)</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Insulin only</td>
+                  <td rowspan="1" colspan="1">7 (88)</td>
+                  <td colspan="2" rowspan="1">6 (6)</td>
+                  <td colspan="2" rowspan="1">13 (11)</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Insulin and oral therapy</td>
+                  <td rowspan="1" colspan="1">1 (13)</td>
+                  <td colspan="2" rowspan="1">38 (35)</td>
+                  <td colspan="2" rowspan="1">39 (33)</td>
+                </tr>
+                <tr valign="top">
+                  <td colspan="7" rowspan="1">
+                    <bold>Diabetes complications, n (%)</bold>
+                  </td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Patients with complications</td>
+                  <td rowspan="1" colspan="1">2 (25)</td>
+                  <td colspan="2" rowspan="1">17 (16)</td>
+                  <td colspan="2" rowspan="1">19 (16)</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Peripheral neuropathy</td>
+                  <td rowspan="1" colspan="1">0 (0.0)</td>
+                  <td colspan="2" rowspan="1">11 (10)</td>
+                  <td colspan="2" rowspan="1">11 (9)</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Retinopathy</td>
+                  <td rowspan="1" colspan="1">1 (13)</td>
+                  <td colspan="2" rowspan="1">8 (7)</td>
+                  <td colspan="2" rowspan="1">9 (8)</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Nephropathy</td>
+                  <td rowspan="1" colspan="1">1 (13)</td>
+                  <td colspan="2" rowspan="1">1 (1)</td>
+                  <td colspan="2" rowspan="1">2 (2)</td>
+                </tr>
+                <tr valign="top">
+                  <td colspan="7" rowspan="1">
+                    <bold>Comorbidities, n (%)</bold>
+                  </td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Patients with comorbidities</td>
+                  <td rowspan="1" colspan="1">5 (63)</td>
+                  <td colspan="2" rowspan="1">97 (89)</td>
+                  <td colspan="2" rowspan="1">102 (87)</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Dyslipidemia</td>
+                  <td rowspan="1" colspan="1">5 (63)</td>
+                  <td colspan="2" rowspan="1">90 (83)</td>
+                  <td colspan="2" rowspan="1">95 (81)</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Hypertension</td>
+                  <td rowspan="1" colspan="1">4 (50)</td>
+                  <td colspan="2" rowspan="1">71 (65)</td>
+                  <td colspan="2" rowspan="1">75 (64)</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Myocardial ischemia</td>
+                  <td rowspan="1" colspan="1">0 (0)</td>
+                  <td colspan="2" rowspan="1">10 (9)</td>
+                  <td colspan="2" rowspan="1">10 (9)</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Chronic kidney disease</td>
+                  <td rowspan="1" colspan="1">0 (0)</td>
+                  <td colspan="2" rowspan="1">2 (2)</td>
+                  <td colspan="2" rowspan="1">2 (2)</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+                    <break/>
+                  </td>
+                  <td rowspan="1" colspan="1">Cardiac failure congestive</td>
+                  <td rowspan="1" colspan="1">0 (0)</td>
+                  <td colspan="2" rowspan="1">1 (1)</td>
+                  <td colspan="2" rowspan="1">1 (1)</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <fn id="table2fn1">
+                <p><sup>a</sup>HbA<sub>1c</sub>: glycated hemoglobin.</p>
+              </fn>
+              <fn id="table2fn2">
+                <p><sup>b</sup>1 person with type 2 diabetes did not have a baseline HbA<sub>1c</sub> level.</p>
+              </fn>
+            </table-wrap-foot>
+          </table-wrap>
+        </sec>
+        <sec>
+          <title>Clinical Results</title>
+          <p>In the 79/117 patients with data at baseline and at 6 months, there was a clinically relevant mean decrease in HbA<sub>1c</sub> levels of –0.6% (SD 1.3); median (IQR) –0.5 (–1.2 to 0.1); range (–3.5 to 3.5): from 7.8% at baseline to 7.2% at 6 months after starting MyDiaCare. These 79 patients comprised 8 patients with type 1 diabetes and 71 patients with type 2 diabetes. At 6 months, the mean HbA<sub>1c</sub> level decreased from 8.2% to 7.4% in patients with type 1 diabetes and from 7.8% to 7.2% in those with type 2 diabetes.</p>
+          <p>Among the 54 of 79 patients with a decrease in HbA<sub>1c</sub> levels at 6 months, 80% (43/54) had a clinically relevant decrease of at least –0.4%. The clinically relevant decrease in the mean HbA<sub>1c</sub> absolute change was also observed at time points ranging from 3 to 12 months. Moreover, the proportion of patients with HbA<sub>1c</sub> levels &lt;7% increased from 30.4% at baseline to 50.6% at 6 months (<xref rid="figure3" ref-type="fig">Figure 3</xref>).</p>
+          <p>Most patients (43/79, 54%) reached or maintained their HbA<sub>1c</sub> target levels and a further 20% (16/79) had improved HbA<sub>1c</sub> levels but failed to reach their HbA<sub>1c</sub> target (<xref rid="figure4" ref-type="fig">Figure 4</xref>).</p>
+          <fig position="float" id="figure3">
+            <label>Figure 3</label>
+            <caption>
+              <p>The proportion of patients with diabetes classified by glycated hemoglobin (HbA<sub>1c</sub>) levels at baseline and then at 6 months after starting the MyDiaCare program.</p>
+            </caption>
+            <graphic xlink:href="formative_v7i1e35790_fig3" position="float"/>
+          </fig>
+          <fig position="float" id="figure4">
+            <label>Figure 4</label>
+            <caption>
+              <p>The proportion of patients with diabetes that reached their glycated hemoglobin (HbA<sub>1c</sub>) target at 3, 6, 9, and 12 months after starting the MyDiaCare program.</p>
+            </caption>
+            <graphic xlink:href="formative_v7i1e35790_fig4" position="float"/>
+          </fig>
+          <p>At 12 months, there was a slight deterioration in the proportion of patients that reached their HbA<sub>1c</sub> targets. However, only half of the patients had HbA<sub>1c</sub> data at 12 months.</p>
+          <p>Concerning targets related to cardiovascular risk factors, more than 50% of patients reached or maintained their targets for the following parameters: 69% (49/71) for LDL cholesterol, 58% (41/71) for HDL cholesterol, 83% (59/71) for total cholesterol, 67% (53/79) for SBP, and 89% (70/79) for DBP. In contrast, less than 50% reached or maintained their targets: 46% (32/70) for triglycerides, 17% (13/76) for body weight, and 18% (12/68) for waist circumference. These data were not integrated in the economic evaluation.</p>
+          <p>Regarding adherence to the MyDiaCare care plan, a patient-specific schedule for laboratory tests: HbA<sub>1c</sub>, lipid tests, MAU (determined by ACR), for consultations: DNE, doctor, and dietetic consultations, and for examinations: eye and foot screenings. The mean overall adherence to the MyDiaCare care plan was 93%; 86% (100/117) of patients adhered to more than 70% of the scheduled tests and consultations in their care plan. The mean adherence to each test and consultation was between 98% and 100%, including physician and DNE consultations. However, for dietetic consultation and eye and foot examinations, the mean adherences were 59%, 57%, and 44%, respectively.</p>
+        </sec>
+        <sec>
+          <title>The Levels of Satisfaction With MyDiaCare</title>
+          <p>From the patients’ perspective, most patients (87/117, 74%) were satisfied with their diabetes management, and 85% (99/117) agreed that MyDiaCare improved their diabetes management. The program allowed 62% (72/117) of patients to better understand their diabetes. Furthermore, most patients (105/117, 90%) noted that the presence of the DNE was useful or very useful. Finally, when patients completed the study-specific survey after participating for at least 6 months in the MyDiaCare program, 84% (98/117) wanted to continue using the program, and 89% (104/117) would recommend it to other patients.</p>
+          <p>All investigators reported that they were satisfied with the patients’ management, that they would use MyDiaCare long term, and that they would propose the program to at least 50% of their diabetes patients. They all felt that the program allowed them to better anticipate the patients’ complications and empowered their patients.</p>
+          <p>The 2 participating DNEs, 1 at each site, agreed that the program made them feel part of a medical team and allowed them to better anticipate patient complications. Furthermore, they found the tracking platform user-friendly, with the patients’ data easily available.</p>
+        </sec>
+        <sec>
+          <title>Economic Evaluation</title>
+          <sec>
+            <title>Simulated Populations</title>
+            <p>The base case analysis considered the economic impact if all patients with type 2 diabetes older than 19 years in the South African private sector joined the MyDiaCare program. The following annual prevalences (incidences) were used for the analysis: for year one, 328,118 patients (43,410), for year two, 368,295 (43,744), for year three, 408,454 (44,087), for year four, 448,603 (44,439), and for year five, 488,752 (44,800).</p>
+          </sec>
+          <sec>
+            <title>Overall Economic Impact of Diabetes Management With MyDiaCare</title>
+            <p>The base case analysis considered the economic impact if all of the patients with type 2 diabetes treated in the South African private sector used the MyDiaCare program. Overall, the use of MyDiaCare to manage adults with type 2 diabetes in South Africa is estimated to lower the costs of diabetes management in South Africa in the first year by 26 billion ZAR (23%): from 117 billion ZAR with the current standard of care to 91 billion ZAR using MyDiaCare with standard of care (<xref rid="figure5" ref-type="fig">Figure 5</xref>). Please note that a currency exchange rate of ZAR 1=US $0.053 is applicable.</p>
+            <p>The net budget impact per patient with type 2 diabetes, older than 19 years, treated in the private sector using MyDiaCare was estimated to be approximately 71,000 ZAR (US $4089) during the first year of introducing MyDiaCare.</p>
+            <p>The use of MyDiaCare is estimated to increase the cost of diabetes monitoring (health care visits, tests, and investigations) during the first year by 1.1 billion ZAR (a 43% increase); see <xref rid="figure6" ref-type="fig">Figure 6</xref>. However, it substantially reduced the costs associated with diabetes complications by 27.5 billion ZAR (a 24% decrease), from 114 billion ZAR with current standard of care to 87 billion ZAR using standard of care with MyDiaCare.</p>
+            <fig position="float" id="figure5">
+              <label>Figure 5</label>
+              <caption>
+                <p>Estimated total annual costs of diabetes management in the scenarios without and with MyDiaCare (in millions of South African Rands).</p>
+              </caption>
+              <graphic xlink:href="formative_v7i1e35790_fig5" position="float"/>
+            </fig>
+            <fig position="float" id="figure6">
+              <label>Figure 6</label>
+              <caption>
+                <p>Estimated annual costs of diabetes-related complications and diabetes monitoring in the scenarios without and with MyDiaCare (in millions of South African Rands).</p>
+              </caption>
+              <graphic xlink:href="formative_v7i1e35790_fig6" position="float"/>
+            </fig>
+            <p>The details of the results of the budget impact analyses are presented in the sections below.</p>
+          </sec>
+          <sec>
+            <title>Diabetes Complications Avoided and the Associated Costs</title>
+            <p>In the standard of care cohort, the mean HbA<sub>1c</sub> level was 9% at baseline and 8.2% at 6 months. In the DNE study cohort with MyDiaCare, the mean HbA<sub>1c</sub> was 7.8% at baseline and 7.2% at 6 months.</p>
+            <p>The estimated numbers of diabetes complications avoided (per year) in the scenario with MyDiaCare for type 2 diabetes patients in South Africa are shown in <xref rid="figure7" ref-type="fig">Figure 7</xref>.</p>
+            <p>The costs associated with avoiding these complications are shown in <xref rid="figure8" ref-type="fig">Figure 8</xref>. The costs avoided are largely dominated by the nephropathy avoided, about 22 billion ZAR in the first year. Indeed, the incidence of nephropathy was higher in the type 2 diabetes cohort without MyDiaCare compared to the cohort with MyDiaCare.</p>
+            <fig position="float" id="figure7">
+              <label>Figure 7</label>
+              <caption>
+                <p>Estimated annual number of diabetes complications avoided with MyDiaCare (in thousands).</p>
+              </caption>
+              <graphic xlink:href="formative_v7i1e35790_fig7" position="float"/>
+            </fig>
+            <fig position="float" id="figure8">
+              <label>Figure 8</label>
+              <caption>
+                <p>Estimated annual cost of diabetes complications avoided with MyDiaCare (in millions of South African Rands).</p>
+              </caption>
+              <graphic xlink:href="formative_v7i1e35790_fig8" position="float"/>
+            </fig>
+          </sec>
+          <sec>
+            <title>Diabetes Monitoring Frequency and Cost Without and That With MyDiaCare</title>
+            <p>The use of MyDiaCare resulted in an increase in the annual number of visits with DNEs, general practitioners, and optometrists (<xref rid="figure9" ref-type="fig">Figure 9</xref>). Similarly, the annual number of HbA<sub>1c</sub>, lipids, and urine (albumin and creatine ratio) tests increased with MyDiaCare.</p>
+            <p>The cost of diabetes monitoring (health care visits, tests, and investigations) in the first year was estimated to increase by 43% from 2.5 billion ZAR without MyDiaCare to 3.6 million ZAR with MyDiaCare (<xref rid="figure10" ref-type="fig">Figure 10</xref>).</p>
+            <fig position="float" id="figure9">
+              <label>Figure 9</label>
+              <caption>
+                <p>Comparison of the estimated number of health care visits, tests, and investigations required in the scenarios without and with MyDiaCare. HbA<sub>1c</sub>: glycated hemoglobin.</p>
+              </caption>
+              <graphic xlink:href="formative_v7i1e35790_fig9" position="float"/>
+            </fig>
+            <fig position="float" id="figure10">
+              <label>Figure 10</label>
+              <caption>
+                <p>Estimated annual costs of diabetes monitoring (health care visits, tests, and investigations) in the scenarios with and without MyDiaCare (in millions of South African Rands).</p>
+              </caption>
+              <graphic xlink:href="formative_v7i1e35790_fig10" position="float"/>
+            </fig>
+          </sec>
+          <sec>
+            <title>Sensitivity Analysis</title>
+            <p>A 1-way deterministic sensitivity analysis was performed using the parameters that drive the budget impact model. The parameters were adjusted with a 10% variance. The tornado plot (<xref rid="figure11" ref-type="fig">Figure 11</xref>) below shows the change in the net budget per patient older than 19 years compared to the standard of care without and with MyDiaCare, as the base value for each parameter is adjusted according to the lower and upper bounds.</p>
+            <p>An additional scenario was run to address the differences observed in the MyDiaCare and standard-of-care groups. The scenario adjusted the mean baseline HbA<sub>1c</sub> for the standard-of-care group to be equivalent to that of the MyDiaCare group at 7.8%. The scenario assumed that at 6 months, the mean HbA<sub>1c</sub> levels in the standard-of-care group had not changed. Thus, the mean HbA<sub>1c</sub> at 6 months remained at 7.8%. The mean HbA<sub>1c</sub> levels in the MyDiaCare group were set at 7.8% at baseline and at 7.2% after 6 months to represent the impact of the DNE program and the intervention in the MyDiaCare cohort.</p>
+            <p>The results on the total net budget comparing standard of care without and with MyDiaCare are shown in <xref rid="figure12" ref-type="fig">Figure 12</xref>. In this scenario, the cost of type 2 diabetes management in patients older than 19 years treated in the South African private health care sector is estimated to be reduced in the first year by 6410 million ZAR (365 million Euro)—a 7% difference in total cost between the 2 cohorts during the first year. The net budget impact in the first year per private sector patient older than 19 years treated is 17,652 ZAR (US $1016).</p>
+            <p>Furthermore, we investigated the scenario that MyDiaCare would only have a market share of 2% in the first year, growing at 1% per year over the 5-year time horizon (ie, reaching 6% at 5 years). The impact on the total net budget comparing standard of care without and with MyDiaCare is shown in <xref rid="figure13" ref-type="fig">Figure 13</xref>. In this scenario, the cost of type 2 diabetes management for patients older than 19 years treated in the South African private health care sector is estimated to be reduced by 528 million ZAR.</p>
+            <fig position="float" id="figure11">
+              <label>Figure 11</label>
+              <caption>
+                <p>Results from the one-way deterministic sensitivity analysis: tornado plot showing the net change in budget per patient with type 2 diabetes, older than 19 years, with standard of care without and with MyDiaCare in South African Rands. HbA<sub>1c</sub>: glycated hemoglobin.</p>
+              </caption>
+              <graphic xlink:href="formative_v7i1e35790_fig11" position="float"/>
+            </fig>
+            <fig position="float" id="figure12">
+              <label>Figure 12</label>
+              <caption>
+                <p>Results from a sensitivity analysis where the mean baseline HbA<sub>1c</sub> levels in the groups were adjusted to equivalence: showing the net change in budget per patient with type 2 diabetes, older than 19 years, with standard of care without and with MyDiaCare in South African Rands.</p>
+              </caption>
+              <graphic xlink:href="formative_v7i1e35790_fig12" position="float"/>
+            </fig>
+            <fig position="float" id="figure13">
+              <label>Figure 13</label>
+              <caption>
+                <p>Total net budget impact comparing standard of care without and with MyDiaCare in the scenario that MyDiaCare has a market share of only 2% in the first year, growing at 1% per year over 5 years.</p>
+              </caption>
+              <graphic xlink:href="formative_v7i1e35790_fig13" position="float"/>
+            </fig>
+          </sec>
+        </sec>
+      </sec>
+      <sec sec-type="discussion">
+        <title>Discussion</title>
+        <sec>
+          <title>Principal Results</title>
+          <p>In the DNE study, after 6 months of using the MyDiaCare program, the mean HbA<sub>1c</sub> levels decreased by a meaningful –0.6%. from 7.8% at baseline to 7.2% at 6 months. This relevant decrease of –0.6% is substantial considering the low HbA<sub>1c</sub> baseline level.</p>
+          <p>This decrease in mean HbA<sub>1c</sub> levels is comparable to what has been reported in systematic reviews and meta-analyses after 3 to 10 months using mobile health interventions or telemedicine [<xref rid="ref14" ref-type="bibr">14</xref>,<xref rid="ref15" ref-type="bibr">15</xref>,<xref rid="ref17" ref-type="bibr">17</xref>]. In the South African cohort of DISCOVER, the mean HbA<sub>1c</sub> level was 9% at baseline and decreased to 8.2% after 6 months [<xref rid="ref5" ref-type="bibr">5</xref>].</p>
+          <p>Several studies have investigated digital tools with limited or no intervention by a diabetes health care worker [<xref rid="ref16" ref-type="bibr">16</xref>,<xref rid="ref31" ref-type="bibr">31</xref>,<xref rid="ref32" ref-type="bibr">32</xref>]. In South Africa, where health literacy is expected to be low, it is critical that digital tools be accompanied by regular health care visits, particularly DNE and physician visits. Indeed, a South African study conducted at a single institution found that knowledge concerning diabetic foot among patients with type 2 diabetes was suboptimal [<xref rid="ref24" ref-type="bibr">24</xref>].</p>
+          <p>Regular and frequent visits with DNEs, in between visits with physicians, might play a role in decreasing HbA<sub>1c</sub>. The RENEWING HEALTH randomized controlled trial evaluated the benefit of a mobile health intervention with or without health counseling in patients with type 2 diabetes [<xref rid="ref31" ref-type="bibr">31</xref>]. In the control group, there was only 1 telephonic counseling session by a DNE (4 months after baseline) compared to more frequent DNE face-to-face visits (every 3 months) in the health counseling group. In the Norwegian cohort of this trial, at 4 months, the HbA<sub>1c</sub> levels were reduced on average by –0.23% with the mobile app, –0.41% with the mobile app and DNE counseling, and –0.39% with standard of care. These results are comparable with the –0.6% reduction in HbA<sub>1c</sub> levels observed in this study.</p>
+          <p>Other studies that assessed mobile health interventions showed larger decreases in HbA<sub>1c</sub> levels compared to this study. However, these larger decreases were to be expected since baseline HbA<sub>1c</sub> levels were substantially higher than those in this study. After 3 months of using a mobile app with integrated coaching by a diabetes educator, the mean baseline HbA<sub>1c</sub> level of 9.87% had decreased by –0.86% in patients that had completed the single-arm study and by –0.96% in those that actively used the mobile app and coaching. Furthermore, among active users, those with baseline HbA<sub>1c</sub> levels ≥9% reduced these levels by on average –1.32% [<xref rid="ref32" ref-type="bibr">32</xref>]. Similarly, after 4 months of using a digital tool comprising remote monitoring and lifestyle changes with coaching by a diabetes specialist, the mean HbA<sub>1c</sub> level had significantly decreased by –0.8% from a baseline level of 8.9%. In patients with HbA<sub>1c</sub> levels &gt;9% at baseline, the HbA<sub>1c</sub> decrease was even higher at –1.4% [<xref rid="ref16" ref-type="bibr">16</xref>].</p>
+          <p>At 6 months, nearly 75% (59/79) of patients improved their HbA<sub>1c</sub> levels: 54% (43/79) reached or maintained their HbA<sub>1c</sub> targets, and a further 20% (16/79) improved their HbA<sub>1c</sub> levels. Also, after 6 months of MyDiaCare, 50.6% (40/79) of patients had achieved the recommended HbA<sub>1c</sub> level target of 7%, as compared to 30.4% (24/79) of patients at baseline. In comparison, after on average 2 years in the Central Chronic Medicine Dispensing and Distribution program, only 29.2% of patients had HbA<sub>1c</sub> levels below 7% [<xref rid="ref7" ref-type="bibr">7</xref>]. In the South African cohort of DISCOVER, the mean HbA<sub>1c</sub> level was 9% at baseline and decreased to 8.2% after 6 months. Both the baseline HbA<sub>1c</sub> levels (7.7%) and proportion of patients with HbA<sub>1c</sub> levels below the targeted 7% at baseline (30.4%) and after 6 months (50.6%) in the MyDiaCare study were substantially better than those reported [<xref rid="ref5" ref-type="bibr">5</xref>,<xref rid="ref7" ref-type="bibr">7</xref>].</p>
+          <p>In addition to achieving HbA<sub>1c</sub> targets, a large proportion of patients also achieved their targets for other cardiovascular risk factors, in particular LDL and HDL cholesterol and blood pressure levels.</p>
+          <p>It is noteworthy that both patients and health care professionals were satisfied with the MyDiaCare program. The MyDiaCare program provides innovative tools for patients and health care professionals. For patients, the mobile app allows them to self-manage their diabetes. While the health care platform allows physicians and DNEs to monitor diabetes evolution from a distance. In this program, the role of the DNE is critical: providing frequent and regular support for patients and physicians. Overall, MyDiaCare is a program designed to empower patients but also optimize diabetes management.</p>
+          <p>The real-world DNE study showed the benefit of MyDiaCare in improving HbA<sub>1c</sub> levels. To provide further evidence of this metabolic benefit in the long term, we used HbA<sub>1c</sub> as a proxy to estimate MyDiaCare’s impact in terms of diabetes complications and costs. Despite the estimated increased cost of diabetes management (health care visits, tests, and investigations), these costs were largely compensated for by the estimated costs avoided by reducing the number of diabetes complications (mainly nephropathy). The model estimated that in the private sector, about 26 million ZAR would be saved in the first year, with the cost of diabetes reduced by 23% compared to current standard of care. The annual cost savings for the private sector per patient during the first year were estimated to be 71,000 ZAR (US $4089). However, when we used the same mean baseline level of HbA<sub>1c</sub> in the standard of care (results from a sensitivity analysis), the annual cost savings per patient during the first year were estimated to be 17,652 ZAR (US $1016). These savings are comparable with those previously reported [<xref rid="ref33" ref-type="bibr">33</xref>,<xref rid="ref34" ref-type="bibr">34</xref>]. For example, Smith and colleagues [<xref rid="ref33" ref-type="bibr">33</xref>] evaluated the effectiveness and economic impact of a diabetes education program among adults with type 2 diabetes in South Texas. They found an HbA<sub>1c</sub> decrease of –0.8% and a direct cost savings of US $2780 per year and per patient during the program. In another economic study, the annual savings per patient of an integrated care team model for targeted, high-risk Medicare patients with type 2 diabetes were estimated at US $5844 [<xref rid="ref34" ref-type="bibr">34</xref>]. To our knowledge, no other reported economic study has estimated the cost of diabetes management in the South African private sector. This study suggests that increased diabetes monitoring, as observed in this study, may benefit not only patients and health care professionals but also private insurance.</p>
+        </sec>
+        <sec>
+          <title>Limitations</title>
+          <p>The DNE study was designed to retrospectively collect real-world data concerning diabetes management in the South African private sector. The data collected therefore reflects current clinical practice. However, the retrospective design means that there are some missing data. In addition, the enrollment period of our study coincided with the COVID-19 pandemic, preventing us from recruiting the planned number of patients. Furthermore, there is no control group to evaluate the specific clinical effects that can be attributed to the MyDiaCare program. The DNE study was only performed at 2 health care centers, with mostly patients with type 2 diabetes enrolled. Thus, the results obtained may not be representative of diabetes management in the whole South African private health care sector. Baseline HbA<sub>1c</sub> levels were lower than those already reported in other cohorts in South Africa. Moreover, 32% of patients with type 2 diabetes had reached their HbA<sub>1c</sub> target level at baseline. Therefore, the DNE study population seems to correspond to a better-treated population than those reported, representing a selection bias [<xref rid="ref5" ref-type="bibr">5</xref>-<xref rid="ref7" ref-type="bibr">7</xref>]. Finally, the study was not designed to collect safety data, in particular cases of hypoglycemia and hyperglycemia.</p>
+          <p>The budget impact model has several limitations. First, the model is highly sensitive to HbA<sub>1c</sub> levels at baseline and at 6 months, since these levels were used to estimate the incidences of diabetes-related complications where the main cost benefits were observed. Indeed, mean baseline HbA<sub>1c</sub> levels in the standard of care cohort without MyDiaCare were higher than in the cohort with MyDiaCare. This difference would have impacted the estimated numbers of diabetes-related complications in these cohorts and the overall economic impact. Second, the HbA<sub>1c</sub> levels in the standard of care cohort were estimated using the South African cohort of DISCOVER, but these data may not be representative of all patients and centers in South Africa [<xref rid="ref5" ref-type="bibr">5</xref>]. Third, in the budget impact model, the HbA<sub>1c</sub> levels obtained at 6 months were kept constant for the remainder of the model time horizon, and the method used to estimate long-term complications was the same for the first year and for subsequent years. The maintenance of HbA<sub>1c</sub> levels after 6 months for the model is a hypothesis based on the continual effectiveness of MyDiaCare program to maintain these levels. Finally, the legacy effect, which is the continual long-term increase in risk despite improved glycemic control, and the difference in cumulative glycemic exposure, estimated by HbA<sub>1c</sub>, were also not considered in the economic model.</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p>Diabetes is a major public health challenge in South Africa. The increase in prevalence and related severe complications is expected to impact not only patient health and quality of life but also productivity and the South African economy. Many figures confirm that diabetes management in South African patients is, at present, suboptimal, with low percentages of patients reaching their targets for HbA<sub>1c</sub> and other cardiovascular risk factors and adhering to guidelines. The MyDiaCare program, which combines digital tools for patients and health care professionals with DNE support, may be a clinically effective and cost-saving solution for diabetes management in the South African private health care sector. These results need to be confirmed in further studies.</p>
+        </sec>
+      </sec>
+    </body>
+    <back>
+      <ack>
+        <p>The authors would like to thank the Air Liquide Santé International team (Henry Taupin, Juan Fernando Ramirez-Gil, Cibèle Lodi, and Emmanuel Capitaine) for their involvement in this project, IQVIA Solutions Pty Ltd for performing the budget impact model, and Peter Black for his involvement in developing the MyDiaCare program. We would also like to thank Trevor Stanbury (Pro-Pens) for medical writing assistance.</p>
+      </ack>
+      <fn-group>
+        <fn fn-type="COI-statement">
+          <p>Conflicts of Interest: SA, GL, MS, and CD are shareholders and are employed by Air Liquide Santé International. The other authors have nothing to declare.</p>
+        </fn>
+      </fn-group>
+      <glossary>
+        <title>Abbreviations</title>
+        <def-list>
+          <def-item>
+            <term id="abb1">ACR</term>
+            <def>
+              <p>albumin-to-creatinine ratio</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term id="abb2">DBP</term>
+            <def>
+              <p>diastolic blood pressure</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term id="abb3">DNE</term>
+            <def>
+              <p>Diabetes Nurse Educator</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term id="abb4">HbA<sub>1c</sub></term>
+            <def>
+              <p>glycated hemoglobin</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term id="abb5">HDL</term>
+            <def>
+              <p>high-density lipoprotein</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term id="abb6">LDL</term>
+            <def>
+              <p>low-density lipoprotein</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term id="abb7">MAU</term>
+            <def>
+              <p>microalbuminuria</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term id="abb8">NHRPL</term>
+            <def>
+              <p>National Health Reference Price List</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term id="abb9">PMR</term>
+            <def>
+              <p>primary market research</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term id="abb10">SBP</term>
+            <def>
+              <p>systolic blood pressure</p>
+            </def>
+          </def-item>
+          <def-item>
+            <term id="abb11">SEMDSA</term>
+            <def>
+              <p>Society for Endocrine, Metabolism, and Diabetes of South Africa</p>
+            </def>
+          </def-item>
+        </def-list>
+      </glossary>
+      <ref-list>
+        <ref id="ref1">
+          <label>1</label>
+          <element-citation publication-type="webpage">
+            <article-title>IDF diabetes atlas (10th edition 2021): South Africa diabetes report 2000-2045</article-title>
+            <source>International Diabetes Federation</source>
+            <year>2021</year>
+            <date-in-citation content-type="access-date">2021-11-22</date-in-citation>
+            <comment>
+              <ext-link xlink:href="https://diabetesatlas.org/data/en/country/185/za.html" ext-link-type="uri">https://diabetesatlas.org/data/en/country/185/za.html</ext-link>
+            </comment>
+          </element-citation>
+        </ref>
+        <ref id="ref2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Pheiffer</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Pillay-van Wyk</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Turawa</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Levitt</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Kengne</surname>
+                <given-names>AP</given-names>
+              </name>
+              <name>
+                <surname>Bradshaw</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>Prevalence of type 2 diabetes in South Africa: a systematic review and meta-analysis</article-title>
+            <source>Int J Environ Res Public Health</source>
+            <year>2021</year>
+            <volume>18</volume>
+            <issue>11</issue>
+            <fpage>5868</fpage>
+            <comment>
+              <ext-link xlink:href="https://www.mdpi.com/resolver?pii=ijerph18115868" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.3390/ijerph18115868</pub-id>
+            <pub-id pub-id-type="medline">34070714</pub-id>
+            <pub-id pub-id-type="pii">ijerph18115868</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC8199430</pub-id>-->
+            <pub-id pub-id-type="pmid">34070714</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref3">
+          <label>3</label>
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Pinchevsky</surname>
+                <given-names>Y</given-names>
+              </name>
+            </person-group>
+            <article-title>A comparison of diabetes care of patients attending Charlotte Maxeke Johannesburg Academic Hospital and Houghton Centre for Diabetes &amp; Endocrinology</article-title>
+            <source>University of the Witwatersrand</source>
+            <year>2018</year>
+            <date-in-citation content-type="access-date">2023-06-30</date-in-citation>
+            <comment>
+              <ext-link xlink:href="https://wiredspace.wits.ac.za/server/api/core/bitstreams/4118a767-db04-4683-87ac-05bb2575aa15/content" ext-link-type="uri">https://wiredspace.wits.ac.za/server/api/core/bitstreams/4118a767-db04-4683-87ac-05bb2575aa15/content</ext-link>
+            </comment>
+          </element-citation>
+        </ref>
+        <ref id="ref4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Zoungas</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Chalmers</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Ninomiya</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>Q</given-names>
+              </name>
+              <name>
+                <surname>Cooper</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Colagiuri</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Fulcher</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>de Galan</surname>
+                <given-names>BE</given-names>
+              </name>
+              <name>
+                <surname>Harrap</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hamet</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Heller</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>MacMahon</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Marre</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Poulter</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Travert</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Patel</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Neal</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Woodward</surname>
+                <given-names>M</given-names>
+              </name>
+              <collab>ADVANCE Collaborative Group</collab>
+            </person-group>
+            <article-title>Association of HbA1c levels with vascular complications and death in patients with type 2 diabetes: evidence of glycaemic thresholds</article-title>
+            <source>Diabetologia</source>
+            <year>2012</year>
+            <volume>55</volume>
+            <issue>3</issue>
+            <fpage>636</fpage>
+            <lpage>643</lpage>
+            <comment>
+              <ext-link xlink:href="https://link.springer.com/article/10.1007/s00125-011-2404-1" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.1007/s00125-011-2404-1</pub-id>
+            <pub-id pub-id-type="medline">22186981</pub-id>
+            <pub-id pub-id-type="pmid">22186981</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref5">
+          <label>5</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Kok</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hariram</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Webb</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Amod</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Patterns of diabetes management in South Africa: baseline and 24-month data from the South African cohort of the DISCOVER study</article-title>
+            <source>J Endocrinol Metab Diabetes South Africa</source>
+            <year>2021</year>
+            <volume>26</volume>
+            <issue>2</issue>
+            <fpage>60</fpage>
+            <lpage>65</lpage>
+            <pub-id pub-id-type="doi">10.1080/16089677.2021.1897227</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Amod</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Riback</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Schoeman</surname>
+                <given-names>HS</given-names>
+              </name>
+            </person-group>
+            <article-title>Diabetes guidelines and clinical practice: is there a gap? The South African cohort of the international diabetes management practices study</article-title>
+            <source>J Endocrinol Metab Diabetes South Africa</source>
+            <year>2012</year>
+            <volume>17</volume>
+            <issue>2</issue>
+            <fpage>85</fpage>
+            <lpage>90</lpage>
+            <pub-id pub-id-type="doi">10.1080/22201009.2012.10872282</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ngassa Piotie</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Webb</surname>
+                <given-names>EM</given-names>
+              </name>
+              <name>
+                <surname>Rheeder</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Suboptimal control for patients with type 2 diabetes in the central chronic medicine dispensing programme in South Africa</article-title>
+            <source>Afr J Prim Health Care Fam Med</source>
+            <year>2021</year>
+            <volume>13</volume>
+            <issue>1</issue>
+            <fpage>e1</fpage>
+            <lpage>e7</lpage>
+            <comment>
+              <ext-link xlink:href="https://europepmc.org/abstract/MED/33764132" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.4102/phcfm.v13i1.2648</pub-id>
+            <pub-id pub-id-type="medline">33764132</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC8063568</pub-id>-->
+          </element-citation>
+        </ref>
+        <ref id="ref8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <collab>SEMDSA Type 2 Diabetes Guidelines Expert Committee</collab>
+            </person-group>
+            <article-title>SEMDSA 2017 guidelines for the management of type 2 diabetes mellitus</article-title>
+            <source>J Endocrinol Metab Diab South Africa</source>
+            <year>2017</year>
+            <fpage>S1</fpage>
+            <lpage>S196</lpage>
+            <comment>
+              <ext-link xlink:href="https://www.researchgate.net/publication/333718918_SEMDSA_2017_Guidelines_for_the_Management_of_Type_2_diabetes_mellitus_SEMDSA_Type_2_Diabetes_Guidelines_Expert_Committee_JEMDSA_2017_221Supplement_1_S1-S196/link/5d00aa0ca6fdccd130941cb4/download" ext-link-type="uri"/>
+            </comment>
+          </element-citation>
+        </ref>
+        <ref id="ref9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Pinchevsky</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Shukla</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Butkow</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Raal</surname>
+                <given-names>FJ</given-names>
+              </name>
+              <name>
+                <surname>Chirwa</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>The achievement of glycaemic, blood pressure and LDL cholesterol targets in patients with type 2 diabetes attending a South African tertiary hospital outpatient clinic</article-title>
+            <source>J Endocrinol Metab Diabetes South Africa</source>
+            <year>2015</year>
+            <volume>20</volume>
+            <issue>2</issue>
+            <fpage>81</fpage>
+            <lpage>86</lpage>
+            <pub-id pub-id-type="doi">10.1080/16089677.2015.1056468</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Kosiborod</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Gomes</surname>
+                <given-names>MB</given-names>
+              </name>
+              <name>
+                <surname>Nicolucci</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pocock</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Rathmann</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Shestakova</surname>
+                <given-names>MV</given-names>
+              </name>
+              <name>
+                <surname>Watada</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Shimomura</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Cid-Ruzafa</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fenici</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Hammar</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Surmont</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Tang</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Khunti</surname>
+                <given-names>K</given-names>
+              </name>
+              <collab>DISCOVER Investigators</collab>
+            </person-group>
+            <article-title>Vascular complications in patients with type 2 diabetes: prevalence and associated factors in 38 countries (the discover study program)</article-title>
+            <source>Cardiovasc Diabetol</source>
+            <year>2018</year>
+            <volume>17</volume>
+            <issue>1</issue>
+            <fpage>150</fpage>
+            <comment>
+              <ext-link xlink:href="https://cardiab.biomedcentral.com/articles/10.1186/s12933-018-0787-8" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.1186/s12933-018-0787-8</pub-id>
+            <pub-id pub-id-type="medline">30486889</pub-id>
+            <pub-id pub-id-type="pii">10.1186/s12933-018-0787-8</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC6260731</pub-id>-->
+            <pub-id pub-id-type="pmid">30486889</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Khunti</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Cid-Ruzafa</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fenici</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Gomes</surname>
+                <given-names>MB</given-names>
+              </name>
+              <name>
+                <surname>Hammar</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Ji</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Kosiborod</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Pocock</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Shestakova</surname>
+                <given-names>MV</given-names>
+              </name>
+              <name>
+                <surname>Shimomura</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Tang</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Watada</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Nicolucci</surname>
+                <given-names>A</given-names>
+              </name>
+              <collab>DISCOVER Investigators</collab>
+            </person-group>
+            <article-title>Glycaemic control in patients with type 2 diabetes initiating second-line therapy: results from the global DISCOVER study programme</article-title>
+            <source>Diabetes Obes Metab</source>
+            <year>2020</year>
+            <volume>22</volume>
+            <issue>1</issue>
+            <fpage>66</fpage>
+            <lpage>78</lpage>
+            <comment>
+              <ext-link xlink:href="https://europepmc.org/abstract/MED/31468637" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.1111/dom.13866</pub-id>
+            <pub-id pub-id-type="medline">31468637</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC6916552</pub-id>-->
+            <pub-id pub-id-type="pmid">31468637</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Tusa</surname>
+                <given-names>BS</given-names>
+              </name>
+              <name>
+                <surname>Weldesenbet</surname>
+                <given-names>AB</given-names>
+              </name>
+              <name>
+                <surname>Gemada</surname>
+                <given-names>AT</given-names>
+              </name>
+              <name>
+                <surname>Merga</surname>
+                <given-names>BT</given-names>
+              </name>
+              <name>
+                <surname>Regassa</surname>
+                <given-names>LD</given-names>
+              </name>
+            </person-group>
+            <article-title>Heath related quality of life and associated factors among diabetes patients in sub-Saharan countries: a systemic review and meta-analysis</article-title>
+            <source>Health Qual Life Outcomes</source>
+            <year>2021</year>
+            <volume>19</volume>
+            <issue>1</issue>
+            <fpage>31</fpage>
+            <comment>
+              <ext-link xlink:href="https://hqlo.biomedcentral.com/articles/10.1186/s12955-020-01655-y" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.1186/s12955-020-01655-y</pub-id>
+            <pub-id pub-id-type="medline">33494764</pub-id>
+            <pub-id pub-id-type="pii">10.1186/s12955-020-01655-y</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC7831165</pub-id>-->
+            <pub-id pub-id-type="pmid">33494764</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Thompson</surname>
+                <given-names>AT</given-names>
+              </name>
+              <name>
+                <surname>Bruce</surname>
+                <given-names>JL</given-names>
+              </name>
+              <name>
+                <surname>Kong</surname>
+                <given-names>VY</given-names>
+              </name>
+              <name>
+                <surname>Clarke</surname>
+                <given-names>DL</given-names>
+              </name>
+              <name>
+                <surname>Aldous</surname>
+                <given-names>C</given-names>
+              </name>
+            </person-group>
+            <article-title>Counting the cost of preventable diabetes-related lower limb amputations at a single district hospital in KwaZulu-Natal: what does this mean, what can be done?</article-title>
+            <source>J Endocrinol Metab Diabetes South Africa</source>
+            <year>2020</year>
+            <volume>25</volume>
+            <issue>2</issue>
+            <fpage>44</fpage>
+            <lpage>55</lpage>
+            <pub-id pub-id-type="doi">10.1080/16089677.2020.1782007</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Wang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Xue</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Huang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Huang</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Zhang</surname>
+                <given-names>D</given-names>
+              </name>
+            </person-group>
+            <article-title>A systematic review of application and effectiveness of mHealth interventions for obesity and diabetes treatment and self-management</article-title>
+            <source>Adv Nutr</source>
+            <year>2017</year>
+            <volume>8</volume>
+            <issue>3</issue>
+            <fpage>449</fpage>
+            <lpage>462</lpage>
+            <comment>
+              <ext-link xlink:href="https://linkinghub.elsevier.com/retrieve/pii/S2161-8313(22)00676-7" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.3945/an.116.014100</pub-id>
+            <pub-id pub-id-type="medline">28507010</pub-id>
+            <pub-id pub-id-type="pii">S2161-8313(22)00676-7</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC5421120</pub-id>-->
+            <pub-id pub-id-type="pmid">28507010</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Lunde</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Nilsson</surname>
+                <given-names>BB</given-names>
+              </name>
+              <name>
+                <surname>Bergland</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Kværner</surname>
+                <given-names>KJ</given-names>
+              </name>
+              <name>
+                <surname>Bye</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>The effectiveness of smartphone apps for lifestyle improvement in noncommunicable diseases: systematic review and meta-analyses</article-title>
+            <source>J Med Internet Res</source>
+            <year>2018</year>
+            <volume>20</volume>
+            <issue>5</issue>
+            <fpage>e162</fpage>
+            <comment>
+              <ext-link xlink:href="https://www.jmir.org/2018/5/e162/" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.2196/jmir.9751</pub-id>
+            <pub-id pub-id-type="medline">29728346</pub-id>
+            <pub-id pub-id-type="pii">v20i5e162</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC5960039</pub-id>-->
+            <pub-id pub-id-type="pmid">29728346</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Wilson-Anumudu</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Quan</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Castro Sweet</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Cerrada</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Juusola</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Turken</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Jasik</surname>
+                <given-names>CB</given-names>
+              </name>
+            </person-group>
+            <article-title>Early insights from a digitally enhanced diabetes self-management education and support program: single-arm nonrandomized trial</article-title>
+            <source>JMIR Diabetes</source>
+            <year>2021</year>
+            <volume>6</volume>
+            <issue>1</issue>
+            <fpage>e25295</fpage>
+            <comment>
+              <ext-link xlink:href="https://diabetes.jmir.org/2021/1/e25295/" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.2196/25295</pub-id>
+            <pub-id pub-id-type="medline">33616533</pub-id>
+            <pub-id pub-id-type="pii">v6i1e25295</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC7939937</pub-id>-->
+            <pub-id pub-id-type="pmid">33616533</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Lee</surname>
+                <given-names>SWH</given-names>
+              </name>
+              <name>
+                <surname>Chan</surname>
+                <given-names>CKY</given-names>
+              </name>
+              <name>
+                <surname>Chua</surname>
+                <given-names>SS</given-names>
+              </name>
+              <name>
+                <surname>Chaiyakunapruk</surname>
+                <given-names>N</given-names>
+              </name>
+            </person-group>
+            <article-title>Comparative effectiveness of telemedicine strategies on type 2 diabetes management: a systematic review and network meta-analysis</article-title>
+            <source>Sci Rep</source>
+            <year>2017</year>
+            <volume>7</volume>
+            <issue>1</issue>
+            <fpage>12680</fpage>
+            <pub-id pub-id-type="doi">10.1038/s41598-017-12987-z</pub-id>
+            <pub-id pub-id-type="doi">10.1038/s41598-017-12987-z</pub-id>
+            <pub-id pub-id-type="medline">28978949</pub-id>
+            <pub-id pub-id-type="pii">10.1038/s41598-017-12987-z</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC5627243</pub-id>-->
+            <pub-id pub-id-type="pmid">28978949</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gomes</surname>
+                <given-names>MB</given-names>
+              </name>
+              <name>
+                <surname>Rathmann</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Charbonnel</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Khunti</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Kosiborod</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Nicolucci</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Pocock</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Shestakova</surname>
+                <given-names>MV</given-names>
+              </name>
+              <name>
+                <surname>Shimomura</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Tang</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Watada</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Chen</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Cid-Ruzafa</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Fenici</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Hammar</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Surmont</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Ji</surname>
+                <given-names>L</given-names>
+              </name>
+              <collab>DISCOVER investigators</collab>
+            </person-group>
+            <article-title>Treatment of type 2 diabetes mellitus worldwide: baseline patient characteristics in the global discover study</article-title>
+            <source>Diabetes Res Clin Pract</source>
+            <year>2019</year>
+            <volume>151</volume>
+            <fpage>20</fpage>
+            <lpage>32</lpage>
+            <comment>
+              <ext-link xlink:href="https://linkinghub.elsevier.com/retrieve/pii/S0168-8227(18)31745-5" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.1016/j.diabres.2019.03.024</pub-id>
+            <pub-id pub-id-type="medline">30904743</pub-id>
+            <pub-id pub-id-type="pii">S0168-8227(18)31745-5</pub-id>
+            <pub-id pub-id-type="pmid">30904743</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Pinchevsky</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Butkow</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Chirwa</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Raal</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment gaps found in the management of type 2 diabetes at a community health centre in Johannesburg, South Africa</article-title>
+            <source>J Diabetes Res</source>
+            <year>2017</year>
+            <volume>2017</volume>
+            <fpage>9536025</fpage>
+            <pub-id pub-id-type="doi">10.1155/2017/9536025</pub-id>
+            <pub-id pub-id-type="doi">10.1155/2017/9536025</pub-id>
+            <pub-id pub-id-type="medline">29130053</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC5654246</pub-id>-->
+            <pub-id pub-id-type="pmid">29130053</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Jacovides</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Bogoshi</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Distiller</surname>
+                <given-names>LA</given-names>
+              </name>
+              <name>
+                <surname>Mahgoub</surname>
+                <given-names>EY</given-names>
+              </name>
+              <name>
+                <surname>Omar</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>Tarek</surname>
+                <given-names>IA</given-names>
+              </name>
+              <name>
+                <surname>Wajsbrot</surname>
+                <given-names>DB</given-names>
+              </name>
+            </person-group>
+            <article-title>An epidemiological study to assess the prevalence of diabetic peripheral neuropathic pain among adults with diabetes attending private and institutional outpatient clinics in South Africa</article-title>
+            <source>J Int Med Res</source>
+            <year>2014</year>
+            <volume>42</volume>
+            <issue>4</issue>
+            <fpage>1018</fpage>
+            <lpage>1028</lpage>
+            <comment>
+              <ext-link xlink:href="https://journals.sagepub.com/doi/abs/10.1177/0300060514525759?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub0pubmed" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.1177/0300060514525759</pub-id>
+            <pub-id pub-id-type="medline">24891556</pub-id>
+            <pub-id pub-id-type="pii">0300060514525759</pub-id>
+            <pub-id pub-id-type="pmid">24891556</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Pinchevsky</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Shukla</surname>
+                <given-names>VJ</given-names>
+              </name>
+              <name>
+                <surname>Butkow</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Chirwa</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Raal</surname>
+                <given-names>F</given-names>
+              </name>
+            </person-group>
+            <article-title>Multi-ethnic differences in HbA, blood pressure, and low-density-lipid cholesterol control among South Africans living with type 2 diabetes, after a 4-year follow-up</article-title>
+            <source>Int J Gen Med</source>
+            <year>2016</year>
+            <volume>9</volume>
+            <fpage>419</fpage>
+            <lpage>426</lpage>
+            <comment>
+              <ext-link xlink:href="https://europepmc.org/abstract/MED/27895508" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.2147/IJGM.S119965</pub-id>
+            <pub-id pub-id-type="medline">27895508</pub-id>
+            <pub-id pub-id-type="pii">ijgm-9-419</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC5117891</pub-id>-->
+            <pub-id pub-id-type="pmid">27895508</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Pinchevsky</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Raal</surname>
+                <given-names>F</given-names>
+              </name>
+              <name>
+                <surname>Butkow</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Chirwa</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Distiller</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Rothberg</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Quality of care delivered to type 2 diabetes mellitus patients in public and private sector facilities in Johannesburg, South Africa</article-title>
+            <source>Int J Gen Med</source>
+            <year>2018</year>
+            <volume>11</volume>
+            <fpage>383</fpage>
+            <lpage>390</lpage>
+            <comment>
+              <ext-link xlink:href="https://europepmc.org/abstract/MED/30323645" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.2147/IJGM.S165545</pub-id>
+            <pub-id pub-id-type="medline">30323645</pub-id>
+            <pub-id pub-id-type="pii">ijgm-11-383</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC6173174</pub-id>-->
+            <pub-id pub-id-type="pmid">30323645</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Monanabela</surname>
+                <given-names>KB</given-names>
+              </name>
+              <name>
+                <surname>van Huyssteen</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Coetzee</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Describing medicine therapy management of type 2 diabetes mellitus at primary health care facilities in Cape Town</article-title>
+            <source>Health SA</source>
+            <year>2019</year>
+            <volume>24</volume>
+            <fpage>1051</fpage>
+            <comment>
+              <ext-link xlink:href="https://europepmc.org/abstract/MED/31934403" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.4102/hsag.v24i0.1051</pub-id>
+            <pub-id pub-id-type="medline">31934403</pub-id>
+            <pub-id pub-id-type="pii">HSAG-24-1051</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC6917458</pub-id>-->
+            <pub-id pub-id-type="pmid">31934403</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Goie</surname>
+                <given-names>TT</given-names>
+              </name>
+              <name>
+                <surname>Naidoo</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Awareness of diabetic foot disease amongst patients with type 2 diabetes mellitus attending the chronic outpatients department at a regional hospital in Durban, South Africa</article-title>
+            <source>Afr J Prim Health Care Fam Med</source>
+            <year>2016</year>
+            <volume>8</volume>
+            <issue>1</issue>
+            <fpage>e1</fpage>
+            <lpage>e8</lpage>
+            <comment>
+              <ext-link xlink:href="https://europepmc.org/abstract/MED/28155315" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.4102/phcfm.v8i1.1170</pub-id>
+            <pub-id pub-id-type="medline">28155315</pub-id>
+            <pub-id pub-id-type="pii">1170</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC5125263</pub-id>-->
+          </element-citation>
+        </ref>
+        <ref id="ref25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Johnson</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Rayner</surname>
+                <given-names>B</given-names>
+              </name>
+            </person-group>
+            <article-title>A cross-sectional cohort study with microvascular complications in patients with type 2 diabetes with and without hypothyroidism</article-title>
+            <source>Cardiovasc J Afr</source>
+            <year>2020</year>
+            <volume>31</volume>
+            <issue>1</issue>
+            <fpage>5</fpage>
+            <lpage>8</lpage>
+            <comment>
+              <ext-link xlink:href="https://europepmc.org/abstract/MED/31469387" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.5830/CVJA-2019-036</pub-id>
+            <pub-id pub-id-type="medline">31469387</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC8762777</pub-id>-->
+            <pub-id pub-id-type="pmid">31469387</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref26">
+          <label>26</label>
+          <element-citation publication-type="webpage">
+            <article-title>National Health Act: Regulations: Reference price lists: Draft</article-title>
+            <source>South African Government Gazette</source>
+            <year>2008</year>
+            <date-in-citation content-type="access-date">2023-06-30</date-in-citation>
+            <comment>
+              <ext-link xlink:href="https://www.gov.za/documents/national-health-act-regulations-reference-price-lists-draft" ext-link-type="uri">https://www.gov.za/documents/national-health-act-regulations-reference-price-lists-draft</ext-link>
+            </comment>
+          </element-citation>
+        </ref>
+        <ref id="ref27">
+          <label>27</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Torborg</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Ryan</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Kantor</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Biccard</surname>
+                <given-names>BM</given-names>
+              </name>
+            </person-group>
+            <article-title>The pharmacoeconomics of routine postoperative troponin surveillance to prevent and treat myocardial infarction after non-cardiac surgery</article-title>
+            <source>S Afr Med J</source>
+            <year>2014</year>
+            <volume>104</volume>
+            <issue>9</issue>
+            <fpage>619</fpage>
+            <lpage>623</lpage>
+            <comment>
+              <ext-link xlink:href="http://www.samj.org.za/index.php/samj/article/view/7654" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.7196/samj.7654</pub-id>
+            <pub-id pub-id-type="medline">25212403</pub-id>
+            <pub-id pub-id-type="pmid">25212403</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref28">
+          <label>28</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Erzse</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Stacey</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Chola</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Tugendhaft</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Freeman</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hofman</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>The direct medical cost of type 2 diabetes mellitus in South Africa: a cost of illness study</article-title>
+            <source>Glob Health Action</source>
+            <year>2019</year>
+            <volume>12</volume>
+            <issue>1</issue>
+            <fpage>1636611</fpage>
+            <comment>
+              <ext-link xlink:href="https://europepmc.org/abstract/MED/31282315" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.1080/16549716.2019.1636611</pub-id>
+            <pub-id pub-id-type="medline">31282315</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC7012049</pub-id>-->
+            <pub-id pub-id-type="pmid">31282315</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref29">
+          <label>29</label>
+          <element-citation publication-type="webpage">
+            <article-title>Statistical Release P0141</article-title>
+            <source>Statistics South Africa</source>
+            <date-in-citation content-type="access-date">2023-06-30</date-in-citation>
+            <comment>
+              <ext-link xlink:href="http://www.statssa.gov.za" ext-link-type="uri">http://www.statssa.gov.za</ext-link>
+            </comment>
+          </element-citation>
+        </ref>
+        <ref id="ref30">
+          <label>30</label>
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Statistics</surname>
+                <given-names>SA</given-names>
+              </name>
+            </person-group>
+            <article-title>Statistical Release P0302: Mid-year population estimates</article-title>
+            <source>Statistics South Africa</source>
+            <year>2020</year>
+            <date-in-citation content-type="access-date">2023-06-30</date-in-citation>
+            <comment>
+              <ext-link xlink:href="https://www.statssa.gov.za/publications/P0302/P03022021.pdf" ext-link-type="uri">https://www.statssa.gov.za/publications/P0302/P03022021.pdf</ext-link>
+            </comment>
+          </element-citation>
+        </ref>
+        <ref id="ref31">
+          <label>31</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Torbjørnsen</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Jenum</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Småstuen</surname>
+                <given-names>MC</given-names>
+              </name>
+              <name>
+                <surname>Arsand</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Holmen</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Wahl</surname>
+                <given-names>AK</given-names>
+              </name>
+              <name>
+                <surname>Ribu</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>A low-intensity mobile health intervention with and without health counseling for persons with type 2 diabetes, part 1: baseline and short-term results from a randomized controlled trial in the Norwegian part of renewing health</article-title>
+            <source>JMIR Mhealth Uhealth</source>
+            <year>2014</year>
+            <volume>2</volume>
+            <issue>4</issue>
+            <fpage>e52</fpage>
+            <comment>
+              <ext-link xlink:href="https://mhealth.jmir.org/2014/4/e52/" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.2196/mhealth.3535</pub-id>
+            <pub-id pub-id-type="medline">25499592</pub-id>
+            <pub-id pub-id-type="pii">v2i4e52</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC4275473</pub-id>-->
+            <pub-id pub-id-type="pmid">25499592</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Kumar</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Moseson</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Uppal</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Juusola</surname>
+                <given-names>JL</given-names>
+              </name>
+            </person-group>
+            <article-title>A diabetes mobile app with in-app coaching from a certified diabetes educator reduces a1c for individuals with type 2 diabetes</article-title>
+            <source>Diabetes Educ</source>
+            <year>2018</year>
+            <volume>44</volume>
+            <issue>3</issue>
+            <fpage>226</fpage>
+            <lpage>236</lpage>
+            <pub-id pub-id-type="doi">10.1177/0145721718765650</pub-id>
+            <pub-id pub-id-type="medline">29575982</pub-id>
+            <pub-id pub-id-type="pmid">29575982</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Smith</surname>
+                <given-names>ML</given-names>
+              </name>
+              <name>
+                <surname>Zhong</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Lee</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Towne</surname>
+                <given-names>SD</given-names>
+              </name>
+              <name>
+                <surname>Ory</surname>
+                <given-names>MG</given-names>
+              </name>
+            </person-group>
+            <article-title>Effectiveness and economic impact of a diabetes education program among adults with type 2 diabetes in South Texas</article-title>
+            <source>BMC Public Health</source>
+            <year>2021</year>
+            <volume>21</volume>
+            <issue>1</issue>
+            <fpage>1646</fpage>
+            <comment>
+              <ext-link xlink:href="https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11632-9" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.1186/s12889-021-11632-9</pub-id>
+            <pub-id pub-id-type="medline">34503468</pub-id>
+            <pub-id pub-id-type="pii">10.1186/s12889-021-11632-9</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC8427843</pub-id>-->
+            <pub-id pub-id-type="pmid">34503468</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Nelson</surname>
+                <given-names>CA</given-names>
+              </name>
+              <name>
+                <surname>Park</surname>
+                <given-names>CK</given-names>
+              </name>
+              <name>
+                <surname>Gates</surname>
+                <given-names>RJ</given-names>
+              </name>
+              <name>
+                <surname>Arreguin</surname>
+                <given-names>ME</given-names>
+              </name>
+              <name>
+                <surname>Salsa</surname>
+                <given-names>TM</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>HB</given-names>
+              </name>
+              <name>
+                <surname>Manga</surname>
+                <given-names>MM</given-names>
+              </name>
+            </person-group>
+            <article-title>Clinical and economic impact of an integrated care team model on targeted, high-risk medicare patients with type 2 diabetes</article-title>
+            <source>Clin Diabetes</source>
+            <year>2018</year>
+            <volume>36</volume>
+            <issue>4</issue>
+            <fpage>313</fpage>
+            <lpage>318</lpage>
+            <comment>
+              <ext-link xlink:href="https://europepmc.org/abstract/MED/30363966" ext-link-type="uri"/>
+            </comment>
+            <pub-id pub-id-type="doi">10.2337/cd17-0071</pub-id>
+            <pub-id pub-id-type="medline">30363966</pub-id>
+            <pub-id pub-id-type="pii">313</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC6187953</pub-id>-->
+            <pub-id pub-id-type="pmid">30363966</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </article>
+</pmc-articleset>

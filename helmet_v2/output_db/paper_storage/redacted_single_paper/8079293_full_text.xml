@@ -1,0 +1,958 @@
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article">
+    <?properties open_access?>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">Pharmacoeconomics</journal-id>
+        <journal-id journal-id-type="iso-abbrev">Pharmacoeconomics</journal-id>
+        <journal-title-group>
+          <journal-title>Pharmacoeconomics</journal-title>
+        </journal-title-group>
+        <issn pub-type="ppub">1170-7690</issn>
+        <issn pub-type="epub">1179-2027</issn>
+        <publisher>
+          <publisher-name>Springer International Publishing</publisher-name>
+          <publisher-loc>Cham</publisher-loc>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">33797744</article-id>
+        <article-id pub-id-type="pmc">8079293</article-id>
+        <article-id pub-id-type="publisher-id">1009</article-id>
+        <article-id pub-id-type="doi">10.1007/s40273-021-01009-6</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Original Research Article</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>Using a Modified Delphi Approach to Gain Consensus on Relevant Comparators in a Cost-Effectiveness Model: Application to Prostate Cancer Screening</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author" corresp="yes">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4763-8891</contrib-id>
+            <name>
+              <surname>Keeney</surname>
+              <given-names>Edna</given-names>
+            </name>
+            <address>
+              <email>edna.keeney@bristol.ac.uk</email>
+            </address>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Thom</surname>
+              <given-names>Howard</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Turner</surname>
+              <given-names>Emma</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff3">3</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Martin</surname>
+              <given-names>Richard M.</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+            <xref ref-type="aff" rid="Aff3">3</xref>
+            <xref ref-type="aff" rid="Aff4">4</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Sanghera</surname>
+              <given-names>Sabina</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+          </contrib>
+          <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.5337.2</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 7603</institution-id><institution>Health Economics Bristol (HEB), Population Health Sciences, Bristol Medical School, </institution><institution>University of Bristol, </institution></institution-wrap>1-5 Whiteladies Road, Bristol, BS8 1NU UK </aff>
+          <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.5337.2</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 7603</institution-id><institution>National Institute for Health Research (NIHR) Biomedical Research Centre at University Hospitals Bristol NHS Foundation Trust and the University of Bristol, </institution></institution-wrap>Bristol, UK </aff>
+          <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.5337.2</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 7603</institution-id><institution>Population Health Sciences, Bristol Medical School, </institution><institution>University of Bristol, </institution></institution-wrap>Bristol, BS8 2PR UK </aff>
+          <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.5337.2</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 7603</institution-id><institution>MRC Integrative Epidemiology Unit, </institution><institution>University of Bristol, </institution></institution-wrap>Bristol, UK </aff>
+        </contrib-group>
+        <pub-date pub-type="epub">
+          <day>2</day>
+          <month>4</month>
+          <year>2021</year>
+        </pub-date>
+        <pub-date pub-type="pmc-release">
+          <day>2</day>
+          <month>4</month>
+          <year>2021</year>
+        </pub-date>
+        <pub-date pub-type="ppub">
+          <year>2021</year>
+        </pub-date>
+        <volume>39</volume>
+        <issue>5</issue>
+        <fpage>589</fpage>
+        <lpage>600</lpage>
+        <history>
+          <date date-type="accepted">
+            <day>15</day>
+            <month>2</month>
+            <year>2021</year>
+          </date>
+        </history>
+        <permissions>
+          <copyright-statement>© The Author(s) 2021</copyright-statement>
+          <license>
+            <ali:license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+            <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, which permits any non-commercial use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>.</license-p>
+          </license>
+        </permissions>
+        <funding-group>
+          <award-group>
+            <funding-source>
+              <institution-wrap>
+                <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100000289</institution-id>
+                <institution>Cancer Research UK</institution>
+              </institution-wrap>
+            </funding-source>
+            <award-id>C11043/A4286 </award-id>
+            <award-id>C18281/A8145</award-id>
+            <award-id>C18281/A11326</award-id>
+            <award-id>C18281/A15064</award-id>
+            <award-id>C18281/A24432</award-id>
+            <principal-award-recipient>
+              <name>
+                <surname>Martin</surname>
+                <given-names>Richard M.</given-names>
+              </name>
+            </principal-award-recipient>
+          </award-group>
+        </funding-group>
+        <custom-meta-group>
+          <custom-meta>
+            <meta-name>issue-copyright-statement</meta-name>
+            <meta-value>© Springer Nature Switzerland AG 2021</meta-value>
+          </custom-meta>
+        </custom-meta-group>
+      </article-meta>
+    </front>
+    <body>
+      <sec id="FPar1">
+        <title>Key Points</title>
+        <p id="Par5">
+          <table-wrap id="Taba">
+            <table frame="hsides" rules="groups">
+              <tbody>
+                <tr>
+                  <td align="left">This study has demonstrated an application of the modified Delphi approach to determine relevant options for comparison in a cost-effectiveness analysis, where uncertainty exists.</td>
+                </tr>
+                <tr>
+                  <td align="left">Using prostate cancer as a case study, the method was successful in identifying the prostate cancer screening strategies that are relevant to researchers, clinicians and decision makers.</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+      </sec>
+      <sec id="Sec2">
+        <title>Introduction/Background</title>
+        <p id="Par6">To determine whether new healthcare innovations should be implemented at a national level, evidence on both long-term effectiveness and cost effectiveness is required. Generally, it is recommended that cost-effectiveness models include all possible comparators, or clearly justify their exclusion [<xref ref-type="bibr" rid="CR1">1</xref>–<xref ref-type="bibr" rid="CR3">3</xref>]. Philips et al. [<xref ref-type="bibr" rid="CR2">2</xref>] state that this should be “based on literature reviews and expert opinion and will include evidence from local guidelines and treatment patterns”.</p>
+        <p id="Par7">As with all health care interventions, cost-effectiveness models for screening interventions include many components that have the potential to change over time. The frequency of screening, population to screen, diagnostic test or tests used, and their order and combination are all subject to changing practice and can make identifying all possible comparators, especially “what is relevant?”, challenging. Prostate cancer screening in particular is an area where considerable uncertainty as to what the comparators in a cost-effectiveness analysis should be exists. There is an ongoing debate around whether to screen and if so, who, how and how often in an era of relatively rapid evolving practice and advancements in screening and testing technologies.</p>
+        <p id="Par8">Current practice in the UK, Europe and the US generally consists of opportunistic/unorganised prostate-specific antigen (PSA) testing with a recommendation against formal screening [<xref ref-type="bibr" rid="CR5">5</xref>–<xref ref-type="bibr" rid="CR10">10</xref>]. This is because previous methods of relying solely on untargeted PSA testing have not clearly shown that the benefits of early detection using PSA testing outweigh the potential harms of overdiagnosis and overtreatment [<xref ref-type="bibr" rid="CR11">11</xref>]. However, recent advancements in the identification of risk factors for aggressive disease, such as newly identified genetic variants (polygenic risk) [<xref ref-type="bibr" rid="CR12">12</xref>]; early detection biomarkers such as the Stockholm 3 panel (STHLM3) [<xref ref-type="bibr" rid="CR13">13</xref>]; and new strategies to target diagnostic biopsy, including the use of multiparametric magnetic resonance imaging (mpMRI [<xref ref-type="bibr" rid="CR14">14</xref>]), potentially offer new opportunities to reduce overdiagnosis and overtreatment. The long-term effectiveness and cost effectiveness of these new approaches (individually or in combination) in reducing overdiagnosis and mortality in prostate cancer screening has yet to be ascertained.</p>
+        <p id="Par9">The gathering of expert opinion on the most relevant strategies in clinical practice, and therefore the most useful strategies to compare in a cost-effectiveness model, is a recommended first step in many if not all guidelines on conceptualizing decision models [<xref ref-type="bibr" rid="CR2">2</xref>–<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR15">15</xref>]. However, the methods to do so have not been clearly formulated. Taking current practice of opportunistic screening as the reference case, our aim was to provide a method to handle decision question uncertainty by using a modified Delphi approach to elicit which recent developments in prostate cancer screening are relevant for comparing in a cost-effectiveness analysis and will provide meaningful findings to decision makers.</p>
+      </sec>
+      <sec id="Sec3">
+        <title>Methods</title>
+        <p id="Par10">The Delphi technique provides a systematic method of gaining consensus from a group of experts through collecting and aggregating informed judgments over multiple iterations [<xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR17">17</xref>]. Expert participants are asked to provide their opinions in sequential questionnaires, given group feedback from the previous round. Feedback from sequential rounds encourages participants to reassess, alter and/or develop opinions. Responses are anonymous to ensure that no individual dominates the process [<xref ref-type="bibr" rid="CR18">18</xref>].</p>
+        <p id="Par11">Using a modified Delphi design means that, rather than consulting an expert panel to generate the questions addressed in the study, the researcher collects the initial question(s) through some other means, such as a literature review, and presents them to the panel to begin the consensus seeking process [<xref ref-type="bibr" rid="CR19">19</xref>]. The modified Delphi technique used in our study is described in Fig. <xref rid="Fig1" ref-type="fig">1</xref>.<fig id="Fig1"><label>Fig. 1</label><caption><p>Modified Delphi technique</p></caption><graphic xlink:href="40273_2021_1009_Fig1_HTML" id="MO1"/></fig></p>
+        <sec id="Sec4">
+          <title>Participants and Recruitment</title>
+          <p id="Par12">In identifying experts, European Food Safety Authority guidance [<xref ref-type="bibr" rid="CR17">17</xref>] was used, in that the research team first decided what type of expertise was needed to answer the questions (i.e. expertise in prostate cancer early detection, treatment, modelling or the role of genetics in prostate cancer risk), and then attempted to identify individuals with this particular expertise. To identify and recruit experts to take part in the modified Delphi process, purposive sampling was used. This focuses on the views of those able to provide in-depth knowledge of the topic of interest [<xref ref-type="bibr" rid="CR20">20</xref>]. In-depth knowledge related to factors such as on-the-job experience and peer-reviewed academic output. The participants worked in a variety of institutions including Universities in the UK, Sweden, Finland, the Netherlands and the US, cancer centres in the US, NHS trusts, Public Health England, and the Institute of Cancer Research. The selection of participants from a variety of backgrounds and institutions was important to encourage diversity of opinions. The purposive sampling was complemented with snowball sampling, whereby the contacts were asked to suggest others within or outside their organisations that might offer insight [<xref ref-type="bibr" rid="CR21">21</xref>]. Prior research experience, clinical focus, country, and age range were included in the questionnaire so that the impact of these factors on preferences could be assessed.</p>
+          <p id="Par13">Contacts were first sent a detailed participant information sheet (Supplementary material 1, see electronic supplementary material [ESM]), explaining that the aim of the study was to help the study team understand the prostate cancer screening strategies that are relevant to compare in a cost-effectiveness model, given the rapidly changing landscape in prostate cancer screening. The sheet also informed participants on why they were being asked to take part and what they would be required to do.</p>
+        </sec>
+        <sec id="Sec5">
+          <title>Step 1: Production of Questionnaire and Evidence Dossier</title>
+          <p id="Par14">To identify the extent of the uncertainty in the decision question, a rapid review of the literature was carried out. The review involved identifying and summarising current UK and international guidelines on prostate cancer screening in terms of what diagnostic tools to use, the ages to start and stop screening and recommended screening frequency. Recent large trials that addressed different aspects of screening, and which have informed these guidelines, were also identified. An evidence dossier providing an overview of relevant trials was produced using the review evidence (Supplementary Material 2, see ESM). The evidence dossier was circulated to an advisory panel comprising two oncologists, two urologists, one GP, and two researchers in prostate cancer screening and clinical oncology (four from the UK and three from the US), to identify any missing evidence.</p>
+          <p id="Par15">The findings from the review informed the development of the questionnaire, which centred around three primary domains of uncertainty: (1) the group of men that should be invited for screening; (2) how often they should be screened; and (3) which diagnostic procedures to use. These domains were considered basic starting points of any screening strategy with the aim of the questionnaire being to clarify areas of uncertainty within these domains.</p>
+          <p id="Par16">Although training was not provided to the participants in advance, the questionnaire was piloted for language, comprehension and ease of use on a smaller group comprising a clinical oncology researcher, a medical oncologist, a GP and a urologist. No difficulty was demonstrated in completing the questionnaire and the answers given indicated a good degree of understanding. Changes were made in response to their comments, such as a move away from a ranking of preferences within each question and towards the selection of one preferred approach. This enabled the experts’ preferences among the available options to be more clearly drawn out and was in response to comments that after a certain rank the experts had no real preference.</p>
+        </sec>
+        <sec id="Sec6">
+          <title>Step 2: Dissemination of Questionnaire</title>
+          <p id="Par17">A web-administered version of the questionnaire was developed using REDCap electronic data capture tools hosted at the University of Bristol [<xref ref-type="bibr" rid="CR22">22</xref>]. Links to the questionnaires and evidence dossier were circulated to the participants via email. The questionnaire was sent to 20 experts in the first instance, with seven additional participants included through snowball sampling. A minimum sample of 23 has been shown to be sufficient and reliable in Delphi surveys when experts are carefully selected [<xref ref-type="bibr" rid="CR23">23</xref>]. Approval for the study was granted by the Faculty of Health Sciences Research Ethics Committee of the University of Bristol (Approval reference number: 91622).</p>
+          <p id="Par18">In Round 1, respondents were asked to indicate their preferred screening strategy through a series of questions. This included an option of ‘no screening’. Completion of these questions resulted in the generation of an automatic statement that summarised each respondent’s answers. An example of this can be seen in Box 1:<graphic position="anchor" xlink:href="40273_2021_1009_Figa_HTML" id="MO2"/></p>
+          <p id="Par19">Using a free-text section at the end of each question, respondents could add items they considered important but that were not already covered or indicate their uncertainty with regard to a particular question. An example of a completed questionnaire is available in Supplementary Material 3 (see ESM).</p>
+        </sec>
+        <sec id="Sec7">
+          <title>Step 3: Updating of Questionnaire and Evidence Dossier</title>
+          <p id="Par20">The first-round responses informed the content and modification of an updated questionnaire (Round 2). At the end of Round 1, the percentage of participants choosing each item was summarised. Items were not considered in Round 2 if not chosen by any participant in Round 1. Nor were they included if chosen by &gt;70% of participants, as consensus was already considered reached. Previous Delphi studies have also used this level of agreement [<xref ref-type="bibr" rid="CR24">24</xref>]. New items were considered if suggested by &gt; 10% of participants, also in line with a previous Delphi consensus process [<xref ref-type="bibr" rid="CR25">25</xref>].</p>
+          <p id="Par21">An updated questionnaire, in the form of 13 consensus statements, was then sent to the same key contacts from Round 1 and their lists of suggested contacts. The statements were designed to clarify the respondent’s views from Round 1, with an emphasis on the strategies for inclusion in a cost-effectiveness model. Feedback from Round 1 was presented for each Round 2 item in the form of the number of participants choosing each option and a summary of comments given. The first round was completed in November 2019, and the second round in January 2020. As 2 months had passed since the first round, participants were given a reminder of their own choice.</p>
+          <p id="Par22">As is common in Delphi procedures [<xref ref-type="bibr" rid="CR24">24</xref>, <xref ref-type="bibr" rid="CR26">26</xref>], respondents were requested to rank their agreement with the 13 statements on a 9-point Likert scale (i.e. ranging from 1 = “strongly disagree” to 9 = “strongly agree”). Consensus on a statement was considered reached if scored 7 to 9 (moderately agree, agree, or strongly agree) by &gt;70% of participants and 1 to 3 (strongly disagree, disagree or moderately disagree) by &lt;15% of all participants [<xref ref-type="bibr" rid="CR24">24</xref>]. In place of conducting further Delphi rounds, which were not deemed necessary after considering the results of the first two rounds, more stringent criteria were also set (&gt; 70% scoring an item 8 or 9 and &lt;15% scoring 1–3), to aid discussion on the most important aspects to participants, in line with a previous consensus process [<xref ref-type="bibr" rid="CR25">25</xref>]. Within-group interrater agreement was assessed using the <italic>r</italic><sup><italic>*</italic></sup><italic>wg</italic> statistic with the rectangular null and maximum dissensus null distributions [<xref ref-type="bibr" rid="CR27">27</xref>]. This is a commonly used statistic to quantify consensus in ratings on a Likert scale [<xref ref-type="bibr" rid="CR28">28</xref>]. With this statistic r*wg ≥ 0.80 may be considered high enough agreement to establish interrater agreement with 10 or more raters.</p>
+        </sec>
+      </sec>
+      <sec id="Sec8">
+        <title>Results</title>
+        <sec id="Sec9">
+          <title>Round 1</title>
+          <sec id="Sec10">
+            <title>Characteristics of Respondents</title>
+            <p id="Par23">Twenty participants (74%) responded to the questionnaire, out of 27 invitees. The respondents were of varying ages with most being in the 45–64 years age bracket. Nine out of 20 (45%) respondents had over 20 years' experience in their field. Responses were received from six oncologists, five urologists, three GPs, two public health specialists, two researchers with experience of modelling prostate cancer, and two people involved in UK national screening services. Four of the respondents had extensive experience in cancer epidemiology, and three of these were Professors in general epidemiology or in cancer epidemiology, specifically. Eleven out of 20 (55%) of the respondents were UK based (Fig. <xref rid="Fig2" ref-type="fig">2</xref>). As responses were received from participants with a range of expertise and backgrounds, 20 participants were considered sufficient to collect rich data and allow exploration of the screening strategies thought to be important.<fig id="Fig2"><label>Fig. 2</label><caption><p>Characteristics of respondents—Round 1</p></caption><graphic xlink:href="40273_2021_1009_Fig2_HTML" id="MO3"/></fig></p>
+          </sec>
+          <sec id="Sec11">
+            <title>Who Should Be Invited For Screening?</title>
+            <p id="Par24">With the aim of determining the most relevant strategies to compare in a cost-effectiveness model, the first question asked what type of screening programme, if any, participants felt should be provided in the UK. Options included no screening, opportunistic screening, organised age-based screening and organised risk-based screening. No participant chose opportunistic screening. The most popular choice was risk-based screening, chosen by 11 participants (55%), followed by no screening (5/20 participants, 25%) and age-based screening (4/20 participants, 20%) (Fig. <xref rid="Fig3" ref-type="fig">3</xref>a).<fig id="Fig3"><label>Fig. 3</label><caption><p>Number of participants selecting each response to questions, <bold>a</bold> “What type of prostate cancer screening programme do you feel should be provided in the UK?”, <bold>b</bold> “If risk-based screening were to be provided what factor/s should risk be based on?”, <bold>c</bold> “Which PSA threshold do you think should be used to indicate further investigation?”, <bold>d</bold> “What further investigation should men with a raised PSA level have prior to being offered a biopsy?”, and <bold>e</bold> “Assuming some optimal strategy for inviting men to be screened has been adopted, how frequently do you think men should be screened?”</p></caption><graphic xlink:href="40273_2021_1009_Fig3_HTML" id="MO4"/></fig></p>
+            <p id="Par25">Risk-based screening was chosen by all five urologists and no screening was chosen by all of those involved in national screening services. No other trends were identified based on age, experience, or country of residence. Reasons given for preferring risk-based screening included “early detection and intervention for people with strong risk factors”, and “more scope for improvement as we learn to better estimate a man's risk”. Reasons given for selecting age-based screening included preventing opportunistic screening in the “wrong” age ranges, and for simplicity. All participants who selected 'no screening' highlighted that this was due to a lack of current evidence that screening offers more benefit than harm.</p>
+            <p id="Par26">The second question asked all participants who had indicated risk-based screening to be their preferred option which factor/s they thought risk should be based on. Multiple options could be chosen. Five of 11 participants who chose risk-based screening ticked all available options. The most popular option was family history of prostate cancer (chosen by 9 participants), followed by life expectancy &gt; 10 years (based on a risk calculator) (8), ethnicity (8), PSA at age 40 years above a certain threshold (7) and polygenic risk (which provides an indication of whether someone might be genetically predisposed to developing prostate cancer) (7), giving an even spread of responses (Fig. <xref rid="Fig3" ref-type="fig">3</xref>b). Other suggestions were biomarkers and “germline high risk mutations”. Comments on this question centred around the understanding that "all available risk factors which can be measured reliably and affordably should be included" with the optimal combination of factors being unclear.</p>
+          </sec>
+          <sec id="Sec12">
+            <title>Which Diagnostic Procedures?</title>
+            <p id="Par27">The next question asked participants, if a screening programme were to be implemented, which PSA threshold they thought should be used to indicate further investigation, with the options being 3 ng/mL, 4 ng/mL, 5 ng/mL, 6 ng/mL, 7 ng/mL, 8.5 ng/mL, 10 ng/mL, and 'this should be based on age'. Five of 20 participants chose a threshold of 3 ng/mL and one chose a threshold of 5 ng/mL (Fig. <xref rid="Fig3" ref-type="fig">3</xref>c). In the 'other' column, two participants suggested that the PSA threshold for investigation should be &lt; 3 ng/mL, two suggested that PSA should be combined with other biomarkers, two suggested that risk calculators should be used in place of PSA and two commented that they did not support any screening.</p>
+            <p id="Par28">Comments on this question generally reflected the idea that "a sequence of tests" should be carried out before proceeding to biopsy. Although five people chose a level of 3 ng/mL as their preferred option, three people commented that trials have shown using a level of 3 ng/mL will mean that some aggressive cancers are missed.</p>
+            <p id="Par29">The next question asked respondents, if a screening programme were to be implemented, what further investigation(s) they thought men with a raised PSA level should have prior to being offered biopsy. Multiple options could be chosen. The most popular option was mpMRI with 16 respondents (80%) indicating that they thought this should be used prior to biopsy. Seven out of 20 (35%) respondents indicated that a multi-kallikrein panel (e.g. 4kscore, STHLM3) should be used, either with mpMRI alone (4 participants) or alongside PSA density, percent free PSA and mpMRI (3 participants). Six chose digital rectal examination (DRE) as an option (Fig. <xref rid="Fig3" ref-type="fig">3</xref>d). Other responses were 'no screening' and 'polygenic markers'. All three GPs indicated that they thought mpMRI should be used prior to biopsy, as did all participants from Sweden, the Netherlands and nine out of ten participants from the UK. All four of those involved in public health or research thought that DRE should be offered.</p>
+          </sec>
+          <sec id="Sec13">
+            <title>How Frequently to Screen?</title>
+            <p id="Par30">The final question asked the participants who favoured screening over no screening how often they thought men should be screened, given their optimal screening strategy. The options were every 10, 6, 4, and 2 years, annually, only once, and 'this should be based on PSA level'. No participants chose 10 years, 6 years or only once as an appropriate interval and only one participant chose each of 4 years, 2 years and annually. The most popular responses were 'this should be based on PSA level' and 'other' (Fig. <xref rid="Fig3" ref-type="fig">3</xref>e).</p>
+            <p id="Par31">Of those who thought that screening interval should be based on PSA level, all stated that men with a PSA level &lt;3 ng/mL could be screened every 2–3 years whereas men with a higher PSA should be screened annually. In the 'other' column, the suggestions made were mainly around screening interval being based on risk.</p>
+            <p id="Par32">In summary, the responses to Round 1 indicated several items that were not of interest to the clinical experts surveyed in this sample and therefore assumed to not be of interest to compare in a cost-effectiveness model. These included opportunistic screening, a PSA threshold for further investigation &gt; 3 or a fixed screening interval for all men, as these were not chosen by any participant. On the other hand, a clear consensus (in terms of the pre-defined criteria of &gt;70% agreement) was shown towards the examination of the use of mpMRI prior to biopsy in any potential screening strategy.</p>
+          </sec>
+        </sec>
+        <sec id="Sec14">
+          <title>Round 2</title>
+          <p id="Par33">The results from Round 1 formed the basis of Round 2, which was a set of 13 consensus statements designed to clarify the expert’s responses. As interest was shown in all three of no screening, age-based and risk-based strategies, respondents were again asked their opinion on each but this time in the context of their inclusion as comparators in a cost-effectiveness model. Similarly, further statements attempted to clarify the respondent’s views on the inclusion of PSA/other biomarker testing in the screening pathways to be considered in a cost-effectiveness model and how screening intervals should be determined. Seventeen of the 20 participants who completed Round 1 also responded to Round 2, giving an 85% response rate. The participants were again from a wide and representative range of backgrounds (Fig. <xref rid="Fig4" ref-type="fig">4</xref>).<fig id="Fig4"><label>Fig. 4</label><caption><p>Characteristics of respondents—Round 2</p></caption><graphic xlink:href="40273_2021_1009_Fig4_HTML" id="MO5"/></fig></p>
+          <p id="Par34">The statements that participants were asked to indicate their agreement with are shown in Table <xref rid="Tab1" ref-type="table">1</xref>. This table also shows the percentage of participants rating a statement 7–9 (moderately agree, agree, or strongly agree). A threshold of 70% in this category was the pre-agreed marker of consensus. The percentage of patients rating a statement 8–9 is also shown as well as the percentage rating a statement 1–3 (strongly disagree, disagree or moderately disagree). Detailed results for each statement are given in Supplementary material 4 (see ESM).<table-wrap id="Tab1"><label>Table 1</label><caption><p>Final outcomes for statements after Round 2</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Statement</th><th align="left">% Rating 7–9</th><th align="left">% Rating 8–9</th><th align="left">% Rating 1–3</th><th align="left">Outcome: pre-agreed rules</th><th align="left">Interrater agreement (r<sup>*</sup><sub>wg)</sub></th></tr></thead><tbody><tr><td align="left">It is useful to compare the cost-effectiveness of no screening to other screening strategies in a future economic model</td><td char="." align="char">88.24</td><td char="." align="char">88.24</td><td char="." align="char">0.00</td><td align="left">Consensus reached</td><td char="." align="char">0.90</td></tr><tr><td align="left">It is useful to compare the cost-effectiveness of inviting all men within a certain age range to be screened to other screening strategies in a future economic model</td><td char="." align="char">94.12</td><td char="." align="char">82.35</td><td char="." align="char">5.88</td><td align="left">Consensus reached</td><td char="." align="char">0.89</td></tr><tr><td align="left">If it is possible to identify men at higher risk of developing prostate cancer prior to testing (through the use of polygenic risk scores, family history, ethnicity or otherwise), it would be useful to compare the cost-effectiveness of inviting only higher risk men for screening</td><td char="." align="char">88.24</td><td char="." align="char">82.35</td><td char="." align="char">0.00</td><td align="left">Consensus reached</td><td char="." align="char">0.94</td></tr><tr><td align="left">If it is possible to identify men at higher risk of developing prostate cancer prior to testing, it would be useful to compare the cost-effectiveness of inviting all men within a certain age bracket for screening but screening higher risk men at an earlier age</td><td char="." align="char">88.24</td><td char="." align="char">70.59</td><td char="." align="char">5.88</td><td align="left">Consensus reached</td><td char="." align="char">0.82</td></tr><tr><td align="left">PSA in isolation should no longer be used a reflex test to trigger MRI/prostate biopsy</td><td char="." align="char">35.29</td><td char="." align="char">23.53</td><td char="." align="char">17.65</td><td align="left">Consensus not reached</td><td char="." align="char">0.75</td></tr><tr><td align="left">A PSA test should be used before a more sophisticated biomarker or risk model (e.g. 4k score, STHLM3) and only men with total PSA above a certain threshold should be tested using the biomarker or risk model</td><td char="." align="char">41.18</td><td char="." align="char">35.29</td><td char="." align="char">23.53</td><td align="left">Consensus not reached</td><td char="." align="char">0.65</td></tr><tr><td align="left">A PSA threshold of 1.5 ng/ml has enough negative predictive value to exclude any further testing</td><td char="." align="char">35.29</td><td char="." align="char">23.53</td><td char="." align="char">17.65</td><td align="left">Consensus not reached</td><td char="." align="char">0.65</td></tr><tr><td align="left">The threshold for further investigation should increase as men age</td><td char="." align="char">47.06</td><td char="." align="char">35.29</td><td char="." align="char">5.88</td><td align="left">Consensus not reached</td><td char="." align="char">0.76</td></tr><tr><td align="left">It would be useful to assess the cost-effectiveness of using a multi-kallikrein panel or risk model (e.g. 4k score, STHLM3) as a reflex test to triage patients suitable for mpMRI prior to biopsy</td><td char="." align="char">64.71</td><td char="." align="char">52.94</td><td char="." align="char">0.00</td><td align="left">Consensus not reached</td><td char="." align="char">0.87</td></tr><tr><td align="left">It would be useful to assess the cost-effectiveness of using PSA density and % free PSA alongside a multi-kallikrein panel as reflex tests to triage patients suitable for mpMRI prior to biopsy</td><td char="." align="char">52.94</td><td char="." align="char">41.18</td><td char="." align="char">0.00</td><td align="left">Consensus not reached</td><td char="." align="char">0.89</td></tr><tr><td align="left">All men being screened should be offered a DRE</td><td char="." align="char">17.65</td><td char="." align="char">17.65</td><td char="." align="char">47.06</td><td align="left">Consensus not reached</td><td char="." align="char">0.59</td></tr><tr><td align="left">If it is possible to identify men at higher risk of developing prostate cancer (through the use of polygenic risk scores, family history, ethnicity or otherwise), it would be useful to compare the cost-effectiveness of using different screening intervals for higher and lower risk men</td><td char="." align="char">88.24</td><td char="." align="char">82.35</td><td char="." align="char">0.00</td><td align="left">Consensus reached</td><td char="." align="char">0.93</td></tr><tr><td align="left">It is useful to compare the cost-effectiveness of using different screening intervals based on PSA level at previous test</td><td char="." align="char">76.47</td><td char="." align="char">64.71</td><td char="." align="char">0.00</td><td align="left">Consensus reached*</td><td char="." align="char">0.89</td></tr></tbody></table><table-wrap-foot><p><italic>DRE</italic> digital rectal examination, <italic>mpMRI</italic> multiparametric magnetic resonance imaging, <italic>PSA</italic> prostate-specific antigen, <italic>STHLM3</italic> Stockholm 3 panel</p><p>*This was the only statement for which the outcome under the more stringent rules differed i.e., consensus not reached</p></table-wrap-foot></table-wrap></p>
+          <p id="Par35">Consensus was considered reached, under both the pre-agreed rules (&gt; 70% scoring an item 7–9 and &lt; 15% scoring 1–3) and the more stringent rules (&gt; 70% scoring an item 8 or 9 and &lt; 15% scoring 1–3) on the following five strategies to compare in a cost-effectiveness model:<list list-type="order"><list-item><p id="Par36">No screening</p></list-item><list-item><p id="Par37">Inviting all men within a certain age range to be screened</p></list-item><list-item><p id="Par38">Inviting only higher risk men for screening (if it is possible to identify higher risk men through the use of polygenic risk scores, family history, ethnicity or otherwise)</p></list-item><list-item><p id="Par39">Inviting all men within a certain age bracket for screening, but screening higher risk men at an earlier age</p></list-item><list-item><p id="Par40">Using different screening intervals for higher and lower risk men</p><p id="Par41">Consensus was also considered reached under the pre-agreed criteria, but not the more stringent criteria, on</p></list-item><list-item><p id="Par42">Using different screening intervals based on PSA level at previous test</p></list-item></list></p>
+          <p id="Par43">For all of these strategies, interrater agreement was considered high (&gt;0.8).</p>
+          <p id="Par44">Consensus was not considered reached on comparing aspects relating to PSA and other biomarker testing. The responses suggest that participants did not agree on whether PSA in isolation should be used as a reflex test, whether a PSA test should be used alongside a more sophisticated biomarker or risk model, whether a PSA threshold of 1.5 ng/mL has enough negative predictive value to exclude any further testing or whether the threshold for further investigation should increase as men age. In all four of these statements, over 35% of respondents indicated agreement but at least 5% indicated disagreement. Comments mainly addressed the need for additional and reliable evidence. There was also uncertainty as to the added benefit of biomarkers over the use of MRI.</p>
+          <p id="Par45">Although consensus was not considered reached on whether reflex tests such as multi-kallikrein panels, risk models, PSA density or percent free PSA should be evaluated for incorporation in potential screening strategies, there was a tendency towards agreement rather than disagreement with no participants rating either of these statements 1–3. Concerns raised in the comments again centred around a lack of reliable evidence.</p>
+          <p id="Par46">With regard to the question of whether all men being screened should be offered a DRE, there was a clear tendency towards disagreement with only 18% of participants being in agreement and 47% disagreeing, suggesting that DRE should not be included when evaluating potential screening strategies. Concerns raised with offering all men a DRE included deterring patients and a high false positive rate.</p>
+        </sec>
+      </sec>
+      <sec id="Sec15">
+        <title>Discussion</title>
+        <p id="Par47">Our aim was to illustrate a method, using prostate cancer screening as an exemplar, to identify strategies to be evaluated in cost-effectiveness modelling when there is considerable uncertainty surrounding the relevant comparators (decision question uncertainty). This process has highlighted the uncertainty and diverging views that can exist and a means to focus these views. We have endeavoured to elicit views from experts working in the field, in accordance with guidelines, and to ensure the findings are applicable to decision makers.</p>
+        <p id="Par48">This is the first study to both use and illustrate how to use a modified Delphi method to handle decision question uncertainty and identify relevant comparators for a cost-effectiveness analysis in a rapidly evolving decision-making context. However, the method has previously been used to define the boundaries of a model, in model conceptualisation, and to identify face validity [<xref ref-type="bibr" rid="CR29">29</xref>–<xref ref-type="bibr" rid="CR31">31</xref>].</p>
+        <p id="Par49">Overall agreement was obtained on the patient characteristics and screening technologies to consider in cost-effectiveness modelling. Although the panel did not reach consensus on exact age ranges to screen or a specific screening interval, future cost-effectiveness models could explore different combinations of screening stopping/starting ages and intervals within the limits suggested by the participants. This could identify the most cost-effective combination of these strategies to enable assessment of whether the ‘optimal combination strategy’ could be cost effective compared with current practice (opportunistic screening).</p>
+        <p id="Par50">One strength of the study was the panel of experts, who had a wide range of experience. Relying solely on one project team to identify relevant strategies may have resulted in biased or outdated views. The modified Delphi method provided a systematic way to gain consensus (according to the predefined criteria) from a wide variety of experts. The web-based format enabled the inclusion of views from respondents from geographically dispersed locations. The anonymity meant that no one voice was given precedence and experts had time to consider their responses. An additional advantage was the relative speed of the process, ensuring relevancy in the context of newer innovations.</p>
+        <p id="Par51">The aim of any future cost-effectiveness analysis should be to determine, not which screening strategy is most cost effective, but rather if any of the identified screening strategies have the potential to be more cost effective than current practice (i.e. opportunistic PSA-based screening). This can be determined by exploring which aspects of the screening pathway have the potential to impact on mortality, overdiagnosis and diagnostic and treatment harms, if improved. A further strength is that the findings from the Delphi can be used to focus future research to provide evidence on aspects of the identified screening strategies that experts feel are important.</p>
+        <p id="Par52">A limitation of the web-based format was the inability to have an in-depth response from respondents on the meaning and reasoning behind their answers as would be possible in a face-to-face interview setting, although in most cases the participants provided substantial and helpful comments. A further limitation is that the snowball approach may have led to researchers only recommending others they agree with, reinforcing any bias in the initial sample. There is also a concern that relevant potentially effective and cost-effective alternatives may have been missed or deliberately excluded by experts if they were not options that they themselves would support. We attempted to mitigate this by sending an evidence dossier to participants in advance to ensure they were aware of any relevant evidence and also by selecting participants with varying expertise and from a variety of institutions and countries to encourage diversity of opinions. We acknowledge, however, that there is still a potential risk of missing relevant aspects when using expert opinion rather than empirical evidence.</p>
+        <p id="Par53">The choice to ask participants to indicate their preferred strategy in Round 1 did not allow us to estimate numerical uncertainty in their answers. However, participants were encouraged to comment on their answers, which is where any uncertainty was made clear. In the second round, participant’s uncertainty could be more clearly drawn out as they were requested to rank their agreement with the statements on a 9-point Likert scale. A further potential limitation is that the study aimed to achieve consensus on relevant screening strategies from participants from different countries with different health care systems. In general, the current standard of care in a particular health care setting may influence the set of comparators chosen, which could make incorporating an international perspective difficult. This is less of an issue in prostate cancer screening as current practice in the UK, Europe and the US is a generally consistent policy of shared decision making around whether or not a man undergoes PSA testing with a recommendation against formal screening. The limitations of an international perspective should be weighed against the benefits in any future applications, however.</p>
+        <p id="Par54">Whilst the Delphi panel has identified screening strategies to assess in a cost-effectiveness analysis, there is limited or no trial evidence on several of the suggested strategies. This was highlighted by the participants throughout the process. When trial data are not available, as is often the case in screening due to the sample size required and associated expense, model-based economic evaluations are commonly used. Mathematical models can combine the best available sources of evidence on different aspects of screening to predict the costs and consequences of their use [<xref ref-type="bibr" rid="CR32">32</xref>, <xref ref-type="bibr" rid="CR33">33</xref>]. However, it is important to take full account of the uncertainty in this evidence to prevent misguided conclusions. Any future cost-effectiveness model should consider this uncertainty and enable adaption when new information becomes available.</p>
+      </sec>
+      <sec id="Sec16">
+        <title>Conclusion</title>
+        <p id="Par55">The modified Delphi process identified six screening strategies that are relevant for comparing in a cost-effectiveness analysis against current practice (opportunistic screening). These strategies include no screening, age-based screening and different risk-stratified approaches, with all incorporating MRI. The work has demonstrated that the modified Delphi method could be used to identify relevant comparators for cost-effectiveness models when there is uncertainty due to rapidly evolving technologies. It may also be used to direct future research towards gathering evidence in the identified comparator pathways.</p>
+      </sec>
+      <sec sec-type="supplementary-material">
+        <title>Supplementary Information</title>
+        <sec id="Sec18">
+          <p>Below is the link to the electronic supplementary material.<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="40273_2021_1009_MOESM1_ESM.docx"><caption><p>Supplementary file1 (DOCX 212 KB)</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="40273_2021_1009_MOESM2_ESM.docx"><caption><p>Supplementary file2 (DOCX 226 KB)</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM3"><media xlink:href="40273_2021_1009_MOESM3_ESM.pdf"><caption><p>Supplementary file3 (PDF 43 KB)</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM4"><media xlink:href="40273_2021_1009_MOESM4_ESM.docx"><caption><p>Supplementary file4 (DOCX 83 KB)</p></caption></media></supplementary-material></p>
+        </sec>
+      </sec>
+    </body>
+    <back>
+      <notes>
+        <title>Declarations</title>
+        <notes id="FPar2" notes-type="funding">
+          <title>Funding</title>
+          <p id="Par467">This work was funded by Cancer Research UK and the UK Department of Health (C11043/A4286, C18281/A8145, C18281/A11326, and C18281/A15064, C18281/A24432). SS is funded by an NIHR fellowship (PDF-2017-10-008). HT and RMM were supported by the National Institute for Health Research (NIHR) Biomedical Research Centre at University Hospitals Bristol NHS Foundation Trust and the University of Bristol. The views expressed in this publication are those of the authors and not necessarily those of the NHS, the NIHR or the Department of Health and Social Care. The funding source was not involved in the design of the study, the collection, analysis and interpretation of data or the writing of the manuscript.</p>
+        </notes>
+        <notes id="FPar3" notes-type="COI-statement">
+          <title>Conflict of interest</title>
+          <p id="Par478">RMM and ET report grants from Cancer Research UK during the conduct of the study. HT has received personal consulting fees from Novartis Pharma AG, Pfizer Inc, Roche Holding AG, and Janssen Pharmaceutica. The funding received by HT was not related to the present publication or in a similar clinical area. EK has received personal consulting fees from Novartis Pharma AG, Pfizer Inc, and Roche Holding AG. The funding received by EK was not related to the present publication or in a similar clinical area.</p>
+        </notes>
+        <notes id="FPar4">
+          <title>Author’s contributions</title>
+          <p id="Par489">All authors were involved in the conception of the study. EK designed and administered the questionnaire and analysed the results with guidance from RM, ET, HT and SS. SS, HT, ET and RM contributed to the interpretation of the data and writing of the manuscript. EK wrote the first draft of the manuscript with SS, HT, ET and RM critically revising for important intellectual content. All authors read and approved the final manuscript.</p>
+        </notes>
+        <notes id="FPar54">
+          <title>Acknowledgements</title>
+          <p id="Par494">We acknowledge Peter Albertsen, Malcolm Mason, Sam Merriel, Anthony Zietman, David Neal, Nora Pashayan and Tyler Seibert for their advice and guidance during the initial development and piloting of the questionnaire. We also acknowledge Nora Pashayan, Henrik Gronberg, Anne Mackie, Peter Albertson, Divya Mallam, Sam Merriel, Hashim Ahmed, Fiona Walter, Michael Barry, Silvia Lombardo, Janet Rimmer, Allan Hackshaw, Tyler Seibert , Anthony Zietman, Martin Eklund, Eveline A.M. Heijnsdijk, Anssi Auvinen, Caroline Moore, David Neal and Rosalind Eeles for participating in the consensus process.</p>
+        </notes>
+        <notes id="FPar53">
+          <title>Data availability</title>
+          <p id="Par493">Redacted datasets generated during and/or analysed during the current study are available from the corresponding author on reasonable request.</p>
+        </notes>
+      </notes>
+      <ref-list id="Bib1">
+        <title>References</title>
+        <ref id="CR1">
+          <label>1.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sculpher</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Fenwick</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Claxton</surname>
+                <given-names>KJP</given-names>
+              </name>
+            </person-group>
+            <article-title>Assessing Quality in decision analytic cost-effectiveness models</article-title>
+            <source>Pharmacoeconomics</source>
+            <year>2000</year>
+            <volume>17</volume>
+            <issue>5</issue>
+            <fpage>461</fpage>
+            <lpage>477</lpage>
+            <pub-id pub-id-type="doi">10.2165/00019053-200017050-00005</pub-id>
+            <pub-id pub-id-type="pmid">10977388</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR2">
+          <label>2.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Philips</surname>
+                <given-names>Z</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Good practice guidelines for decision-analytic modelling in health technology assessment</article-title>
+            <source>PharmacoEconomics</source>
+            <year>2006</year>
+            <volume>24</volume>
+            <issue>4</issue>
+            <fpage>355</fpage>
+            <lpage>371</lpage>
+            <pub-id pub-id-type="doi">10.2165/00019053-200624040-00006</pub-id>
+            <pub-id pub-id-type="pmid">16605282</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR3">
+          <label>3.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Yang</surname>
+                <given-names>Y</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Use of decision modelling in economic evaluations of diagnostic tests: an appraisal and review of health technology assessments in the UK</article-title>
+            <source>PharmacoEconomics Open</source>
+            <year>2019</year>
+            <volume>3</volume>
+            <issue>3</issue>
+            <fpage>281</fpage>
+            <lpage>291</lpage>
+            <pub-id pub-id-type="doi">10.1007/s41669-018-0109-9</pub-id>
+            <pub-id pub-id-type="pmid">30552651</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR4">
+          <label>4.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Tappenden</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>Conceptual modelling for health economic model development</article-title>
+            <source>HEDS Discussion Paper</source>
+            <year>2012</year>
+            <volume>2012</volume>
+            <fpage>12</fpage>
+          </element-citation>
+        </ref>
+        <ref id="CR5">
+          <label>5.</label>
+          <mixed-citation publication-type="other">England PH. Prostate cancer risk management programme: benefits and risks of PSA testing. 2016.</mixed-citation>
+        </ref>
+        <ref id="CR6">
+          <label>6.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Parker</surname>
+                <given-names>C</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Cancer of the prostate: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up</article-title>
+            <source>Ann Oncol</source>
+            <year>2015</year>
+            <volume>26</volume>
+            <issue>5</issue>
+            <fpage>v69</fpage>
+            <lpage>v77</lpage>
+            <pub-id pub-id-type="doi">10.1093/annonc/mdv222</pub-id>
+            <pub-id pub-id-type="pmid">26205393</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR7">
+          <label>7.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Nam</surname>
+                <given-names>RK</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Prostate-specific antigen test for prostate cancer screening: American Society of Clinical Oncology provisional clinical opinion</article-title>
+            <source>J Oncol Pract</source>
+            <year>2012</year>
+            <volume>8</volume>
+            <issue>5</issue>
+            <fpage>315</fpage>
+            <pub-id pub-id-type="doi">10.1200/JOP.2012.000715</pub-id>
+            <pub-id pub-id-type="pmid">23277770</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR8">
+          <label>8.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Bibbins-Domingo</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Grossman</surname>
+                <given-names>DC</given-names>
+              </name>
+              <name>
+                <surname>Curry</surname>
+                <given-names>SJJJ</given-names>
+              </name>
+            </person-group>
+            <article-title>The US Preventive Services Task Force 2017 draft recommendation statement on screening for prostate cancer: an invitation to review and comment</article-title>
+            <source>JAMA</source>
+            <year>2017</year>
+            <volume>317</volume>
+            <issue>19</issue>
+            <fpage>1949</fpage>
+            <lpage>1950</lpage>
+            <pub-id pub-id-type="doi">10.1001/jama.2017.4413</pub-id>
+            <pub-id pub-id-type="pmid">28397958</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR9">
+          <label>9.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Smith</surname>
+                <given-names>RA</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Cancer screening in the United States, 2017: a review of current American Cancer Society guidelines and current issues in cancer screening</article-title>
+            <source>CA Cancer J Clin</source>
+            <year>2017</year>
+            <volume>67</volume>
+            <issue>2</issue>
+            <fpage>100</fpage>
+            <lpage>121</lpage>
+            <pub-id pub-id-type="doi">10.3322/caac.21392</pub-id>
+            <pub-id pub-id-type="pmid">28170086</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR10">
+          <label>10.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Wilt</surname>
+                <given-names>TJ</given-names>
+              </name>
+              <name>
+                <surname>Harris</surname>
+                <given-names>RP</given-names>
+              </name>
+              <name>
+                <surname>Qaseem</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Screening for cancer: advice for high-value care from the American College of Physicians</article-title>
+            <source>Ann Internal Med.</source>
+            <year>2020</year>
+            <volume>162</volume>
+            <issue>10</issue>
+            <fpage>718</fpage>
+            <lpage>725</lpage>
+            <pub-id pub-id-type="doi">10.7326/M14-2326</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR11">
+          <label>11.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ilic</surname>
+                <given-names>D</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Prostate cancer screening with prostate-specific antigen (PSA) test: a systematic review and meta-analysis</article-title>
+            <source>BMJ</source>
+            <year>2018</year>
+            <volume>362</volume>
+            <fpage>k3519</fpage>
+            <pub-id pub-id-type="doi">10.1136/bmj.k3519</pub-id>
+            <pub-id pub-id-type="pmid">30185521</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR12">
+          <label>12.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Seibert</surname>
+                <given-names>TM</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Polygenic hazard score to guide screening for aggressive prostate cancer: development and validation in large scale cohorts</article-title>
+            <source>BMJ</source>
+            <year>2018</year>
+            <volume>360</volume>
+            <fpage>j5757</fpage>
+            <pub-id pub-id-type="doi">10.1136/bmj.j5757</pub-id>
+            <pub-id pub-id-type="pmid">29321194</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR13">
+          <label>13.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Eklund</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Grönberg</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Nordström</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>The STHLM3 prostate cancer diagnostic study: calibration, clarification, and comments</article-title>
+            <source>Nature Rev Clin Oncol</source>
+            <year>2016</year>
+            <volume>13</volume>
+            <issue>6</issue>
+            <fpage>394</fpage>
+            <pub-id pub-id-type="doi">10.1038/nrclinonc.2016.80</pub-id>
+            <pub-id pub-id-type="pmid">27118494</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR14">
+          <label>14.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ahmed</surname>
+                <given-names>HU</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Diagnostic accuracy of multi-parametric MRI and TRUS biopsy in prostate cancer (PROMIS): a paired validating confirmatory study</article-title>
+            <source>The Lancet</source>
+            <year>2017</year>
+            <volume>389</volume>
+            <issue>10071</issue>
+            <fpage>815</fpage>
+            <lpage>822</lpage>
+            <pub-id pub-id-type="doi">10.1016/S0140-6736(16)32401-1</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR15">
+          <label>15.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Roberts</surname>
+                <given-names>M</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Conceptualizing a model: a report of the ISPOR-SMDM modeling good research practices task force–2</article-title>
+            <source>Med Decision Making</source>
+            <year>2012</year>
+            <volume>32</volume>
+            <issue>5</issue>
+            <fpage>678</fpage>
+            <lpage>689</lpage>
+            <pub-id pub-id-type="doi">10.1177/0272989X12454941</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR16">
+          <label>16.</label>
+          <mixed-citation publication-type="other">Dalkey NC. The Delphi method: an experimental study of group opinion. 1969, RAND CORP SANTA MONICA CALIF. 1969.</mixed-citation>
+        </ref>
+        <ref id="CR17">
+          <label>17.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Authority</surname>
+                <given-names>EFS</given-names>
+              </name>
+            </person-group>
+            <article-title>Guidance on expert knowledge elicitation in food and feed safety risk assessment</article-title>
+            <source>EFSA J</source>
+            <year>2014</year>
+            <volume>12</volume>
+            <issue>6</issue>
+            <fpage>3734</fpage>
+          </element-citation>
+        </ref>
+        <ref id="CR18">
+          <label>18.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Landeta</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Current validity of the Delphi method in social sciences</article-title>
+            <source>Technol Forecast Soc Chang</source>
+            <year>2006</year>
+            <volume>73</volume>
+            <issue>5</issue>
+            <fpage>467</fpage>
+            <lpage>482</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.techfore.2005.09.002</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR19">
+          <label>19.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Avella</surname>
+                <given-names>JR</given-names>
+              </name>
+            </person-group>
+            <article-title>Delphi panels: research design, procedures, advantages, and challenges</article-title>
+            <source>Int J Doctoral Stud</source>
+            <year>2016</year>
+            <volume>11</volume>
+            <issue>1</issue>
+            <fpage>305</fpage>
+            <lpage>321</lpage>
+            <pub-id pub-id-type="doi">10.28945/3561</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR20">
+          <label>20.</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Patton</surname>
+                <given-names>MQ</given-names>
+              </name>
+            </person-group>
+            <source>Qualitative research and evaluation methods</source>
+            <year>2002</year>
+            <publisher-loc>Thousand Oakes</publisher-loc>
+            <publisher-name>CA sage</publisher-name>
+          </element-citation>
+        </ref>
+        <ref id="CR21">
+          <label>21.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Kuper</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lingard</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Levinson</surname>
+                <given-names>W</given-names>
+              </name>
+            </person-group>
+            <article-title>Critically appraising qualitative research</article-title>
+            <source>BMJ</source>
+            <year>2008</year>
+            <volume>337</volume>
+            <fpage>a1035</fpage>
+            <pub-id pub-id-type="doi">10.1136/bmj.a1035</pub-id>
+            <pub-id pub-id-type="pmid">18687726</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR22">
+          <label>22.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Harris</surname>
+                <given-names>PA</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Research electronic data capture (REDCap)—a metadata-driven methodology and workflow process for providing translational research informatics support</article-title>
+            <source>J Biomed Inform</source>
+            <year>2009</year>
+            <volume>42</volume>
+            <issue>2</issue>
+            <fpage>377</fpage>
+            <lpage>381</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.jbi.2008.08.010</pub-id>
+            <pub-id pub-id-type="pmid">18929686</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR23">
+          <label>23.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Akins</surname>
+                <given-names>RB</given-names>
+              </name>
+              <name>
+                <surname>Tolson</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Cole</surname>
+                <given-names>BR</given-names>
+              </name>
+            </person-group>
+            <article-title>Stability of response characteristics of a Delphi panel: application of bootstrap data expansion</article-title>
+            <source>BMC Med Res Methodol</source>
+            <year>2005</year>
+            <volume>5</volume>
+            <fpage>1</fpage>
+            <lpage>12</lpage>
+            <pub-id pub-id-type="doi">10.1186/1471-2288-5-37</pub-id>
+            <pub-id pub-id-type="pmid">15636638</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR24">
+          <label>24.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Diamond</surname>
+                <given-names>IR</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Defining consensus: a systematic review recommends methodologic criteria for reporting of Delphi studies</article-title>
+            <source>J Clin Epidemiol</source>
+            <year>2014</year>
+            <volume>67</volume>
+            <issue>4</issue>
+            <fpage>401</fpage>
+            <lpage>409</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.jclinepi.2013.12.002</pub-id>
+            <pub-id pub-id-type="pmid">24581294</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR25">
+          <label>25.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Thorn</surname>
+                <given-names>JC</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Core items for a standardized resource use measure: expert Delphi consensus survey</article-title>
+            <source>Value Health</source>
+            <year>2018</year>
+            <volume>21</volume>
+            <issue>6</issue>
+            <fpage>640</fpage>
+            <lpage>649</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.jval.2017.06.011</pub-id>
+            <pub-id pub-id-type="pmid">29909868</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR26">
+          <label>26.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Boulkedid</surname>
+                <given-names>R</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Using and reporting the Delphi method for selecting healthcare quality indicators: a systematic review</article-title>
+            <source>PLoS ONE</source>
+            <year>2011</year>
+            <volume>6</volume>
+            <issue>6</issue>
+            <fpage>e20476</fpage>
+            <pub-id pub-id-type="doi">10.1371/journal.pone.0020476</pub-id>
+            <pub-id pub-id-type="pmid">21694759</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR27">
+          <label>27.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Lindell</surname>
+                <given-names>MK</given-names>
+              </name>
+              <name>
+                <surname>Brandt</surname>
+                <given-names>CJ</given-names>
+              </name>
+              <name>
+                <surname>Whitney</surname>
+                <given-names>DJ</given-names>
+              </name>
+            </person-group>
+            <article-title>A revised index of interrater agreement for multi-item ratings of a single target</article-title>
+            <source>Appl Psychol Meas</source>
+            <year>1999</year>
+            <volume>23</volume>
+            <issue>2</issue>
+            <fpage>127</fpage>
+            <lpage>135</lpage>
+            <pub-id pub-id-type="doi">10.1177/01466219922031257</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR28">
+          <label>28.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>O'Neill</surname>
+                <given-names>TA</given-names>
+              </name>
+            </person-group>
+            <article-title>An overview of interrater agreement on likert scales for researchers and practitioners</article-title>
+            <source>Front Psychol</source>
+            <year>2017</year>
+            <volume>8</volume>
+            <fpage>777</fpage>
+            <lpage>777</lpage>
+            <pub-id pub-id-type="doi">10.3389/fpsyg.2017.00777</pub-id>
+            <pub-id pub-id-type="pmid">28553257</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR29">
+          <label>29.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Husbands</surname>
+                <given-names>S</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>How qualitative methods can be used to inform model development</article-title>
+            <source>PharmacoEconomics</source>
+            <year>2017</year>
+            <volume>35</volume>
+            <issue>6</issue>
+            <fpage>607</fpage>
+            <lpage>612</lpage>
+            <pub-id pub-id-type="doi">10.1007/s40273-017-0499-z</pub-id>
+            <pub-id pub-id-type="pmid">28321640</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR30">
+          <label>30.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Iglesias</surname>
+                <given-names>CP</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Reporting guidelines for the use of expert judgement in model-based economic evaluations</article-title>
+            <source>PharmacoEconomics</source>
+            <year>2016</year>
+            <volume>34</volume>
+            <issue>11</issue>
+            <fpage>1161</fpage>
+            <lpage>1172</lpage>
+            <pub-id pub-id-type="doi">10.1007/s40273-016-0425-9</pub-id>
+            <pub-id pub-id-type="pmid">27364887</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR31">
+          <label>31.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sullivan</surname>
+                <given-names>W</given-names>
+              </name>
+              <name>
+                <surname>Payne</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>The appropriate elicitation of expert opinion in economic models</article-title>
+            <source>PharmacoEconomics</source>
+            <year>2011</year>
+            <volume>29</volume>
+            <issue>6</issue>
+            <fpage>455</fpage>
+            <lpage>459</lpage>
+            <pub-id pub-id-type="doi">10.2165/11589220-000000000-00000</pub-id>
+            <pub-id pub-id-type="pmid">21568356</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR32">
+          <label>32.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Iragorri</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Spackman</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Assessing the value of screening tools: reviewing the challenges and opportunities of cost-effectiveness analysis</article-title>
+            <source>Public Health Rev</source>
+            <year>2018</year>
+            <volume>39</volume>
+            <issue>1</issue>
+            <fpage>17</fpage>
+            <pub-id pub-id-type="doi">10.1186/s40985-018-0093-8</pub-id>
+            <pub-id pub-id-type="pmid">30009081</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR33">
+          <label>33.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sanghera</surname>
+                <given-names>S</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Cost-effectiveness of prostate cancer screening: a systematic review of decision-analytical models</article-title>
+            <source>BMC Cancer</source>
+            <year>2018</year>
+            <volume>18</volume>
+            <issue>1</issue>
+            <fpage>84</fpage>
+            <pub-id pub-id-type="doi">10.1186/s12885-017-3974-1</pub-id>
+            <pub-id pub-id-type="pmid">29347916</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </article>
+</pmc-articleset>

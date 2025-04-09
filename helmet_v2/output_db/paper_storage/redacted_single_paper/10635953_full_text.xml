@@ -1,0 +1,1100 @@
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.3">
+    <?properties open_access?>
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+      <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">Pharmacoeconomics</journal-id>
+        <journal-id journal-id-type="iso-abbrev">Pharmacoeconomics</journal-id>
+        <journal-title-group>
+          <journal-title>Pharmacoeconomics</journal-title>
+        </journal-title-group>
+        <issn pub-type="ppub">1170-7690</issn>
+        <issn pub-type="epub">1179-2027</issn>
+        <publisher>
+          <publisher-name>Springer International Publishing</publisher-name>
+          <publisher-loc>Cham</publisher-loc>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">37505423</article-id>
+        <article-id pub-id-type="pmc">10635953</article-id>
+        <article-id pub-id-type="publisher-id">1298</article-id>
+        <article-id pub-id-type="doi">10.1007/s40273-023-01298-z</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Original Research Article</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>De Novo Cost-Effectiveness Model Framework for Nonalcoholic Steatohepatitis—Modeling Approach and Validation</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Gal</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Feldmajer</surname>
+              <given-names>Gyorgyi</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+          </contrib>
+          <contrib contrib-type="author" corresp="yes">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2010-8284</contrib-id>
+            <name>
+              <surname>Augusto</surname>
+              <given-names>Margarida</given-names>
+            </name>
+            <address>
+              <email>vmga@novonordisk.com</email>
+            </address>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Gani</surname>
+              <given-names>Ray</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff3">3</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Hook</surname>
+              <given-names>Emma</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff4">4</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Bullement</surname>
+              <given-names>Ash</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff4">4</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Philips</surname>
+              <given-names>Zoe</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff4">4</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>Inger</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff5">5</xref>
+          </contrib>
+          <aff id="Aff1"><label>1</label>Evidera, Budapest, Hungary </aff>
+          <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.425956.9</institution-id><institution-id institution-id-type="ISNI">0000 0004 0391 2646</institution-id><institution>Novo Nordisk A/S, </institution></institution-wrap>Vandtårnsvej 108-110, 2860 Søborg, Denmark </aff>
+          <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.519033.d</institution-id><institution>Evidera, </institution></institution-wrap>London, UK </aff>
+          <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.519012.e</institution-id><institution>Delta Hat, </institution></institution-wrap>Nottingham, UK </aff>
+          <aff id="Aff5"><label>5</label>White Box Health Economics Ltd, Amelia House, Crescent Road, Worthing, West Sussex UK </aff>
+        </contrib-group>
+        <pub-date pub-type="epub">
+          <day>28</day>
+          <month>7</month>
+          <year>2023</year>
+        </pub-date>
+        <pub-date pub-type="pmc-release">
+          <day>28</day>
+          <month>7</month>
+          <year>2023</year>
+        </pub-date>
+        <pub-date pub-type="ppub">
+          <year>2023</year>
+        </pub-date>
+        <volume>41</volume>
+        <issue>12</issue>
+        <fpage>1629</fpage>
+        <lpage>1639</lpage>
+        <history>
+          <date date-type="accepted">
+            <day>18</day>
+            <month>6</month>
+            <year>2023</year>
+          </date>
+        </history>
+        <permissions>
+          <copyright-statement>© The Author(s) 2023</copyright-statement>
+          <license>
+            <ali:license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+            <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, which permits any non-commercial use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>.</license-p>
+          </license>
+        </permissions>
+        <funding-group>
+          <award-group>
+            <funding-source>
+              <institution>Novo Nordisk A/S, Søborg, Denmark</institution>
+            </funding-source>
+          </award-group>
+        </funding-group>
+        <custom-meta-group>
+          <custom-meta>
+            <meta-name>issue-copyright-statement</meta-name>
+            <meta-value>© Springer Nature Switzerland AG 2023</meta-value>
+          </custom-meta>
+        </custom-meta-group>
+      </article-meta>
+    </front>
+    <body>
+      <sec id="d32e340">
+        <title>Key Points for Decision Makers</title>
+        <p>
+          <table-wrap id="Taba">
+            <table frame="hsides" rules="groups">
+              <tbody>
+                <tr>
+                  <td align="left">This is the first model to incorporate comorbidities and other important considerations for individuals living with NASH.</td>
+                </tr>
+                <tr>
+                  <td align="left">The model provides a standardized framework that could provide the basis of further cost-effectiveness analyses that can be updated as relevant data are made available.</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+      </sec>
+      <sec id="Sec2">
+        <title>Introduction</title>
+        <p id="Par7">Nonalcoholic fatty liver disease (NAFLD) is a chronic liver condition, characterized by &gt; 5% hepatic steatosis that is unrelated to alcohol intake [<xref ref-type="bibr" rid="CR1">1</xref>]. Based on histology, NAFLD can be categorized as nonalcoholic fatty liver or nonalcoholic steatohepatitis (NASH) [<xref ref-type="bibr" rid="CR1">1</xref>]. While nonalcoholic fatty liver presents with little or no inflammation or liver cell damage, NASH presents with hepatocellular injury that can progress to hepatic fibrosis, cirrhosis, liver failure, and hepatocellular carcinoma (HCC) [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR2">2</xref>].</p>
+        <p id="Par8">NASH affects an estimated 3–5% of the population globally [<xref ref-type="bibr" rid="CR2">2</xref>], with prevalence estimates varying between countries [<xref ref-type="bibr" rid="CR3">3</xref>]. In the USA, for example, the estimated prevalence was 5.3% in 2016, and is predicted to rise to 7.6% by 2030 [<xref ref-type="bibr" rid="CR3">3</xref>]. In addition to hepatic morbidity, NAFLD and NASH are strongly associated with comorbidities including type 2 diabetes (T2D), obesity, and cardiovascular disease (CVD), and it is increasingly recognized that management strategies will need to deliver holistic, individualized care [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR2">2</xref>, <xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR5">5</xref>].</p>
+        <p id="Par9">There are currently no pharmacologic agents approved for the treatment of NASH [<xref ref-type="bibr" rid="CR6">6</xref>]. Current management recommendations focus on lifestyle modifications, including increased physical activity and a hypocaloric diet to promote weight loss [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR7">7</xref>]. There is, therefore, an unmet medical need for effective and safe pharmacological treatments. Several investigational drugs are undergoing clinical trial evaluation, including those that may offer treatment benefits that extend beyond hepatic outcomes [<xref ref-type="bibr" rid="CR8">8</xref>].</p>
+        <p id="Par10">Cost-effectiveness analyses are often required to assess the value of new versus current treatments to determine whether those treatments should be adopted and reimbursed [<xref ref-type="bibr" rid="CR9">9</xref>]. However, a recent systematic literature review that assessed 16 unique health economic models used in cost-effectiveness analyses in NAFLD or NASH populations found that the included models were heterogeneous in scope and associated with limitations [<xref ref-type="bibr" rid="CR10">10</xref>]. Key limitations across all models included a lack of NASH-specific data and the consistent omission of comorbidities that frequently co-exist with NASH, such as CVD, T2D, and obesity. Other limitations included: assumptions of linear fibrosis progression rates based on progression rates of patients with mild/no fibrosis (F0, F1)—the lack of consistent disease progression data is also highlighted in another systematic literature review [<xref ref-type="bibr" rid="CR11">11</xref>]; sourcing data for costs, utilities, and transition probabilities for late-stage complications from other liver disease areas; and a lack of data linking surrogate outcomes (such as steatosis) to hard clinical endpoints (e.g., disease progression). Furthermore, most identified models were product specific (e.g., for diagnostic/staging techniques, or for surgical, lifestyle, or unlicensed pharmacologic interventions), highlighting an unmet need for nonintervention-specific models.</p>
+        <p id="Par11">Following publication of the systematic literature review by Johansen et al. [<xref ref-type="bibr" rid="CR10">10</xref>], the Institute for Clinical and Economic Review (ICER) published an update of its 2016 evaluation of obeticholic acid for the treatment of NASH [<xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR13">13</xref>]. The key structural difference to previous models is the inclusion of cardiovascular risk, which was achieved by splitting the population into those with or without prior cardiovascular events. Also, while the earlier ICER model was a patient-level simulation (PLS), the updated model followed a cohort approach. To the authors’ knowledge, no other models for the evaluation of pharmacological interventions in NASH have been developed. There remains an unmet need for high-quality, transparent, validated, nonintervention-specific health economic models of NASH, that can capture both hepatic and nonhepatic outcomes, to assess the cost-effectiveness of treatments for NASH in development [<xref ref-type="bibr" rid="CR10">10</xref>].</p>
+        <p id="Par12">We report here on the development and cross-validation of a de novo cost-effectiveness model (CEM) framework for estimating the cost-effectiveness of treatments for NASH that incorporates extra-hepatic disease states and outcomes alongside hepatic components. This is a novel framework which aims to capture the natural history of NASH and its sequalae, including the impact on comorbidities.</p>
+      </sec>
+      <sec id="Sec3">
+        <title>Methods</title>
+        <sec id="Sec4">
+          <title>Development of the CEM Framework</title>
+          <sec id="Sec5">
+            <title>CEM Structure</title>
+            <p id="Par13"><italic>Overview</italic> To account for the effect of pharmacologic agents in clinical development that influence hepatic and non-hepatic outcomes, there was a need for a de novo NASH CEM that addressed the complex interaction of comorbidities commonly associated with NASH (such as CVD, T2D, and obesity), how comorbidities and NASH overlap with respect to outcome risks and quality of life (QoL) decrements, the effect of common treatment across these comorbidities and the heterogeneity of patient characteristics and patient pathways (e.g., dynamic treatment duration). Full details can be found in the technical report (Supplementary Appendix).</p>
+            <p id="Par14"><italic>Key disease states and clinical outcomes</italic> Figure <xref rid="Fig1" ref-type="fig">1</xref> shows an overview of the structure for the CEM. In alignment with findings from Johansen et al. [<xref ref-type="bibr" rid="CR10">10</xref>], both liver fibrosis stages and NASH histology were included. Liver disease was modeled as progression through fibrosis stages F0 to F4, with F4 also referred to as compensated cirrhosis. Late-stage liver disease outcomes included decompensated cirrhosis (DCC), HCC, and liver transplantation. Key outcomes with QoL and cost implications were included for obesity, T2D, and CVD. Risk equations for these comorbidities were parameterized from the literature. Composite outcomes were used for obesity and T2D, details of which are provided in the Supplementary Information.<fig id="Fig1"><label>Fig. 1</label><caption><p>Causal relationship of key disease states and clinical outcomes. <italic>CVD</italic> cardiovascular disease, <italic>MI</italic> myocardial infarction, <italic>NASH</italic> nonalcoholic steatohepatitis, <italic>T2D</italic> type 2 diabetes. Green dashed line indicates effect is specific to treatment and may directly affect outcomes other than fibrosis. Red dashed line indicates that no source with quantifiable relationship is identified, and the relationship is not modeled. <sup>a</sup>NASH histology is not modeled; included as a placeholder. <sup>b</sup>Comorbidities effects will be optionally and independently included or excluded from analyses</p></caption><graphic xlink:href="40273_2023_1298_Fig1_HTML" id="MO2"/></fig></p>
+          </sec>
+          <sec id="Sec6">
+            <title>CEM Implementation</title>
+            <p id="Par15">To understand the effect of the structural differences seen among prior models, e.g., the 2016 and 2020 ICER models, this CEM includes both PLS and cohort-level Markov (CLM) models in the same framework. The PLS and CLM models were both implemented in the discretely integrated condition-event (DICE) framework [<xref ref-type="bibr" rid="CR14">14</xref>], in a single common Microsoft Excel<sup>®</sup> workbook. The binary PLS conditions (i.e., presence or absence) representing health states were replaced by continuous conditions representing the proportions of the cohort in the different health states. Key similarities and differences between the PLS and CLM models are presented in Supplementary Table 1.</p>
+          </sec>
+          <sec id="Sec7">
+            <title>Target Population and Patient Profiles</title>
+            <p id="Par16">The starting point of the CEM comprises the specification of patient profiles, which are sets of values for baseline characteristics of the individual patients representing the modeled populations or the characteristics of the modeled cohort. Patient profiles included in this CEM were based on study NN9931-4296 (NCT02970942), a phase 2 interventional study comprising patients with histologically confirmed NASH and a fibrosis stage of F1 (28%), F2 (22%), or F3 (49%) [<xref ref-type="bibr" rid="CR15">15</xref>]. The descriptive statistics of the trial population were provided by Novo Nordisk. The detail of the patient-level data available from this trial allowed for a model that could tolerate a high degree of heterogeneity and therefore be representative of the overall NASH population. For the PLS, individual patients’ profiles were generated using the population averages and standard deviations. For the CLM model, the population means and proportions were used for the profiles describing the homogeneous CEM population.</p>
+          </sec>
+          <sec id="Sec8">
+            <title>Data Sources</title>
+            <p id="Par17">The CEM framework assessed the cost-effectiveness of obeticholic acid, a small-molecule farnesoid-X receptor agonist, versus standard of care (SoC). Obeticholic acid was selected as there is published data on its clinical effectiveness in the treatment of NASH [<xref ref-type="bibr" rid="CR16">16</xref>] and its cost-effectiveness, including the ICER 2016 [<xref ref-type="bibr" rid="CR13">13</xref>] and ICER 2020 [<xref ref-type="bibr" rid="CR12">12</xref>] model reports. During the process of peer review, a new version of the ICER report (2023) for NASH was published [<xref ref-type="bibr" rid="CR17">17</xref>]. Cross-validation was also attempted in line with the methodology described for the 2016 and 2020 ICER reports, with conclusions in keeping with the previous cross validation exercises. Details of this validation can be found in the technical report (Supplementary Appendix). SoC was included due to the lack of other pharmacological treatments specifically indicated for the treatment of NASH that would be suitable for inclusion as a comparator. The basis for the current SoC has been created using EU and US guidelines recommending lifestyle modifications [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR7">7</xref>].</p>
+            <p id="Par18">Efficacy and adverse event (AE) parameters for both obeticholic acid and SoC were informed by the 18-month interim analysis of the REGENERATE trial (NCT02548351) [<xref ref-type="bibr" rid="CR16">16</xref>] as this was the most recently published data at the time, following the approach used in the ICER model [<xref ref-type="bibr" rid="CR12">12</xref>]. In REGENERATE, patients with NASH and fibrosis stages F2–F3 (or F1 with at least one accompanying comorbidity) were randomly assigned to receive oral placebo, obeticholic acid 10 mg, or obeticholic acid 25 mg daily.</p>
+          </sec>
+          <sec id="Sec9">
+            <title>Perspective, Time Horizon, and Discounting</title>
+            <p id="Par19">In the prototype analysis, the cost-effectiveness analysis takes the perspective of the US payer, thus considering only direct medical costs. However, the CEM was designed to be easily adapted to other countries’ healthcare systems. The CEM has a flexible time horizon, with a lifetime horizon used for the prototype analysis. Costs and health benefits are discounted at 3% in the prototype analysis, in line with the ICER model [<xref ref-type="bibr" rid="CR12">12</xref>] and other US-based cost-effectiveness analyses.</p>
+          </sec>
+        </sec>
+        <sec id="Sec10">
+          <title>Inputs for Parameterization of CEM Framework</title>
+          <sec id="Sec11">
+            <title>Disease Progression</title>
+            <p id="Par20">Liver disease was modeled as progression through fibrosis stages F0–F4, via a Markov state transition probability matrix across both modeling approaches (i.e., the PLS and CLM models). In line with the ICER model [<xref ref-type="bibr" rid="CR12">12</xref>], inputs for fibrosis progression were based on data reported by Singh et al. [<xref ref-type="bibr" rid="CR18">18</xref>]. However, the specific transition probabilities used in this model, presented in Table <xref rid="Tab1" ref-type="table">1</xref>, were sourced from a secondary analysis by Gal et al. [<xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR20">20</xref>] (Table <xref rid="Tab1" ref-type="table">1</xref>). This secondary analysis, while consistent with Singh et al. [<xref ref-type="bibr" rid="CR18">18</xref>] in terms of data and model structure, derives transition probabilities from each fibrosis stage. This allows for one-stage improvement or worsening at each model cycle, rather than calculating fibrosis progression rate per baseline fibrosis stage. Input parameters for progression to late-stage liver disease [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR22">22</xref>] (i.e., DCC, HCC, and liver transplantation) are presented in Table <xref rid="Tab2" ref-type="table">2</xref>. Transition probabilities for F3, F4 to DCC, HCC, and liver transplant are constant annual transition probabilities, with a model cycle length of 1 year.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Transition probabilities for fibrosis progression</p><p>(source: [<xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR20">20</xref>])</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Fibrosis stage</th><th align="left">Half-year probability</th><th align="left">Lower bound</th><th align="left">Upper bound</th></tr></thead><tbody><tr><td align="left">F0 to F1 (worsen)</td><td char="." align="char">0.079</td><td char="." align="char">0.039</td><td char="." align="char">0.153</td></tr><tr><td align="left">F1 to F0 (improve)</td><td char="." align="char">0.031</td><td char="." align="char">0.014</td><td char="." align="char">0.067</td></tr><tr><td align="left">F1 to F2 (worsen)</td><td char="." align="char">0.067</td><td char="." align="char">0.026</td><td char="." align="char">0.161</td></tr><tr><td align="left">F2 to F1 (improve)</td><td char="." align="char">0.142</td><td char="." align="char">0.048</td><td char="." align="char">0.351</td></tr><tr><td align="left">F2 to F3 (worsen)</td><td char="." align="char">0.097</td><td char="." align="char">0.038</td><td char="." align="char">0.230</td></tr><tr><td align="left">F3 to F2 (improve)</td><td char="." align="char">0.132</td><td char="." align="char">0.043</td><td char="." align="char">0.339</td></tr><tr><td align="left">F3 to CC (worsen)</td><td char="." align="char">0.083</td><td char="." align="char">0.031</td><td char="." align="char">0.204</td></tr><tr><td align="left">CC to F3 (improve)</td><td char="." align="char">0.041</td><td char="." align="char">0.005</td><td char="." align="char">0.275</td></tr></tbody></table><table-wrap-foot><p><italic>CC</italic> compensated cirrhosis, <italic>F</italic> fibrosis stage</p></table-wrap-foot></table-wrap><table-wrap id="Tab2"><label>Table 2</label><caption><p>Transition probabilities for progression to late-stage liver disease outcomes</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Health state transition</th><th align="left">Annual probability</th><th align="left">Lower bound</th><th align="left">Upper bound</th><th align="left">References</th></tr></thead><tbody><tr><td align="left">DCC in patients with F0–F2 fibrosis</td><td align="left">0</td><td align="left">–</td><td align="left">–</td><td align="left">Assumption<sup>a</sup></td></tr><tr><td align="left">HCC in patients with F0–F2 fibrosis</td><td align="left">0</td><td align="left">–</td><td align="left">–</td><td align="left">Assumption<sup>a</sup></td></tr><tr><td align="left">Decompensation in patients with F3 fibrosis</td><td align="left">0.006</td><td char="." align="left">0.0048</td><td char="." align="left">0.0072</td><td align="left">[<xref ref-type="bibr" rid="CR22">22</xref>]</td></tr><tr><td align="left">Decompensation in patients with CC</td><td align="left">0.065</td><td char="." align="left">0.0517</td><td char="." align="left">0.0776</td><td align="left">[<xref ref-type="bibr" rid="CR22">22</xref>]</td></tr><tr><td align="left">HCC in patients with F3 fibrosis</td><td align="left">0.002</td><td align="left">0.0016</td><td char="." align="left">0.0024</td><td align="left">[<xref ref-type="bibr" rid="CR22">22</xref>]</td></tr><tr><td align="left">HCC in patients with CC</td><td align="left">0.025</td><td char="." align="left">0.0204</td><td align="left">0.0306</td><td align="left">[<xref ref-type="bibr" rid="CR22">22</xref>]</td></tr><tr><td align="left">HCC in patients with DCC</td><td align="left">0.026</td><td align="left">0.0208</td><td align="left">0.0312</td><td align="left">[<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left">Liver transplant in patients with HCC</td><td align="left">0.023</td><td align="left">0.0184</td><td align="left">0.0276</td><td align="left">[<xref ref-type="bibr" rid="CR13">13</xref>]</td></tr><tr><td align="left">Liver transplant in patients with DCC</td><td align="left">0.040</td><td char="." align="left">0.0320</td><td align="left">0.0480</td><td align="left">[<xref ref-type="bibr" rid="CR13">13</xref>]</td></tr></tbody></table><table-wrap-foot><p><italic>CC</italic> compensated cirrhosis, <italic>DCC</italic> decompensated cirrhosis, <italic>F</italic> fibrosis stage, <italic>HCC</italic> hepatocellular carcinoma</p><p><sup>a</sup>DCC and HCC were assumed not to occur in patients with mild/no fibrosis (stages F0–F2).</p></table-wrap-foot></table-wrap></p>
+          </sec>
+          <sec id="Sec12">
+            <title>Comorbidities</title>
+            <p id="Par21">Comorbidities and risk equations are in line with the ICER model [<xref ref-type="bibr" rid="CR12">12</xref>] and an obesity CEM developed for the submission of liraglutide 3 mg to health technology assessment bodies, including the National Institute for Health and Care Excellence (NICE) [<xref ref-type="bibr" rid="CR23">23</xref>]. Sources from which comorbidity risk prediction models were derived for CVD, T2D, and obesity are presented in Supplementary Table 2 and further details of how risk prediction models were used to inform the CEM are provided in the Supplementary Information.</p>
+          </sec>
+          <sec id="Sec13">
+            <title>Mortality</title>
+            <p id="Par22">The CEM includes liver disease-related mortality, CVD-related mortality, cancer mortality, and general population mortality. Mortality rates were informed by disease-specific studies and reviews, and the ICER model [<xref ref-type="bibr" rid="CR12">12</xref>], as per the CEM inputs presented in Supplementary Table 3. General population mortality was informed by 2017 US Life Tables [<xref ref-type="bibr" rid="CR24">24</xref>].</p>
+          </sec>
+          <sec id="Sec14">
+            <title>Health-Related Quality of Life (Utilities)</title>
+            <p id="Par23">The CEM includes both health state and event utilities, as well as disutilities for AEs, based on NASH-specific data for liver disease health states, as outlined in Supplementary Tables 4 and 5. Health state utilities are applied for the time spent in the respective health state. For liver transplant, the first and subsequent years are differentiated and considered a different health state in terms of utility. Myocardial infarction (MI) and stroke incur a one-off event disutility at the time of the event as well as a post-event health state disutility that is applied for the duration of survival after the event. The annual disutility from AEs is applied while on treatment.</p>
+          </sec>
+          <sec id="Sec15">
+            <title>Costs</title>
+            <p id="Par24">The CEM includes health state costs, event costs, and treatment costs. Health state costs are applied in the first and subsequent years spent in that health state. For liver transplant and obesity-related cancer health states, different costs are applied for the first and subsequent years. Cardiovascular events (MI, stroke, and cardiovascular death) incur associated one-off costs. After nonfatal MI and stroke, patients enter the post-MI and post-stroke health states and annual nondrug costs are accumulated until the end of the modeled time horizon. All costs were adjusted for inflation using the consumer price index (<ext-link ext-link-type="uri" xlink:href="https://www.bls.gov/cpi/data.htm">https://www.bls.gov/cpi/data.htm</ext-link>) so as to be reported in 2020 USD.</p>
+            <p id="Par25">Health state costs were included for liver disease, CVD, T2D, and obesity. Costs for liver disease and CVD represent annual nondrug costs, with inputs informed by the ICER model [<xref ref-type="bibr" rid="CR12">12</xref>]. Input parameters for obesity health state costs were guided by the obesity model developed for the liraglutide 3 mg NICE submission [<xref ref-type="bibr" rid="CR23">23</xref>]. Included event costs were for CVD events and AEs. CVD costs represent annual nondrug costs, and annual cost from AEs is applied while on treatment. CVD event costs and AE costs were informed by the ICER model [<xref ref-type="bibr" rid="CR12">12</xref>], and frequency of AEs was obtained from an interim analysis of the REGENERATE trial [<xref ref-type="bibr" rid="CR16">16</xref>]. Input parameters for all health state and event costs are included in Supplementary Table 6. Included treatment costs are associated with drug acquisition and administration and are presented in Supplementary Table 7.</p>
+          </sec>
+        </sec>
+        <sec id="Sec16">
+          <title>Treatment Effect</title>
+          <p id="Par26">Treatment effect is formalized as a factor affecting risk. The treatment may affect disease progression in three different ways: (1) the treatment directly affects transition probabilities between health states (e.g., risk ratio of fibrosis progression, improvement or worsening, versus natural history), and no direct effect on liver complications and comorbidity outcome risks is assumed; (2) treatment may affect biomarkers and some patient characteristics that are predictors in risk equations (such as body mass index, glycated hemoglobin, low-density lipoprotein [LDL], high-density lipoprotein, total cholesterol, and systolic blood pressure). However, patient characteristics are not currently included as direct predictors of treatment effect, due to lack of appropriate data; (3) changed disease progression could impact risks indirectly (e.g., NASH status is a predictor of CVD risks; risk ratios are assumed relative to no-NASH population).</p>
+          <p id="Par27">Relative risks applied to natural history progression for fibrosis followed the approach of the ICER model (Table <xref rid="Tab3" ref-type="table">3</xref>) [<xref ref-type="bibr" rid="CR12">12</xref>]. As there are concerns around medications that increase lipid levels, particularly LDL-cholesterol, due to the associated increased risk of CVD, increases in LDL-cholesterol observed in patients receiving obeticholic acid were incorporated after 1 year of treatment, following the approach of the ICER model (Supplementary Table 8) [<xref ref-type="bibr" rid="CR12">12</xref>].<table-wrap id="Tab3"><label>Table 3</label><caption><p>Relative risk applied to fibrosis progression assumed under natural history progression</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Endpoint</th><th align="left">Obeticholic acid [<xref ref-type="bibr" rid="CR12">12</xref>]</th><th align="left">Standard of care</th></tr></thead><tbody><tr><td align="left" rowspan="3">Risk ratio of fibrosis improvement versus natural history</td><td align="left">1.65</td><td align="left" rowspan="3">1</td></tr><tr><td align="left">Lower bound: 1.493</td></tr><tr><td align="left">Upper bound: 1.824</td></tr><tr><td align="left" rowspan="3">Risk ratio of fibrosis worsening versus natural history</td><td align="left">0.62</td><td align="left" rowspan="3">1</td></tr><tr><td align="left">Lower bound: 0.682</td></tr><tr><td align="left">Upper bound: 0.563</td></tr></tbody></table></table-wrap></p>
+        </sec>
+        <sec id="Sec17">
+          <title>Treatment Delay and Discontinuations</title>
+          <p id="Par28">Treatment in both arms may be delayed by diagnostic inertia. The delay is a CEM input applied equally in each arm. While treatment is delayed, patients progress with NASH and comorbidities according to natural history progression. Treatment-related costs and health benefits start accruing when treatment starts after the user-defined delay. In the prototype analysis, the diagnostic inertia is set to zero (no delay). Intervention-specific discontinuation rates were input into the CEM and applied stochastically in the PLS, and deterministically in the CLM model. The annual discontinuation rate for obeticholic acid was assumed to be 6%, based on data from the REGENERATE trial [<xref ref-type="bibr" rid="CR16">16</xref>], and for SoC was assumed to be zero. Unless a patient discontinued treatment, they were assumed to be continuously treated with obeticholic acid. The CEM allows for maximum treatment durations and stopping rules, although these were not actioned in the prototype analysis. After discontinuation, patients will continue progression according to natural history of disease.</p>
+        </sec>
+        <sec id="Sec18">
+          <title>CEM Outcomes</title>
+          <p id="Par29">The CEM calculates total and incremental costs, life years (LYs), quality-adjusted LYs (QALYs), ICERs, and incremental cost-utility ratios for obeticholic acid and SoC.</p>
+          <p id="Par30">The CEM framework permits scenario analyses to be conducted to assess the impact of changes on the results in the selection of underlying CEM parameters or values, including patient subpopulations, time horizon, discount rates, natural history of disease, and treatment efficacy assumptions. The CEM also allows for the accounting of uncertainty in input parameters, through use of deterministic sensitivity analyses and probabilistic sensitivity analyses, which were performed by varying CEM parameters according to appropriate probability distributions around the prototype analysis. Further details on the deterministic and probabilistic sensitivity analysis methodology are provided in the Supplementary Information.</p>
+        </sec>
+        <sec id="Sec19">
+          <title>Validation Approach</title>
+          <p id="Par31">The CEM was subject to several rounds of technical validation to identify and resolve any calculation errors that were inadvertently introduced as part of its development. Clinical validation was undertaken by an advisory board of clinical and health economics experts that was convened in 2021 as part of the CEM validation process. In addition, a cross-validation exercise was undertaken to compare results with two previously developed models of obeticholic acid versus SoC [<xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR13">13</xref>]. Based on reported outcomes for each published model, the equivalent results from the CEM were extracted and compared (i.e., inputs for the CEM were adjusted to reflect those reported in the published reports, and results were extracted). Any notable differences in results across models were recorded and included as part of a narrative summary of the cross-validation exercise.</p>
+        </sec>
+      </sec>
+      <sec id="Sec20">
+        <title>Results</title>
+        <sec id="Sec21">
+          <title>CEM Results</title>
+          <p id="Par32">The prototype analysis was performed using a PLS. For obeticholic acid versus SoC, respectively, total costs were $911,651 versus $244,263, total LYs were 15.651 versus 14.935, and total QALYs were 12.325 versus 11.637 (Table <xref rid="Tab4" ref-type="table">4</xref>). Clinical outcomes related to liver disease health states (mean fibrosis stage change, DCC, and HCC) were more frequent for patients receiving SoC versus obeticholic acid, while outcomes related to comorbidities were lower for patients receiving SoC versus obeticholic acid (Supplementary Table 9).<table-wrap id="Tab4"><label>Table 4</label><caption><p>Summary results for prototype analysis</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Endpoint</th><th align="left">Obeticholic acid</th><th align="left">Standard of care</th></tr></thead><tbody><tr><td align="left">Total costs, US$</td><td align="left">911,651</td><td align="left">244,263</td></tr><tr><td align="left">Total LYs</td><td align="left">15.651</td><td align="left">14.935</td></tr><tr><td align="left">Total QALYs</td><td align="left">12.325</td><td align="left">11.637</td></tr><tr><td align="left">Incremental costs, US$</td><td align="left" colspan="2">667,389</td></tr><tr><td align="left">Incremental LYs</td><td align="left" colspan="2">0.716</td></tr><tr><td align="left">Incremental QALYs</td><td align="left" colspan="2">0.688</td></tr><tr><td align="left">ICER (cost per LY gain), US$</td><td align="left" colspan="2">931,618</td></tr><tr><td align="left">ICUR (cost per QALY gain), US$</td><td align="left" colspan="2">969,949</td></tr></tbody></table><table-wrap-foot><p><italic>ICER</italic> incremental cost-effectiveness ratio, <italic>ICUR</italic> incremental cost-utility ratio, <italic>LY</italic> life year, <italic>QALY</italic> quality adjusted life year</p></table-wrap-foot></table-wrap></p>
+          <p id="Par33">Costs were disaggregated by outcome, health state, and comorbidity (Supplementary Table 10). The greater overall cost for obeticholic acid versus SoC was driven by higher costs of drug acquisition ($716,879 versus $0, respectively). Drug acquisitions costs for obeticholic acid represented 78% of total costs; for patients receiving SoC, 99% of total costs were due to disease management costs. Except for fibrosis stage F0–F2, costs for individual liver-disease health states were higher with SoC compared with obeticholic acid, while costs for comorbidities were nominally greater with obeticholic acid versus SoC. For both comparators, the largest associated cost by comorbidities was T2D, and by liver-disease health state was HCC.</p>
+          <p id="Par34">Deterministic sensitivity analysis and probabilistic sensitivity analysis results can be found in the Supplementary Information.</p>
+        </sec>
+        <sec id="Sec22">
+          <title>Validation Results</title>
+          <p id="Par35">Key findings from the clinical validation undertaken by expert advisors were incorporated into this CEM. For example, the core model structure was based on fibrosis staging, in keeping with previous ICER models [<xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR13">13</xref>]. A microsimulation approach (PLS) was utilized to adequately account for patient outcome heterogeneity and tracking patient history/changing risk of competing events, or at least an element of this. In addition, the model incorporated the ability for payers to assess the face-validity of component parts of the model (e.g., the ability to turn off comorbidity health states to assess the cost-effectiveness in NASH outcomes alone).</p>
+          <p id="Par36">Cross-validation findings showed that the CEM yields markedly different results versus the previously published ICER models (which also present substantially different results from each other), although it should be noted that owing to limited reporting and different model structures, a thorough investigation of cross-validation findings was not feasible. LYs estimated by the CEM were approximately 1.7 times those produced by the ICER 2016 model but were more closely aligned with the ICER 2020 model (approximately 1.2 times). Costs for obeticholic acid in the CEM were nearly twice the costs predicted by the ICER 2016 model, likely reflecting longer treatment duration (due to extended survival). Conversely, the ICER 2020 model estimated higher total costs compared with the CEM (although survival was shorter in the ICER 2020 model). Costs were substantially affected by the specification of a stopping rule for obeticholic acid.</p>
+          <p id="Par37">The cross-validation exercise identified key drivers of differences in the CEM and ICER cost-effectiveness results. These included mortality inputs, transition probability estimates (and the methodological approach used to derive these estimates), incorporation (or lack thereof) of treatment effects (and which transition[s] are affected), and the inclusion (or lack thereof) of specific complications and/or comorbidities explicitly captured as part of the model structure and disease process. Details on the cross-validation exercise can be found in the technical report (Supplementary Appendix).</p>
+        </sec>
+      </sec>
+      <sec id="Sec23">
+        <title>Discussion</title>
+        <p id="Par38">This report describes the development of a de novo CEM framework to evaluate the potential cost-effectiveness of NASH therapies. As highlighted by Johansen et al. [<xref ref-type="bibr" rid="CR10">10</xref>], published CEMs in NAFLD or NASH populations have limitations that preclude their immediate suitability to fully explore the potential benefits, costs, and consequences of different types of NASH therapies. These include a lack of NASH-specific data that necessitates inclusion of various assumptions in model input parameters, and omission of common comorbid conditions. This CEM aligns closely with other recent CEM models, such as those outlined by Rustgi et al. [<xref ref-type="bibr" rid="CR25">25</xref>] and Javanbakht et al. [<xref ref-type="bibr" rid="CR26">26</xref>], in its approach to transition probabilities and the sources used for NASH data. However, the CEM presented here attempts to address the unmet need highlighted in both of these papers by incorporating the clinical consequences of several comorbidities that frequently occur alongside NASH, including obesity, T2D, and CVD. Furthermore, to the best of our knowledge, this is the first NASH CEM developed using DICE methodology to run analyses. Similar to previous models, this CEM includes several assumptions due to a lack of NASH-specific data available at the time of development. As such, this CEM is considered a framework that, while offering some improvements over existing models, will be further developed in future as more relevant data become available.</p>
+        <p id="Par39">A core outcome set (COS) for NASH has been described by the coreNASH panel, who propose that the COS could support regulatory and market access decision-making when evaluating the value of new treatments for NASH [<xref ref-type="bibr" rid="CR27">27</xref>]. For NASH without cirrhosis (F2–F3), the final COS reported by the panel included disease stage, fibrosis stage, and hepatic-related mortality. For NASH with cirrhosis (F4), the final COS included health-related QoL, hepatic-related morbidity, cirrhosis, fibrosis stage, HCC, clinical need for liver transplant, decompensation events, Model for End-Stage Liver Disease (MELD) score, hospital stay, all-cause mortality, hepatic-related mortality, and survival. Outcomes reported by this CEM broadly align with the COS, although MELD score and hospital stay are not currently included.</p>
+        <p id="Par40">Various types of validation were explored and conducted where possible with currently available data. Clinical validation was undertaken by an advisory board of clinical and health economics experts, with key recommendations from advisors incorporated into this CEM. A technical validation was undertaken to identify model errors introduced throughout construction, which were resolved before finalization. A cross-validation against two published models comparing obeticholic acid to SoC was performed, although results were notably different driven by key differences in approach taken to reflect survival, model transitions, and incorporate treatment effects. External and predictive validations were not feasible, owing to an absence of relevant data. As such, this work can be viewed as laying the path for future modeling validation work in NASH.</p>
+        <p id="Par41">This work reflects the importance of establishing the need to treat patients holistically, and not limit focus to liver biomarkers and hepatic outcomes.</p>
+        <sec id="Sec24">
+          <title>Strengths and Limitations</title>
+          <p id="Par42">The key strengths of the CEM include its flexibility to evaluate cost-effectiveness in NASH therapies across a variety of settings, the ability to assess input parameter uncertainty, and the ease of incorporating new patient profiles, comparators, and data sources as they become available.</p>
+          <p id="Par43">There are several inherent challenges for modeling new interventions in NASH, for example, heterogeneity due to diagnostic techniques (biopsy versus noninvasive techniques), interassessor and biopsy site variability in measured outcomes, and the prevalence of metabolic, cardiovascular, and mortality risk-modifying comorbidities. In addition, fibrosis progression can take several years, and it may be challenging to observe significant improvements if follow-up time is inadequate. Finally, significant placebo effects can be observed in NASH trials that could concern payers regarding the generalizability of SoC treatment. For the latter, real-world evidence, healthcare resource utilization data, and subpopulation analyses may be needed to illustrate the generalizability of trial results.</p>
+          <p id="Par44">The main limitations of this CEM stem from a lack of available data, leading to the incorporation of several assumptions. In particular, there is currently inadequate information to inform the link between NASH histology and fibrosis with hard clinical outcomes. Modeling of surrogate outcomes for prediction of long-term outcomes (based on histological changes in liver fibrosis and inflammation) may be required; however, relying on surrogate outcomes will add uncertainty in cost-effectiveness estimates. There is a lack of comprehensive risk equations for NASH comorbidities, and the relationships with NASH are not well established; therefore, some assumptions for cardiovascular outcomes in cardiovascular risk equations were based on temporary changes in risk factors that may not reflect long-term change. In addition, the United Kingdom Prospective Diabetes Study (UKPDS) risk equations [<xref ref-type="bibr" rid="CR28">28</xref>] were developed in T2D populations and validation within a NASH population would improve their suitability for inclusion in this CEM. For the PLS, individual patients were generated according to population averages and standard deviations. A limitation of this approach is that it ignores the likely important correlations between the baseline characteristics. However, that information was not available for the CEM development. NASH resolution is currently not included in the CEM. While this is due to data limitations, this may be a concern for payers when approving a treatment for NASH. It is also worth noting that for this framework, patient profiles were generated from a study with semaglutide. Though this may mean that the results differ from clinical evaluation models that looked at data from a study using obeticholic acid specifically, the summary analysis based on NASH patient-level data available from this study allowed for greater generalization of the framework, and thus wider applicability.</p>
+        </sec>
+        <sec id="Sec25">
+          <title>Proposed Future Developments</title>
+          <p id="Par45">Several drug classes are in clinical development for the treatment of NASH, and, as such, potentially relevant data may become available in the coming years that could be used to improve this CEM or other NASH models. These include incorporation of surrogate outcomes used to predict long-term clinical outcomes once suitable modeling data are available, for example, the incorporation of liver enzymes as potential predictors of treatment effect.</p>
+          <p id="Par46">In this CEM, CVD event risk is currently derived from an assumption made for the relative risk of CVD in patients with NASH, relative to CVD risk in patients without NASH. Comparing rates of CVD events using the UKPDS in the NASH and T2D population with cardiovascular events in NASH registries (e.g., the Liver Investigation: Testing Marker Utility in Steatohepatitis [LITMUS] and Non-Invasive Biomarkers of Metabolic Liver Disease [NIMBLE] consortia) may be beneficial.</p>
+          <p id="Par47">Factors omitted from the current CEM include indirect costs (not used in US base case) and treatment effect on liver histology (NAFLD Activity Score component scores), liver enzymes, obesity, T2D, and hypertension. Placeholders are included for these inputs for potential implementation at a later stage. To fully align with the NASH COS described by the coreNASH panel [<xref ref-type="bibr" rid="CR27">27</xref>], MELD score and hospital stay are also proposed for incorporation as part of any future works for this CEM. In addition, it is anticipated that parameters associated with SoC may require updating in the future as other pharmacologic treatments gain approval and become part of the SoC for NASH.</p>
+        </sec>
+      </sec>
+      <sec id="Sec26">
+        <title>Conclusion</title>
+        <p id="Par48">This CEM utilizes NASH-specific data to create a framework that can be used to estimate the cost-effectiveness of NASH interventions and is the first model to incorporate the clinical consequences of NASH comorbidities. There is still a lack of information available regarding several important considerations for cost-effectiveness models in NASH, such as the link between NASH histology and clinical outcomes and the interaction of comorbidities with NASH. However, due to its flexibility, the model can be further developed in the future to include the increasing amount of NASH data being generated.</p>
+      </sec>
+      <sec sec-type="supplementary-material">
+        <sec id="Sec27">
+          <title>Supplementary Information</title>
+          <p>Below is the link to the electronic supplementary material.<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="40273_2023_1298_MOESM1_ESM.docx"><caption><p>Supplementary file1 (DOCX 462 kb)</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="40273_2023_1298_MOESM2_ESM.pdf"><caption><p>Supplementary file2 (PDF 1190 kb)</p></caption></media></supplementary-material></p>
+        </sec>
+      </sec>
+    </body>
+    <back>
+      <ack>
+        <title>Acknowledgements</title>
+        <p>Medical writing and editorial support were provided by Sally Humphries, a contract worker on behalf of Spirit Medical Communications Group Limited (funded by Novo Nordisk A/S), under the direction of the authors. Novo Nordisk A/S also performed a medical accuracy review.</p>
+      </ack>
+      <notes>
+        <title>Declarations</title>
+        <notes id="FPar1" notes-type="COI-statement">
+          <title>Conflict of interest</title>
+          <p id="Par49">MA is an employee of Novo Nordisk A/S and shareholder of Novo Nordisk A/S. IS is a health economics contractor commissioned by Novo Nordisk A/S. Development of the model was commissioned to Evidera by Novo Nordisk and GF, PG, and RG are employees of Evidera. Validation of the model was commissioned to Delta Hat by Novo Nordisk and AB, EH, and ZP are employees of Delta Hat.</p>
+        </notes>
+        <notes id="FPar2" notes-type="funding">
+          <title>Funding</title>
+          <p id="Par50">This study was funded by Novo Nordisk A/S, Søborg, Denmark. Novo Nordisk A/S and Evidera were responsible for the study concept and design, data collection, and the decision to submit this article for publication. With the input of all authors, Novo Nordisk A/S were involved in analysis and interpretation of data and writing of this report.</p>
+        </notes>
+        <notes>
+          <title>Ethics approval</title>
+          <p>Protocols for both study NN9931-4296 (NCT02970942) and REGENERATE (NCT02548351) from which the current study used patient-level data, were both approved by the respective Ethics Committees.</p>
+        </notes>
+        <notes>
+          <title>Consent to participate</title>
+          <p>All patients in the NN9931-4296 (NCT02970942) and REGENERATE (NCT02548351) studies gave written informed
+consent for research participation.
+</p>
+        </notes>
+        <notes>
+          <title>Consent for publication</title>
+          <p>Not applicable.</p>
+        </notes>
+        <notes id="FPar3">
+          <title>Availability of data and material</title>
+          <p id="Par51">All data generated or analyzed during this study are included in this published article (and its supplementary information files).</p>
+        </notes>
+        <notes>
+          <title>Code availability</title>
+          <p>Not applicable.</p>
+        </notes>
+        <notes id="FPar4">
+          <title>Authors’ contributions</title>
+          <p id="Par52">PG provided the study concept and design. All authors contributed to the analysis and interpretation of the data. GF, PG, and RG developed the cost-effectiveness model, and AB, EH, and ZP performed the validations. All authors contributed to the drafting of the paper, critically revised the paper for intellectual content, were involved in the final approval of the version to be published, and agreed to be accountable for ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. MA is the overall guarantor.</p>
+        </notes>
+      </notes>
+      <ref-list id="Bib1">
+        <title>References</title>
+        <ref id="CR1">
+          <label>1.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Chalasani</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Younossi</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Lavine</surname>
+                <given-names>JE</given-names>
+              </name>
+              <name>
+                <surname>Charlton</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Cusi</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Rinella</surname>
+                <given-names>M</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>The diagnosis and management of nonalcoholic fatty liver disease: practice guidance from the American Association for the Study of Liver Diseases</article-title>
+            <source>Hepatology</source>
+            <year>2018</year>
+            <volume>67</volume>
+            <issue>1</issue>
+            <fpage>328</fpage>
+            <lpage>357</lpage>
+            <pub-id pub-id-type="doi">10.1002/hep.29367</pub-id>
+            <pub-id pub-id-type="pmid">28714183</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR2">
+          <label>2.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Povsic</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Wong</surname>
+                <given-names>OY</given-names>
+              </name>
+              <name>
+                <surname>Perry</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Bottomley</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>A structured literature review of the epidemiology and disease burden of non-alcoholic steatohepatitis (NASH)</article-title>
+            <source>Adv Ther</source>
+            <year>2019</year>
+            <volume>36</volume>
+            <issue>7</issue>
+            <fpage>1574</fpage>
+            <lpage>1594</lpage>
+            <pub-id pub-id-type="doi">10.1007/s12325-019-00960-3</pub-id>
+            <pub-id pub-id-type="pmid">31065991</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR3">
+          <label>3.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Estes</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Anstee</surname>
+                <given-names>QM</given-names>
+              </name>
+              <name>
+                <surname>Arias-Loste</surname>
+                <given-names>MT</given-names>
+              </name>
+              <name>
+                <surname>Bantel</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Bellentani</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Caballeria</surname>
+                <given-names>J</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Modeling NAFLD disease burden in China, France, Germany, Italy, Japan, Spain, United Kingdom, and United States for the period 2016–2030</article-title>
+            <source>J Hepatol</source>
+            <year>2018</year>
+            <volume>69</volume>
+            <issue>4</issue>
+            <fpage>896</fpage>
+            <lpage>904</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.jhep.2018.05.036</pub-id>
+            <pub-id pub-id-type="pmid">29886156</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR4">
+          <label>4.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Younossi</surname>
+                <given-names>ZM</given-names>
+              </name>
+              <name>
+                <surname>Tampi</surname>
+                <given-names>RP</given-names>
+              </name>
+              <name>
+                <surname>Racila</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Qiu</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Burns</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Younossi</surname>
+                <given-names>I</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Economic and clinical burden of nonalcoholic steatohepatitis in patients with type 2 diabetes in the US</article-title>
+            <source>Diabetes Care</source>
+            <year>2020</year>
+            <volume>43</volume>
+            <issue>2</issue>
+            <fpage>283</fpage>
+            <lpage>289</lpage>
+            <pub-id pub-id-type="doi">10.2337/dc19-1113</pub-id>
+            <pub-id pub-id-type="pmid">31658974</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR5">
+          <label>5.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Targher</surname>
+                <given-names>G</given-names>
+              </name>
+              <name>
+                <surname>Tilg</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Byrne</surname>
+                <given-names>CD</given-names>
+              </name>
+            </person-group>
+            <article-title>Non-alcoholic fatty liver disease: a multisystem disease requiring a multidisciplinary and holistic approach</article-title>
+            <source>Lancet Gastroenterol Hepatol</source>
+            <year>2021</year>
+            <volume>6</volume>
+            <issue>7</issue>
+            <fpage>578</fpage>
+            <lpage>588</lpage>
+            <pub-id pub-id-type="doi">10.1016/S2468-1253(21)00020-0</pub-id>
+            <pub-id pub-id-type="pmid">33961787</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR6">
+          <label>6.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Abdelmalek</surname>
+                <given-names>MF</given-names>
+              </name>
+            </person-group>
+            <article-title>Nonalcoholic fatty liver disease: another leap forward</article-title>
+            <source>Nat Rev Gastroenterol Hepatol</source>
+            <year>2021</year>
+            <volume>18</volume>
+            <issue>2</issue>
+            <fpage>85</fpage>
+            <lpage>86</lpage>
+            <pub-id pub-id-type="doi">10.1038/s41575-020-00406-0</pub-id>
+            <pub-id pub-id-type="pmid">33420415</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR7">
+          <label>7.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <collab>European Association for the Study of the Liver, European Association for the Study of Diabetes, European Association for the Study of Obesity</collab>
+            </person-group>
+            <article-title>EASL-EASD-EASO Clinical practice guidelines for the management of non-alcoholic fatty liver disease</article-title>
+            <source>Diabetologia</source>
+            <year>2016</year>
+            <volume>59</volume>
+            <issue>6</issue>
+            <fpage>1121</fpage>
+            <lpage>1140</lpage>
+            <pub-id pub-id-type="doi">10.1007/s00125-016-3902-y</pub-id>
+            <pub-id pub-id-type="pmid">27053230</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR8">
+          <label>8.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Mantovani</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Targher</surname>
+                <given-names>G</given-names>
+              </name>
+            </person-group>
+            <article-title>Glucagon-like peptide-1 receptor agonists for treatment of nonalcoholic steatohepatitis: new insights from subcutaneous semaglutide</article-title>
+            <source>Hepatobiliary Surg Nutr</source>
+            <year>2021</year>
+            <volume>10</volume>
+            <issue>4</issue>
+            <fpage>518</fpage>
+            <lpage>521</lpage>
+            <pub-id pub-id-type="doi">10.21037/hbsn-2021-13</pub-id>
+            <pub-id pub-id-type="pmid">34430533</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR9">
+          <label>9.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Caro</surname>
+                <given-names>JJ</given-names>
+              </name>
+              <name>
+                <surname>Moller</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>Decision-analytic models: current methodological challenges</article-title>
+            <source>Pharmacoeconomics</source>
+            <year>2014</year>
+            <volume>32</volume>
+            <issue>10</issue>
+            <fpage>943</fpage>
+            <lpage>950</lpage>
+            <pub-id pub-id-type="doi">10.1007/s40273-014-0183-5</pub-id>
+            <pub-id pub-id-type="pmid">24986039</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR10">
+          <label>10.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Johansen</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Howard</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Bishop</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Moreno</surname>
+                <given-names>SI</given-names>
+              </name>
+              <name>
+                <surname>Buchholtz</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Systematic literature review and critical appraisal of health economic models used in cost-effectiveness analyses in non-alcoholic steatohepatitis: potential for improvements</article-title>
+            <source>Pharmacoeconomics</source>
+            <year>2020</year>
+            <volume>38</volume>
+            <issue>5</issue>
+            <fpage>485</fpage>
+            <lpage>497</lpage>
+            <pub-id pub-id-type="doi">10.1007/s40273-019-00881-7</pub-id>
+            <pub-id pub-id-type="pmid">31919793</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR11">
+          <label>11.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gruneau</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Ekstedt</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Kechagias</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Henriksson</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Disease progression modeling for economic evaluation in nonalcoholic fatty liver disease-a systematic review</article-title>
+            <source>Clin Gastroenterol Hepatol</source>
+            <year>2023</year>
+            <volume>21</volume>
+            <issue>2</issue>
+            <fpage>283</fpage>
+            <lpage>298</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.cgh.2021.10.040</pub-id>
+            <pub-id pub-id-type="pmid">34757199</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR12">
+          <label>12.</label>
+          <mixed-citation publication-type="other">Rind DM, Hansen RN, Guzauskas G, Beinfeld M, Chapman R, Bradt P, et al. Obeticholic acid for the treatment of nonalcoholic steatohepatitis with fibrosis: effectiveness and value: Institute for Clinical and Economic Review; 2020. <ext-link ext-link-type="uri" xlink:href="https://icer-review.org/material/nash-evidence-report/">https://icer-review.org/material/nash-evidence-report/</ext-link>. Accessed 28 Nov 2022.</mixed-citation>
+        </ref>
+        <ref id="CR13">
+          <label>13.</label>
+          <mixed-citation publication-type="other">Pearson SD, Banken R, Chapman R, Russo ET, Loos AM, Emond SK, et al. Obeticholic acid for the treatment of nonalcoholic steatohepatitis: comparative clinical effectiveness and value: Institute for Clinical and Economic Review; 2016. <ext-link ext-link-type="uri" xlink:href="https://icer.org/wp-content/uploads/2020/10/NECEPAC_OCA_NASH_Evidence_Report_FINAL.pdf">https://icer.org/wp-content/uploads/2020/10/NECEPAC_OCA_NASH_Evidence_Report_FINAL.pdf</ext-link>. Accessed 28 Nov 2022.</mixed-citation>
+        </ref>
+        <ref id="CR14">
+          <label>14.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Caro</surname>
+                <given-names>JJ</given-names>
+              </name>
+            </person-group>
+            <article-title>Discretely Integrated Condition Event (DICE) simulation for pharmacoeconomics</article-title>
+            <source>Pharmacoeconomics</source>
+            <year>2016</year>
+            <volume>34</volume>
+            <issue>7</issue>
+            <fpage>665</fpage>
+            <lpage>672</lpage>
+            <pub-id pub-id-type="doi">10.1007/s40273-016-0394-z</pub-id>
+            <pub-id pub-id-type="pmid">26961779</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR15">
+          <label>15.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Newsome</surname>
+                <given-names>PN</given-names>
+              </name>
+              <name>
+                <surname>Buchholtz</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Cusi</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Linder</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Okanoue</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Ratziu</surname>
+                <given-names>V</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>A placebo-controlled trial of subcutaneous semaglutide in nonalcoholic steatohepatitis</article-title>
+            <source>N Engl J Med</source>
+            <year>2021</year>
+            <volume>384</volume>
+            <issue>12</issue>
+            <fpage>1113</fpage>
+            <lpage>1124</lpage>
+            <pub-id pub-id-type="doi">10.1056/NEJMoa2028395</pub-id>
+            <pub-id pub-id-type="pmid">33185364</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR16">
+          <label>16.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Younossi</surname>
+                <given-names>ZM</given-names>
+              </name>
+              <name>
+                <surname>Ratziu</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Loomba</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Rinella</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Anstee</surname>
+                <given-names>QM</given-names>
+              </name>
+              <name>
+                <surname>Goodman</surname>
+                <given-names>Z</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Obeticholic acid for the treatment of non-alcoholic steatohepatitis: interim analysis from a multicentre, randomised, placebo-controlled phase 3 trial</article-title>
+            <source>Lancet</source>
+            <year>2019</year>
+            <volume>394</volume>
+            <issue>10215</issue>
+            <fpage>2184</fpage>
+            <lpage>2196</lpage>
+            <pub-id pub-id-type="doi">10.1016/S0140-6736(19)33041-7</pub-id>
+            <pub-id pub-id-type="pmid">31813633</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR17">
+          <label>17.</label>
+          <mixed-citation publication-type="other">Tice JA, Suh K, Fahim SM, Carlson JJ, Richardson M, Herce-Hagiwara B, et al. Resmetirom and obeticholic acid for non-alcoholic steatohepatitis (NASH); draft evidence report: Institute for Clinical and Economic Review. 2023. <ext-link ext-link-type="uri" xlink:href="https://icer.org/wp-content/uploads/2022/10/NASH-Draft-Report_For-Publication02162023.pdf">https://icer.org/wp-content/uploads/2022/10/NASH-Draft-Report_For-Publication02162023.pdf</ext-link>. Accessed 15 May 2023.</mixed-citation>
+        </ref>
+        <ref id="CR18">
+          <label>18.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Singh</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Allen</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>Z</given-names>
+              </name>
+              <name>
+                <surname>Prokop</surname>
+                <given-names>LJ</given-names>
+              </name>
+              <name>
+                <surname>Murad</surname>
+                <given-names>MH</given-names>
+              </name>
+              <name>
+                <surname>Loomba</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Fibrosis progression in nonalcoholic fatty liver vs nonalcoholic steatohepatitis: a systematic review and meta-analysis of paired-biopsy studies</article-title>
+            <source>Clin Gastroenterol Hepatol</source>
+            <year>2015</year>
+            <volume>13</volume>
+            <issue>4</issue>
+            <fpage>643</fpage>
+            <lpage>654</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.cgh.2014.04.014</pub-id>
+            <pub-id pub-id-type="pmid">24768810</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR19">
+          <label>19.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gal</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Rakonczai</surname>
+                <given-names>P</given-names>
+              </name>
+            </person-group>
+            <article-title>PDB68 maximum-likelihood estimation of transition probabilities between fibrosis stages in nonalcoholic steatohepatitis (NASH)</article-title>
+            <source>Value Health</source>
+            <year>2020</year>
+            <volume>23</volume>
+            <fpage>S517</fpage>
+            <pub-id pub-id-type="doi">10.1016/j.jval.2020.08.665</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR20">
+          <label>20.</label>
+          <mixed-citation publication-type="other">Gal P, Rakonczai P. Maximum-likelihood estimation of transition probabilities between fibrosis stages in nonalcoholic steatohepatitis (NASH). ISPOR Europe [Virtual]. 2020.</mixed-citation>
+        </ref>
+        <ref id="CR21">
+          <label>21.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ascha</surname>
+                <given-names>MS</given-names>
+              </name>
+              <name>
+                <surname>Hanouneh</surname>
+                <given-names>IA</given-names>
+              </name>
+              <name>
+                <surname>Lopez</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Tamimi</surname>
+                <given-names>TA</given-names>
+              </name>
+              <name>
+                <surname>Feldstein</surname>
+                <given-names>AF</given-names>
+              </name>
+              <name>
+                <surname>Zein</surname>
+                <given-names>NN</given-names>
+              </name>
+            </person-group>
+            <article-title>The incidence and risk factors of hepatocellular carcinoma in patients with nonalcoholic steatohepatitis</article-title>
+            <source>Hepatology</source>
+            <year>2010</year>
+            <volume>51</volume>
+            <issue>6</issue>
+            <fpage>1972</fpage>
+            <lpage>1978</lpage>
+            <pub-id pub-id-type="doi">10.1002/hep.23527</pub-id>
+            <pub-id pub-id-type="pmid">20209604</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR22">
+          <label>22.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Vilar-Gomez</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Calzadilla-Bertot</surname>
+                <given-names>L</given-names>
+              </name>
+              <name>
+                <surname>Wai-Sun Wong</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Castellanos</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Aller-de la Fuente</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Metwally</surname>
+                <given-names>M</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>Fibrosis severity as a determinant of cause-specific mortality in patients with advanced nonalcoholic fatty liver disease: a multi-national cohort study</article-title>
+            <source>Gastroenterology</source>
+            <year>2018</year>
+            <volume>155</volume>
+            <issue>2</issue>
+            <fpage>443</fpage>
+            <lpage>457.e17</lpage>
+            <pub-id pub-id-type="doi">10.1053/j.gastro.2018.04.034</pub-id>
+            <pub-id pub-id-type="pmid">29733831</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR23">
+          <label>23.</label>
+          <mixed-citation publication-type="other">National Institute for Health and Care Excellence. Liraglutide for managing overweight and obesity [ID740]. 2020. <ext-link ext-link-type="uri" xlink:href="https://www.nice.org.uk/guidance/gid-ta10388/documents/committee-papers-2">https://www.nice.org.uk/guidance/gid-ta10388/documents/committee-papers-2</ext-link>. Accessed 28 Nov 2022.</mixed-citation>
+        </ref>
+        <ref id="CR24">
+          <label>24.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Arias</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Xu</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <article-title>United States life tables, 2017</article-title>
+            <source>Natl Vital Stat Rep</source>
+            <year>2019</year>
+            <volume>68</volume>
+            <issue>7</issue>
+            <fpage>1</fpage>
+            <lpage>66</lpage>
+            <pub-id pub-id-type="pmid">32501200</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR25">
+          <label>25.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Rustgi</surname>
+                <given-names>VK</given-names>
+              </name>
+              <name>
+                <surname>Duff</surname>
+                <given-names>SB</given-names>
+              </name>
+              <name>
+                <surname>Elsaid</surname>
+                <given-names>MI</given-names>
+              </name>
+            </person-group>
+            <article-title>Cost-effectiveness and potential value of pharmaceutical treatment of nonalcoholic fatty liver disease</article-title>
+            <source>J Med Econ</source>
+            <year>2022</year>
+            <volume>25</volume>
+            <issue>1</issue>
+            <fpage>347</fpage>
+            <lpage>355</lpage>
+            <pub-id pub-id-type="doi">10.1080/13696998.2022.2026702</pub-id>
+            <pub-id pub-id-type="pmid">35034553</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR26">
+          <label>26.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Javanbakht</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Fishman</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Moloney</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Rydqvist</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Ansaripour</surname>
+                <given-names>A</given-names>
+              </name>
+            </person-group>
+            <article-title>Early cost-effectiveness and price threshold analyses of resmetirom: an investigational treatment for management of nonalcoholic steatohepatitis</article-title>
+            <source>Pharmacoecon Open</source>
+            <year>2023</year>
+            <volume>7</volume>
+            <issue>1</issue>
+            <fpage>93</fpage>
+            <lpage>110</lpage>
+            <pub-id pub-id-type="doi">10.1007/s41669-022-00370-2</pub-id>
+            <pub-id pub-id-type="pmid">36104546</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR27">
+          <label>27.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Clearfield</surname>
+                <given-names>E</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Nadglowski</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Barradas</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Al Naber</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Sanyal</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <article-title>coreNASH: multi-stakeholder consensus on core outcomes for decision making about nonalcoholic steatohepatitis treatment</article-title>
+            <source>Hepatol Commun</source>
+            <year>2021</year>
+            <volume>5</volume>
+            <issue>5</issue>
+            <fpage>774</fpage>
+            <lpage>785</lpage>
+            <pub-id pub-id-type="doi">10.1002/hep4.1678</pub-id>
+            <pub-id pub-id-type="pmid">34027268</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="CR28">
+          <label>28.</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Hayes</surname>
+                <given-names>AJ</given-names>
+              </name>
+              <name>
+                <surname>Leal</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Gray</surname>
+                <given-names>AM</given-names>
+              </name>
+              <name>
+                <surname>Holman</surname>
+                <given-names>RR</given-names>
+              </name>
+              <name>
+                <surname>Clarke</surname>
+                <given-names>PM</given-names>
+              </name>
+            </person-group>
+            <article-title>UKPDS outcomes model 2: a new version of a model to simulate lifetime health outcomes of patients with type 2 diabetes mellitus using data from the 30 year United Kingdom Prospective Diabetes Study: UKPDS 82</article-title>
+            <source>Diabetologia</source>
+            <year>2013</year>
+            <volume>56</volume>
+            <issue>9</issue>
+            <fpage>1925</fpage>
+            <lpage>1933</lpage>
+            <pub-id pub-id-type="doi">10.1007/s00125-013-2940-y</pub-id>
+            <pub-id pub-id-type="pmid">23793713</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </article>
+</pmc-articleset>
