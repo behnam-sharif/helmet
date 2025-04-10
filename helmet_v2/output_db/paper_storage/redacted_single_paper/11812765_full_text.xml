@@ -1,0 +1,1580 @@
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+    <?properties open_access?>
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+      <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">BMJ Public Health</journal-id>
+        <journal-id journal-id-type="iso-abbrev">BMJ Public Health</journal-id>
+        <journal-id journal-id-type="hwp">bmjph</journal-id>
+        <journal-id journal-id-type="publisher-id">bmjph</journal-id>
+        <journal-title-group>
+          <journal-title>BMJ Public Health</journal-title>
+        </journal-title-group>
+        <issn pub-type="epub">2753-4294</issn>
+        <publisher>
+          <publisher-name>BMJ Publishing Group</publisher-name>
+          <publisher-loc>BMA House, Tavistock Square, London, WC1H 9JR</publisher-loc>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">40018184</article-id>
+        <article-id pub-id-type="pmc">11812765</article-id>
+        <article-id pub-id-type="doi">10.1136/bmjph-2023-000340</article-id>
+        <article-id pub-id-type="publisher-id">bmjph-2023-000340</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Original Research</subject>
+          </subj-group>
+          <subj-group subj-group-type="hwp-journal-coll">
+            <subject>1506</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>Cost-effectiveness of screening for developmental dysplasia of the hip in Karachi, Pakistan using a universally applicable cost-effectiveness model</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author" corresp="yes">
+            <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-0683-9520</contrib-id>
+            <name>
+              <surname>Pigeolet</surname>
+              <given-names>Manon</given-names>
+            </name>
+            <xref rid="aff1" ref-type="aff">1</xref>
+            <xref rid="aff2" ref-type="aff">2</xref>
+            <xref rid="aff3" ref-type="aff">3</xref>
+            <xref rid="cor1" ref-type="corresp"/>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Gaafar</surname>
+              <given-names>Hesham</given-names>
+            </name>
+            <xref rid="aff4" ref-type="aff">4</xref>
+            <xref rid="aff5" ref-type="aff">5</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Naamani</surname>
+              <given-names>Dana</given-names>
+            </name>
+            <xref rid="aff6" ref-type="aff">6</xref>
+            <xref rid="aff7" ref-type="aff">7</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Khan</surname>
+              <given-names>Mansoor Ali</given-names>
+            </name>
+            <xref rid="aff8" ref-type="aff">8</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Alkire</surname>
+              <given-names>Blake Christian</given-names>
+            </name>
+            <xref rid="aff2" ref-type="aff">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Chinoy</surname>
+              <given-names>Muhammad Amin</given-names>
+            </name>
+            <xref rid="aff9" ref-type="aff">9</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-6101-0443</contrib-id>
+            <name>
+              <surname>Corlew</surname>
+              <given-names>Daniel Scott</given-names>
+            </name>
+            <xref rid="aff2" ref-type="aff">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Novais</surname>
+              <given-names>Eduardo N</given-names>
+            </name>
+            <xref rid="aff3" ref-type="aff">3</xref>
+          </contrib>
+          <aff id="aff1"><label>1</label><institution content-type="department">Faculty of Medicine</institution>, <institution>Université Libre de Bruxelles</institution>, <addr-line content-type="city">Bruxelles</addr-line>, <country>Belgium</country></aff>
+          <aff id="aff2"><label>2</label><institution content-type="department">The Program in Global Surgery and Social Change</institution>, <institution>Harvard Medical School</institution>, <addr-line content-type="city">Boston</addr-line>, <addr-line content-type="state">Massachusetts</addr-line>, <country>USA</country></aff>
+          <aff id="aff3"><label>3</label><institution content-type="department">Department of Orthopaedic Surgery</institution>, <institution>Boston Children's Hospital</institution>, <addr-line content-type="city">Boston</addr-line>, <addr-line content-type="state">Massachusetts</addr-line>, <country>USA</country></aff>
+          <aff id="aff4"><label>4</label><institution content-type="department">Precision Health Program</institution>, <institution>University of Chicago Biological Sciences Division</institution>, <addr-line content-type="city">Chicago</addr-line>, <addr-line content-type="state">Illinois</addr-line>, <country>USA</country></aff>
+          <aff id="aff5"><label>5</label><institution content-type="department">Center for Global Health</institution>, <institution>University of Chicago</institution>, <addr-line content-type="city">Chicago</addr-line>, <addr-line content-type="state">Illinois</addr-line>, <country>USA</country></aff>
+          <aff id="aff6"><label>6</label><institution content-type="department">Department of Emergency Medicine</institution>, <institution>Duke University Medical Center</institution>, <addr-line content-type="city">Durham</addr-line>, <addr-line content-type="state">North Carolina</addr-line>, <country>USA</country></aff>
+          <aff id="aff7"><label>7</label><institution content-type="department">Department of Global Health and Population</institution>, <institution>Harvard University T H Chan School of Public Health</institution>, <addr-line content-type="city">Boston</addr-line>, <addr-line content-type="state">Massachusetts</addr-line>, <country>USA</country></aff>
+          <aff id="aff8"><label>8</label><institution content-type="department">Department of Orthopedics</institution>, <institution>The Aga Khan University Hospital</institution>, <addr-line content-type="city">Karachi</addr-line>, <country>Pakistan</country></aff>
+          <aff id="aff9"><label>9</label><institution content-type="department">Department of Orthopedics</institution>, <institution>Indus Hospital &amp; Health Network</institution>, <addr-line content-type="city">Karachi</addr-line>, <country>Pakistan</country></aff>
+        </contrib-group>
+        <author-notes>
+          <fn>
+            <p>Supplemental material This content has been supplied by the author(s). It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been peer-reviewed. Any opinions or recommendations discussed are solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and responsibility arising from any reliance placed on the content. Where the content includes any translated material, BMJ does not warrant the accuracy and reliability of the translations (including but not limited to local regulations, clinical guidelines, terminology, drug names and drug dosages), and is not responsible for any error and/or omissions arising from translation and adaptation or otherwise.</p>
+          </fn>
+          <fn id="fn1">
+            <p>Additional supplemental material is published online only. To view, please visit the journal online (<ext-link xlink:href="https://doi.org/10.1136/bmjph-2023-000340" ext-link-type="uri">https://doi.org/10.1136/bmjph-2023-000340</ext-link>).</p>
+          </fn>
+          <fn fn-type="COI-statement" id="fn4">
+            <p>None declared.</p>
+          </fn>
+          <corresp id="cor1">DrManonPigeolet; <email xlink:href="manon.pigeolet@outlook.com">manon.pigeolet@outlook.com</email></corresp>
+        </author-notes>
+        <pub-date pub-type="collection">
+          <month>6</month>
+          <year>2024</year>
+        </pub-date>
+        <pub-date pub-type="epub">
+          <day>31</day>
+          <month>7</month>
+          <year>2024</year>
+        </pub-date>
+        <volume>2</volume>
+        <issue>1</issue>
+        <elocation-id>e000340</elocation-id>
+        <history>
+          <date date-type="received">
+            <day>25</day>
+            <month>6</month>
+            <year>2023</year>
+          </date>
+          <date date-type="accepted">
+            <day>24</day>
+            <month>4</month>
+            <year>2024</year>
+          </date>
+        </history>
+        <permissions>
+          <copyright-statement>Copyright © Author(s) (or their employer(s)) 2024. Re-use permitted under CC BY-NC. Published by BMJ.</copyright-statement>
+          <copyright-year>2024</copyright-year>
+          <license>
+            <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+            <license-p>This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited, appropriate credit is given, any changes made indicated, and the use is non-commercial. See: <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>.</license-p>
+          </license>
+        </permissions>
+        <self-uri xlink:title="pdf" xlink:href="bmjph-2-1.pdf"/>
+        <kwd-group>
+          <kwd>economics</kwd>
+          <kwd>Community Health</kwd>
+          <kwd>Secondary Prevention</kwd>
+        </kwd-group>
+        <funding-group>
+          <award-group id="fund1">
+            <funding-source>
+              <institution-wrap>
+                <institution>Belgian Kids Fund for Pediatric Research</institution>
+              </institution-wrap>
+            </funding-source>
+            <award-id>NA</award-id>
+          </award-group>
+        </funding-group>
+      </article-meta>
+      <notes notes-type="disclaimer">
+        <p>The funding source was not involved in the research project, the analysis or writing of the manuscript. All other authors declare no competing interests.</p>
+      </notes>
+    </front>
+    <body>
+      <boxed-text id="BX1" position="float">
+        <sec>
+          <title>WHAT IS ALREADY KNOWN ON THIS TOPIC</title>
+          <list list-type="bullet" list-content="ul">
+            <list-item>
+              <p>Developmental dysplasia of the hip (DDH) is a congenital anomaly of the hip socket that can lead to severe disability and pain if not treated correctly.</p>
+            </list-item>
+            <list-item>
+              <p>Controversy remains in the literature about the most clinically effective type screening for DDH: (1) clinical exam as the sole screening modality, (2) universal ultrasound screening of hips in infants or (3) a combined approach where only infants with an abnormal clinical exam or certain risk factors for DDH are referred for further ultrasound diagnostics and follow-up.</p>
+            </list-item>
+            <list-item>
+              <p>Pakistan currently does not have any systematic or universal neonatal screening programme for DDH in place. In 2018, the Pakistani government launched the ‘National Health Vision Pakistan 2025’ to strengthen the national health system including alleviating the burden of surgical disease in Pakistan.</p>
+            </list-item>
+          </list>
+        </sec>
+        <sec>
+          <title>WHAT THIS STUDY ADDS</title>
+          <list list-type="bullet" list-content="ul">
+            <list-item>
+              <p>Introducing a screening programme for DDH will avert up to 2.5 disability-adjusted life-years/1000 alive-born babies compared with the current status quo.</p>
+            </list-item>
+            <list-item>
+              <p>Screening for DDH can be organised in a cost-effective manner in Pakistan at a cost of PPP$3–14 per child, depending on the screening method applied.</p>
+            </list-item>
+            <list-item>
+              <p>A universal ultrasound screening programme, where every newborn would receive a hip ultrasound during the first few weeks of life is the most equitable screening programme for a middle-income country in South Asia, like Pakistan.</p>
+            </list-item>
+          </list>
+        </sec>
+        <sec>
+          <title>HOW THIS STUDY MIGHT AFFECT RESEARCH, PRACTICE OR POLICY</title>
+          <list list-type="bullet" list-content="ul">
+            <list-item>
+              <p>Availability of surgeons, ultrasound machines and expertise, and Pavlik harnesses are potential constraints to be taken into consideration beyond financial constraints when choosing the best screening modality in a certain setting or country.</p>
+            </list-item>
+            <list-item>
+              <p>This paper introduces a globally applicable cost-effectiveness model for DDH screening that takes participants’ behaviour into consideration such as non-adherence, drop-out from treatment and no-shows for screening.</p>
+            </list-item>
+          </list>
+        </sec>
+      </boxed-text>
+      <sec sec-type="intro" id="s1">
+        <title>Introduction</title>
+        <p> Developmental dysplasia of the hip (DDH) is a congenital anomaly of the hip socket that can lead to severe disability and pain if not treated correctly. Standard early treatment, before the age of 6 months, is of a conservative nature with a Pavlik harness. After 6 months, an intervention under general anaesthesia in an operating theatre is necessary with an increasing need for open reduction and additional bony procedures with increasing age.<xref rid="R1" ref-type="bibr">1</xref><xref rid="R3" ref-type="bibr">3</xref> The incidence of DDH ranges from 1.5 to 20/1000 live births, due to genetic differences between populations, differences in cultural habits (swaddling) and differences in diagnostic cut-offs and definitions.<xref rid="R4" ref-type="bibr">4</xref><xref rid="R6" ref-type="bibr">6</xref></p>
+        <p>Late presentation of DDH is still very common in low-income and middle-income countries (LMICs), with a subsequently increased need for expensive surgical treatment.<xref rid="R2" ref-type="bibr"><sup>2 3</sup></xref> Untreated DDH can lead to pain and degenerative hip problems starting in adolescence and continuing throughout adulthood.<xref rid="R7" ref-type="bibr"><sup>7</sup></xref> About 25% of total hip arthroplasties done before the age of 40 are done because of untreated or insufficiently treated DDH, making the societal impact of DDH non-negligible.<xref rid="R8" ref-type="bibr"><sup>8</sup></xref> The patient-level impact of untreated DDH has been estimated to be similar to blindness or hyperthyroidism, with an estimated disability weight (DW) of 0.180.<xref rid="R9" ref-type="bibr"><sup>9 10</sup></xref></p>
+        <p>Controversy remains in the literature about the most clinically effective type of screening for DDH: (1) clinical exam as the sole screening modality, (2) universal ultrasound (US) screening of hips in infants or (3) a combined approach where only infants with an abnormal clinical exam or certain risk factors for DDH are referred for further US diagnostics and follow-up.<xref rid="R5" ref-type="bibr">511</xref><xref rid="R18" ref-type="bibr">18</xref> Controversy equally remains in literature about the most cost-effective type of screening because of a lack of high-quality effectiveness data and high-quality cost-effectiveness analyses.<xref rid="R19" ref-type="bibr"><sup>19</sup></xref></p>
+        <p>DDH can be considered a good candidate for screening because of its high frequency in the population, availability of treatment and the possibility of secondary prevention.<xref rid="R20" ref-type="bibr"><sup>20</sup></xref> Introduction of screening in high-income countries has shown a decrease in surgical interventions for DDH,<xref rid="R6" ref-type="bibr"><sup>6 13 16 21 22</sup></xref> and a majority of primary surgical interventions are less-invasive closed reductions.<xref rid="R23" ref-type="bibr"><sup>23 24</sup></xref> Mongolia is currently the only middle-income country with a generalised US screening programme, reaching 76% of all Mongolian newborns.<xref rid="R25" ref-type="bibr"><sup>25</sup></xref></p>
+        <p>Pakistan is a lower-middle-income country in South Asia with an annual birth rate of about 6 million live births.<xref rid="R26" ref-type="bibr"><sup>26</sup></xref> Pakistan currently does not have any systematic or universal neonatal screening programme for DDH in place. In 2018, the Pakistani government launched the ‘National Health Vision Pakistan 2025’ to strengthen the national health system including alleviating the burden of surgical disease in Pakistan.<xref rid="R27" ref-type="bibr"><sup>27</sup></xref> The universal health coverage (UHC) package proposed by the Pakistani government to be implemented by 2030 includes an allocated budget line for ‘identification/screening of the early childhood development issues: motor, sensory and language stimulation’, which could potentially include DDH screening.<xref rid="R28" ref-type="bibr"><sup>28</sup></xref> The actual burden of DDH is unknown, including the rate of access to conservative or surgical treatment.</p>
+        <p>This study aims to develop a universally applicable cost-effectiveness model for DDH, increasing the quality of cost-effectiveness analyses being done and increasing comparability of results between countries. Additionally, this paper aims to determine the most cost-effective screening method for the Indus Hospital and Health Network (IHHN) in Karachi, Pakistan as an example of how the model can be used in practice.</p>
+      </sec>
+      <sec sec-type="methods" id="s2">
+        <title>Methods</title>
+        <sec id="s2-1">
+          <title>Model design</title>
+          <p>The cost-effectiveness model developed and applied in this study used four different decision trees, one decision tree for each screening scenario. We modelled the following four scenarios: (1) the status quo, (2) universal screening by clinical examination, (3) universal screening by clinical examination with targeted US screening (4) and universal screening by US. The status quo refers to the current situation in Pakistan with an absence of a structured national or regional screening programme. Our model only takes idiopathic DDH into consideration and does not include children with hip subluxation or dislocations due to underlying neurological disorders, arthrogryposis or trauma. All analyses were performed using AMUA (AMUA, Zachary Ward, GitHub, 2022). The model is available as <xref rid="SP1" ref-type="supplementary-material">online supplemental files 1 and 2</xref>.</p>
+          <p>Variables were entered into the model as distributions. Variables for which multiple data points were available were entered as normal distributions, variables with a single data point available were entered as triangular distributions with an artificial range of 5 percentage points above and below the available data point. For DDH prevalence, a range of 50 percentage points was used. This was done to capture the ongoing uncertainty about DDH prevalence in literature. For the cost variables, a range of 10 percentage points was used. A higher range was chosen here to reflect ongoing demands for salary increases for health workers globally, and the potential impact such a salary revalorisation may have. For the DW of DDH, a PERT distribution was applied, to reflect the fact that the DW used in this study has not been widely applied in literature before.</p>
+        </sec>
+        <sec id="s2-2">
+          <title>Setting</title>
+          <p>The IHHN is a not-for-profit hospital network in Karachi, Pakistan offering tertiary hospital-level health services free of cost.<xref rid="R29" ref-type="bibr"><sup>29</sup></xref> About 30 000 children are born within the network each year, leading to an estimated number of 75 children with DDH born within the network annually.<xref rid="R6" ref-type="bibr"><sup>6</sup></xref> The IHHN currently does not have a dedicated screening programme for DDH but is exploring the option to implement one in the coming years.</p>
+        </sec>
+        <sec id="s2-3">
+          <title>Variables, search strategy and data sources</title>
+          <p>The variables used in the model were extracted from the current scientific literature on DDH. Articles were searched using PubMed and Google Scholar using the search terms: “hip dysplasia” and “screening”. Included languages were limited to Dutch, French and English, to avoid the usage of translation software. No formal or standardised quality assessment tools were used to include/exclude articles, as data were in addition to its objective quality also judged subjectively on its representability of Pakistan and its appropriateness for usage as a proxy where necessary. The included data points have been extensively discussed with the entire research team before deciding on the final model inputs. The research team consists of physicians from six different countries, covering four different continents, including several members with extensive experience in the Pakistani context. Studies from journals with a high-impact factor, based on large cohorts using scientifically appropriate analysis techniques, published more recently, and where available, systematic reviews or international consensus documents on DDH, were prioritised to avoid bias in the selected variables. An overview of all the variables included in the model, their sources and the assumptions made, can be found in <xref rid="SP1" ref-type="supplementary-material">online supplemental file 3</xref>.</p>
+          <p>For context-independent variables, data sources were chosen based on the scientific quality of the analysis of the respective study, the quality of the journal, the size of the included cohort and how recently the paper was published. We aimed to include at least two high-quality data sources, using the aforementioned quality criteria, for each included variable. For variables with a high level of variability between studies, additional studies were searched for to increase the representativeness of the data included. For context-dependent variables, similar criteria were used, however, priority was given to studies from the Indian subcontinent, or the larger south Asian region. In case no south Asian studies were available, data were sourced from available studies from any middle-income country.</p>
+          <p>Cost variables and the surgical procedure mix for DDH treatment were determined using 2021 data from the IHHN DDH registry and financial department. The baseline cost for surgical care was adjusted to capture the additional costs of reinterventions (13% at IHHN) and to capture the additional cost for children who have bilateral DDH and require treatment for both hips (37.8% at IHHN). All cost variables were converted from Pakistani Rupees to International Dollars using the most recently (2021) available PPP conversion factor for Pakistan, being 41.92 PKR/PPP$.<xref rid="R30" ref-type="bibr"><sup>30</sup></xref> The DW for DDH and for DDH sequelae and complications are drawn from the literature.<xref rid="R9" ref-type="bibr"><sup>9 10</sup></xref> Given the relative stability of PPP$ over time, the volatility of international currency exchange rates, and the fact that converting prices of non-internationally traded goods into another currency has little value, we opted to only display costs in the original currency (Pakistani rupees) and PPP$.<xref rid="R31" ref-type="bibr"><sup>31</sup></xref> The PPP$ conversion rates allow any reader to convert the costs in this paper to any currency of their choice using the 2021 PPP$ conversion rates,<xref rid="R30" ref-type="bibr"><sup>30</sup></xref> taking into consideration the relative costs of the included goods in their respective country, allowing for a better interpretation of the actual cost implications of implementing one scenario or another.</p>
+          <p>For variables where no data could be found about DDH, proxies were used from other diseases that resemble the screening methodology or treatment of DDH as closely as possible. These proxies include data from deafness screening programmes in lower-middle-income countries in West Africa and clubfoot programmes in south Asia. Deafness is screened for in newborns using a two-stage screening with universal screening for the first stage and additional targeted screening for infants who failed the first stage.<xref rid="R32" ref-type="bibr">32</xref><xref rid="R34" ref-type="bibr">34</xref> These data were used to model the attrition rate for screening by clinical exam in the maternity ward and the attrition rate for second-stage US screening after referral. Completion and adherence rates for Ponseti treatment for clubfoot were used as a proxy to estimate expected completion and adherence rates for DDH treatment after screening and diagnosis.</p>
+        </sec>
+        <sec id="s2-4">
+          <title>Bias</title>
+          <p>A sensitivity analysis was executed for all variables in the model. The sensitivity analysis allowed variable to differ across the ranges of distributions of each variable. An overview of the values included in the sensitivity analysis can be found in <xref rid="SP1" ref-type="supplementary-material">online supplemental file 4</xref>. A variation of more than 10% in the cost or number of disability-adjusted life-years (DALYs) lost per scenario was considered significant and a potential source of bias in the model.</p>
+        </sec>
+        <sec id="s2-5">
+          <title>Statistical methods</title>
+          <p>The number of DALYs lost or gained was calculated using the standard formula of combining years of life lost due to disability and years of life lost due to premature death for every specific scenario or outcome.<xref rid="R35" ref-type="bibr"><sup>35</sup></xref> A time discounting factor of 5%, instead of the standard 3% used in the Global Burden of Diseases studies, was applied to adjust for the projected economic growth in Pakistan as a lower-middle-income country and to adjust for people’s preference to invest in a health intervention resulting in a direct benefit instead of potential benefit in the future.<xref rid="R36" ref-type="bibr"><sup>36</sup></xref> The number of DALYs gained in each scenario was plotted against the total cost of implementing the intervention in a net-health benefits graph to allow for a visual appraisal of the most appropriate scenario to be implemented in Pakistan. The DALYs lost due to the potential development of osteoarthritis postsurgery or in untreated cases of DDH are not included in this analysis, given that DALYs lost after the age of 40 years contribute very little to the model when applying a discounting factor of 5%. The results and CIs were obtained by running the model with 10 000 iterations and 10 000 Monte Carlo simulations.</p>
+        </sec>
+        <sec id="s2-6">
+          <title>Patient and public involvement</title>
+          <p>There were no patients involved in the development of the model or the analysis of the study.</p>
+        </sec>
+      </sec>
+      <sec sec-type="results" id="s3">
+        <title>Results</title>
+        <p>Our model generates 82 different paths to follow across 4 scenarios (<xref rid="SP1" ref-type="supplementary-material">online supplemental files 1 and 2</xref>). The cost breakdown and total cost for each scenario are shown in <xref rid="T1" ref-type="table">table 1</xref>. It shows that the current status quo is the least expensive scenario and screening by universal clinical exam only is the most expensive. When left untreated DDH creates a loss of 3.4 DALYs per person with untreated DDH (<xref rid="T2" ref-type="table">table 2</xref>). This number is significantly higher than the DALYs lost per person due to DDH treated with surgery or DDH treated conservatively but with residual complications.</p>
+        <table-wrap position="float" id="T1">
+          <label>Table 1</label>
+          <caption>
+            <title>Cost overview per scenario</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <td valign="bottom" rowspan="1" colspan="1"/>
+                <td valign="bottom" rowspan="1" colspan="1">No formal screening</td>
+                <td valign="bottom" rowspan="1" colspan="1">Formal screening programme using universal clinical examination only</td>
+                <td valign="bottom" rowspan="1" colspan="1">Formal screening programme using universal clinical examination and targeted ultrasound</td>
+                <td valign="bottom" rowspan="1" colspan="1">Formal screening programme using universal ultrasound screening</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Number of children treated with surgical intervention (per 1000 alive born children)</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">0.247</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">0.315</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">0.283</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">0.315</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Cost of surgery</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$0.247×PPP$3770.78 PPP$=931.38</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$0.315×PPP$3770.78PPP$=1187.80</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$0.283×PPP$3770.78PPP$=1067.13</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$0.315×PPP$3770.78PPP$=1187.80</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Number of children treated with a Pavlik harness (per 1000 alive born children)</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">1.507</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">16.581</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">0.892</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">8.048</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Cost of Pavlik harness</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$1.507×PPP$71.56=107.84</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$16.581×PPP$71.56PPP$=1186.54</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$0.892×PPP$71.56PPP$=63.83</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$8.048×PPP$71.56PPP$=575.91</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Number of children receiving follow-up after surgery or conservative treatment (per 1000 alive born children)</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">1.702</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">16.317</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">0.842</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">7.749</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Cost of follow-up</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$1.702×PPP$629.20 PPP$=1070.90</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$16.317×PPP$629.20PPP$= 10 266.66</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$0.842×PPP$629.20PPP$=529.79</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$7.784×PPP$629.20PPP$=4897.69</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Number of children receiving follow-up with ultrasound without treatment for immature hip anatomy (Graf type 2a hips) (per 1000 alive born children)</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">–</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">–</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">1.1806</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">76.804</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Cost of US follow-up</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">–</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">–</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$1.181×PPP$62.45PPP$=73.75</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$76.804×PPP$62.45PPP$=4796.41</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Number of children screened with clinical examination (per 1000 alive born children)</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">90</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">990</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">990</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">–</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Cost of screening by clinical examination</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$90×PPP$1.58PPP$=142.20</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$990×PPP$1.58PPP$=1564.20</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$990×PPP$1.58PPP$=1564.20</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">–</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Number of children screened with ultrasound (per 1000 alive born children)</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">–</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">–</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">12.705</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">760</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Cost of screening with ultrasound</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">–</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">–</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$12.705×PPP$1.07PPP$=13.59</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$760×PPP$1.07PPP$=813.20</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Total cost per 1000 alive born children</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$2251.31</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$14204.48</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$3312.21</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$12269.99</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn fn-type="abbr">
+              <p>USultrasound</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <table-wrap position="float" id="T2">
+          <label>Table 2</label>
+          <caption>
+            <title>DALYs lost due to different treatment regimens for DDH</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <td rowspan="2" valign="bottom" colspan="1"/>
+                <td rowspan="2" align="left" valign="bottom" colspan="1">DALYs lost per person</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Disability weight untreated DDH</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Disability weight DDH complications</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Disability weight postsurgery DDH</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Disability weight postconservative treatment for DDH</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Discounted years lost</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">0.18 (a)</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">0.079 (b)</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">0.023 (c)</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">0 (d)</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">(1/0.05)×(1<italic toggle="yes">−e</italic><sup>−0.05t</sup>) (f)</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">DALYs lost due to untreated DDH</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">a×f=3.474</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">0.18</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1"/>
+                <td align="left" valign="bottom" rowspan="1" colspan="1"/>
+                <td align="left" valign="bottom" rowspan="1" colspan="1"/>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Total life expectancy: (1/0.05)×(1<italic toggle="yes">−e</italic><sup>−0.05×67</sup>)=19.298</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">DALYs lost due to conservatively treated DDH with complications</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">b×f=1.524</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1"/>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">0.079</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1"/>
+                <td align="left" valign="bottom" rowspan="1" colspan="1"/>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Total life expectancy: (1/0.05)×(1<italic toggle="yes">−e</italic><sup>−0.05×67</sup>)=19.298</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">DALYs lost due to DDH treated with surgery at 3 years of age</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">a×f(3y)= 0.501c×f(64y)= 0.380axf+cxf = 0.881</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">0.18</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1"/>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">0.023</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1"/>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">First 3 years of life: (1/0.05)×(1<italic toggle="yes">−e</italic><sup>−0.05×3</sup>)=2.786Rest of life: <italic toggle="yes">e</italic><sup>−0.05×3</sup>×(1/0.05)×(1<italic toggle="yes">−e</italic><sup>−0.05×64</sup>)= 16.512</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">DALYs lost due to conservatively treated DDH</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">dxf=0</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1"/>
+                <td align="left" valign="bottom" rowspan="1" colspan="1"/>
+                <td align="left" valign="bottom" rowspan="1" colspan="1"/>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">0</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Total life expectancy: (1/0.05)×(1<italic toggle="yes">−e</italic><sup>−0.05×67</sup>)=19.298</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn fn-type="abbr">
+              <p>DALYsdisability-adjusted life-yearsDDHdevelopmental dysplasia of the hip</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>The cost-effectiveness of each model is appraised in <xref rid="T3" ref-type="table">table 3</xref> where the DALYs lost and costs of each scenario are brought together. Universal US screening clearly renders the largest number of DALYs averted. Clinical examination and targeted US have the lowest incremental cost-effectiveness ratio and thus generate the biggest gain in DALYs averted per cost of all three screening options. However, generalised US averts more DALYs overall but requires a larger financial cost per DALY averted. Therefore, depending on the willingness-to-pay per DALY averted, screening by clinical exam and targeted US or universal US screening are cost-effective alternatives to the current status quo (<xref rid="F1" ref-type="fig">figure 1</xref>, <xref rid="T3" ref-type="table">table 3</xref>).</p>
+        <table-wrap position="float" id="T3">
+          <label>Table 3</label>
+          <caption>
+            <title>Costs and DALYs averted per scenario</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <td valign="bottom" rowspan="1" colspan="1">Scenario</td>
+                <td valign="bottom" rowspan="1" colspan="1">Cost per 1000 alive born children</td>
+                <td valign="bottom" rowspan="1" colspan="1">Additional cost compared with status quo per 1000 alive born children</td>
+                <td valign="bottom" rowspan="1" colspan="1">DALYs averted per 1000 alive born children (compared with no formal screening)</td>
+                <td valign="bottom" rowspan="1" colspan="1">Incremental cost-effectiveness ratio</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">No formal screening</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$2251.31</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">–</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">–</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">–</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Formal screening programme using universal clinical examination and targeted ultrasound</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$3312.21</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$1060.90</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">1.4462</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$733.59</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Formal screening programme using universal ultrasound screening</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$12269.99</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$10018.68</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">2.5162</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$8371.39</td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Formal screening programme using universal clinical examination only</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$14204.48</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">PPP$11953.17</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">2.3091</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">N/A</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn fn-type="abbr">
+              <p>DALYsdisability-adjusted life-yearsN/Anot available</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <fig position="float" id="F1" fig-type="figure">
+          <label>Figure 1</label>
+          <caption>
+            <title>Cost versus DALYs gained between different scenarios. DALYs, disability-adjusted life-years; US, ultrasound.</title>
+          </caption>
+          <graphic xlink:href="bmjph-2-1-g001" position="float"/>
+        </fig>
+        <p><xref rid="F2" ref-type="fig">Figures2 </xref><xref rid="F3" ref-type="fig"> 3</xref> show the outcomes of the sensitivity analyses run on all four scenarios for both DALYs lost and cost. The prevalence of DDH and the variability in the DW for untreated DDH are the two single most important variables influencing the number of DALYs lost per scenario. All other variables have only a small to negligible impact. The variables influencing the cost differ greatly between scenarios. The cost of the status quo depends mainly on the specificity of clinical examination, the prevalence of DDH and the number of children receiving screening or having access to surgical care for DDH. In the scenario with only clinical examination, only the specificity of clinical examination influences the cost significantly. In the scenario with clinical examination and targeted US, the cost is influenced significantly by the prevalence of DDH, the specificity of clinical examination and the accessibility of surgical care. For the scenario with generalised US screening only, the cost is impacted significantly only by the percentage of children that receive treatment with a Pavlik harness instead of follow-up with US.</p>
+        <fig position="float" id="F2" fig-type="figure">
+          <label>Figure 2</label>
+          <caption>
+            <title>Sensitivity analysis of main variables in the model in relation to disability-adjusted life-years (DALYs) lost. ClinSens, sensitivity of screening by clinical examination; ClinSpec, specificity of screening by clinical examination; Comp, complication rate with Pavlik harness treatment; Compliance, compliance rate with Pavlik harness; DALYComp, DALYs lost due to complications after Pavlik treatment per 1000 children; DALYDDH, DALYs lost due to untreated DDH per 1000 children; DALYSurg, DALYs lost due to postsurgery sequelae per 1000 children; DALYTreat, DALYs lost due to DDH treated with a Pavlik harness; FU, cost of follow-up until maturity after Pavlik harness or surgical treatment for DDH; IniPav, initiates and completes treatment with Pavlik harness; Pav, cost of Pavlik harness per 1000 children; Prev, prevalence of DDH; RecScr, screening rate in absence of screening programme; Scr, cost of screening by clinical examination per 1000 children; ScrMat, screening rate at maternity ward; Surg, cost of surgical intervention for DDH per 1000 children; SurgAcc, percentage of children who are able to access surgical care; US, cost of ultrasound screening per 1000 children; US2nd, ultrasound attrition rate in second-stage screening programme; USAcc, ultrasound screening rate in case of universal ultrasound screening; USFU, cost of follow-up with ultrasound after diagnosis of immature hip anatomy (Graf type 2 a hips); USSens, sensitivity of screening by ultrasound; USSpec, specificity of screening with ultrasound; USTreat, percentage of children requiring Pavlik harness treatment in case of an abnormal ultrasound.</title>
+          </caption>
+          <graphic xlink:href="bmjph-2-1-g002" position="float"/>
+        </fig>
+        <fig position="float" id="F3" fig-type="figure">
+          <label>Figure 3</label>
+          <caption>
+            <title>Sensitivity analysis of main variables in the model in relation to cost. ClinSens, sensitivity of screening by clinical examination; ClinSpec, specificity of screening by clinical examination; Comp, complication rate with Pavlik harness treatment; Compliance, compliance rate with Pavlik harness; DALYComp, disability-adjusted life-years lost due to complications after Pavlik treatment per 1000 children; DALYDDH, DALYs lost due to untreated DDH per 1000 children; DALYSurg, DALYs lost due to postsurgery sequelae per 1000 children; DALYTreat, DALYs lost due to DDH treated with a Pavlik harness; FU, cost of follow-up until maturity after Pavlik harness or surgical treatment for DDH; IniPav, Initiates and completes treatment with Pavlik harness; Pav, Cost of Pavlik harness per 1000 children; Prev, Prevalence of DDH; RecScr, Screening rate in absence of screening programme; Scr, Cost of screening by clinical examination per 1000 children; ScrMat, Screening rate at maternity ward; Surg, Cost of surgical intervention for DDH per 1000 children; SurgAcc, percentage of children who are able to access surgical care; US, cost of ultrasound screening per 1000 children; US2nd, ultrasound attrition rate in second-stage screening programme; USAcc, ultrasound screening rate in case of universal ultrasound screening; USFU, cost of follow-up with ultrasound after diagnosis of immature hip anatomy (Graf type 2 a hips); USSens, sensitivity of screening by ultrasound; USSpec, specificity of screening with ultrasound; USTreat, percentage of children requiring Pavlik harness treatment in case of an abnormal ultrasound.</title>
+          </caption>
+          <graphic xlink:href="bmjph-2-1-g003" position="float"/>
+        </fig>
+      </sec>
+      <sec sec-type="discussion" id="s4">
+        <title>Discussion</title>
+        <p>For Pakistan, screening by universal US or by clinical examination and targeted US are both cost-effective options to consider for implementing a screening programme for DDH at the hospital level. Although both options are considered cost-effective, they require a very different annual investment at the hospital level. For an estimated 30 000 annual births at IHHN, the additional costs for screening by clinical examination and targeted US would amount to PPP$30 000 while implementing a universal US screening programme would require an additional investment of PPP$300 000 per year. In order to make an informed decision between the available options, several arguments must be taken into consideration: willingness-to-pay thresholds, equity and available resources. The national UHC package for Pakistan allocates PPP$447 502 towards childhood developmental screening programmes for the entire country,<xref rid="R28" ref-type="bibr"><sup>28</sup></xref> an amount that is unable to cover the costs of our proposed screening programme at this time.</p>
+        <p>Conservatively treated DDH without complications incurs no loss of DALYs, as it has no further impact on life after treatment other than the elimination of the effects of DDH. As stated earlier, the DALYs lost due to the potential development of osteoarthritis in middle age are not included in this analysis. The DW for hip osteoarthritis is estimated at 0.165<xref rid="R37" ref-type="bibr"><sup>37</sup></xref> and is, therefore, smaller than the DW of untreated DDH. It is understood that the impact of osteoarthritis in these patients is already included in the DW for DDH together with other complications and impacts.</p>
+        <p>High-income countries usually apply a willingness-to-pay threshold of PPP$50 000 per DALY averted, a threshold easily met for all options in this study.<xref rid="R38" ref-type="bibr"><sup>38</sup></xref> Little information is available about willingness-to-pay thresholds in LMICs, but data from Thailand and Malaysia show much lower thresholds of around PPP$20 000 per DALY averted through medical treatment and as low as PPP$2 000 per DALY averted for preventive strategies.<xref rid="R30" ref-type="bibr"><sup>30 38</sup></xref> When applying these thresholds, only clinical examination and targeted US fall below the threshold.</p>
+        <p>One of the reasons the costs of the clinical examination and targeted US model are so low is that the model included only a 59% turnout for the targeted USs, lowering the costs of treatment and follow-up to a minimum (<xref rid="T1" ref-type="table">table 1</xref>). Although we do not have data on the characteristics of the people who do and who do not attend the second-stage screening through US, the available data from clubfoot programmes across LMICs show that poverty is the main cross-cutting factor for dropping out of treatment.<xref rid="R39" ref-type="bibr"><sup>39</sup></xref> Therefore, we can assume that the poorer children in society have a higher risk of failing to follow-up with two-step screening, making universal US screening the more equitable option. It is also important to note that the rate of surgery goes up in the scenarios with a high screening attrition rate. This counterintuitive effect is due to the assumption in the model that all children with a failed conservative treatment for DDH or post-treatment sequelae will access surgery. Given that the access to surgery for DDH in children not screened for DDH, was modelled at 10% only, the number of children requiring surgical care for failed DDH inefficient screening programmes turns out to be higher than the number of children access surgical care for DDH on the absence of screening. This phenomenon should be seen as an effect of increased access to care, and thus as an increased utilisation of services and not as an indication of the inefficiency of screening.</p>
+        <p>Lastly, resource utilisation differs greatly between both options. Universal US screening creates the largest need for follow-up by trained orthopaedic surgeons in all the scenarios. Orthopaedic surgeons themselves can be considered a ‘resource’, a ‘resource’ that may not be readily available in the Pakistani health system due to known health workforce shortage challenges. This leads to other constraints in the health system planning than mere financial constraints and constraints that may not be alleviated with financial means in the short run. An important strength of our model is that it allows the use of different outcome variables. If the health system experiences other larger constraints than finances, such as a lack of surgeons/nurses/US machine, these outcomes can be used instead of cost to determine the most effective and feasible scenario to be implemented.</p>
+        <p>The population density and health facility distribution where USs can be done should also be considered to ensure that the programme can cover the target population. It must be feasible for patients and caregivers to visit health facilities. In areas where visits are feasible but cumbersome or where ability to retain access to patients is difficult, full screening before discharge may be preferable. It is also vital to contemplate how different aspects of each programme would be received by society from multiple perspectives. For example, having a screening programme that is completed before discharge could result in a longer stay at the maternity ward may not be practical in communities where there are high rates of informal labour, as increased hospital stay may result in loss of wages.<xref rid="R40" ref-type="bibr"><sup>40</sup></xref></p>
+        <p>Executing a high-quality cost-effectiveness analysis proves difficult in the absence of the required data. In this study, many assumptions had to be made. For instance, the degree to which the Pavlik harness is visible or impedes care is not taken into consideration in our analysis, even though compliance with the Pavlik harness may well be lower than that with the brace used to correct clubfoot.<xref rid="R41" ref-type="bibr"><sup>41 42</sup></xref> Nevertheless, clubfoot is the closest available proxy measure. It is, therefore, not unreasonable that initiation and adherence rates for DDH treatment may be lower than for clubfoot, although this may be offset by the shorter treatment course that is necessary, thereby generating lower drop-out rates.</p>
+        <p>We believe our model, in essence the underlying decision tree, is context-independent and can be used by other countries and settings to assess the most cost-effective screening modality taking into consideration financial or contextual constraints and societal preferences. Our model covers the entire patient journey from screening, to accessing treatment, adhering to treatment and completing treatment with or without complications. This patient journey in itself is similar across settings, however, with very different probabilities for a patient to follow one path over another. As such, in order to use this model in other settings than Pakistan, local/regional data collection or identification of proxies is necessary to run the model. The extensiveness of the model also stimulates policy-makers or physicians to reflect on certain probabilities that may not automatically be perceived as important or impactful in their setting. But it is important to remember that no health system achieves 100% screening rates, health system accessibility, adherence or positive outcomes, and thus every branch of our model has some level of impact on the final level of cost-effectiveness irrespective of where the model is being applied.</p>
+        <p>The main limitation of this study is the lack of data in current literature on DDH screening attendance rates, compliance rates and drop-out rates in Pakistan and middle-income countries in general. The use of proxies such as clubfoot and deafness screening data made this analysis possible, however, it is impossible to assess how appropriate these are as proxies for DDH screening. Additionally, the wide variety of reported prevalence rates and sensitivity and specificity rates for different screening modalities generate a non-negligible level of uncertainty in the model. Last but not least, our model considers only costs incurred at the level of the hospital/health system and assumes that trained personnel and material are available. It does not include direct and indirect costs incurred by the patient and their families.</p>
+        <p>Our results indicate that universal US screening would be the ideal screening method for DDH at IHHN and may be used to inform other similar studies or programmes globally. It should be cautioned that while these options may be the best DDH screening programmes for the IHHN in Karachi at this time, it may not be the best scenario for other cities or provinces in Pakistan. Resource availability, geography, infrastructure, treatment capacity, health system values and societal factors must all be considered when determining which screening protocol may be the best fit in other areas. The presence of personnel and a sufficient budget alone are not enough to determine availability, personnel must be able to administer the tests with adequate skills without being constrained by administrative or licensing regulations.</p>
+      </sec>
+      <sec sec-type="supplementary-material">
+        <title>supplementary material</title>
+        <supplementary-material id="SP1" position="float" content-type="local-data">
+          <object-id pub-id-type="doi">10.1136/bmjph-2023-000340</object-id>
+          <label>online supplemental file 1</label>
+          <media xlink:href="bmjph-2-1-s001.pdf" id="d67e871" position="anchor"/>
+        </supplementary-material>
+      </sec>
+    </body>
+    <back>
+      <ack>
+        <title>Acknowledgements</title>
+        <p>The team would like to thank prof. Stéphane Verguet for his guidance during the initial stages of the project.</p>
+      </ack>
+      <fn-group>
+        <fn fn-type="financial-disclosure">
+          <p><bold>Funding:</bold> MP received a grant from the Belgian Kids' Fund for Pediatric Research.</p>
+        </fn>
+        <fn fn-type="other">
+          <p><bold>Provenance and peer review:</bold> Not commissioned; externally peer reviewed.</p>
+        </fn>
+        <fn fn-type="other">
+          <p><bold>Patient consent for publication:</bold> Not applicable.</p>
+        </fn>
+        <fn fn-type="other">
+          <p><bold>Patient and public involvement:</bold> Patients and/or the public were not involved in the design, or conduct, or reporting, or dissemination plans of this research.</p>
+        </fn>
+      </fn-group>
+      <ref-list>
+        <title>References</title>
+        <ref id="R1">
+          <label>1</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Miller</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Thompson</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Hart</surname>
+                <given-names>J</given-names>
+              </name>
+            </person-group>
+            <source>Review of orthopaedics. Sixth Edit</source>
+            <publisher-loc>Philadelphia</publisher-loc>
+            <publisher-name>Elsevier Saunders</publisher-name>
+            <year>2012</year>
+            <fpage>257</fpage>
+            <lpage>61</lpage>
+          </element-citation>
+        </ref>
+        <ref id="R2">
+          <label>2</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Am</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Saw</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Nawar</surname>
+                <given-names>M</given-names>
+              </name>
+            </person-group>
+            <article-title>Treatment of developmental dysplasia of the hip: short and mid-term outcome</article-title>
+            <source>
+              <italic toggle="yes">Malaysian Orthop J</italic>
+            </source>
+            <year>2011</year>
+            <volume>5</volume>
+            <fpage>17</fpage>
+            <lpage>20</lpage>
+            <pub-id pub-id-type="doi">10.5704/MOJ.1103.004</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R3">
+          <label>3</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Rim</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hp</surname>
+                <given-names>M-H</given-names>
+              </name>
+              <name>
+                <surname>Mh</surname>
+                <given-names>A</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>The economic impact of managing late presentation of developmental dysplasia of hip (DDH)</article-title>
+            <source>Malaysian Orthop J</source>
+            <year>2015</year>
+            <volume>9</volume>
+            <fpage>40</fpage>
+            <lpage>3</lpage>
+            <pub-id pub-id-type="doi">10.5704/MOJ.1511.006</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R4">
+          <label>4</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Bialik</surname>
+                <given-names>V</given-names>
+              </name>
+              <name>
+                <surname>Bialik</surname>
+                <given-names>GM</given-names>
+              </name>
+              <name>
+                <surname>Blazer</surname>
+                <given-names>S</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>Developmental dysplasia of the hip: a new approach to incidence</article-title>
+            <source>Pediatrics</source>
+            <year>1999</year>
+            <volume>103</volume>
+            <fpage>93</fpage>
+            <lpage>9</lpage>
+            <pub-id pub-id-type="doi">10.1542/peds.103.1.93</pub-id>
+            <pub-id pub-id-type="pmid">9917445</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R5">
+          <label>5</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Shipman</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Helfand</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Nygren</surname>
+                <given-names>P</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <source>Screening for developmental dysplasia of the hip</source>
+            <publisher-loc>Rockville</publisher-loc>
+            <publisher-name>Agency for Healthcare Research and Quality (US)</publisher-name>
+            <year>2006</year>
+            <comment>Available</comment>
+            <ext-link xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK33430/" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/books/NBK33430/</ext-link>
+          </element-citation>
+        </ref>
+        <ref id="R6">
+          <label>6</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Loder</surname>
+                <given-names>RT</given-names>
+              </name>
+              <name>
+                <surname>Skopelja</surname>
+                <given-names>EN</given-names>
+              </name>
+            </person-group>
+            <article-title>The epidemiology and demographics of hip dysplasia</article-title>
+            <source>ISRN Orthop</source>
+            <year>2011</year>
+            <volume>2011</volume>
+            <fpage>1</fpage>
+            <lpage>46</lpage>
+            <pub-id pub-id-type="doi">10.5402/2011/238607</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R7">
+          <label>7</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Buonsenso</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Curatola</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Lazzareschi</surname>
+                <given-names>I</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>Developmental dysplasia of the hip: real world data from a retrospective analysis to evaluate the effectiveness of universal screening</article-title>
+            <source>
+              <italic toggle="yes">J Ultrasound</italic>
+            </source>
+            <year>2021</year>
+            <volume>24</volume>
+            <fpage>403</fpage>
+            <lpage>10</lpage>
+            <pub-id pub-id-type="doi">10.1007/s40477-020-00463-w</pub-id>
+            <pub-id pub-id-type="pmid">32356221</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R8">
+          <label>8</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Engesæter</surname>
+                <given-names>LB</given-names>
+              </name>
+              <name>
+                <surname>Engesæter</surname>
+                <given-names>IØ</given-names>
+              </name>
+              <name>
+                <surname>Fenstad</surname>
+                <given-names>AM</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>Low revision rate after total hip arthroplasty in patients with pediatric hip diseases</article-title>
+            <source>Acta Orthop</source>
+            <year>2012</year>
+            <volume>83</volume>
+            <fpage>436</fpage>
+            <lpage>41</lpage>
+            <pub-id pub-id-type="doi">10.3109/17453674.2012.736171</pub-id>
+            <pub-id pub-id-type="pmid">23043269</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R9">
+          <label>9</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Salomon</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Haagsma</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Davis</surname>
+                <given-names>A</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>Disability weights for the global burden of disease 2013 study</article-title>
+            <source>Lancet Glob Health</source>
+            <year>2015</year>
+            <volume>3</volume>
+            <fpage>e712</fpage>
+            <lpage>23</lpage>
+            <pub-id pub-id-type="doi">10.1016/S2214-109X(15)00069-8</pub-id>
+            <pub-id pub-id-type="pmid">26475018</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R10">
+          <label>10</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Franco</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Saxby</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Corlew</surname>
+                <given-names>DS</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>An assessment of the impact of developmental dysplasia of the hip on patients’ wellbeing</article-title>
+            <source>
+              <italic toggle="yes">Bone Jt Open</italic>
+            </source>
+            <year>2023</year>
+            <volume>4</volume>
+            <fpage>120</fpage>
+            <lpage>8</lpage>
+            <pub-id pub-id-type="doi">10.1302/2633-1462.43.BJO-2022-0154.R1</pub-id>
+            <pub-id pub-id-type="pmid">37051846</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R11">
+          <label>11</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Patel</surname>
+                <given-names>H</given-names>
+              </name>
+              <collab>Canadian Task Force on Preventive Health Care</collab>
+            </person-group>
+            <article-title>Preventive health care, 2001 update: screening and management of developmental dysplasia of the hip in newborns</article-title>
+            <source>CMAJ</source>
+            <year>2001</year>
+            <volume>164</volume>
+            <fpage>1669</fpage>
+            <lpage>77</lpage>
+            <pub-id pub-id-type="pmid">11450209</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R12">
+          <label>12</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Macnicol</surname>
+                <given-names>MF</given-names>
+              </name>
+            </person-group>
+            <article-title>Results of a 25-year screening programme for neonatal hip instability</article-title>
+            <source>J Bone Joint Surg Br</source>
+            <year>1990</year>
+            <volume>72-B</volume>
+            <fpage>1057</fpage>
+            <lpage>60</lpage>
+            <pub-id pub-id-type="doi">10.1302/0301-620X.72B6.2246288</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R13">
+          <label>13</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>von Kries</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Ihme</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Oberle</surname>
+                <given-names>D</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>Effect of ultrasound screening on the rate of first operative procedures for developmental hip dysplasia in Germany</article-title>
+            <source>Lancet</source>
+            <year>2003</year>
+            <volume>362</volume>
+            <fpage>1883</fpage>
+            <lpage>7</lpage>
+            <pub-id pub-id-type="doi">10.1016/S0140-6736(03)14957-4</pub-id>
+            <pub-id pub-id-type="pmid">14667743</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R14">
+          <label>14</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Elbourne</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Dezateux</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Arthur</surname>
+                <given-names>R</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>Ultrasonography in the diagnosis and management of developmental hip dysplasia (UK hip trial): clinical and economic results of a multicentre randomised controlled trial</article-title>
+            <source>Lancet</source>
+            <year>2002</year>
+            <volume>360</volume>
+            <fpage>2009</fpage>
+            <lpage>17</lpage>
+            <pub-id pub-id-type="doi">10.1016/s0140-6736(02)12024-1</pub-id>
+            <pub-id pub-id-type="pmid">12504396</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R15">
+          <label>15</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Geitung</surname>
+                <given-names>JT</given-names>
+              </name>
+              <name>
+                <surname>Rosendahl</surname>
+                <given-names>K</given-names>
+              </name>
+              <name>
+                <surname>Sudmann</surname>
+                <given-names>E</given-names>
+              </name>
+            </person-group>
+            <article-title>Cost-effectiveness of ultrasonographic screening for congenital hip dysplasia in new-borns</article-title>
+            <source>Skelet Radiol</source>
+            <year>1996</year>
+            <volume>25</volume>
+            <fpage>251</fpage>
+            <lpage>4</lpage>
+            <pub-id pub-id-type="doi">10.1007/s002560050074</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R16">
+          <label>16</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Wenger</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Düppe</surname>
+                <given-names>H</given-names>
+              </name>
+              <name>
+                <surname>Nilsson</surname>
+                <given-names>JÅ</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>Incidence of late-diagnosed hip dislocation after universal clinical screening in Sweden</article-title>
+            <source>JAMA Netw Open</source>
+            <year>2019</year>
+            <volume>2</volume>
+            <elocation-id>e1914779</elocation-id>
+            <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2019.14779</pub-id>
+            <pub-id pub-id-type="pmid">31702798</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R17">
+          <label>17</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Shorter</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Hong</surname>
+                <given-names>T</given-names>
+              </name>
+              <name>
+                <surname>Osborn</surname>
+                <given-names>DA</given-names>
+              </name>
+            </person-group>
+            <article-title>Cochrane review: screening programmes for developmental dysplasia of the hip in newborn infants</article-title>
+            <source>Evid‐Based Child Health</source>
+            <year>2013</year>
+            <volume>8</volume>
+            <fpage>11</fpage>
+            <lpage>54</lpage>
+            <pub-id pub-id-type="doi">10.1002/ebch.1891</pub-id>
+            <pub-id pub-id-type="pmid">23878122</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R18">
+          <label>18</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Kuitunen</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Uimonen</surname>
+                <given-names>MM</given-names>
+              </name>
+              <name>
+                <surname>Haapanen</surname>
+                <given-names>M</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>Incidence of neonatal developmental dysplasia of the hip and late detection rates based on screening strategy: a systematic review and meta-analysis</article-title>
+            <source>JAMA Netw Open</source>
+            <year>2022</year>
+            <volume>5</volume>
+            <elocation-id>e2227638</elocation-id>
+            <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2022.27638</pub-id>
+            <pub-id pub-id-type="pmid">35980635</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R19">
+          <label>19</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Harper</surname>
+                <given-names>P</given-names>
+              </name>
+              <name>
+                <surname>Gangadharan</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Poku</surname>
+                <given-names>D</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>Cost analysis of screening programmes for developmental dysplasia of the hip: a systematic review</article-title>
+            <source>Indian J Orthop</source>
+            <year>2020</year>
+            <volume>55</volume>
+            <fpage>1402</fpage>
+            <lpage>9</lpage>
+            <pub-id pub-id-type="doi">10.1007/s43465-021-00501-7</pub-id>
+            <pub-id pub-id-type="pmid">34987724</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R20">
+          <label>20</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Bralić</surname>
+                <given-names>I</given-names>
+              </name>
+              <name>
+                <surname>Vrdoljak</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Kovacić</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Ultrasound screening of the neonatal hip: cost-benefit analysis</article-title>
+            <source>Croat Med J</source>
+            <year>2001</year>
+            <volume>42</volume>
+            <fpage>171</fpage>
+            <lpage>4</lpage>
+            <pub-id pub-id-type="pmid">11259740</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R21">
+          <label>21</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Tredwell</surname>
+                <given-names>SJ</given-names>
+              </name>
+              <name>
+                <surname>Bell</surname>
+                <given-names>HM</given-names>
+              </name>
+            </person-group>
+            <article-title>Efficacy of neonatal hip examination</article-title>
+            <source>J Pediatr Orthop</source>
+            <year>1981</year>
+            <volume>1</volume>
+            <fpage>61</fpage>
+            <lpage>5</lpage>
+            <pub-id pub-id-type="doi">10.1097/01241398-198101010-00009</pub-id>
+            <pub-id pub-id-type="pmid">7341653</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R22">
+          <label>22</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Thallinger</surname>
+                <given-names>C</given-names>
+              </name>
+              <name>
+                <surname>Pospischill</surname>
+                <given-names>R</given-names>
+              </name>
+              <name>
+                <surname>Ganger</surname>
+                <given-names>R</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>Long-term results of a nationwide general ultrasound screening system for developmental disorders of the hip: the Austrian hip screening program</article-title>
+            <source>J Child Orthop</source>
+            <year>2014</year>
+            <volume>8</volume>
+            <fpage>3</fpage>
+            <lpage>10</lpage>
+            <pub-id pub-id-type="doi">10.1007/s11832-014-0555-6</pub-id>
+            <pub-id pub-id-type="pmid">24488847</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R23">
+          <label>23</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Lennox</surname>
+                <given-names>IAC</given-names>
+              </name>
+              <name>
+                <surname>McLauchlan</surname>
+                <given-names>J</given-names>
+              </name>
+              <name>
+                <surname>Murali</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>Failures of screening and management of congenital dislocation of the hip</article-title>
+            <source>J Bone Joint Surg Br</source>
+            <year>1993</year>
+            <volume>75-B</volume>
+            <fpage>72</fpage>
+            <lpage>5</lpage>
+            <pub-id pub-id-type="doi">10.1302/0301-620X.75B1.8421040</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R24">
+          <label>24</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Danielsson</surname>
+                <given-names>L</given-names>
+              </name>
+            </person-group>
+            <article-title>Late-diagnosed DDH: a prospective 11-year follow-up of 71 consecutive patients (75 hips)</article-title>
+            <source>Acta Orthop Scand</source>
+            <year>2000</year>
+            <volume>71</volume>
+            <fpage>232</fpage>
+            <lpage>42</lpage>
+            <pub-id pub-id-type="doi">10.1080/000164700317411816</pub-id>
+            <pub-id pub-id-type="pmid">10919293</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R25">
+          <label>25</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ulziibat</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Munkhuu</surname>
+                <given-names>B</given-names>
+              </name>
+              <name>
+                <surname>Schmid</surname>
+                <given-names>R</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>Implementation of a Nationwide Universal ultrasound screening programme for developmental dysplasia of the neonatal hip in Mongolia</article-title>
+            <source>J Child Orthop</source>
+            <year>2020</year>
+            <volume>14</volume>
+            <fpage>273</fpage>
+            <lpage>80</lpage>
+            <pub-id pub-id-type="doi">10.1302/1863-2548.14.200029</pub-id>
+            <pub-id pub-id-type="pmid">32874359</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R26">
+          <label>26</label>
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <collab>The World Bank</collab>
+            </person-group>
+            <article-title>Birth rate, crude (per 1,000 people)</article-title>
+            <year>2022</year>
+            <comment>Available</comment>
+            <ext-link xlink:href="https://data.worldbank.org/indicator/SP.DYN.CBRT.IN?locations=PK" ext-link-type="uri">https://data.worldbank.org/indicator/SP.DYN.CBRT.IN?locations=PK</ext-link>
+            <comment>Accessed</comment>
+            <date-in-citation>13-Sep-2022</date-in-citation>
+          </element-citation>
+        </ref>
+        <ref id="R27">
+          <label>27</label>
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <collab>Ministry of National Health Services Regulations and Coordination</collab>
+            </person-group>
+            <article-title>National health vision Pakistan 2016-2025</article-title>
+            <year>2016</year>
+            <comment>Available</comment>
+            <ext-link xlink:href="http://phkh.nhsrc.pk/sites/default/files/2020-12/National%20Health%20Vision%20Pakistan%202016-2025.pdf" ext-link-type="uri">http://phkh.nhsrc.pk/sites/default/files/2020-12/National Health Vision Pakistan 2016-2025.pdf</ext-link>
+            <comment>Accessed</comment>
+            <date-in-citation>01-Dec-2021</date-in-citation>
+          </element-citation>
+        </ref>
+        <ref id="R28">
+          <label>28</label>
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <collab>Ministry of National Health Services Regulations and Coordination</collab>
+            </person-group>
+            <article-title>Essential package of health services with localized evidence</article-title>
+            <year>2020</year>
+            <comment>Available</comment>
+            <ext-link xlink:href="https://phkh.nhsrc.pk/sites/default/files/2020-10/Essential%20Package%20of%20Health%20Services%20with%20Localized%20Evidence%20Pakistan%20WHO%202020.pdf" ext-link-type="uri">https://phkh.nhsrc.pk/sites/default/files/2020-10/Essential Package of Health Services with Localized Evidence Pakistan WHO 2020.pdf</ext-link>
+            <comment>Accessed</comment>
+            <date-in-citation>01-Dec-2021</date-in-citation>
+          </element-citation>
+        </ref>
+        <ref id="R29">
+          <label>29</label>
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <collab>Indus Hospital &amp; Health Network</collab>
+            </person-group>
+            <year>2022</year>
+            <comment>Available</comment>
+            <ext-link xlink:href="https://indushospital.org.pk/" ext-link-type="uri">https://indushospital.org.pk/</ext-link>
+            <comment>Accessed</comment>
+            <date-in-citation>13-Sep-2022</date-in-citation>
+          </element-citation>
+        </ref>
+        <ref id="R30">
+          <label>30</label>
+          <element-citation publication-type="webpage">
+            <person-group person-group-type="author">
+              <collab>The World Bank</collab>
+            </person-group>
+            <article-title>PPP conversion factor, GDP (LCU per international $)</article-title>
+            <year>2022</year>
+            <comment>Available</comment>
+            <ext-link xlink:href="https://data.worldbank.org/indicator/PA.NUS.PPP" ext-link-type="uri">https://data.worldbank.org/indicator/PA.NUS.PPP</ext-link>
+            <comment>Accessed</comment>
+            <date-in-citation>15-Sep-2022</date-in-citation>
+          </element-citation>
+        </ref>
+        <ref id="R31">
+          <label>31</label>
+          <element-citation publication-type="report">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Callen</surname>
+                <given-names>T</given-names>
+              </name>
+            </person-group>
+            <article-title>Purchasing power parity: weights matter. Finance and development</article-title>
+            <year>2024</year>
+            <fpage>44</fpage>
+            <lpage>5</lpage>
+            <comment>Available</comment>
+            <ext-link xlink:href="https://www.imf.org/en/Publications/fandd/issues/Series/Back-to-Basics/Purchasing-Power-Parity-PPP" ext-link-type="uri">https://www.imf.org/en/Publications/fandd/issues/Series/Back-to-Basics/Purchasing-Power-Parity-PPP</ext-link>
+            <comment>accessed</comment>
+            <date-in-citation>06-Mar-2024</date-in-citation>
+          </element-citation>
+        </ref>
+        <ref id="R32">
+          <label>32</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Hrncic</surname>
+                <given-names>N</given-names>
+              </name>
+              <name>
+                <surname>Goga</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Hrncic</surname>
+                <given-names>S</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>Factors affecting neonatal hearing screening follow-up in developing countries: one insitution prospective pilot study</article-title>
+            <source>
+              <italic toggle="yes">Medeni Med J</italic>
+            </source>
+            <year>2021</year>
+            <volume>36</volume>
+            <fpage>14</fpage>
+            <lpage>22</lpage>
+            <pub-id pub-id-type="doi">10.5222/MMJ.2021.19577</pub-id>
+            <pub-id pub-id-type="pmid">33828885</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R33">
+          <label>33</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Olusanya</surname>
+                <given-names>BO</given-names>
+              </name>
+              <name>
+                <surname>Akinyemi</surname>
+                <given-names>OO</given-names>
+              </name>
+            </person-group>
+            <article-title>Community-based infant hearing screening in a developing country: parental uptake of follow-up services</article-title>
+            <source>
+              <italic toggle="yes">BMC Public Health</italic>
+            </source>
+            <year>2009</year>
+            <volume>9</volume>
+            <pub-id pub-id-type="doi">10.1186/1471-2458-9-66</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R34">
+          <label>34</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Tanon-Anoh</surname>
+                <given-names>MJ</given-names>
+              </name>
+              <name>
+                <surname>Sanogo-Gone</surname>
+                <given-names>D</given-names>
+              </name>
+              <name>
+                <surname>Kouassi</surname>
+                <given-names>KB</given-names>
+              </name>
+            </person-group>
+            <article-title>Newborn hearing screening in a developing country: results of a pilot study in Abidjan, Côte d’ivoire</article-title>
+            <source>Int J Pediatr Otorhinolaryngol</source>
+            <year>2010</year>
+            <volume>74</volume>
+            <fpage>188</fpage>
+            <lpage>91</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.ijporl.2009.11.008</pub-id>
+            <pub-id pub-id-type="pmid">19963282</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R35">
+          <label>35</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Fox-Rushby</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Hanson</surname>
+                <given-names>K</given-names>
+              </name>
+            </person-group>
+            <article-title>Calculating and presenting disability adjusted life years (DALYs) in cost-effectiveness analysis</article-title>
+            <source>Health Policy Plan</source>
+            <year>2001</year>
+            <volume>16</volume>
+            <fpage>326</fpage>
+            <lpage>31</lpage>
+            <pub-id pub-id-type="doi">10.1093/heapol/16.3.326</pub-id>
+            <pub-id pub-id-type="pmid">11527874</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R36">
+          <label>36</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Haacker</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Hallett</surname>
+                <given-names>TB</given-names>
+              </name>
+              <name>
+                <surname>Atun</surname>
+                <given-names>R</given-names>
+              </name>
+            </person-group>
+            <article-title>On discount rates for economic evaluations in global health</article-title>
+            <source>Health Policy Plan</source>
+            <year>2020</year>
+            <volume>35</volume>
+            <fpage>107</fpage>
+            <lpage>14</lpage>
+            <pub-id pub-id-type="doi">10.1093/heapol/czz127</pub-id>
+            <pub-id pub-id-type="pmid">31625564</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R37">
+          <label>37</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Safiri</surname>
+                <given-names>S</given-names>
+              </name>
+              <name>
+                <surname>Kolahi</surname>
+                <given-names>A-A</given-names>
+              </name>
+              <name>
+                <surname>Smith</surname>
+                <given-names>E</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>Global, regional and national burden of osteoarthritis 1990-2017: a systematic analysis of the global burden of disease study 2017</article-title>
+            <source>Ann Rheum Dis</source>
+            <year>2020</year>
+            <volume>79</volume>
+            <fpage>819</fpage>
+            <lpage>28</lpage>
+            <pub-id pub-id-type="doi">10.1136/annrheumdis-2019-216515</pub-id>
+            <pub-id pub-id-type="pmid">32398285</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R38">
+          <label>38</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>McDougall</surname>
+                <given-names>JA</given-names>
+              </name>
+              <name>
+                <surname>Furnback</surname>
+                <given-names>WE</given-names>
+              </name>
+              <name>
+                <surname>Wang</surname>
+                <given-names>BCM</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>Understanding the global measurement of willingness to pay in health</article-title>
+            <source>J Mark Access Health Policy</source>
+            <year>2020</year>
+            <volume>8</volume>
+            <elocation-id>1717030</elocation-id>
+            <pub-id pub-id-type="doi">10.1080/20016689.2020.1717030</pub-id>
+            <pub-id pub-id-type="pmid">32158523</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R39">
+          <label>39</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Pigeolet</surname>
+                <given-names>M</given-names>
+              </name>
+              <name>
+                <surname>Vital</surname>
+                <given-names>A</given-names>
+              </name>
+              <name>
+                <surname>Daoud</surname>
+                <given-names>HA</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>The impact of socio-economic factors on parental non-adherence to the ponseti protocol for clubfoot treatment in low- and middle-income countries: a scoping review</article-title>
+            <source>E Clin Med</source>
+            <year>2022</year>
+            <volume>48</volume>
+            <elocation-id>101448</elocation-id>
+            <pub-id pub-id-type="doi">10.1016/j.eclinm.2022.101448</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R40">
+          <label>40</label>
+          <element-citation publication-type="journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Shrime</surname>
+                <given-names>MG</given-names>
+              </name>
+              <name>
+                <surname>Bickler</surname>
+                <given-names>SW</given-names>
+              </name>
+              <name>
+                <surname>Alkire</surname>
+                <given-names>BC</given-names>
+              </name>
+              <etal>et al</etal>
+            </person-group>
+            <article-title>Global burden of surgical disease: an estimation from the provider perspective</article-title>
+            <source>Lancet Glob Health</source>
+            <year>2015</year>
+            <volume>3</volume>
+            <fpage>S8</fpage>
+            <lpage>9</lpage>
+            <pub-id pub-id-type="doi">10.1016/S2214-109X(14)70384-5</pub-id>
+            <pub-id pub-id-type="pmid">25926322</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="R41">
+          <label>41</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ponseti</surname>
+                <given-names>I</given-names>
+              </name>
+            </person-group>
+            <source>Congenital clubfoot, fundamentals of treatment. 2nd Editio</source>
+            <publisher-loc>Oxford</publisher-loc>
+            <publisher-name>Oxford University Press</publisher-name>
+            <year>1996</year>
+            <fpage>1</fpage>
+            <lpage>160</lpage>
+            <comment>Available</comment>
+            <ext-link xlink:href="http://nebula.wsimg.com/ed4c586ff5f7f06473adf59d9fb25090?AccessKeyId=B17C75687FBF776E8655&amp;disposition=0&amp;alloworigin=1" ext-link-type="uri">http://nebula.wsimg.com/ed4c586ff5f7f06473adf59d9fb25090?AccessKeyId=B17C75687FBF776E8655&amp;disposition=0&amp;alloworigin=1</ext-link>
+          </element-citation>
+        </ref>
+        <ref id="R42">
+          <label>42</label>
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <collab>American Academy of Orthopaedic Surgeons</collab>
+            </person-group>
+            <article-title>Management of developmental dysplasia of the hip in infants up to six months of age</article-title>
+            <publisher-loc>Rosemont, IL</publisher-loc>
+            <year>2018</year>
+            <comment>Available</comment>
+            <ext-link xlink:href="https://www.aaos.org/globalassets/quality-and-practice-resources/pddh/ddh-auc_specialist_3.6.18.pdf" ext-link-type="uri">https://www.aaos.org/globalassets/quality-and-practice-resources/pddh/ddh-auc_specialist_3.6.18.pdf</ext-link>
+          </element-citation>
+        </ref>
+      </ref-list>
+      <sec sec-type="data-availability">
+        <title>Data availability statement</title>
+        <p>All data relevant to the study are included in the article or uploaded as online supplemental information.</p>
+      </sec>
+    </back>
+  </article>
+</pmc-articleset>

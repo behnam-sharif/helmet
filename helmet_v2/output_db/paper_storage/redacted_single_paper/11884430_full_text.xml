@@ -1,0 +1,2375 @@
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+    <?properties open_access?>
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+      <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">J Health Econ Outcomes Res</journal-id>
+        <journal-id journal-id-type="iso-abbrev">J Health Econ Outcomes Res</journal-id>
+        <journal-id journal-id-type="publisher-id">1694</journal-id>
+        <journal-title-group>
+          <journal-title>Journal of Health Economics and Outcomes Research</journal-title>
+        </journal-title-group>
+        <issn pub-type="ppub">2326-697X</issn>
+        <issn pub-type="epub">2327-2236</issn>
+        <publisher>
+          <publisher-name>Columbia Data Analytics, LLC</publisher-name>
+        </publisher>
+        <self-uri xlink:href="https://jheor.org/">Website: Journal of Health Economics and Outcomes Research</self-uri>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">40051780</article-id>
+        <article-id pub-id-type="pmc">11884430</article-id>
+        <article-id pub-id-type="publisher-id">129832</article-id>
+        <article-id pub-id-type="doi">10.36469/001c.129832</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Ophthalmology</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>Cost-Effectiveness and Budget Impact Analysis of the Use of Faricimab in Diabetic Macular Edema and Neovascular Age-Related Macular Degeneration in Colombia</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author" corresp="yes">
+            <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-0782-4315</contrib-id>
+            <name>
+              <surname>Samacá-Samacá</surname>
+              <given-names>Daniel</given-names>
+            </name>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal Analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis">Formal Analysis</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</role>
+            <xref rid="author-note-1" ref-type="corresp"/>
+            <xref rid="author-aff-1" ref-type="aff">
+              <sup>1</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Robles</surname>
+              <given-names>Antonio</given-names>
+            </name>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal Analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis">Formal Analysis</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</role>
+            <xref rid="author-aff-1" ref-type="aff">
+              <sup>1</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Ocampo</surname>
+              <given-names>Hugo</given-names>
+            </name>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal Analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis">Formal Analysis</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation">Data curation</role>
+            <xref rid="author-aff-2" ref-type="aff">
+              <sup>2</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Rodríguez</surname>
+              <given-names>Francisco J.</given-names>
+            </name>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal Analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis">Formal Analysis</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation">Data curation</role>
+            <xref rid="author-aff-3" ref-type="aff">
+              <sup>3</sup>
+            </xref>
+            <xref rid="author-aff-4" ref-type="aff">
+              <sup>4</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Sardi-Correa</surname>
+              <given-names>Carolina</given-names>
+            </name>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal Analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis">Formal Analysis</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation">Data curation</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</role>
+            <xref rid="author-aff-5" ref-type="aff">
+              <sup>5</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Prieto-Pinto</surname>
+              <given-names>Laura</given-names>
+            </name>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal Analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis">Formal Analysis</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration">Project administration</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision">Supervision</role>
+            <xref rid="author-aff-1" ref-type="aff">
+              <sup>1</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Bührer</surname>
+              <given-names>Christian</given-names>
+            </name>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation">Data curation</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal Analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis">Formal Analysis</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration">Project administration</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision">Supervision</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</role>
+            <xref rid="author-aff-6" ref-type="aff">
+              <sup>6</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Tamayo</surname>
+              <given-names>Camilo</given-names>
+            </name>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation">Data curation</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal Analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis">Formal Analysis</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</role>
+            <xref rid="author-aff-7" ref-type="aff">
+              <sup>7</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Rodríguez</surname>
+              <given-names>David</given-names>
+            </name>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation">Data curation</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal Analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis">Formal Analysis</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</role>
+            <xref rid="author-aff-7" ref-type="aff">
+              <sup>7</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Hernández-Quintana</surname>
+              <given-names>Mauricio</given-names>
+            </name>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal Analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis">Formal Analysis</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration">Project administration</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision">Supervision</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</role>
+            <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</role>
+            <xref rid="author-aff-8" ref-type="aff">
+              <sup>8</sup>
+            </xref>
+          </contrib>
+        </contrib-group>
+        <aff id="author-aff-1">
+          <label>1</label>
+          <institution-wrap>
+            <institution content-type="edu">Evidence Generation, Roche Colombia, Bogotá</institution>
+          </institution-wrap>
+        </aff>
+        <aff id="author-aff-2">
+          <label>2</label>
+          <institution-wrap>
+            <institution content-type="edu">Clínica de Oftalmología, Cali, Colombia</institution>
+          </institution-wrap>
+        </aff>
+        <aff id="author-aff-3">
+          <label>3</label>
+          <institution-wrap>
+            <institution content-type="edu">Fundonal</institution>
+          </institution-wrap>
+        </aff>
+        <aff id="author-aff-4">
+          <label>4</label>
+          <institution-wrap>
+            <institution content-type="edu">Escuela de Medicina y Ciencias de la Salud, Universidad del Rosario, Bogotá, Colombia</institution>
+          </institution-wrap>
+        </aff>
+        <aff id="author-aff-5">
+          <label>5</label>
+          <institution-wrap>
+            <institution content-type="edu">Instituto Nacional de Investigación en Oftalmología, Medellín, Colombia</institution>
+          </institution-wrap>
+        </aff>
+        <aff id="author-aff-6">
+          <label>6</label>
+          <institution-wrap>
+            <institution content-type="edu">Hoffman-La Roche, Basel, Switzerland</institution>
+          </institution-wrap>
+        </aff>
+        <aff id="author-aff-7">
+          <label>7</label>
+          <institution-wrap>
+            <institution content-type="edu">IQVIA Colombia, Bogotá</institution>
+          </institution-wrap>
+        </aff>
+        <aff id="author-aff-8">
+          <label>8</label>
+          <institution-wrap>
+            <institution content-type="edu">Departamento Médico, Roche Colombia, Bogotá</institution>
+          </institution-wrap>
+        </aff>
+        <author-notes>
+          <corresp id="author-note-1"><bold>Corresponding author:</bold> Email: daniel.samaca@roche.com</corresp>
+        </author-notes>
+        <pub-date publication-format="electronic" date-type="pub" iso-8601-date="2025-03-04">
+          <day>4</day>
+          <month>3</month>
+          <year>2025</year>
+        </pub-date>
+        <pub-date publication-format="electronic" date-type="collection" iso-8601-date="2025-01-01">
+          <year>2025</year>
+        </pub-date>
+        <volume>12</volume>
+        <issue seq="0">1</issue>
+        <fpage>97</fpage>
+        <lpage>105</lpage>
+        <history>
+          <date date-type="received" iso-8601-date="2024-11-20">
+            <day>20</day>
+            <month>11</month>
+            <year>2024</year>
+          </date>
+          <date date-type="accepted" iso-8601-date="2025-02-17">
+            <day>17</day>
+            <month>2</month>
+            <year>2025</year>
+          </date>
+        </history>
+        <permissions>
+          <license>
+            <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+            <license-p>
+This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License (4.0)</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+</license-p>
+          </license>
+        </permissions>
+        <self-uri content-type="pdf" xlink:href="https://jheor.org/article/129832.pdf"/>
+        <self-uri content-type="xml" xlink:href="https://jheor.org/article/129832.xml"/>
+        <self-uri content-type="json" xlink:href="https://jheor.org/article/129832.json"/>
+        <self-uri content-type="html" xlink:href="https://jheor.org/article/129832"/>
+        <kwd-group>
+          <kwd>cost-effectiveness analysis</kwd>
+          <kwd>budget impact analysis</kwd>
+          <kwd>macular degenerations</kwd>
+          <kwd>diabetic macular edema</kwd>
+          <kwd>Colombia</kwd>
+        </kwd-group>
+        <funding-group>
+          <funding-statement>This study was funded by Roche, Colombia.</funding-statement>
+        </funding-group>
+      </article-meta>
+    </front>
+    <body>
+      <sec>
+        <title>BACKGROUND</title>
+        <p>Blindness and vision loss are major contributors to disability, impacting individuals’ quality of life and often leading to diminished financial, educational, and employment opportunities.<xref rid="ref-420594" ref-type="bibr"><sup>1</sup></xref> According to the Global Burden of Disease Study, in 2020, 7.8 million people in Colombia had vision loss, of whom 300 000 had blindness.<xref rid="ref-420595" ref-type="bibr"><sup>2</sup></xref></p>
+        <p>Diabetic macular edema (DME) is the primary cause of blindness, affecting 1 in 15 patients with diabetes.<xref rid="ref-420596" ref-type="bibr"><sup>3,4</sup></xref> In cases of diabetic retinopathy, 2.8% experience moderate to severe vision loss and 6.8% suffer from blindness, with DME accounting for 50% of these cases.<xref rid="ref-420598" ref-type="bibr"><sup>5</sup></xref> The prevalence of DME has been estimated at 5.81% in low- and middle-income countries and 5.14% in high-income countries.<xref rid="ref-420599" ref-type="bibr"><sup>6</sup></xref></p>
+        <p>Although neovascular age-related macular degeneration (nAMD) represents 1% to 15% of the total cases of age-related macular degeneration (AMD), it accounts for more than 80% of cases of severe visual loss or blindness,<xref rid="ref-420600" ref-type="bibr"><sup>7</sup></xref> leading to a considerable impact on patient well-being.<xref rid="ref-420601" ref-type="bibr"><sup>8</sup></xref></p>
+        <p>In 2021, the disease burden from visual impairment in Colombia was estimated at 258 594 disability-adjusted life years (DALYs).<xref rid="ref-420602" ref-type="bibr"><sup>9</sup></xref> Local estimates indicate there were 24 947 cases of DME with moderate-to-severe vision loss and blindness, corresponding to 5229 DALYs.<xref rid="ref-420602" ref-type="bibr"><sup>9</sup></xref> There were 15 783 cases of visual impairment attributed to nAMD, associated with 3055 DALYs, highlighting the significant disease burden in the Colombian population.<xref rid="ref-420602" ref-type="bibr"><sup>9</sup></xref></p>
+        <p>Furthermore, the total economic burden associated with DME and nAMD was approximately $834.9 million and $193.9 million (US dollars), respectively, with direct costs representing 89% to 93% of the total expenses in 2022.<xref rid="ref-420603" ref-type="bibr"><sup>10</sup></xref> Indirect costs related to both diseases were estimated at $93.3 million and $13.9 million for DME and nAMD, respectively.<xref rid="ref-420603" ref-type="bibr"><sup>10</sup></xref> These indirect costs included loss of access to work, absenteeism, transportation costs, and the caregiver’s loss of productivity.<xref rid="ref-420603" ref-type="bibr"><sup>10</sup></xref> The burden related to indirect costs reflects the effect that diseases have on the burden of patients and caregivers, highlighting the need to prioritize effective interventions that reduce the burden of disease while contributing to the financial sustainability of the healthcare system.</p>
+        <p>Both DME and nAMD are treated with anti–vascular endothelial growth factor (anti-VEGF), including aflibercept, ranibizumab and brolucizumab.<xref rid="ref-420604" ref-type="bibr"><sup>11–13</sup></xref> Recently, faricimab, a new anti-VEGF, has been approved in Colombia. Faricimab targets and inhibits Ang-2 and VEGF-A, a mechanism of action suggested as an advantage in controlling the disease.<xref rid="ref-420607" ref-type="bibr"><sup>14</sup></xref> Recent studies have shown that faricimab reduces the number of injections required for treating DME and nAMD, indicating a reduction in the burden of treatment and possibly in the cost of managing both diseases.<xref rid="ref-420608" ref-type="bibr"><sup>15,16</sup></xref></p>
+        <p>The objective of this study was to estimate the cost-effectiveness and budget impact of using faricimab, compared with other anti-VEGF agents approved in Colombia, for the treatment of patients with DME and nAMD.</p>
+      </sec>
+      <sec>
+        <title>METHODS</title>
+        <sec>
+          <title>Cost-Effectiveness Analysis</title>
+          <p>A local adaptation of a previously implemented faricimab cost-effectiveness model was conducted,<xref rid="ref-420610" ref-type="bibr"><sup>17</sup></xref> following the guidelines of the local health technology assessment agency (Instituto de Evaluación Tecnológica en Salud [IETS]).<xref rid="ref-420611" ref-type="bibr"><sup>18</sup></xref> The cost-effectiveness threshold used was 86% of GDP per capita, as estimated for Colombia by Espinosa et al, corresponding to US $5988 for 2023 (US $1 = Col$4325 COP).<xref rid="ref-420612" ref-type="bibr"><sup>19</sup></xref></p>
+        </sec>
+        <sec>
+          <title>Effectiveness Inputs</title>
+          <p>The efficacy of faricimab in DME was evaluated in 2 phase 3 double-blind randomized clinical trials, YOSEMITE and RHINE, that assessed the noninferiority of faricimab in extended doses compared with a fixed 8-weekly aflibercept dose.<xref rid="ref-420613" ref-type="bibr"><sup>20</sup></xref> The results of these studies showed that faricimab treat and extend (T&amp;E) had noninferior visual acuity gains compared with aflibercept, with fewer injections required.<xref rid="ref-420613" ref-type="bibr"><sup>20</sup></xref> Similarly, for nAMD, TENAYA and LUCERNE, 2 noninferiority phase 3 double-blind randomized clinical trials, demonstrated that the change in best-corrected visual acuity (BCVA) of faricimab T&amp;E was noninferior to aflibercept every 8 weeks.<xref rid="ref-420614" ref-type="bibr"><sup>21</sup></xref></p>
+          <p>However, for the economic model, the transition probabilities between VA states were estimated from network meta-analyses (NMA) comparing faricimab T&amp;E with other flexible regimens (T&amp;E or as needed), as head-to-head studies only compared faricimab fixed-dose regimens.</p>
+          <p>For DME, an NMA of faricimab T&amp;E compared with ranibizumab and aflibercept, on an as-needed schedule, and brolucizumab, every 8 to 12 weeks, was used.<xref rid="ref-420608" ref-type="bibr"><sup>15</sup></xref> The NMA results showed that faricimab T&amp;E achieved greater or equal gains in BCVA compared with other anti-VEGF agents.<xref rid="ref-420608" ref-type="bibr"><sup>15</sup></xref></p>
+          <p>The same NMA provided the difference in the number of injections between faricimab T&amp;E, compared with aflibercept as needed and ranibizumab as needed, for the first year of treatment while the difference between faricimab T&amp;E and brolucizumab 8 to 12 weeks was estimated based on the results of the Wykoff et al study.<xref rid="ref-420615" ref-type="bibr"><sup>22</sup></xref> The number of injections for subsequent years was estimated based on the results from the Protocol T study andWykoff et al.<xref rid="ref-420615" ref-type="bibr"><sup>22,23</sup></xref></p>
+          <p>For nAMD, faricimab T&amp;E was compared with ranibizumab T&amp;E, aflibercept T&amp;E, and brolucizumab every 8 to 12 weeks. A recent NMA for nAMD found that faricimab T&amp;E showed comparable efficacy vs other extended regimens while reducing the number of injections required.<xref rid="ref-420609" ref-type="bibr"><sup>16</sup></xref> This NMA also provided the annual difference in the number of injections between faricimab T&amp;E vs aflibercept T&amp;E and ranibizumab T&amp;E.<xref rid="ref-420609" ref-type="bibr"><sup>16</sup></xref> The difference in the number of injections compared with brolucizumab every 8 to 12 weeks was not estimated in the NMA; therefore, it was estimated based on the results of Finger et al.<xref rid="ref-420617" ref-type="bibr"><sup>24</sup></xref></p>
+        </sec>
+        <sec>
+          <title>Cost Inputs</title>
+          <p>National public databases were used to estimate the acquisition cost of ranibizumab, aflibercept, and brolucizumab. The weighted average price for each drug presentation (prefilled syringe or vial) was obtained from the drug pricing information system (Sistema de Información de Precios de Medicamentos [SISMED]) for 2023. The price of faricimab was provided by the manufacturer.</p>
+          <p>The frequency of healthcare resources used in the treatment of DME and nAMD was validated with clinical experts to define a representative case. Costs of these healthcare resources were established using national public databases. We used a healthcare payer perspective, which included direct medical costs: drug acquisition costs, administration costs, visual impairment and blindness costs (supportive care), and management of adverse events.</p>
+          <p>Input parameters for administration, supportive care, and adverse event costs are presented in <bold>Supplementary Table S1</bold>. Administration costs included the operating room for intravitreal injection and the costs associated with supplies and health personnel. It also included coherent optical tomography, which is the standard imaging to assess the need for treatment. Supportive care costs included the vision-related resources needed when a patient’s visual acuity (VA) reaches a threshold level of impairment.<xref rid="ref-420618" ref-type="bibr"><sup>25</sup></xref> This included rehabilitation for low vision, low-vision aids, services to treat vision loss–related depression, and hip prostheses due to falls.<xref rid="ref-420618" ref-type="bibr"><sup>25</sup></xref></p>
+          <p>Based on the information from the NMAs, no differences between anti-VEGFs in the occurrence of adverse events were identified.<xref rid="ref-420608" ref-type="bibr"><sup>15,16</sup></xref> Therefore, the model included the costs of adverse events treatment assuming the same probability of occurrence among all treatments. Prices for administration, supportive care, and adverse events were obtained from the Integrated Social Protection Information System.</p>
+        </sec>
+        <sec>
+          <title>Markov Cohort Model</title>
+          <p>A Markov cohort model (<bold><xref rid="attachment-269544" ref-type="fig">Figure 1</xref></bold>) was used to estimate changes in bilateral VA, annual injection frequency, and associated costs for the Colombian Health System. The time horizon was 25 years, considering the age at disease onset and life expectancy. The outcome assessed was quality-adjusted life years (QALYs). The duration of the cycles was 4 weeks, which provided greater flexibility and precision in calculating doses and treatment costs. An annual discount rate of 5% was applied to costs and health outcomes, following the guidelines of the IETS.<xref rid="ref-420611" ref-type="bibr"><sup>18</sup></xref> The Markov model assumed a treatment duration of 5 years. After 5 years, it was assumed that 85% of patients discontinued treatment.<xref rid="ref-420616" ref-type="bibr"><sup>23</sup></xref> The details of the model parameters are presented in <bold><xref rid="attachment-269545" ref-type="table">Table 1</xref></bold>.</p>
+          <fig position="float" id="attachment-269544">
+            <object-id pub-id-type="publisher-id">269544</object-id>
+            <label>Figure 1.</label>
+            <caption>
+              <title>Structure of the Markov Model (A) and Treatment Pathway between Health State Categories (B)</title>
+              <p>Abbreviation: VA, visual acuity.</p>
+            </caption>
+            <graphic xlink:href="jheor_2025_12_1_129832_269544" position="float"/>
+          </fig>
+          <table-wrap position="float" id="attachment-269545">
+            <object-id pub-id-type="publisher-id">269545</object-id>
+            <label>Table 1.</label>
+            <caption>
+              <title>Cost-Effectiveness Model and Budget Impact Analysis Inputs</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th rowspan="1" colspan="1">
+                    <bold>Variable</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>Value</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>Source</bold>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td colspan="3" rowspan="1">Cost-effectiveness model (base case)</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Time horizon (based on disease age at onset)</td>
+                  <td rowspan="1" colspan="1">25 years</td>
+                  <td rowspan="1" colspan="1">National Institutes of Health<xref rid="ref-420643" ref-type="bibr"><sup>26–28</sup></xref></td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Annual discount (costs and effects)</td>
+                  <td rowspan="1" colspan="1">5%</td>
+                  <td rowspan="1" colspan="1">IETS<xref rid="ref-420611" ref-type="bibr"><sup>18</sup></xref></td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Treatment discontinuation after 5 years</td>
+                  <td rowspan="1" colspan="1">85%</td>
+                  <td rowspan="1" colspan="1">Glassman et al<xref rid="ref-420616" ref-type="bibr"><sup>23</sup></xref></td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Distribution of VA</td>
+                  <td rowspan="1" colspan="1">(See <bold>Table S2</bold>)</td>
+                  <td rowspan="1" colspan="1">NICE,<xref rid="ref-420619" ref-type="bibr"><sup>29</sup></xref> Wykoff et al<xref rid="ref-420620" ref-type="bibr"><sup>30</sup></xref></td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Utility values</td>
+                  <td rowspan="1" colspan="1">(See <bold>Table S3</bold>)</td>
+                  <td rowspan="1" colspan="1">Czoski-Murray et al<xref rid="ref-420622" ref-type="bibr"><sup>31</sup></xref></td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Disutility of intravitreal injection</td>
+                  <td rowspan="1" colspan="1">50%</td>
+                  <td rowspan="1" colspan="1">NICE<xref rid="ref-420619" ref-type="bibr"><sup>29</sup></xref></td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Baseline incidence of DME in 2nd eye</td>
+                  <td rowspan="1" colspan="1">46.5%</td>
+                  <td rowspan="1" colspan="1">NICE<xref rid="ref-420621" ref-type="bibr"><sup>32</sup></xref></td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Monthly incidence of DME in 2nd eye</td>
+                  <td rowspan="1" colspan="1">0.8%</td>
+                  <td rowspan="1" colspan="1">NICE<xref rid="ref-420621" ref-type="bibr"><sup>32</sup></xref></td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Baseline incidence of nAMD in 2nd eye</td>
+                  <td rowspan="1" colspan="1">7.3%</td>
+                  <td rowspan="1" colspan="1">NICE<xref rid="ref-420621" ref-type="bibr"><sup>32</sup></xref></td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Monthly incidence of nAMD in 2nd eye</td>
+                  <td rowspan="1" colspan="1">1.4%</td>
+                  <td rowspan="1" colspan="1">NICE<xref rid="ref-420621" ref-type="bibr"><sup>32</sup></xref></td>
+                </tr>
+                <tr>
+                  <td colspan="3" rowspan="1">Budget impact analysis</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Diabetes prevalence</td>
+                  <td rowspan="1" colspan="1">8.4%</td>
+                  <td rowspan="1" colspan="1">IDF Diabetes Atlas<xref rid="ref-420625" ref-type="bibr"><sup>33</sup></xref></td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">DME prevalence among diabetic patients</td>
+                  <td rowspan="1" colspan="1">4.92%</td>
+                  <td rowspan="1" colspan="1">Teo et al<xref rid="ref-420626" ref-type="bibr"><sup>34</sup></xref></td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">% diagnosed patients (DME)</td>
+                  <td rowspan="1" colspan="1">85%</td>
+                  <td rowspan="1" colspan="1">Assumption based on clinical experts</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">% DME patients treated with anti-VEGF agents</td>
+                  <td rowspan="1" colspan="1">100%</td>
+                  <td rowspan="1" colspan="1">Assumption based on clinical experts</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Prevalent cases with bilateral disease (DME in both eyes)</td>
+                  <td rowspan="1" colspan="1">65%</td>
+                  <td rowspan="1" colspan="1">Assumption based on clinical experts</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Annual market share increase (DME)</td>
+                  <td rowspan="1" colspan="1">15%</td>
+                  <td rowspan="1" colspan="1">Assumption based on clinical experts</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">AMD prevalence</td>
+                  <td rowspan="1" colspan="1">0.32%</td>
+                  <td rowspan="1" colspan="1">Wong et al<xref rid="ref-420624" ref-type="bibr"><sup>35</sup></xref></td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Late AMD with neovascular type</td>
+                  <td rowspan="1" colspan="1">51.1%</td>
+                  <td rowspan="1" colspan="1">Wong et al<xref rid="ref-420624" ref-type="bibr"><sup>35</sup></xref></td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Prevalent cases with bilateral disease (nAMD in both eyes)</td>
+                  <td rowspan="1" colspan="1">29.2%</td>
+                  <td rowspan="1" colspan="1">Assumption based on clinical experts</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">% patients treated with anti-VEGF agents</td>
+                  <td rowspan="1" colspan="1">80%</td>
+                  <td rowspan="1" colspan="1">Assumption based on clinical experts</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Annual market share increase (nAMD)</td>
+                  <td rowspan="1" colspan="1">13%</td>
+                  <td rowspan="1" colspan="1">Assumption based on clinical experts</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Patients with healthcare coverage</td>
+                  <td rowspan="1" colspan="1">98.5%</td>
+                  <td rowspan="1" colspan="1">MinSalud<xref rid="ref-420627" ref-type="bibr"><sup>36</sup></xref></td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>Abbreviations: AMD, age-related macular degeneration; DME, diabetic macular edema; IETS, Instituto de Evaluación Tecnológica en Salud; nAMD, neovascular age-related macular degeneration; NICE, National Institute for Health and Care Excellence; VA, visual acuity; VEGF, vascular endothelial growth factor.</p>
+            </table-wrap-foot>
+          </table-wrap>
+          <p>A detailed description of the model can be found in Bührer et al.<xref rid="ref-420610" ref-type="bibr"><sup>17</sup></xref> The model was designed to illustrate the natural progression of the disease and the development of both conditions.<xref rid="ref-420610" ref-type="bibr"><sup>17</sup></xref> The model comprised 6 categories of vision-related health states defined by VA scores: &gt;85, 85-71, 70-56, 55-41, 40-26, and ≤25. A lower score indicates poorer vision (<bold><xref rid="attachment-269544" ref-type="fig">Figure 1</xref></bold>). These scores reflected the number of letters accurately identified in a VA test, using the ETDRS (Early Treatment Diabetic Retinopathy Study) scale. Patients were initially distributed in the model according to the baseline VA of their first affected eye (<bold>Supplementary Table S2</bold>).<xref rid="ref-420619" ref-type="bibr"><sup>29,30</sup></xref> Bilateral disease incidence was used to determine which patients were modeled for DME or nAMD in the second eye.<xref rid="ref-420619" ref-type="bibr"><sup>29,32</sup></xref> Baseline VA in the second eye was used for health state model distribution (<bold>Supplementary Table S2</bold>).<xref rid="ref-420619" ref-type="bibr"><sup>29,30</sup></xref></p>
+          <p>The model distinguished 3 phases based on the typical clinical progression of the diseases: Year 1 was the loading phase during which most vision improvements occurred, Year 2 simulated the stabilization of the disease and the maintenance of previously gained vision, and Year 3 and onward involved reduced treatment intensity and long-term maintenance.<xref rid="ref-420610" ref-type="bibr"><sup>17</sup></xref> During Year 1, patients either remained stable or transitioned between health states, experiencing either improvements or declines in VA. They could advance by up to 2 health states (eg, from VA 55-41 to VA 85-71) or drop by 1 health state. During Year 2, patients could move up or down 1 health state, while in Year 3, patients could move down 1 or 2 health states, and in both years they could remain stable. Utility values and non-treatment-related costs were assigned according to the VA health state category (<bold>Supplementary Table S3</bold>).<xref rid="ref-420610" ref-type="bibr"><sup>17</sup></xref> A disutility value was applied for every administration of intravitreal injection (<bold><xref rid="attachment-269545" ref-type="table">Table 1</xref></bold>).<xref rid="ref-420619" ref-type="bibr"><sup>29</sup></xref></p>
+          <p>The transition probabilities were estimated using a multistate model in R programming language, described in Bührer et al.<xref rid="ref-420610" ref-type="bibr"><sup>17</sup></xref> The transition probabilities represent the changes among VA health states, defined by either a 1- or 2-state increase in VA, a 1- or 2-state decrease, or no change.<xref rid="ref-420610" ref-type="bibr"><sup>17</sup></xref> A gain of more than 22.5 letters indicates an increase in 2 VA states. A gain between 7.5 and 22.5 letters indicates an increase in 1 VA state. A gain or loss of up to 7.5 letters indicates that the patient remains stable. A loss between 7.5 and 22.5 letters indicates a decrease in 1 state. Finally, a loss of more than 22.5 letters indicates a decrease in 2 states.</p>
+          <p>During Year 1, transition probabilities are estimated per 4-week cycle, according to the baseline VA distribution and transitioning based on VA gains.<xref rid="ref-420610" ref-type="bibr"><sup>17</sup></xref> After the first year, transitions become independent of the baseline VA.<xref rid="ref-420610" ref-type="bibr"><sup>17</sup></xref> Transition probabilities between health states for Years 1, 2, and 3 and onward are presented in <bold>Supplementary Tables S4-S9</bold>.</p>
+          <p>Subsequently, the VA health states were integrated with the treatment pathway states to assign treatment costs (including acquisition, administration, and monitoring), health state utilities, and treatment-related disutility values (<bold><xref rid="attachment-269544" ref-type="fig">Figure 1</xref></bold>).</p>
+          <p>Utility values were obtained from Czoski-Murray et al, in which the relationship between VA scores and utility values was estimated using a regression model with time trade-off methods and incorporating an age covariate.<xref rid="ref-420622" ref-type="bibr"><sup>31</sup></xref> Utility values according VA scores are presented in <bold>Supplementary Table S3</bold>.</p>
+        </sec>
+        <sec>
+          <title>Sensitivity Analyses</title>
+          <p>Deterministic and probabilistic sensitivity analyses (PSA) were conducted to assess the uncertainty and explore the robustness of the model results. The deterministic sensitivity analysis was based on the upper and lower limits of the 95% confidence interval of the model parameters, when available, or the 30th and 70th percentile of the point estimate. Parameters included drug acquisition costs, discount rates, cost of administration, year of disease onset, and costs associated with blindness and adverse events management. For acquisition drug costs, an increase and a discount of 10% was used as the upper and lower limits. Net monetary benefit was used as the output for the deterministic sensibility analysis.</p>
+          <p>For the PSA, 1000 Monte Carlo chain simulations were performed based on the observed probabilistic distribution assigned to each parameter. Beta distributions were used for the proportion of patients requiring visual impairment and blindness aids and for the administration and follow-up visits assigned to the second eye if both eyes were treated. Beta or gamma distributions were used for adverse events management. A gamma distribution was used for drug costs, and a normal distribution was applied for the rest of the parameters. Parameters for PSA are presented in <bold>Supplementary Tables S10 and S11</bold>.</p>
+        </sec>
+        <sec>
+          <title>Budget Impact Analysis</title>
+          <p>The budget impact analysis (BIA) was conducted according to the guidelines of the local health technology assessment agency.<xref rid="ref-420623" ref-type="bibr"><sup>37</sup></xref> Bevacizumab (off-label) (for DME and nAMD) and dexamethasone (for DME) were included in the analysis, according to the country’s clinical practice, as validated by clinical experts. The BIA represents the comparison of 2 scenarios: the current scenario without faricimab and a new scenario considering the entry of faricimab onto the market.<xref rid="ref-420623" ref-type="bibr"><sup>37</sup></xref></p>
+          <p>To identify the target population, we assessed the total number of individuals at risk of developing the health conditions and who could potentially benefit from the analyzed technologies. The sources for estimating the target population for each disease are presented in <bold><xref rid="attachment-269545" ref-type="table">Table 1</xref></bold>.</p>
+          <p>For AMD, a prevalence rate of 0.32% was applied for individuals over 40 years of age, with 51.1% of late AMD cases classified as neovascular.<xref rid="ref-420624" ref-type="bibr"><sup>35</sup></xref> This estimate was refined for adults over 50 years. According to the consultation with clinical experts, 29.2% of prevalent cases of nAMD have the disease in both eyes (bilateral disease), and 80% of patients receive anti-VEGF treatment. For the DME estimate, we considered the adult population over 18 years and applied a diabetes prevalence of 8.4%,<xref rid="ref-420625" ref-type="bibr"><sup>33</sup></xref> with a DME prevalence of 4.92% among patients with diabetes.<xref rid="ref-420626" ref-type="bibr"><sup>34</sup></xref> According to the clinical experts, 65% of DME-prevalent cases involve bilateral disease and all patients were assumed to be receiving treatment. Health coverage was set at 98.5%.<xref rid="ref-420627" ref-type="bibr"><sup>36</sup></xref></p>
+          <p>Subsequently, the current market distribution for the technologies used in managing both diseases and the estimation of how this market distribution would change with the use of faricimab was applied. An annual increase in market share of 15% in DME and 13% in nAMD was assumed for faricimab, based on the clinicians’ expertise.</p>
+          <p>The costs associated with managing each disease were estimated for each scenario. The cost estimation for drugs and the use of health resources followed the methodology previously described for the cost-effectiveness analysis.</p>
+          <p>A 3-year time horizon was established for the BIA, with 2024 as the initial year (ie, the analysis extends to 2027). The results are presented for each year and the 3-year cumulative analysis.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>RESULTS</title>
+        <sec>
+          <title>Cost-Effectiveness Analysis</title>
+          <p>The comparison between faricimab and other anti-VEGFs included in the analysis during the 25-year horizon is presented in <bold><xref rid="attachment-269547" ref-type="table">Table 2</xref></bold>. The results showed that faricimab generates additional QALYs against aflibercept, ranibizumab, and brolucizumab in both DME and nAMD. Additionally, faricimab was associated with lower costs than aflibercept, ranibizumab, and brolucizumab during the analysis period, indicating that faricimab is a dominant alternative to all comparators.</p>
+          <table-wrap position="float" id="attachment-269547">
+            <object-id pub-id-type="publisher-id">269547</object-id>
+            <label>Table 2.</label>
+            <caption>
+              <title>Cost-Effectiveness Results of Faricimab T&amp;E vs Other Anti-VEGF Agents in Diabetic Macular Edema and Neovascular Age-Related Macular Degeneration</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th rowspan="1" colspan="1">
+                    <bold>Treatment</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>Cost (US $)</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>Incremental Cost vs Faricimab</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>QALYs</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>Incremental QALYs vs Faricimab</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>ICER vs Faricimab</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>Faricimab NMB vs Comparator</bold>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td colspan="7" rowspan="1">Diabetic macular edema (base case)</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Faricimab T&amp;E</td>
+                  <td rowspan="1" colspan="1">17 857</td>
+                  <td rowspan="1" colspan="1">–</td>
+                  <td rowspan="1" colspan="1">7.94</td>
+                  <td rowspan="1" colspan="1">–</td>
+                  <td rowspan="1" colspan="1">–</td>
+                  <td rowspan="1" colspan="1">–</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Aflibercept PRN</td>
+                  <td rowspan="1" colspan="1">21 706</td>
+                  <td rowspan="1" colspan="1">3849</td>
+                  <td rowspan="1" colspan="1">7.73</td>
+                  <td rowspan="1" colspan="1">-0.22</td>
+                  <td rowspan="1" colspan="1">Faricimab dominant</td>
+                  <td rowspan="1" colspan="1">5149</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Ranibizumab PRN</td>
+                  <td rowspan="1" colspan="1">19 232</td>
+                  <td rowspan="1" colspan="1">1375</td>
+                  <td rowspan="1" colspan="1">7.39</td>
+                  <td rowspan="1" colspan="1">-0.55</td>
+                  <td rowspan="1" colspan="1">Faricimab dominant</td>
+                  <td rowspan="1" colspan="1">4680</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Brolucizumab 8-12 weeks</td>
+                  <td rowspan="1" colspan="1">20 681</td>
+                  <td rowspan="1" colspan="1">2824</td>
+                  <td rowspan="1" colspan="1">7.89</td>
+                  <td rowspan="1" colspan="1">-0.06</td>
+                  <td rowspan="1" colspan="1">Faricimab dominant</td>
+                  <td rowspan="1" colspan="1">3163</td>
+                </tr>
+                <tr>
+                  <td colspan="7" rowspan="1">Diabetic macular edema (PSA)</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Faricimab T&amp;E</td>
+                  <td rowspan="1" colspan="1">21 898</td>
+                  <td rowspan="1" colspan="1">–</td>
+                  <td rowspan="1" colspan="1">7.92</td>
+                  <td rowspan="1" colspan="1">–</td>
+                  <td rowspan="1" colspan="1">–</td>
+                  <td rowspan="1" colspan="1">–</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Aflibercept PRN</td>
+                  <td rowspan="1" colspan="1">23 401</td>
+                  <td rowspan="1" colspan="1">1503</td>
+                  <td rowspan="1" colspan="1">7.77</td>
+                  <td rowspan="1" colspan="1">-0.14</td>
+                  <td rowspan="1" colspan="1">Faricimab dominant</td>
+                  <td rowspan="1" colspan="1">2397</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Ranibizumab PRN</td>
+                  <td rowspan="1" colspan="1">19 544</td>
+                  <td rowspan="1" colspan="1">-2354</td>
+                  <td rowspan="1" colspan="1">7.57</td>
+                  <td rowspan="1" colspan="1">-0.35</td>
+                  <td rowspan="1" colspan="1">US $11 904</td>
+                  <td rowspan="1" colspan="1">-243</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Brolucizumab 8-12 weeks</td>
+                  <td rowspan="1" colspan="1">25 186</td>
+                  <td rowspan="1" colspan="1">3288</td>
+                  <td rowspan="1" colspan="1">7.53</td>
+                  <td rowspan="1" colspan="1">-0.395</td>
+                  <td rowspan="1" colspan="1">Faricimab is dominant</td>
+                  <td rowspan="1" colspan="1">5604</td>
+                </tr>
+                <tr>
+                  <td colspan="7" rowspan="1">Neovascular age-related macular degeneration (base case)</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Faricimab T&amp;E</td>
+                  <td rowspan="1" colspan="1">28 429</td>
+                  <td rowspan="1" colspan="1">–</td>
+                  <td rowspan="1" colspan="1">5.73</td>
+                  <td rowspan="1" colspan="1">–</td>
+                  <td rowspan="1" colspan="1">–</td>
+                  <td rowspan="1" colspan="1">–</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Aflibercept T&amp;E</td>
+                  <td rowspan="1" colspan="1">35 652</td>
+                  <td rowspan="1" colspan="1">7223</td>
+                  <td rowspan="1" colspan="1">5.61</td>
+                  <td rowspan="1" colspan="1">-0.12</td>
+                  <td rowspan="1" colspan="1">Faricimab dominant</td>
+                  <td rowspan="1" colspan="1">7946</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Ranibizumab T&amp;E</td>
+                  <td rowspan="1" colspan="1">34 221</td>
+                  <td rowspan="1" colspan="1">5792</td>
+                  <td rowspan="1" colspan="1">5.68</td>
+                  <td rowspan="1" colspan="1">-0.05</td>
+                  <td rowspan="1" colspan="1">Faricimab dominant</td>
+                  <td rowspan="1" colspan="1">6087</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Brolucizumab 8-12 weeks</td>
+                  <td rowspan="1" colspan="1">35 227</td>
+                  <td rowspan="1" colspan="1">6798</td>
+                  <td rowspan="1" colspan="1">5.61</td>
+                  <td rowspan="1" colspan="1">-0.12</td>
+                  <td rowspan="1" colspan="1">Faricimab dominant</td>
+                  <td rowspan="1" colspan="1">7540</td>
+                </tr>
+                <tr>
+                  <td colspan="7" rowspan="1">Neovascular age-related macular degeneration (PSA)</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Faricimab T&amp;E</td>
+                  <td rowspan="1" colspan="1">29 528</td>
+                  <td rowspan="1" colspan="1">–</td>
+                  <td rowspan="1" colspan="1">5.75</td>
+                  <td rowspan="1" colspan="1">–</td>
+                  <td rowspan="1" colspan="1">–</td>
+                  <td rowspan="1" colspan="1">–</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Aflibercept T&amp;E</td>
+                  <td rowspan="1" colspan="1">30 839</td>
+                  <td rowspan="1" colspan="1">1311</td>
+                  <td rowspan="1" colspan="1">5.71</td>
+                  <td rowspan="1" colspan="1">-0.03</td>
+                  <td rowspan="1" colspan="1">Faricimab dominant</td>
+                  <td rowspan="1" colspan="1">1521</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Ranibizumab T&amp;E</td>
+                  <td rowspan="1" colspan="1">35 662</td>
+                  <td rowspan="1" colspan="1">6134</td>
+                  <td rowspan="1" colspan="1">5.72</td>
+                  <td rowspan="1" colspan="1">-0.03</td>
+                  <td rowspan="1" colspan="1">Faricimab dominant</td>
+                  <td rowspan="1" colspan="1">6294</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Brolucizumab 8-12 weeks</td>
+                  <td rowspan="1" colspan="1">37 771</td>
+                  <td rowspan="1" colspan="1">8242</td>
+                  <td rowspan="1" colspan="1">5.71</td>
+                  <td rowspan="1" colspan="1">-0.03</td>
+                  <td rowspan="1" colspan="1">Faricimab dominant</td>
+                  <td rowspan="1" colspan="1">8464</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>Abbreviations: ICER, incremental cost-effectiveness ratio; NMB, net monetary benefit; PRN, as needed; PSA, probabilistic sensitivity analysis; QALY, quality-adjusted life year; T&amp;E, treat and extend; VEGF, vascular endothelial growth factor.</p>
+              <p>Note: US $1 = Col$4325.</p>
+            </table-wrap-foot>
+          </table-wrap>
+          <p>The detail of the cost components and the reduction in the number of injections is presented in <bold><xref rid="attachment-269549" ref-type="table">Table 3</xref></bold>. Drug costs represent the highest component of total costs, followed by costs related to drug administration. The treatment frequency results showed that faricimab requires fewer injections than aflibercept, ranibizumab, and brolucizumab for both diseases, reducing the drug acquisition and administration cost.</p>
+          <table-wrap position="float" id="attachment-269549">
+            <object-id pub-id-type="publisher-id">269549</object-id>
+            <label>Table 3.</label>
+            <caption>
+              <title>Components of the Analysis of Faricimab T&amp;E vs Other Anti-VEGF Agents in Diabetic Macular Edema and Neovascular Age-Related Macular Degeneration</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th rowspan="1" colspan="1">
+                    <bold>Treatment</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>Drug Acquisition Costs (US $)</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>Administration Costs (US $)</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>AE Costs (US $)</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>Cost of Visual Impairment Aids (US $)</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>No. of Injections vs Faricimab</bold>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td colspan="6" rowspan="1">Diabetic macular edema</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Faricimab T&amp;E</td>
+                  <td rowspan="1" colspan="1">14 039</td>
+                  <td rowspan="1" colspan="1">2363</td>
+                  <td rowspan="1" colspan="1">42</td>
+                  <td rowspan="1" colspan="1">447</td>
+                  <td rowspan="1" colspan="1">–</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Aflibercept PRN</td>
+                  <td rowspan="1" colspan="1">16 308</td>
+                  <td rowspan="1" colspan="1">3163</td>
+                  <td rowspan="1" colspan="1">42</td>
+                  <td rowspan="1" colspan="1">486</td>
+                  <td rowspan="1" colspan="1">-10.22</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Ranibizumab PRN</td>
+                  <td rowspan="1" colspan="1">13 821</td>
+                  <td rowspan="1" colspan="1">3177</td>
+                  <td rowspan="1" colspan="1">42</td>
+                  <td rowspan="1" colspan="1">559</td>
+                  <td rowspan="1" colspan="1">-10.22</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Brolucizumab 8-12 weeks</td>
+                  <td rowspan="1" colspan="1">15 382</td>
+                  <td rowspan="1" colspan="1">2667</td>
+                  <td rowspan="1" colspan="1">42</td>
+                  <td rowspan="1" colspan="1">455</td>
+                  <td rowspan="1" colspan="1">-4.30</td>
+                </tr>
+                <tr>
+                  <td colspan="6" rowspan="1">Neovascular age-related macular degeneration</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Faricimab T&amp;E</td>
+                  <td rowspan="1" colspan="1">23 956</td>
+                  <td rowspan="1" colspan="1">4032</td>
+                  <td rowspan="1" colspan="1">34</td>
+                  <td rowspan="1" colspan="1">407</td>
+                  <td rowspan="1" colspan="1">–</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Aflibercept T&amp;E</td>
+                  <td rowspan="1" colspan="1">29 475</td>
+                  <td rowspan="1" colspan="1">5717</td>
+                  <td rowspan="1" colspan="1">34</td>
+                  <td rowspan="1" colspan="1">426</td>
+                  <td rowspan="1" colspan="1">-24</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Ranibizumab T&amp;E</td>
+                  <td rowspan="1" colspan="1">27 464</td>
+                  <td rowspan="1" colspan="1">6313</td>
+                  <td rowspan="1" colspan="1">34</td>
+                  <td rowspan="1" colspan="1">410</td>
+                  <td rowspan="1" colspan="1">-32</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Brolucizumab 8-12 weeks</td>
+                  <td rowspan="1" colspan="1">29 628</td>
+                  <td rowspan="1" colspan="1">5137</td>
+                  <td rowspan="1" colspan="1">34</td>
+                  <td rowspan="1" colspan="1">428</td>
+                  <td rowspan="1" colspan="1">-16</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>Abbreviations: AE, adverse effects; ICER, incremental cost-effectiveness ratio; PRN, as needed; QALY, quality-adjusted life year; T&amp;E, treat and extend; VEGF, vascular endothelial growth factor.</p>
+              <p>Note: US $1 = Col$4325.</p>
+            </table-wrap-foot>
+          </table-wrap>
+          <p>Visual impairment aid costs were similar among all alternatives for both diseases. Due to the lack of reported differences in the risk of adverse events in the clinical trials, validated by clinical experts, the cost of managing adverse events was the same for all technologies for both health conditions.</p>
+          <p>The results of the deterministic sensitivity analysis showed that the drug acquisition cost for the comparators was the most sensitive parameter in the model, followed in most cases by the faricimab acquisition cost and the discount rate. The incremental net monetary benefit (NMB) of faricimab was positive in all analyses. The tornado diagrams for the deterministic analysis are found in <bold>Supplementary Figures S1-S6</bold>.</p>
+          <p>The cost-effectiveness acceptability curves are presented in <bold><xref rid="attachment-269550" ref-type="fig">Figure 2</xref></bold>. The cost-effectiveness acceptability curve indicates the probability of each intervention of being the most cost-effective alternative. The PSA showed that faricimab is likely to be a dominant alternative compared with other anti-VEGF agents in nAMD. At a willingness-to-pay threshold of US $5988, the probability that faricimab of being dominant is 44.8%. In DME, faricimab is likely to be dominant against aflibercept and brolucizumab, with an ICER of $11 904 compared with ranibizumab. The probability of faricimab of being cost-effective with the current threshold is 35%. <bold><xref rid="attachment-269547" ref-type="table">Table 2</xref></bold> presents the results of the PSA.</p>
+          <fig position="float" id="attachment-269550">
+            <object-id pub-id-type="publisher-id">269550</object-id>
+            <label>Figure 2.</label>
+            <caption>
+              <title>Cost-Effectiveness Acceptability Curve for Diabetic Macular Edema (<bold>A</bold>) and Neovascular Age-related Macular Degeneration (<bold>B</bold>)</title>
+            </caption>
+            <graphic xlink:href="jheor_2025_12_1_129832_269550" position="float"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>Budget Impact Analysis</title>
+          <p>The potential for patients with DME was estimated at 134 094 cases; for nAMD, it was estimated at 24 276 cases in 2024.</p>
+          <p><bold><xref rid="attachment-269551" ref-type="table">Table 4</xref></bold> presents the results of the BIA. Assuming an annual increase in market share of 15% in DME and 13% in nAMD, the introduction of faricimab would generate savings of US $144 056 764 for the Colombian Health System over 3 years. Of the estimated savings, 86% and 76% correspond to drug acquisition cost savings for DME and nAMD, respectively.</p>
+          <table-wrap position="float" id="attachment-269551">
+            <object-id pub-id-type="publisher-id">269551</object-id>
+            <label>Table 4.</label>
+            <caption>
+              <title>Budget Impact Analysis of Faricimab in Diabetic Macular Edema and Neovascular Age-Related Macular Degeneration</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th rowspan="1" colspan="1"/>
+                  <th rowspan="1" colspan="1">
+                    <bold>2024 (Base Year) (US $)</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>2025 (US $)</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>2026 (US $)</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>2027 (US $)</bold>
+                  </th>
+                  <th rowspan="1" colspan="1">
+                    <bold>3-Year Total Budget Impact (US $)</bold>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td colspan="6" rowspan="1">Diabetic macular edema</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Without faricimab</td>
+                  <td rowspan="1" colspan="1">676 698 039</td>
+                  <td rowspan="1" colspan="1">685 540 737</td>
+                  <td rowspan="1" colspan="1">693 715 771</td>
+                  <td rowspan="1" colspan="1">701 522 835</td>
+                  <td rowspan="1" colspan="1">2 080 779 343</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">With faricimab</td>
+                  <td rowspan="1" colspan="1">676 698 039</td>
+                  <td rowspan="1" colspan="1">664 704 905</td>
+                  <td rowspan="1" colspan="1">651 547 174</td>
+                  <td rowspan="1" colspan="1">637 558 092</td>
+                  <td rowspan="1" colspan="1">1 953 810 171</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Budget impact</td>
+                  <td rowspan="1" colspan="1">–</td>
+                  <td rowspan="1" colspan="1">-20 835 833</td>
+                  <td rowspan="1" colspan="1">-42 168 597</td>
+                  <td rowspan="1" colspan="1">-63 964 743</td>
+                  <td rowspan="1" colspan="1">-126 969 172</td>
+                </tr>
+                <tr>
+                  <td colspan="6" rowspan="1">Neovascular age-related macular degeneration</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Without faricimab</td>
+                  <td rowspan="1" colspan="1">110 441 179</td>
+                  <td rowspan="1" colspan="1">113 484 762</td>
+                  <td rowspan="1" colspan="1">116 425 426</td>
+                  <td rowspan="1" colspan="1">119 293 199</td>
+                  <td rowspan="1" colspan="1">349 203 387</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">With faricimab</td>
+                  <td rowspan="1" colspan="1">110 441 179</td>
+                  <td rowspan="1" colspan="1">110 731 085</td>
+                  <td rowspan="1" colspan="1">110 775 363</td>
+                  <td rowspan="1" colspan="1">110 609 347</td>
+                  <td rowspan="1" colspan="1">332 115 795</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Budget impact</td>
+                  <td rowspan="1" colspan="1">–</td>
+                  <td rowspan="1" colspan="1">-2 753 677</td>
+                  <td rowspan="1" colspan="1">-5 650 063</td>
+                  <td rowspan="1" colspan="1">-8 683 852</td>
+                  <td rowspan="1" colspan="1">-17 087 592</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>Note: US $1 = Col$4325.</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </sec>
+      </sec>
+      <sec>
+        <title>DISCUSSION</title>
+        <p>Cost-effectiveness and budget impact analyses are crucial for enabling policymakers to allocate limited resources more efficiently to interventions that improve health outcomes.<xref rid="ref-420628" ref-type="bibr"><sup>38,39</sup></xref> This is particularly relevant in countries like Colombia, where challenges in resource management within the health system limit the population’s access to health services.<xref rid="ref-420630" ref-type="bibr"><sup>40</sup></xref></p>
+        <p>This study evaluated the potential economic benefit of using faricimab in two visual diseases reported to have a high disease and economic burden that impacts both the healthcare system and the well-being and quality of life of patients and their caregivers.<xref rid="ref-420602" ref-type="bibr"><sup>9,10</sup></xref> The clinical evidence between faricimab and other anti-VEGFs suggests comparable or higher efficacy in BCVA outcomes<xref rid="ref-420608" ref-type="bibr"><sup>15,16</sup></xref>; therefore, a cost-effectiveness model was conducted to quantify the additional clinical benefit of the new intervention and its relationship with the costs. For the cost-effectiveness model, we used the QALYs metric, which considers an adjustment for the quality of life to reflect the overall impact of the intervention on the patient’s health, allowing differentiation of interventions that might provide the same expected effectiveness outcome but also bestow an additional benefit on a patient’s quality of life.<xref rid="ref-420631" ref-type="bibr"><sup>41</sup></xref></p>
+        <p>Our results demonstrated that faricimab is a dominant alternative to other anti-VEGF agents for the treatment of both DME and nAMD. Faricimab achieves savings for the healthcare system while gaining QALYs, thereby generating better health outcomes at a lower cost. The dominance of faricimab over alternatives was maintained in the sensitivity analyses for all comparators in nAMD and against aflibercept and brolucizumab in DME, supporting the robustness of the results. Additionally, over a 3-year horizon, the impact of faricimab adoption would represent savings to the healthcare system of more than US $144 million for both diseases.</p>
+        <p>The model adapted for this study has been previously used in other countries.<xref rid="ref-420610" ref-type="bibr"><sup>17,42–45</sup></xref> In Italy<xref rid="ref-420632" ref-type="bibr"><sup>42</sup></xref> and Peru,<xref rid="ref-420633" ref-type="bibr"><sup>43</sup></xref> the model was used to estimate the cost-effectiveness of faricimab for DME and nAMD. Additionally, in Canada,<xref rid="ref-420634" ref-type="bibr"><sup>44</sup></xref> Russia,<xref rid="ref-420635" ref-type="bibr"><sup>45</sup></xref> and the United Kingdom,<xref rid="ref-420610" ref-type="bibr"><sup>17</sup></xref> it was adapted for DME. In all studies, faricimab has been found to be a cost-effective alternative associated with a gain in QALYs at a lower cost to the healthcare system.<xref rid="ref-420610" ref-type="bibr"><sup>17,42–45</sup></xref></p>
+        <p>The potential savings related to the introduction of faricimab and its dominance over alternative treatments were obtained due to its efficacy and reduced number of injections. A network meta-analysis by Watkins et al found that faricimab was associated with an improvement in the change in BCVA compared with ranibizumab, in an as-needed regimen, while showing a comparable efficacy to aflibercept as-needed treatment.<xref rid="ref-420608" ref-type="bibr"><sup>15</sup></xref> In nAMD, faricimab has demonstrated comparable efficacy to other anti-VEGF agents, with a statistically significant reduction in the number of intravitreal injections required compared with flexible regimens of aflibercept and ranibizumab.<xref rid="ref-420609" ref-type="bibr"><sup>16</sup></xref></p>
+        <p>The reduction in the number of injections required for disease management reflects not only the benefit of faricimab in economic savings for the acquisition and administration costs but also how the treatment burden related to the diseases can be reduced. Previous studies have highlighted the impact of visits for intravenous injections on patient well-being, including pre-injection anxiety, discomfort, and pain, as well as the need for patients and caregivers to take time off work to attend appointments.<xref rid="ref-420636" ref-type="bibr"><sup>46–48</sup></xref> This relates to the findings on the high economic burden of both diseases, associated with loss of productivity and work absenteeism of patients and caregivers in Colombia, which by 2022 represented a total of US $107 million.<xref rid="ref-420603" ref-type="bibr"><sup>10</sup></xref></p>
+        <p>Our economic evaluation reflects how faricimab can reduce treatment burden, which is consistent with previous studies. The study by Li et al performed for the United Kingdom showed that faricimab allows the release of resources by requiring fewer injections, favoring its use in health systems with limited installed capacity.<xref rid="ref-420639" ref-type="bibr"><sup>49</sup></xref> Similarly, Hurley et al found that faricimab represents a significant reduction in the treatment burden by improving the patient and caregiver experience in Canada.<xref rid="ref-420640" ref-type="bibr"><sup>50</sup></xref> By reducing the treatment burden while maintaining health outcome gains and achieving savings in treatment-related costs, faricimab presents a valuable alternative for managing DME and nAMD from the patient’s perspective and for the Colombian health system.</p>
+        <p>Similarly, the cost-effectiveness analysis by Meunier et al, conducted from a societal perspective, showed that faricimab had a positive increase in societal welfare attributable to the reduction of inequalities in the treatment of DME. This result was measured with a composite outcome that assesses the degree of distribution of the health benefit among different socioeconomic groups, determining that the benefit is uniform across the entire population, suggesting that faricimab is both a cost-effective and equity-improving option for the treatment of DME.<xref rid="ref-420641" ref-type="bibr"><sup>51</sup></xref></p>
+        <p>This study has some limitations that should be considered. The efficacy and treatment frequency reduction inputs were taken from the results of the available clinical evidence, including NMAs comparing faricimab with other anti-VEGF agents. The results of secondary studies may have limitations, as described in the NMAs by Watkins et al. and Samacá et al.<xref rid="ref-420608" ref-type="bibr"><sup>15,16</sup></xref></p>
+        <p>It is also important to consider that the clinical studies that assessed the efficacy of faricimab in both DME and nAMD were noninferiority clinical trials, which may add uncertainty to the results by depending on the noninferiority margin selected.<xref rid="ref-420642" ref-type="bibr"><sup>52</sup></xref> This uncertainty can be extended to the economic model; however, both the NMAs and the model itself use the absolute ETDRS letter gain reported in the studies, thus reducing the impact of assuming clinical equivalence between treatments based only on having achieved the endpoint of noninferiority in the clinical trials.</p>
+        <p>Another limitation might be that the utility values used in the economic model come from the study by Czoski-Murray et al<xref rid="ref-420622" ref-type="bibr"><sup>31</sup></xref> and do not correspond to a preference assessment conducted in the Colombian population. To our knowledge, there is no study evaluating utility values for eye diseases in Colombia, limiting the use of local data for developing cost-effectiveness analyses.</p>
+        <p>Finally, a Markov model was adapted for this study, suitable for modeling chronic diseases. However, the model incorporates certain assumptions, including a 5-year treatment discontinuation rate and the rules for transitioning between health states based on VA levels. Similarly, the BIA contains assumptions, including the annual increase in market share and the proportion of prevalent cases with bilateral disease. Nonetheless, these parameters seek to reflect the progression of the disease under treatment and were validated during their construction<xref rid="ref-420610" ref-type="bibr"><sup>17</sup></xref> and local adaptation with clinical experts; likewise, this model’s replication in several countries supports its internal and external consistency in the results.</p>
+      </sec>
+      <sec>
+        <title>CONCLUSION</title>
+        <p>From the Colombian Health System perspective, considering a threshold of US $5988 in 2023 (86% of gross domestic product per capita), faricimab is a cost-effective alternative for both DME and nAMD, showing dominance over other anti-VEGF agents (aflibercept, ranibizumab, and brolucizumab) by achieving better health outcomes at a lower cost.</p>
+        <p>In addition, faricimab reduces the treatment burden and improves Colombian patients’ health-related quality of life by reducing the number of annual injections, with gains in QALYs compared with other treatments, freeing up healthcare resources. This allows the healthcare system to reallocate resources, improving healthcare efficiencies for the Colombian population.</p>
+        <sec sec-type="COI-statement" id="coi">
+          <title>Disclosures</title>
+          <p>H.O., F.J.R., and C.S. have declared financial support from pharmaceutical companies, including Bayer, Novartis, Astellas, Abbvie, and Roche, for conferences and academic meetings, as well as for consulting fees and Advisory Boards. D.S.S., L.P.P., C.B. and M.H.Q. are employees of Roche. A.R. was an employee of Roche at the time of the study. M.H.Q. is a member of ACOFACLI (Asociación Colombiana de Farmacología Clínica). C.T. and D.R. are employees of IQVIA Colombia. IQVIA served as consultant company for Roche for the development of the study. None of the authors received any compensation for the authorship of this manuscript.</p>
+        </sec>
+      </sec>
+      <sec sec-type="supplementary-material">
+        <title>Supplementary Material</title>
+        <supplementary-material id="attachment-269524" position="float" content-type="local-data">
+          <caption>
+            <title>Online Supplementary Material</title>
+          </caption>
+          <media xlink:href="jheor_2025_12_1_129832_269524.pdf"/>
+        </supplementary-material>
+      </sec>
+    </body>
+    <back>
+      <ref-list>
+        <ref id="ref-420594">
+          <element-citation publication-type="journal">
+            <article-title>Global, regional, and national years lived with disability due to blindness and vision loss from 1990 to 2019: findings from the Global Burden of Disease Study 2019</article-title>
+            <source>Front Public Health</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Li</surname>
+                <given-names>S.</given-names>
+              </name>
+              <name>
+                <surname>Ye</surname>
+                <given-names>E.</given-names>
+              </name>
+              <name>
+                <surname>Huang</surname>
+                <given-names>J..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2022</year>
+            </date>
+            <volume>10</volume>
+            <fpage>1033495</fpage>
+            <pub-id pub-id-type="doi">10.3389/fpubh.2022.1033495</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC9650182</pub-id>-->
+            <pub-id pub-id-type="pmid">36388337</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420595">
+          <element-citation publication-type="webpage">
+            <source>VISION 2020</source>
+            <person-group person-group-type="author">
+              <collab>International Agency for the Prevention of Blindness</collab>
+            </person-group>
+            <date-in-citation iso-8601-date="2024-8">2024-8</date-in-citation>
+            <ext-link xlink:href="https://www.iapb.org/about/history/vision-2020/" ext-link-type="uri">https://www.iapb.org/about/history/vision-2020/</ext-link>
+          </element-citation>
+        </ref>
+        <ref id="ref-420596">
+          <element-citation publication-type="journal">
+            <article-title>Diabetic macular edema: pathophysiology and novel therapeutic targets</article-title>
+            <source>Ophthalmology</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Das</surname>
+                <given-names>A.</given-names>
+              </name>
+              <name>
+                <surname>McGuire</surname>
+                <given-names>P. G.</given-names>
+              </name>
+              <name>
+                <surname>Rangasamy</surname>
+                <given-names>S.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2015</year>
+            </date>
+            <volume>122</volume>
+            <issue>7</issue>
+            <fpage>1375</fpage>
+            <lpage>1394</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.ophtha.2015.03.024</pub-id>
+            <pub-id pub-id-type="pmid">25935789</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420597">
+          <element-citation publication-type="journal">
+            <article-title>Systemic factors associated with treatment response in diabetic macular edema</article-title>
+            <source>J Ophthalmol</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Wong</surname>
+                <given-names>W. M.</given-names>
+              </name>
+              <name>
+                <surname>Chee</surname>
+                <given-names>C.</given-names>
+              </name>
+              <name>
+                <surname>Bhargava</surname>
+                <given-names>M..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <volume>2020</volume>
+            <fpage>1875860</fpage>
+            <pub-id pub-id-type="doi">10.1155/2020/1875860</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC7125481</pub-id>-->
+            <pub-id pub-id-type="pmid">32280516</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420598">
+          <element-citation publication-type="journal">
+            <article-title>Causes of blindness and vision impairment in 2020 and trends over 30 years, and prevalence of avoidable blindness in relation to VISION 2020: the Right to Sight: an analysis for the Global Burden of Disease Study</article-title>
+            <source>Lancet Glob Health</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Steinmetz</surname>
+                <given-names>J. D.</given-names>
+              </name>
+              <name>
+                <surname>Bourne</surname>
+                <given-names>R. R.</given-names>
+              </name>
+              <name>
+                <surname>Briant</surname>
+                <given-names>P. S..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2021</year>
+            </date>
+            <volume>9</volume>
+            <issue>2</issue>
+            <fpage>e144</fpage>
+            <lpage>e160</lpage>
+            <pub-id pub-id-type="pmid">33275949</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420599">
+          <element-citation publication-type="journal">
+            <article-title>Prevalence of diabetic macular edema based on optical coherence tomography in people with diabetes: a systematic review and meta-analysis</article-title>
+            <source>Surv Ophthalmol</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Im</surname>
+                <given-names>J. H.</given-names>
+              </name>
+              <name>
+                <surname>Jin</surname>
+                <given-names>Y.-P.</given-names>
+              </name>
+              <name>
+                <surname>Chow</surname>
+                <given-names>R.</given-names>
+              </name>
+              <name>
+                <surname>Yan</surname>
+                <given-names>P.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2022</year>
+            </date>
+            <volume>67</volume>
+            <issue>4</issue>
+            <fpage>1244</fpage>
+            <lpage>1251</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.survophthal.2022.01.009</pub-id>
+            <pub-id pub-id-type="pmid">35093404</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420600">
+          <element-citation publication-type="journal">
+            <article-title>Age-related macular degeneration</article-title>
+            <source>N Engl J Med</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Jager</surname>
+                <given-names>R. D.</given-names>
+              </name>
+              <name>
+                <surname>Mieler</surname>
+                <given-names>W. F.</given-names>
+              </name>
+              <name>
+                <surname>Miller</surname>
+                <given-names>J. W.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2008</year>
+            </date>
+            <volume>358</volume>
+            <issue>24</issue>
+            <fpage>2606</fpage>
+            <lpage>2617</lpage>
+            <pub-id pub-id-type="doi">10.1056/NEJMra0801537</pub-id>
+            <pub-id pub-id-type="pmid">18550876</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420601">
+          <element-citation publication-type="book">
+            <source>Vision 2020 the Right to Sight: Global Initiative for the Elimination of Avoidable Blindness: Action Plan 2006–2011</source>
+            <publisher-name>World Health Organization</publisher-name>
+            <date>
+              <year>2020</year>
+            </date>
+            <fpage>207</fpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-420602">
+          <element-citation publication-type="journal">
+            <article-title>Disease burden of visual impairment in Colombia with emphasis in two retinal disorders</article-title>
+            <source>Rev Soc Colomb Oftalmol</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gil-Rojas</surname>
+                <given-names>Y.</given-names>
+              </name>
+              <name>
+                <surname>Sardi-Correa</surname>
+                <given-names>C.</given-names>
+              </name>
+              <name>
+                <surname>Prieto-Pinto</surname>
+                <given-names>L..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2024</year>
+            </date>
+            <volume>57</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <lpage>18</lpage>
+            <pub-id pub-id-type="doi">10.24875/RSCO.23000030</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420603">
+          <element-citation publication-type="journal">
+            <article-title>Economic burden of neovascular macular degeneration and diabetic macular edema in Colombia</article-title>
+            <source>Rev Soc Colomb Oftalmol</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Gil-Rojas</surname>
+                <given-names>Y.</given-names>
+              </name>
+              <name>
+                <surname>Amaya</surname>
+                <given-names>D.</given-names>
+              </name>
+              <name>
+                <surname>Sardi-Correa</surname>
+                <given-names>C.</given-names>
+              </name>
+              <name>
+                <surname>Robles</surname>
+                <given-names>A.</given-names>
+              </name>
+              <name>
+                <surname>Hernández</surname>
+                <given-names>F.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2023</year>
+            </date>
+            <volume>56</volume>
+            <fpage>54</fpage>
+            <lpage>62</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-420604">
+          <element-citation publication-type="journal">
+            <article-title>Fundamental principles of an anti-VEGF treatment regimen: optimal application of intravitreal anti–vascular endothelial growth factor therapy of macular diseases</article-title>
+            <source>Graefes Arch Clin Exp Ophthalmol</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Lanzetta</surname>
+                <given-names>P.</given-names>
+              </name>
+              <name>
+                <surname>Loewenstein</surname>
+                <given-names>A.</given-names>
+              </name>
+              <name>
+                <surname>Committee</surname>
+                <given-names>V. A. S.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2017</year>
+            </date>
+            <volume>255</volume>
+            <fpage>1259</fpage>
+            <lpage>1273</lpage>
+            <pub-id pub-id-type="doi">10.1007/s00417-017-3647-4</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC5486551</pub-id>-->
+            <pub-id pub-id-type="pmid">28527040</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420605">
+          <element-citation publication-type="journal">
+            <article-title>Brolucizumab: a newly developed anti-VEGF molecule for the treatment of neovascular age-related macular degeneration</article-title>
+            <source>Ophthalmologica</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Tadayoni</surname>
+                <given-names>R.</given-names>
+              </name>
+              <name>
+                <surname>Sararols</surname>
+                <given-names>L.</given-names>
+              </name>
+              <name>
+                <surname>Weissgerber</surname>
+                <given-names>G.</given-names>
+              </name>
+              <name>
+                <surname>Verma</surname>
+                <given-names>R.</given-names>
+              </name>
+              <name>
+                <surname>Clemens</surname>
+                <given-names>A.</given-names>
+              </name>
+              <name>
+                <surname>Holz</surname>
+                <given-names>F.G.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2021</year>
+            </date>
+            <volume>244</volume>
+            <issue>2</issue>
+            <fpage>93</fpage>
+            <lpage>101</lpage>
+            <pub-id pub-id-type="doi">10.1159/000513048</pub-id>
+            <pub-id pub-id-type="pmid">33197916</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420606">
+          <element-citation publication-type="journal">
+            <article-title>Efficacy and safety of intravitreal anti-VEGF therapy in diabetic retinopathy: what we have learned and what should we learn further?</article-title>
+            <source>Exp Opin Biol Ther</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Uludag</surname>
+                <given-names>G.</given-names>
+              </name>
+              <name>
+                <surname>Hassan</surname>
+                <given-names>M.</given-names>
+              </name>
+              <name>
+                <surname>Matsumiya</surname>
+                <given-names>W..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2022</year>
+            </date>
+            <volume>22</volume>
+            <issue>10</issue>
+            <fpage>1275</fpage>
+            <lpage>1291</lpage>
+            <pub-id pub-id-type="doi">10.1080/14712598.2022.2100694</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC10863998</pub-id>-->
+            <pub-id pub-id-type="pmid">35818801</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420607">
+          <element-citation publication-type="journal">
+            <article-title>Faricimab for the treatment of diabetic macular edema and neovascular age-related macular degeneration</article-title>
+            <source>Pharmaceutics</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ferro Desideri</surname>
+                <given-names>L.</given-names>
+              </name>
+              <name>
+                <surname>Traverso</surname>
+                <given-names>C. E.</given-names>
+              </name>
+              <name>
+                <surname>Nicolò</surname>
+                <given-names>M.</given-names>
+              </name>
+              <name>
+                <surname>Munk</surname>
+                <given-names>M. R.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2023</year>
+            </date>
+            <volume>15</volume>
+            <issue>5</issue>
+            <fpage>1413</fpage>
+            <pub-id pub-id-type="doi">10.3390/pharmaceutics15051413</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC10222467</pub-id>-->
+            <pub-id pub-id-type="pmid">37242655</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420608">
+          <element-citation publication-type="journal">
+            <article-title>Comparative efficacy, durability and safety of faricimab in the treatment of diabetic macular edema: a systematic literature review and network meta-analysis</article-title>
+            <source>Adv Ther</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Watkins</surname>
+                <given-names>C.</given-names>
+              </name>
+              <name>
+                <surname>Paulo</surname>
+                <given-names>T.</given-names>
+              </name>
+              <name>
+                <surname>Buehrer</surname>
+                <given-names>C.</given-names>
+              </name>
+              <name>
+                <surname>Holekamp</surname>
+                <given-names>N. M.</given-names>
+              </name>
+              <name>
+                <surname>Bagijn</surname>
+                <given-names>M.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2023</year>
+            </date>
+            <volume>40</volume>
+            <issue>12</issue>
+            <fpage>5204</fpage>
+            <lpage>5221</lpage>
+            <pub-id pub-id-type="doi">10.1007/s12325-023-02675-y</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC10937806</pub-id>-->
+            <pub-id pub-id-type="pmid">37751021</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420609">
+          <element-citation publication-type="journal">
+            <article-title>Efficacy and safety of faricimab for neovascular age-related macular degeneration: a systematic review and network meta-analysis</article-title>
+            <source>BMJ Open Ophthalmol</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Samacá-Samacá</surname>
+                <given-names>D.</given-names>
+              </name>
+              <name>
+                <surname>Hernández-Castillo</surname>
+                <given-names>C.</given-names>
+              </name>
+              <name>
+                <surname>Prieto-Pinto</surname>
+                <given-names>L..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2024</year>
+            </date>
+            <volume>9</volume>
+            <issue>1</issue>
+            <fpage>e001702</fpage>
+            <pub-id pub-id-type="doi">10.1136/bmjophth-2024-001702</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC11268043</pub-id>-->
+            <pub-id pub-id-type="pmid">39043575</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420610">
+          <element-citation publication-type="journal">
+            <article-title>Cost-effectiveness of faricimab in the treatment of diabetic macular oedema (DMO): a UK analysis</article-title>
+            <source>Pharmacoeconomics Open</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Bührer</surname>
+                <given-names>C.</given-names>
+              </name>
+              <name>
+                <surname>Paling</surname>
+                <given-names>T.</given-names>
+              </name>
+              <name>
+                <surname>Gale</surname>
+                <given-names>R.</given-names>
+              </name>
+              <name>
+                <surname>Paulo</surname>
+                <given-names>T.</given-names>
+              </name>
+              <name>
+                <surname>Bagijn</surname>
+                <given-names>M.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2024</year>
+            </date>
+            <volume>8</volume>
+            <issue>3</issue>
+            <fpage>445</fpage>
+            <lpage>457</lpage>
+            <pub-id pub-id-type="doi">10.1007/s41669-023-00465-4</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC11058163</pub-id>-->
+            <pub-id pub-id-type="pmid">38438829</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420611">
+          <element-citation publication-type="webpage">
+            <source>Manual para la elaboración de evaluaciones económicas en salud</source>
+            <person-group person-group-type="author">
+              <collab>Instituto de Evaluación Tecnológica en Salud</collab>
+            </person-group>
+            <date>
+              <year>2014</year>
+            </date>
+            <date-in-citation iso-8601-date="2023-9">2023-9</date-in-citation>
+            <ext-link xlink:href="https://www.iets.org.co/Archivos/64/Manual_evaluacion_economica.pdf" ext-link-type="uri">https://www.iets.org.co/Archivos/64/Manual_evaluacion_economica.pdf</ext-link>
+          </element-citation>
+        </ref>
+        <ref id="ref-420612">
+          <element-citation publication-type="journal">
+            <article-title>Estimating cost-effectiveness thresholds under a managed healthcare system: experiences from Colombia</article-title>
+            <source>Health Policy Plan</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Espinosa</surname>
+                <given-names>O.</given-names>
+              </name>
+              <name>
+                <surname>Rodríguez-Lesmes</surname>
+                <given-names>P.</given-names>
+              </name>
+              <name>
+                <surname>Orozco</surname>
+                <given-names>L..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2022</year>
+            </date>
+            <volume>37</volume>
+            <issue>3</issue>
+            <fpage>359</fpage>
+            <lpage>368</lpage>
+            <pub-id pub-id-type="doi">10.1093/heapol/czab146</pub-id>
+            <ext-link xlink:href="https://doi.org/10.1093/heapol/czab146" ext-link-type="uri">https://doi.org/10.1093/heapol/czab146</ext-link>
+            <pub-id pub-id-type="pmid">34875689</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420613">
+          <element-citation publication-type="journal">
+            <article-title>Faricimab treat-and-extend for diabetic macular edema: two-year results from the randomized Phase 3 YOSEMITE and RHINE trials</article-title>
+            <source>Ophthalmology</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Wong</surname>
+                <given-names>T.Y.</given-names>
+              </name>
+              <name>
+                <surname>Haskova</surname>
+                <given-names>Z.</given-names>
+              </name>
+              <name>
+                <surname>Asik</surname>
+                <given-names>K..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2024</year>
+            </date>
+            <volume>131</volume>
+            <issue>6</issue>
+            <fpage>708</fpage>
+            <lpage>723</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.ophtha.2023.12.026</pub-id>
+            <pub-id pub-id-type="pmid">38158159</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420614">
+          <element-citation publication-type="article-journal">
+            <article-title>TENAYA and LUCERNE: Two-year results from the phase 3 neovascular age-related macular degeneration trials of faricimab with treat-and-extend dosing in Year 2</article-title>
+            <source>Ophthalmology</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Khanani</surname>
+                <given-names>A.M.</given-names>
+              </name>
+              <name>
+                <surname>Kotecha</surname>
+                <given-names>A.</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>A..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2024</year>
+            </date>
+          </element-citation>
+        </ref>
+        <ref id="ref-420615">
+          <element-citation publication-type="journal">
+            <article-title>KESTREL and KITE Phase 3 studies: 100-week results with brolucizumab in patients with diabetic macular edema</article-title>
+            <source>Am J Ophthalmol</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Wykoff</surname>
+                <given-names>C. C.</given-names>
+              </name>
+              <name>
+                <surname>Garweg</surname>
+                <given-names>J. G.</given-names>
+              </name>
+              <name>
+                <surname>Regillo</surname>
+                <given-names>C..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2024</year>
+            </date>
+            <volume>260</volume>
+            <fpage>70</fpage>
+            <lpage>83</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.ajo.2023.07.012</pub-id>
+            <pub-id pub-id-type="pmid">37460036</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420616">
+          <element-citation publication-type="journal">
+            <article-title>Five-year outcomes after initial aflibercept, bevacizumab, or ranibizumab treatment for diabetic macular edema (Protocol T Extension Study)</article-title>
+            <source>Ophthalmology</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Glassman</surname>
+                <given-names>A. R.</given-names>
+              </name>
+              <name>
+                <surname>Wells</surname>
+                <given-names>J. A., III</given-names>
+              </name>
+              <name>
+                <surname>Josic</surname>
+                <given-names>K..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2020</year>
+            </date>
+            <volume>127</volume>
+            <issue>9</issue>
+            <fpage>1201</fpage>
+            <lpage>1210</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.ophtha.2020.03.021</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC7483366</pub-id>-->
+            <pub-id pub-id-type="pmid">32402554</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420617">
+          <element-citation publication-type="journal">
+            <article-title>Comparative efficacy of brolucizumab in the treatment of neovascular age-related macular degeneration: a systematic literature review and network meta-analysis</article-title>
+            <source>Adv Ther</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Finger</surname>
+                <given-names>R. P.</given-names>
+              </name>
+              <name>
+                <surname>Dennis</surname>
+                <given-names>N.</given-names>
+              </name>
+              <name>
+                <surname>Freitas</surname>
+                <given-names>R..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2022</year>
+            </date>
+            <volume>39</volume>
+            <issue>8</issue>
+            <fpage>3425</fpage>
+            <lpage>3448</lpage>
+            <pub-id pub-id-type="doi">10.1007/s12325-022-02193-3</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC9309118</pub-id>-->
+            <pub-id pub-id-type="pmid">35678996</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420618">
+          <element-citation publication-type="journal">
+            <article-title>What is the cost of blindness?</article-title>
+            <source>Br J Ophthalmol</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Meads</surname>
+                <given-names>C.</given-names>
+              </name>
+              <name>
+                <surname>Hyde</surname>
+                <given-names>C.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2003</year>
+            </date>
+            <volume>87</volume>
+            <issue>10</issue>
+            <fpage>1201</fpage>
+            <lpage>1204</lpage>
+            <pub-id pub-id-type="doi">10.1136/bjo.87.10.1201</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC1920795</pub-id>-->
+            <pub-id pub-id-type="pmid">14507746</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420643">
+          <element-citation publication-type="journal">
+            <article-title>Effect of prior intensive therapy in type 1 diabetes on 10-year progression of retinopathy in the DCCT/EDIC: comparison of adults and adolescents</article-title>
+            <source>Diabetes</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>White</surname>
+                <given-names>N. H.</given-names>
+              </name>
+              <name>
+                <surname>Sun</surname>
+                <given-names>W.</given-names>
+              </name>
+              <name>
+                <surname>Cleary</surname>
+                <given-names>P. A..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2010</year>
+            </date>
+            <volume>59</volume>
+            <issue>5</issue>
+            <fpage>1244</fpage>
+            <lpage>1253</lpage>
+            <pub-id pub-id-type="doi">10.2337/db09-1216</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC2857905</pub-id>-->
+            <pub-id pub-id-type="pmid">20150283</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420644">
+          <element-citation publication-type="webpage">
+            <source>Symptoms &amp; Causes of Diabetes</source>
+            <person-group person-group-type="author">
+              <collab>National Institutes of Health (NIH)</collab>
+            </person-group>
+            <date-in-citation iso-8601-date="2024-2">2024-2</date-in-citation>
+            <ext-link xlink:href="https://www.niddk.nih.gov/health-information/diabetes/overview/symptoms-causes" ext-link-type="uri">https://www.niddk.nih.gov/health-information/diabetes/overview/symptoms-causes</ext-link>
+          </element-citation>
+        </ref>
+        <ref id="ref-420645">
+          <element-citation publication-type="webpage">
+            <source>Age-Related Macular Degeneration (AMD)</source>
+            <person-group person-group-type="author">
+              <collab>National Eye Institute (NIH)</collab>
+            </person-group>
+            <date-in-citation iso-8601-date="2024-2">2024-2</date-in-citation>
+            <ext-link xlink:href="https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/age-related-macular-degeneration" ext-link-type="uri">https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/age-related-macular-degeneration</ext-link>
+          </element-citation>
+        </ref>
+        <ref id="ref-420619">
+          <element-citation publication-type="webpage">
+            <source>NICE. NG82 Macular degeneration. Appendix J: Health Economics</source>
+            <person-group person-group-type="author">
+              <collab>National Institute for Health and Care Excellence</collab>
+            </person-group>
+            <date>
+              <year>2018</year>
+            </date>
+            <date-in-citation iso-8601-date="2024-2">2024-2</date-in-citation>
+            <ext-link xlink:href="https://www.nice.org.uk/guidance/ng82/evidence/appendix-j-health-economics-pdf-170036251093" ext-link-type="uri">https://www.nice.org.uk/guidance/ng82/evidence/appendix-j-health-economics-pdf-170036251093</ext-link>
+          </element-citation>
+        </ref>
+        <ref id="ref-420620">
+          <element-citation publication-type="journal">
+            <article-title>Efficacy, durability, and safety of intravitreal faricimab with extended dosing up to every 16 weeks in patients with diabetic macular oedema (YOSEMITE and RHINE): two randomised, double-masked, phase 3 trials</article-title>
+            <source>Lancet</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Wykoff</surname>
+                <given-names>C. C.</given-names>
+              </name>
+              <name>
+                <surname>Abreu</surname>
+                <given-names>F.</given-names>
+              </name>
+              <name>
+                <surname>Adamis</surname>
+                <given-names>A. P..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2022</year>
+            </date>
+            <volume>399</volume>
+            <issue>10326</issue>
+            <fpage>741</fpage>
+            <lpage>755</lpage>
+            <pub-id pub-id-type="doi">10.1016/S0140-6736(22)00018-6</pub-id>
+            <pub-id pub-id-type="pmid">35085503</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420622">
+          <element-citation publication-type="journal">
+            <article-title>Valuing condition-specific health states using simulation contact lenses</article-title>
+            <source>Value Health</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Czoski-Murray</surname>
+                <given-names>C.</given-names>
+              </name>
+              <name>
+                <surname>Carlton</surname>
+                <given-names>J.</given-names>
+              </name>
+              <name>
+                <surname>Brazier</surname>
+                <given-names>J.</given-names>
+              </name>
+              <name>
+                <surname>Young</surname>
+                <given-names>T.</given-names>
+              </name>
+              <name>
+                <surname>Papo</surname>
+                <given-names>N. L.</given-names>
+              </name>
+              <name>
+                <surname>Kang</surname>
+                <given-names>H. K.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2009</year>
+            </date>
+            <volume>12</volume>
+            <issue>5</issue>
+            <fpage>793</fpage>
+            <lpage>799</lpage>
+            <pub-id pub-id-type="doi">10.1111/j.1524-4733.2009.00527.x</pub-id>
+            <pub-id pub-id-type="pmid">19490557</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420621">
+          <element-citation publication-type="webpage">
+            <source>Aflibercept for Treating Diabetic Macular Oedema: Technology Appraisal Guidance</source>
+            <person-group person-group-type="author">
+              <collab>National Institute for Health and Care Excellence</collab>
+            </person-group>
+            <date>
+              <year>2015</year>
+            </date>
+            <date-in-citation iso-8601-date="2024-2">2024-2</date-in-citation>
+            <ext-link xlink:href="https://www.nice.org.uk/guidance/ta346/documents/macular-oedema-diabetic-aflibercept-final-appraisal-determination-document2" ext-link-type="uri">https://www.nice.org.uk/guidance/ta346/documents/macular-oedema-diabetic-aflibercept-final-appraisal-determination-document2</ext-link>
+          </element-citation>
+        </ref>
+        <ref id="ref-420625">
+          <element-citation publication-type="webpage">
+            <source>IDF Diabetes Atlas 2021</source>
+            <person-group person-group-type="author">
+              <collab>International Diabetes Federation</collab>
+            </person-group>
+            <date-in-citation iso-8601-date="2024-3">2024-3</date-in-citation>
+            <ext-link xlink:href="https://diabetesatlas.org/atlas/tenth-edition/" ext-link-type="uri">https://diabetesatlas.org/atlas/tenth-edition/</ext-link>
+          </element-citation>
+        </ref>
+        <ref id="ref-420626">
+          <element-citation publication-type="journal">
+            <article-title>Global prevalence of diabetic retinopathy and projection of burden through 2045: systematic review and meta-analysis</article-title>
+            <source>Ophthalmology</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Teo</surname>
+                <given-names>Z. L.</given-names>
+              </name>
+              <name>
+                <surname>Tham</surname>
+                <given-names>Y.-C.</given-names>
+              </name>
+              <name>
+                <surname>Yu</surname>
+                <given-names>M..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2021</year>
+            </date>
+            <volume>128</volume>
+            <issue>11</issue>
+            <fpage>1580</fpage>
+            <lpage>1591</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.ophtha.2021.04.027</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420624">
+          <element-citation publication-type="journal">
+            <article-title>Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis</article-title>
+            <source>Lancet Glob Health</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Wong</surname>
+                <given-names>W. L.</given-names>
+              </name>
+              <name>
+                <surname>Su</surname>
+                <given-names>X.</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>X..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2014</year>
+            </date>
+            <volume>2</volume>
+            <issue>2</issue>
+            <fpage>e106</fpage>
+            <lpage>e116</lpage>
+            <pub-id pub-id-type="doi">10.1016/S2214-109X(13)70145-1</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420627">
+          <element-citation publication-type="webpage">
+            <source>Universalidad en el aseguramiento</source>
+            <person-group person-group-type="author">
+              <collab>Ministerio de Salud y Protección Social</collab>
+            </person-group>
+            <date-in-citation iso-8601-date="2024-3">2024-3</date-in-citation>
+            <ext-link xlink:href="https://www.minsalud.gov.co/Paginas/Colombia-llego-al-aseguramiento-universal-en-salud-al-alcanzar-el-99.6.aspx" ext-link-type="uri">https://www.minsalud.gov.co/Paginas/Colombia-llego-al-aseguramiento-universal-en-salud-al-alcanzar-el-99.6.aspx</ext-link>
+          </element-citation>
+        </ref>
+        <ref id="ref-420623">
+          <element-citation publication-type="webpage">
+            <source>Manualmetodológico para la elaboración de análisis de impacto presupuestal de tecnologías en salud en Colombia</source>
+            <person-group person-group-type="author">
+              <collab>Instituto de Evaluación Tecnológica en Salud</collab>
+            </person-group>
+            <date>
+              <year>2023</year>
+            </date>
+            <date-in-citation iso-8601-date="2023-9">2023-9</date-in-citation>
+            <ext-link xlink:href="https://www.iets.org.co/wp-content/uploads/2024/02/Manual-Metodologico-Analisis-Impacto-Presupuestal-IETS-14022023-VF.pdf" ext-link-type="uri">https://www.iets.org.co/wp-content/uploads/2024/02/Manual-Metodologico-Analisis-Impacto-Presupuestal-IETS-14022023-VF.pdf</ext-link>
+          </element-citation>
+        </ref>
+        <ref id="ref-420628">
+          <element-citation publication-type="article-journal">
+            <article-title>The role of budget impact and its relationship with cost-effectiveness in reimbursement decisions on health technologies in the Netherlands</article-title>
+            <source>Eur J Health Econ</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Reckers-Droog</surname>
+                <given-names>V.</given-names>
+              </name>
+              <name>
+                <surname>Enzing</surname>
+                <given-names>J.</given-names>
+              </name>
+              <name>
+                <surname>Brouwer</surname>
+                <given-names>W.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2024</year>
+            </date>
+            <fpage>1</fpage>
+            <lpage>11</lpage>
+            <pub-id pub-id-type="doi">10.1007/s10198-024-01673-3</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC11442504</pub-id>-->
+            <pub-id pub-id-type="pmid">38411843</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420629">
+          <element-citation publication-type="book">
+            <part-title>Priorities in Health</part-title>
+            <source>Cost-Effectiveness Analysis</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Jamison</surname>
+                <given-names>D.</given-names>
+              </name>
+              <name>
+                <surname>Breman</surname>
+                <given-names>J.</given-names>
+              </name>
+              <name>
+                <surname>Measham</surname>
+                <given-names>A.</given-names>
+              </name>
+            </person-group>
+            <person-group person-group-type="editor">
+              <name>
+                <surname>Bank</surname>
+                <given-names>T. W.</given-names>
+              </name>
+            </person-group>
+            <publisher-name>The International Bank for Reconstruction and Development</publisher-name>
+            <publisher-loc>Washington (DC)</publisher-loc>
+            <date>
+              <year>2006</year>
+            </date>
+            <pub-id pub-id-type="doi">10.1596/978-0-8213-6260-0/Chpt-3</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420630">
+          <element-citation publication-type="article-journal">
+            <article-title>A Review of the Colombian Healthcare System: Challenges and Opportunities</article-title>
+            <source>Modern Healthcare Marketing in the Digital Era</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Girón-Restrepo</surname>
+                <given-names>G. A.</given-names>
+              </name>
+              <name>
+                <surname>Tena-Monferrer</surname>
+                <given-names>S.</given-names>
+              </name>
+              <name>
+                <surname>Fandos-Roig</surname>
+                <given-names>J. C.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2024</year>
+            </date>
+            <fpage>150</fpage>
+            <lpage>163</lpage>
+            <pub-id pub-id-type="doi">10.4018/979-8-3693-0679-6.ch009</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420631">
+          <element-citation publication-type="book">
+            <source>Methods for the Economic Evaluation of Health Care Programmes</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Drummond</surname>
+                <given-names>M. F.</given-names>
+              </name>
+              <name>
+                <surname>Sculpher</surname>
+                <given-names>M. J.</given-names>
+              </name>
+              <name>
+                <surname>Claxton</surname>
+                <given-names>K.</given-names>
+              </name>
+              <name>
+                <surname>Stoddart</surname>
+                <given-names>G. L.</given-names>
+              </name>
+              <name>
+                <surname>Torrance</surname>
+                <given-names>G. W.</given-names>
+              </name>
+            </person-group>
+            <publisher-name>Oxford University Press</publisher-name>
+            <date>
+              <year>2015</year>
+            </date>
+          </element-citation>
+        </ref>
+        <ref id="ref-420632">
+          <element-citation publication-type="journal">
+            <article-title>EE715 Faricimab vs. standard of care in patients with neovascular age-related macular degeneration and diabetic macular edema: a cost-utility analysis in Italy</article-title>
+            <source>Value Health</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ghetti</surname>
+                <given-names>G.</given-names>
+              </name>
+              <name>
+                <surname>Porta</surname>
+                <given-names>C.</given-names>
+              </name>
+              <name>
+                <surname>Fasci</surname>
+                <given-names>A.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2023</year>
+            </date>
+            <volume>26</volume>
+            <issue>12</issue>
+            <fpage>S192</fpage>
+            <pub-id pub-id-type="doi">10.1016/j.jval.2023.09.980</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420633">
+          <element-citation publication-type="journal">
+            <article-title>EE488 Cost-effectiveness analysis of faricimab and others treatment schemes for diabetic macular edema and age-related macular degeneration</article-title>
+            <source>Value Health</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Figallo</surname>
+                <given-names>M.</given-names>
+              </name>
+              <name>
+                <surname>Delgado</surname>
+                <given-names>M.</given-names>
+              </name>
+              <name>
+                <surname>Ubaldo</surname>
+                <given-names>E.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2024</year>
+            </date>
+            <volume>27</volume>
+            <issue>6</issue>
+            <fpage>S146</fpage>
+            <pub-id pub-id-type="doi">10.1016/j.jval.2024.03.2252</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420634">
+          <element-citation publication-type="journal">
+            <article-title>EE430 Cost-effectiveness of faricimab in patients with diabetic macular edema in Canada</article-title>
+            <source>Value Health</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Bührer</surname>
+                <given-names>C.</given-names>
+              </name>
+              <name>
+                <surname>Paulo</surname>
+                <given-names>T.</given-names>
+              </name>
+              <name>
+                <surname>Diles</surname>
+                <given-names>D.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2022</year>
+            </date>
+            <volume>25</volume>
+            <issue>12</issue>
+            <fpage>S140</fpage>
+            <pub-id pub-id-type="doi">10.1016/j.jval.2022.09.676</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420635">
+          <element-citation publication-type="journal">
+            <article-title>EE561 The comparative pharmacoeconomic analysis of using different anti-VEGF drugs for diabetic macular edema therapy in Russia</article-title>
+            <source>Value Health</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Klabukova</surname>
+                <given-names>D.</given-names>
+              </name>
+              <name>
+                <surname>Krysanova</surname>
+                <given-names>V.</given-names>
+              </name>
+              <name>
+                <surname>Krysanov</surname>
+                <given-names>I.</given-names>
+              </name>
+              <name>
+                <surname>Ermakova</surname>
+                <given-names>V.</given-names>
+              </name>
+              <name>
+                <surname>Kolosov</surname>
+                <given-names>Y.</given-names>
+              </name>
+              <name>
+                <surname>Makarova</surname>
+                <given-names>E.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2023</year>
+            </date>
+            <volume>26</volume>
+            <issue>12</issue>
+            <fpage>S160</fpage>
+            <lpage>S161</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.jval.2023.09.826</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420636">
+          <element-citation publication-type="journal">
+            <article-title>Disease burden in the treatment of age-related macular degeneration: findings from a time-and-motion study</article-title>
+            <source>Am J Ophthalmol</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Prenner</surname>
+                <given-names>J. L.</given-names>
+              </name>
+              <name>
+                <surname>Halperin</surname>
+                <given-names>L. S.</given-names>
+              </name>
+              <name>
+                <surname>Rycroft</surname>
+                <given-names>C.</given-names>
+              </name>
+              <name>
+                <surname>Hogue</surname>
+                <given-names>S.</given-names>
+              </name>
+              <name>
+                <surname>Liu</surname>
+                <given-names>Z. W.</given-names>
+              </name>
+              <name>
+                <surname>Seibert</surname>
+                <given-names>R.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2015</year>
+            </date>
+            <volume>160</volume>
+            <issue>4</issue>
+            <fpage>725</fpage>
+            <lpage>731.e1</lpage>
+            <pub-id pub-id-type="doi">10.1016/j.ajo.2015.06.023</pub-id>
+            <pub-id pub-id-type="pmid">26142721</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420637">
+          <element-citation publication-type="article-journal">
+            <article-title>Burden of treatment among patients undergoing intravitreal injections for diabetic macular oedema in Australia</article-title>
+            <source>Diabetes Metab Syndr Obes</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Spooner</surname>
+                <given-names>K. L.</given-names>
+              </name>
+              <name>
+                <surname>Guinan</surname>
+                <given-names>G.</given-names>
+              </name>
+              <name>
+                <surname>Koller</surname>
+                <given-names>S.</given-names>
+              </name>
+              <name>
+                <surname>Hong</surname>
+                <given-names>T.</given-names>
+              </name>
+              <name>
+                <surname>Chang</surname>
+                <given-names>A. A.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2019</year>
+            </date>
+            <fpage>1913</fpage>
+            <lpage>1921</lpage>
+            <pub-id pub-id-type="doi">10.2147/DMSO.S214098</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC6756828</pub-id>-->
+            <pub-id pub-id-type="pmid">31571965</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420638">
+          <element-citation publication-type="article-journal">
+            <article-title>Through the eyes of patients: understanding treatment burden of intravitreal anti-VEGF injections for nAMD patients in Norway</article-title>
+            <source>Clin Ophthalmol</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Reitan</surname>
+                <given-names>G.</given-names>
+              </name>
+              <name>
+                <surname>Kjellevold Haugen</surname>
+                <given-names>I. B.</given-names>
+              </name>
+              <name>
+                <surname>Andersen</surname>
+                <given-names>K.</given-names>
+              </name>
+              <name>
+                <surname>Bragadottir</surname>
+                <given-names>R.</given-names>
+              </name>
+              <name>
+                <surname>Bindesbøll</surname>
+                <given-names>C.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2023</year>
+            </date>
+            <fpage>1465</fpage>
+            <lpage>1474</lpage>
+            <pub-id pub-id-type="doi">10.2147/OPTH.S409103</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC10226541</pub-id>-->
+            <pub-id pub-id-type="pmid">37256195</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420639">
+          <element-citation publication-type="journal">
+            <article-title>EE407 economic assessment in resource-constrained systems–a case study using an individual-level simulation model in wet age-related macular degeneration and diabetic macular oedema</article-title>
+            <source>Value Health</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Li</surname>
+                <given-names>T.</given-names>
+              </name>
+              <name>
+                <surname>Berdunov</surname>
+                <given-names>V.</given-names>
+              </name>
+              <name>
+                <surname>Postema</surname>
+                <given-names>R..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2023</year>
+            </date>
+            <volume>26</volume>
+            <issue>12</issue>
+            <fpage>S129</fpage>
+            <pub-id pub-id-type="doi">10.1016/j.jval.2023.09.673</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420640">
+          <element-citation publication-type="journal">
+            <article-title>EE560 A comparison of time-driven activity-based costs for patients and caregivers receiving intravitreal treatments for neovascular age-related macular degeneration</article-title>
+            <source>Value Health</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Hurley</surname>
+                <given-names>B.</given-names>
+              </name>
+              <name>
+                <surname>Yoganathan</surname>
+                <given-names>P.</given-names>
+              </name>
+              <name>
+                <surname>Barton</surname>
+                <given-names>M.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2023</year>
+            </date>
+            <volume>26</volume>
+            <issue>12</issue>
+            <fpage>S160</fpage>
+            <pub-id pub-id-type="doi">10.1016/j.jval.2023.09.825</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420641">
+          <element-citation publication-type="journal">
+            <article-title>An eye on equity: faricimab-driven health equity improvements in diabetic macular oedema using a distributional cost-effectiveness analysis from a UK societal perspective</article-title>
+            <source>Eye (London, England)</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Meunier</surname>
+                <given-names>A.</given-names>
+              </name>
+              <name>
+                <surname>Opeifa</surname>
+                <given-names>O.</given-names>
+              </name>
+              <name>
+                <surname>Longworth</surname>
+                <given-names>L..</given-names>
+              </name>
+              <etal/>
+            </person-group>
+            <date>
+              <year>2024</year>
+            </date>
+            <volume>38</volume>
+            <issue>10</issue>
+            <fpage>1917</fpage>
+            <lpage>1925</lpage>
+            <pub-id pub-id-type="doi">10.1038/s41433-024-03043-y</pub-id>
+            <ext-link xlink:href="https://doi.org/10.1038/s41433-024-03043-y" ext-link-type="uri">https://doi.org/10.1038/s41433-024-03043-y</ext-link>
+            <pub-id pub-id-type="pmid">38555401</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-420642">
+          <element-citation publication-type="journal">
+            <article-title>Non-inferiority trials: are they inferior? A systematic review of reporting in major medical journals</article-title>
+            <source>BMJ Open</source>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Rehal</surname>
+                <given-names>S.</given-names>
+              </name>
+              <name>
+                <surname>Morris</surname>
+                <given-names>T.P.</given-names>
+              </name>
+              <name>
+                <surname>Fielding</surname>
+                <given-names>K.</given-names>
+              </name>
+              <name>
+                <surname>Carpenter</surname>
+                <given-names>J.R.</given-names>
+              </name>
+              <name>
+                <surname>Phillips</surname>
+                <given-names>P.P.</given-names>
+              </name>
+            </person-group>
+            <date>
+              <year>2016</year>
+            </date>
+            <volume>6</volume>
+            <issue>10</issue>
+            <fpage>e012594</fpage>
+            <pub-id pub-id-type="doi">10.1136/bmjopen-2016-012594</pub-id>
+            <!--<pub-id pub-id-type="pmcid">PMC5073571</pub-id>-->
+            <pub-id pub-id-type="pmid">27855102</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </article>
+</pmc-articleset>

@@ -28,10 +28,10 @@ def get_llm_answer(question, model="gpt-3.5-turbo"):
             max_tokens=150,
         )
         return response['choices'][0]['message']['content'].strip()
-    except openai.error.RateLimitError:
+    except openai.RateLimitError:
         logging.error(f"Rate limit exceeded for {model}.")
         return "Quota exceeded."
-    except openai.error.AuthenticationError:
+    except openai.AuthenticationError:
         logging.error(f"Authentication failed for {model}. Check your API key.")
         return "Authentication error."
     except Exception as e:

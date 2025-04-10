@@ -191,3 +191,20 @@ def save_full_text(file_path, full_text):
     """Save full text (XML) to a file."""
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(full_text)
+
+def process_multiple_instructions(instruction_files):
+    """
+    Process multiple instruction files to fetch PMC articles.
+    
+    Args:
+        instruction_files (List[str]): A list of file paths to instruction files 
+                                       (for example, ["bim.txt", "cem.txt"]).
+    
+    This function calls step1_getPubmed() for each file in the list.
+    """
+    for instr_file in instruction_files:
+        try:
+            print(f"Processing instruction file: {instr_file}")
+            step1_getPubmed(instr_file)
+        except Exception as e:
+            print(f"Error processing {instr_file}: {e}")

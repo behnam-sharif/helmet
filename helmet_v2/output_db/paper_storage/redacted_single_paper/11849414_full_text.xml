@@ -1,0 +1,368 @@
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+    <?properties open_access?>
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+      <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">Clinicoecon Outcomes Res</journal-id>
+        <journal-id journal-id-type="iso-abbrev">Clinicoecon Outcomes Res</journal-id>
+        <journal-id journal-id-type="publisher-id">ceor</journal-id>
+        <journal-title-group>
+          <journal-title>ClinicoEconomics and Outcomes Research: CEOR</journal-title>
+        </journal-title-group>
+        <issn pub-type="epub">1178-6981</issn>
+        <publisher>
+          <publisher-name>Dove</publisher-name>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">39996069</article-id>
+        <article-id pub-id-type="pmc">11849414</article-id>
+        <article-id pub-id-type="publisher-id">498848</article-id>
+        <article-id pub-id-type="doi">10.2147/CEOR.S498848</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Original Research</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>Using QIP-MS to Guide the Timing of MRD Testing in Patients With Multiple Myeloma: A Budget Impact Analysis From the French Payer Perspective</article-title>
+          <alt-title alt-title-type="running-authors">Siegfried et al</alt-title>
+          <alt-title alt-title-type="running-title">Siegfried et al</alt-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9624-4963</contrib-id>
+            <name>
+              <surname>Siegfried</surname>
+              <given-names>Christian</given-names>
+            </name>
+            <xref rid="aff0001" ref-type="aff">
+              <sup>1</sup>
+            </xref>
+            <xref rid="an0001" ref-type="corresp"/>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Amarapala</surname>
+              <given-names>Miyuru</given-names>
+            </name>
+            <xref rid="aff0001" ref-type="aff">
+              <sup>1</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Leleu</surname>
+              <given-names>Xavier</given-names>
+            </name>
+            <xref rid="aff0002" ref-type="aff">
+              <sup>2</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Fusfeld</surname>
+              <given-names>Lauren</given-names>
+            </name>
+            <xref rid="aff0001" ref-type="aff">
+              <sup>1</sup>
+            </xref>
+          </contrib>
+          <aff id="aff0001"><label>1</label><institution>Veranex</institution>, <addr-line>Boston</addr-line>, <addr-line>MA</addr-line>, <country>USA</country></aff>
+          <aff id="aff0002"><label>2</label><institution>Department of Hematology, CHU, Poitiers</institution>, <addr-line>Poitiers</addr-line>, <country>France</country></aff>
+        </contrib-group>
+        <author-notes>
+          <corresp id="an0001">Correspondence: Christian Siegfried, <institution>CRO and Consulting Services, Veranex</institution>, <addr-line>100 Federal St Suite 3302A</addr-line>, <addr-line>Boston</addr-line>, <addr-line>MA</addr-line>, <addr-line>02110</addr-line>, <country>USA</country>, Email christian.siegfried@Veranex.com</corresp>
+        </author-notes>
+        <pub-date pub-type="epub">
+          <day>20</day>
+          <month>2</month>
+          <year>2025</year>
+        </pub-date>
+        <pub-date pub-type="collection">
+          <year>2025</year>
+        </pub-date>
+        <volume>17</volume>
+        <fpage>107</fpage>
+        <lpage>114</lpage>
+        <history>
+          <date date-type="received">
+            <day>01</day>
+            <month>10</month>
+            <year>2024</year>
+          </date>
+          <date date-type="accepted">
+            <day>07</day>
+            <month>1</month>
+            <year>2025</year>
+          </date>
+        </history>
+        <permissions>
+          <copyright-statement>© 2025 Siegfried et al.</copyright-statement>
+          <copyright-year>2025</copyright-year>
+          <copyright-holder>Siegfried et al.</copyright-holder>
+          <license>
+            <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref>
+            <license-p>This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at <ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/terms.php">https://www.dovepress.com/terms.php</ext-link> and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/3.0/">http://creativecommons.org/licenses/by-nc/3.0/</ext-link>). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (<ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/terms.php">https://www.dovepress.com/terms.php</ext-link>).</license-p>
+          </license>
+        </permissions>
+        <kwd-group kwd-group-type="author">
+          <title>Keywords</title>
+          <kwd>mass spectrometry</kwd>
+          <kwd>minimal residual disease</kwd>
+          <kwd>immunofixation electrophoresis</kwd>
+          <kwd>plasma cell disorder</kwd>
+        </kwd-group>
+        <counts>
+          <fig-count count="3"/>
+          <table-count count="6"/>
+          <ref-count count="39"/>
+          <page-count count="8"/>
+        </counts>
+      </article-meta>
+    </front>
+    <body>
+      <sec sec-type="intro" id="s0001">
+        <title>Introduction</title>
+        <p>Multiple myeloma (MM) is a malignancy of the blood caused by the proliferation of abnormal clonal plasma cells within the bone marrow. Monoclonal proteins (M-proteins), which are immunoglobulins produced by the abnormal plasma cells, are a marker of disease activity and can be used to diagnose MM; in France, 5425 new cases are diagnosed each year.<xref rid="cit0001" ref-type="bibr">1</xref> M-proteins can also be used for disease monitoring following treatment of MM patients.</p>
+        <p>In current practice in France, several tests are routinely used to detect M-proteins in MM patients: serum or urine protein electrophoresis (SPEP or UPEP) and immunofixation electrophoresis (SIFE or UIFE).<xref rid="cit0002" ref-type="bibr">2</xref> However, these tests are not sensitive enough to measure M-protein levels that are low but still clinically significant.<xref rid="cit0003" ref-type="bibr">3</xref> Patients receiving new therapies, such as the combination of daratumumab, bortezomib, thalidomide, and dexamethasone (D-VTd) or daratumumab, bortezomib, lenalidomide, and dexamethasone (D-VRd), can generate responses deeper than SIFE can detect.<xref rid="cit0004" ref-type="bibr">4–6</xref> Without the use of supplementary assays, therapeutic antibodies can also interfere with the results of SIFE testing, leading to false positive results.<xref rid="cit0007" ref-type="bibr">7</xref> Consequently, patients testing negative with SIFE may be required to undergo more sensitive tests such as minimal residual disease (MRD) testing with next-generation flow cytometry (NGF) or next-generation sequencing (NGS) at sensitivities of 10<sup>−5</sup> or 10<sup>−6</sup> to determine the presence or absence of malignant cells.<xref rid="cit0008" ref-type="bibr">8</xref> In newly diagnosed multiple myeloma (NDMM) patients who have achieved CR, up to 31% can still be positive via MRD testing.<xref rid="cit0009" ref-type="bibr">9</xref></p>
+        <p>Studies demonstrate an association between improved progression-free survival (PFS) or overall survival (OS) and MRD negativity where CR is less prognostic.<xref rid="cit0006" ref-type="bibr">6</xref>,<xref rid="cit0009" ref-type="bibr">9</xref> The use of MRD in MM recently gained unanimous support from the FDA’s Oncologic Drugs Advisory Committee (ODAC) as a surrogate primary endpoint in MM clinical trials to enable accelerated approvals of new therapies.<xref rid="cit0010" ref-type="bibr">10</xref> The FDA’s position on MRD has sparked discussions with the European Medicines Agency (EMA), which announced it would use both cost and clinical data to make a determination on the use of MRD as a surrogate endpoint by July 1, 2024. As MRD testing transitions from clinical trials to routine clinical practice in France, more sensitive tests will be needed to detect M-proteins in the blood and reduce the additional costs and invasive bone marrow (BM) aspiration procedures associated with NGF/NGS.<xref rid="cit0011" ref-type="bibr">11–13</xref></p>
+        <p>Noting the improved accuracy of mass spectrometry (MS) over conventional serum- or urine-based methods and MS’ ability to distinguish endogenous M-proteins from therapeutic antibodies, the International Myeloma Working Group (IMWG) has endorsed the use of MS-based tests for the monitoring of patients with MM and other plasma cell disorders.<xref rid="cit0003" ref-type="bibr">3</xref>,<xref rid="cit0014" ref-type="bibr">14</xref> The EXENT GAM Assay (Thermo Fisher, Waltham, Massachusetts, United States), a quantitative immunoprecipitation mass spectrometry (QIP-MS) system, is a serum-based test that can detect and quantify M-proteins at much lower levels than serum immunofixation electrophoresis (SIFE) and SPEP.<xref rid="cit0003" ref-type="bibr">3</xref>,<xref rid="cit0015" ref-type="bibr">15</xref>,<xref rid="cit0016" ref-type="bibr">16</xref> QIP-MS measures immunoglobulins G, A, and M, as well as total kappa and lambda. The lower limit of measuring interval (LLMI) for QIP-MS is 0.015 g/L, roughly ten times as sensitive as SIFE.<xref rid="cit0017" ref-type="bibr">17</xref> By identifying proteins based on their unique isotype and mass-to-charge ratio of their light chains, QIP-MS can also distinguish between endogenous M-proteins and therapeutic antibodies.<xref rid="cit0016" ref-type="bibr">16</xref>,<xref rid="cit0018" ref-type="bibr">18</xref></p>
+        <p>In anticipation of the potential increase in MRD testing in MM in clinical practice, this study uses a simple budget impact model to compare QIP-MS versus SIFE as a precursor to testing MRD with NGF or NGS in France.</p>
+      </sec>
+      <sec id="s0002">
+        <title>Materials and Methods</title>
+        <sec id="s0002-s2001">
+          <title>Study Design</title>
+          <p>A two-year budget impact analysis was developed in Excel to compare the hypothetical use of SIFE or QIP-MS as a precursor to MRD testing from the French payer perspective. The French healthcare system, <italic toggle="yes">l’Assurance Maladie</italic>, is a mandatory-enrollment, single-payer national healthcare system which covers nearly all residents of France.<xref rid="cit0019" ref-type="bibr">19</xref></p>
+          <p>Patients receive MRD testing only after a negative M-protein test via SIFE or QIP-MS. MRD testing is considered definitive in this model; a positive MRD assessment means the preceding M-protein test with either SIFE or QIP-MS was a false negative.</p>
+          <p>The frequency of MRD testing in the model is based on a practicing French hematologist’s clinical trial experience regarding the times MRD has been most informative in the management of patients (XL). Patients receiving autologous stem cell transplant (henceforth referred to as transplant) and those not receiving transplant are both eligible for one MRD test per year. Transplant patients are eligible for MRD testing prior to transplant and one year following transplant. <xref rid="f0001" ref-type="fig">Figure 1</xref> provides an overview of the diagnostic pathway that occurs at each testing time point.
+<fig position="float" id="f0001" fig-type="figure"><label>Figure 1</label><caption><p>Budget Impact Model Framework.</p></caption><graphic xlink:href="CEOR-17-107-g0001" content-type="print-only" position="float"/><attrib><bold>Abbreviations</bold>: QIP-MS, quantitative immunoprecipitation mass spectrometry; SIFE, serum immunofixation electrophoresis; MRD, minimal residual disease.</attrib></fig></p>
+        </sec>
+        <sec id="s0002-s2002">
+          <title>Model Development</title>
+          <p>The model framework and input values were selected via a focused review of literature on PubMed, published fee schedules, and primary research with a practicing French hematologist (XL). The model includes direct costs associated with M-protein and MRD tests, extraction of blood and bone marrow aspirate, and associated physician visits. In accordance with budget impact modeling best practices, the model does not include cost discounting.<xref rid="cit0020" ref-type="bibr">20</xref></p>
+        </sec>
+        <sec id="s0002-s2003">
+          <title>Clinical Inputs</title>
+          <p>The number of patients entering the model is determined by the total insured population, the number of insured patients who are newly diagnosed with MM, and, finally, the percentage of those insured NDMM patients who would benefit from treatment. The true presence of disease in the model is determined by the positivity of MRD tests. These values are provided by the GEM2012MENOS65 trial, which tested NDMM patients with NGF.<xref rid="cit0021" ref-type="bibr">21</xref> Given the short timeframe of the model and the population (newly diagnosed patients), the one-year survival rate is assumed to be the same for patients receiving transplant and those not receiving transplant. This assumption is supported by the DETERMINATION trial, which did not show a significant difference in survival between these two groups over a one-year period.<xref rid="cit0022" ref-type="bibr">22</xref> The number of patients entering the second year of the model is multiplied by this survival rate. The clinical values are provided in <xref rid="t0001" ref-type="table">Table 1</xref>.<table-wrap position="float" id="t0001"><label>Table 1</label><caption><p>Clinical Inputs</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">Parameter</th><th rowspan="1" colspan="1">Value</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Insured Population in France</td><td rowspan="1" colspan="1">68,521,974<xref rid="cit0023" ref-type="bibr">23</xref></td></tr><tr><td rowspan="1" colspan="1">Incidence of MM</td><td rowspan="1" colspan="1">0.0079%<xref rid="cit0001" ref-type="bibr">1</xref></td></tr><tr><td rowspan="1" colspan="1">Percentage of Patients Receiving 1st-Line Therapy</td><td rowspan="1" colspan="1">95% (XL)</td></tr><tr><td rowspan="1" colspan="1">Percentage of Patients Receiving Transplant</td><td rowspan="1" colspan="1">40% (XL)</td></tr><tr><td rowspan="1" colspan="1">True Proportion of Underlying Disease, Prior to Transplant</td><td rowspan="1" colspan="1">69%<xref rid="cit0021" ref-type="bibr">21</xref></td></tr><tr><td rowspan="1" colspan="1">True Proportion of Underlying Disease, Year 2</td><td rowspan="1" colspan="1">29%<xref rid="cit0021" ref-type="bibr">21</xref></td></tr><tr><td rowspan="1" colspan="1">1-Year Survival Rate of NDMM Patients</td><td rowspan="1" colspan="1">85%<xref rid="cit0022" ref-type="bibr">22</xref>,<xref rid="cit0024" ref-type="bibr">24</xref>,<xref rid="cit0025" ref-type="bibr">25</xref></td></tr></tbody></table><table-wrap-foot><fn id="tfn0001"><p><bold>Abbreviations</bold>: MM, multiple myeloma; NDMM, newly diagnosed multiple myeloma; XL, Dr. Xavier Leleu.</p></fn></table-wrap-foot></table-wrap></p>
+          <p><xref rid="t0002" ref-type="table">Table 2</xref> provides the sensitivity and specificity of the M-protein testing methods. These values were calculated using each test’s concordance with NGS MRD results in NDMM patients.<table-wrap position="float" id="t0002"><label>Table 2</label><caption><p>Test Specifications</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">Parameter</th><th rowspan="1" colspan="1">QIP-MS</th><th rowspan="1" colspan="1">SIFE</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Sensitivity</td><td rowspan="1" colspan="1">95.5%</td><td rowspan="1" colspan="1">54.5%</td></tr><tr><td rowspan="1" colspan="1">Specificity</td><td rowspan="1" colspan="1">76.3%</td><td rowspan="1" colspan="1">92.1%</td></tr></tbody></table><table-wrap-foot><fn id="tfn0002"><p><bold>Notes:</bold> Sensitivity and specificity values for QIP-MS and SIFE were calculated using values from Derman 2021.<xref rid="cit0018" ref-type="bibr">18</xref></p></fn><fn id="tfn0003"><p><bold>Abbreviations</bold>: QIP-MS, quantitative immunoprecipitation mass spectrometry; SIFE, serum immunofixation electrophoresis.</p></fn></table-wrap-foot></table-wrap></p>
+        </sec>
+        <sec id="s0002-s2004">
+          <title>Cost Inputs</title>
+          <p>Costs are from published literature as well as the Common Classification of Medical Procedures (CCAM) and National Biology Coding Table (NABM) when possible and were reviewed by a hematologist (XL). The cost of QIP-MS, provided by the manufacturer, is €90. All costs are in 2023 Euros. Additional costs can be found in <xref rid="t0003" ref-type="table">Table 3</xref><table-wrap position="float" id="t0003"><label>Table 3</label><caption><p>Costs</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">Parameter</th><th rowspan="1" colspan="1">Code</th><th rowspan="1" colspan="1">Cost</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">SIFE</td><td rowspan="1" colspan="1">NABM 1571</td><td rowspan="1" colspan="1">€41.60<xref rid="cit0026" ref-type="bibr">26</xref></td></tr><tr><td rowspan="1" colspan="1">QIP-MS</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">€90 (TF)</td></tr><tr><td rowspan="1" colspan="1">MRD Testing (NGS)</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">€1032.00 (XL)</td></tr><tr><td rowspan="1" colspan="1">MRD Testing (NGF)</td><td rowspan="1" colspan="1">RIHN G065</td><td rowspan="1" colspan="1">€270.00<xref rid="cit0027" ref-type="bibr">27</xref></td></tr><tr><td rowspan="1" colspan="1">Venipuncture</td><td rowspan="1" colspan="1">FEHB001</td><td rowspan="1" colspan="1">€9.60<xref rid="cit0028" ref-type="bibr">28</xref></td></tr><tr><td rowspan="1" colspan="1">Bone Marrow Aspiration</td><td rowspan="1" colspan="1">FDHB004</td><td rowspan="1" colspan="1">€67.50<xref rid="cit0028" ref-type="bibr">28</xref></td></tr><tr><td rowspan="1" colspan="1">Physician Visit</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">€60.00<xref rid="cit0027" ref-type="bibr">27</xref></td></tr></tbody></table><table-wrap-foot><fn id="tfn0004"><p><bold>Abbreviations</bold>: SIFE, serum immunofixation electrophoresis; QIP-MS, quantitative immunoprecipitation mass spectrometry; MRD, minimal residual disease; TF, Thermo Fisher (test manufacturer); NGS, next generation sequencing; XL, Dr. Xavier Leleu; NGF, next-generation flow cytometry.</p></fn></table-wrap-foot></table-wrap></p>
+          <p>The cost of MRD testing per patient is a weighted average of the costs of testing with NGS and NGF, based on the hematologist’s experience with the proportion of testing performed with either method and his expectations for future MRD testing in clinical practice (XL). The average cost of MRD testing includes the cost of the bone marrow aspiration and specialist visit. The proportions of testing with NGS/ NGF and the average cost of MRD testing are provided in <xref rid="t0004" ref-type="table">Table 4</xref>.<table-wrap position="float" id="t0004"><label>Table 4</label><caption><p>Average Cost of MRD Testing</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">Parameter</th><th rowspan="1" colspan="1">Value</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Percentage of Testing with NGS</td><td rowspan="1" colspan="1">90% (XL)</td></tr><tr><td rowspan="1" colspan="1">Percentage of Testing with NGF</td><td rowspan="1" colspan="1">10%</td></tr><tr><td rowspan="1" colspan="1">Average Cost of MRD Testing</td><td rowspan="1" colspan="1">€1083.30</td></tr></tbody></table><table-wrap-foot><fn id="tfn0005"><p><bold>Abbreviations</bold>: MRD, minimal residual disease; NGS, next-generation sequencing; XL, Dr. Xavier Leleu; NGF, next-generation flow cytometry.</p></fn></table-wrap-foot></table-wrap></p>
+        </sec>
+        <sec id="s0002-s2005">
+          <title>Sensitivity Analysis</title>
+          <p>A one-way sensitivity analysis examined the effect of varying each input by ±10% of its base case value.</p>
+        </sec>
+      </sec>
+      <sec id="s0003">
+        <title>Results</title>
+        <p>Across a hypothetical population of 5154 mm patients receiving 1<sup>st</sup>-line treatment in France, using QIP-MS instead of SIFE prior to MRD testing leads to a reduction in premature MRD tests of 1973 and total savings of €2,481,832. Compared with SIFE, QIP-MS would produce 744 additional false positive results and 1973 fewer false negative results. Net savings per QIP-MS test would be €260. For the 2062 transplant and 3029 non-transplant patients, QIP-MS would save €993,478 and €1,488,354, respectively. <xref rid="t0005" ref-type="table">Table 5</xref> provides a breakdown of the distribution of test results, with associated costs in <xref rid="t0006" ref-type="table">Table 6</xref>. Total costs by year are provided in <xref rid="f0002" ref-type="fig">Figure 2</xref>, with higher costs in year two when rates of underlying disease are lower.</p>
+        <p>The most influential input parameters in the one-way sensitivity analysis are the sensitivity of QIP-MS, the specificity of SIFE, the cost of MRD testing, and the specificity of QIP-MS, presented in <xref rid="f0003" ref-type="fig">Figure 3</xref>.
+<table-wrap position="float" id="t0005"><label>Table 5</label><caption><p>Test Volume</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1">QIP-MS Arm</th><th colspan="2" rowspan="1">SIFE Arm</th><th rowspan="1" colspan="1">Difference</th></tr></thead><tbody><tr><td rowspan="1" colspan="1"><bold>M-Protein Tests</bold></td><td rowspan="1" colspan="1"><bold>9535</bold></td><td colspan="2" rowspan="1"><bold>9535</bold></td><td rowspan="1" colspan="1"><bold>0</bold></td></tr><tr><td rowspan="1" colspan="1"> True Positives</td><td rowspan="1" colspan="1">4606</td><td colspan="2" rowspan="1">2633</td><td rowspan="1" colspan="1">1973</td></tr><tr><td rowspan="1" colspan="1"> True Negatives</td><td rowspan="1" colspan="1">3594</td><td colspan="2" rowspan="1">4338</td><td rowspan="1" colspan="1">−744</td></tr><tr><td rowspan="1" colspan="1"> False Positives</td><td rowspan="1" colspan="1">1115</td><td colspan="2" rowspan="1">371</td><td rowspan="1" colspan="1">744</td></tr><tr><td rowspan="1" colspan="1"> False Negatives</td><td rowspan="1" colspan="1">220</td><td colspan="2" rowspan="1">2193</td><td rowspan="1" colspan="1">−1973</td></tr><tr><td rowspan="1" colspan="1">MRD Tests</td><td rowspan="1" colspan="1">3814</td><td colspan="2" rowspan="1">6531</td><td rowspan="1" colspan="1">−2717</td></tr></tbody></table><table-wrap-foot><fn id="tfn0006"><p><bold>Note</bold>: bold formatting indicates that this row is the sum of the indented rows beneath it.</p></fn><fn id="tfn0007"><p><bold>Abbreviations</bold>: QIP-MS, quantitative immunoprecipitation mass spectrometry; SIFE, serum immunofixation electrophoresis; MRD, minimal residual disease.</p></fn></table-wrap-foot></table-wrap>
+<table-wrap position="float" id="t0006"><label>Table 6</label><caption><p>Total Costs</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1">QIP-MS Arm</th><th rowspan="1" colspan="1">SIFE Arm</th><th rowspan="1" colspan="1">Savings</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">M-Protein Tests</td><td rowspan="1" colspan="1">€1,521,786</td><td rowspan="1" colspan="1">€1,060,292</td><td rowspan="1" colspan="1">-€461,494</td></tr><tr><td rowspan="1" colspan="1"><bold>MRD Tests</bold></td><td rowspan="1" colspan="1"><bold>€4,131,706</bold></td><td rowspan="1" colspan="1"><bold>€7,075,032</bold></td><td rowspan="1" colspan="1"><bold>€2,943,326</bold></td></tr><tr><td rowspan="1" colspan="1"> MRD-</td><td rowspan="1" colspan="1">€3,893,380</td><td rowspan="1" colspan="1">€4,699,355</td><td rowspan="1" colspan="1">€805,975</td></tr><tr><td rowspan="1" colspan="1"> MRD+</td><td rowspan="1" colspan="1">€238,326</td><td rowspan="1" colspan="1">€2,375,677</td><td rowspan="1" colspan="1">€2,137,351</td></tr><tr><td rowspan="1" colspan="1">Total</td><td rowspan="1" colspan="1">€5,653,492</td><td rowspan="1" colspan="1">€8,135,324</td><td rowspan="1" colspan="1">€2,481,832</td></tr></tbody></table><table-wrap-foot><fn id="tfn0008"><p><bold>Note</bold>: bold formatting indicates that this row is the sum of the indented rows beneath it.</p></fn><fn id="tfn0009"><p><bold>Abbreviations</bold>: QIP-MS, quantitative immunoprecipitation mass spectrometry; SIFE, serum immunofixation electrophoresis; MRD, minimal residual disease.</p></fn></table-wrap-foot></table-wrap>
+<fig position="float" id="f0002" fig-type="figure"><label>Figure 2</label><caption><p>Total Yearly Costs for the QIP-MS and SIFE Arms.</p></caption><graphic xlink:href="CEOR-17-107-g0002" content-type="print-only" position="float"/><attrib><bold>Abbreviations</bold>: QIP-MS, quantitative immunoprecipitation mass spectrometry; SIFE, serum immunofixation electrophoresis.</attrib></fig></p>
+        <p>
+          <fig position="float" id="f0003" fig-type="figure">
+            <label>Figure 3</label>
+            <caption>
+              <p>One-Way Sensitivity Analysis (Total Savings in 000s).</p>
+            </caption>
+            <graphic xlink:href="CEOR-17-107-g0003" content-type="print-only" position="float"/>
+            <attrib><bold>Note</bold>: All input percentages must be within 0% and 100% in the model. Consequently, the one-way sensitivity analysis uses 100% as the upper limit for the sensitivity of QIP-MS and the specificity of SIFE rather than 110% times the base case value.</attrib>
+            <attrib><bold>Abbreviations</bold>: QIP-MS, quantitative immunoprecipitation mass spectrometry; SIFE, serum immunofixation electrophoresis; MRD, minimal residual disease.</attrib>
+          </fig>
+        </p>
+      </sec>
+      <sec id="s0004">
+        <title>Discussion</title>
+        <p>Using MRD tests to inform clinical decision-making has been established in many hematological malignancies, and clinicians are already beginning to incorporate MRD testing in MM clinical practice in several countries. For example, some clinicians in Spain review MRD results at specific times in the MM patient journey, such as prior to and following transplant, following consolidation therapy in those patients that receive it, and a year following transplant.<xref rid="cit0021" ref-type="bibr">21</xref>,<xref rid="cit0029" ref-type="bibr">29</xref> While MRD testing is not currently a part of routine clinical practice in France, its use in MM clinical trials has been growing, and MRD testing could become part of the standard of care in the future.<xref rid="cit0004" ref-type="bibr">4</xref></p>
+        <p>For countries using MRD testing, clinicians may be able to optimize patient assessment by first employing a blood-based test that is more sensitive than SIFE to accurately identify patients who would be eligible for MRD testing with NGS/NGF. Utilizing a sensitive test as a precursor to MRD could improve the number of accurately diagnosed MRD-negative patients and postpone invasive bone aspirations in patients who would otherwise have been subjected to premature MRD testing.</p>
+        <p>This study is the first to demonstrate the economic feasibility of using QIP-MS rather than SIFE as a precursor to MRD testing in France.</p>
+      </sec>
+      <sec id="s0005">
+        <title>Limitations</title>
+        <p>Intended as a preliminary evaluation, this model has several limitations, including a short two-year time horizon. Clinicians confirmed, however, that this timeframe would capture most MRD testing in a patient’s journey. Any additional uses of QIP-MS for monitoring MM patients, aside from serving as a precursor to MRD testing, have been excluded from the model but could be added once data on these applications have been published. Without regular monitoring, MM patients, such as those with IgG myeloma, may have false positive test results with QIP-MS due to residual M-proteins continuing to circulate in their blood for as long as six months.<xref rid="cit0015" ref-type="bibr">15</xref>,<xref rid="cit0030" ref-type="bibr">30</xref>,<xref rid="cit0031" ref-type="bibr">31</xref> When used regularly, QIP-MS can quantify low concentrations of M-proteins and could allow physicians to determine when IgG levels are decreasing even while the MS test result remains positive.<xref rid="cit0015" ref-type="bibr">15</xref>,<xref rid="cit0030" ref-type="bibr">30</xref>,<xref rid="cit0031" ref-type="bibr">31</xref> Studies suggest MS can also detect disease in patients who test MRD-negative with NGF, which is likely to occur for two reasons: patients have MM proliferating outside of the bone marrow, (known as extramedullary disease) or, due to limitations on where the bone marrow aspiration can be extracted, the sample is not extracted from a region with cancerous cells.<xref rid="cit0032" ref-type="bibr">32–35</xref> Conversely, in the roughly 1% to 3% of myeloma patients with non-secretory myeloma, QIP-MS will be unable to monitor the disease due to the absence of M-proteins in the blood. While conventional blood-based methods are also unable to detect M-proteins in patients with oligosecretory MM, which comprises roughly 2% to 3% of all MM patients, QIP-MS has demonstrated the ability to detect and monitor disease in small studies of these patients.<xref rid="cit0036" ref-type="bibr">36</xref>,<xref rid="cit0037" ref-type="bibr">37</xref> QIP-MS’s ability to detect M-proteins in these patients is due to its LLMI of 0.0015 g/dl, which is well below the 1 g/dl threshold of serum M-protein that defines patients as oligosecretory.<xref rid="cit0017" ref-type="bibr">17</xref>,<xref rid="cit0038" ref-type="bibr">38</xref> The model also does not incorporate treatment and patient outcomes. When patient outcomes following MS testing become available, an expanded economic model including treatments and patient outcomes would be useful to consider. Lastly, hematologists, acknowledging the potential complications and patient discomfort associated with the extraction of bone marrow, indicate that minimizing premature bone marrow aspirations would be of value to patients, but data limitations prevent the model from accounting for these improvements in quality of life.<xref rid="cit0039" ref-type="bibr">39</xref> Patient-related outcome measures, such as quality of life, should be evaluated in future studies.</p>
+      </sec>
+      <sec id="s0006">
+        <title>Conclusions</title>
+        <p>As evidence supporting the use of MRD in MM grows, it will be important to understand how best to incorporate MRD testing in clinical practice. This study suggests that the use of QIP-MS prior to MRD testing may be cost-saving for testing French patients with MM.</p>
+      </sec>
+    </body>
+    <back>
+      <ack>
+        <title>Acknowledgments</title>
+        <p>We thank Sabrina Iadicicco (Veranex) and Sabina Schadyew (Veranex) for providing several model parameters.</p>
+      </ack>
+      <sec sec-type="COI-statement" id="s0007">
+        <title>Disclosure</title>
+        <p>The analysis was funded by Thermo Fisher Scientific. Veranex, Inc. received consulting fees from Thermo Fisher Scientific for developing the model on which this manuscript is based. Co-authors Christian Siegfried, Miyuru Amarapala, and Lauren Fusfeld were employed by Veranex, Inc. at the time of this research.</p>
+      </sec>
+      <ref-list>
+        <title>References</title>
+        <ref id="cit0001">
+          <label>1.</label>
+          <mixed-citation publication-type="book"><string-name><surname>Ferlay</surname><given-names>J</given-names></string-name>, <string-name><surname>Ervik</surname><given-names>M</given-names></string-name>, <string-name><surname>Lam</surname><given-names>F</given-names></string-name>, et al. <article-title>Global Cancer Observatory: Cancer Today</article-title>. <publisher-loc>Lyon, France</publisher-loc>: <publisher-name>International Agency for Research on Cancer</publisher-name>. <comment>Available from</comment>: <ext-link xlink:href="https://gco.iarc.who.int/today" ext-link-type="uri">https://gco.iarc.who.int/today</ext-link>. <date-in-citation>Accessed <day>16</day>, <month>July</month> 2024</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0002">
+          <label>2.</label>
+          <mixed-citation publication-type="webpage"><article-title>Multiple Myeloma Research Foundation [Internet]. Diagnostic testing for multiple myeloma</article-title>. <comment>Available from</comment>: <ext-link xlink:href="https://themmrf.org/diagnosis-and-treatment/diagnostic-testing/" ext-link-type="uri">https://themmrf.org/diagnosis-and-treatment/diagnostic-testing/</ext-link>. <date-in-citation>Accessed <month>September</month> 2024</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0003">
+          <label>3.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Murray</surname><given-names>DL</given-names></string-name>, <string-name><surname>Puig</surname><given-names>N</given-names></string-name>, <string-name><surname>Kristinsson</surname><given-names>S</given-names></string-name>, et al. <article-title>Mass spectrometry for the evaluation of monoclonal proteins in multiple myeloma and related disorders: an International Myeloma Working Group Mass Spectrometry Committee report</article-title>. <source><italic toggle="yes">Blood Cancer J</italic></source>. <year>2021</year>;<volume>11</volume>(<issue>2</issue>):<fpage>24</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41408-021-00408-4</pub-id><pub-id pub-id-type="pmid">33563895</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0004">
+          <label>4.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Moreau</surname><given-names>P</given-names></string-name>, <string-name><surname>Hulin</surname><given-names>C</given-names></string-name>, <string-name><surname>Perrot</surname><given-names>A</given-names></string-name>, et al.; <collab>Intergroupe Francophone du Myélome, the Dutch-Belgian Cooperative Trial Group for Hematology Oncology and the CASSIOPEIA Investigators</collab>. <article-title>Bortezomib, thalidomide, and dexamethasone with or without daratumumab and followed by daratumumab maintenance or observation in transplant-eligible newly diagnosed multiple myeloma: long-term follow-up of the CASSIOPEIA randomised controlled Phase 3 trial</article-title>. <source><italic toggle="yes">Lancet Oncol</italic></source>. <year>2024</year>;<volume>25</volume>(<issue>8</issue>):<fpage>1003</fpage>–<lpage>1014</lpage>. <comment>Epub 2024 Jun 15. PMID: 38889735</comment>. doi:<pub-id pub-id-type="doi">10.1016/S1470-2045(24)00282-1</pub-id><pub-id pub-id-type="pmid">38889735</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0005">
+          <label>5.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Sonneveld</surname><given-names>P</given-names></string-name>, <string-name><surname>Dimopoulos</surname><given-names>MA</given-names></string-name>, <string-name><surname>Boccadoro</surname><given-names>M</given-names></string-name>, et al. <collab>PERSEUS Trial Investigators</collab>. <article-title>Daratumumab, bortezomib, lenalidomide, and dexamethasone for multiple myeloma</article-title>. <source><italic toggle="yes">N Engl J Med</italic></source>. <year>2024</year>;<volume>390</volume>(<issue>4</issue>):<fpage>301</fpage>–<lpage>313</lpage>. doi:<pub-id pub-id-type="doi">10.1056/NEJMoa2312054</pub-id><comment>Epub 2023 Dec 12. PMID: 38084760</comment>.<pub-id pub-id-type="pmid">38084760</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0006">
+          <label>6.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Paiva</surname><given-names>B</given-names></string-name>, <string-name><surname>San-Miguel</surname><given-names>J</given-names></string-name>, <string-name><surname>Avet-Loiseau</surname><given-names>H</given-names></string-name>. <article-title>MRD in multiple myeloma: does CR really matter?</article-title><source><italic toggle="yes">Blood</italic></source>. <year>2022</year>;<volume>140</volume>(<issue>23</issue>):<fpage>2423</fpage>–<lpage>2428</lpage>. doi:<pub-id pub-id-type="doi">10.1182/blood.2022016170</pub-id><comment>PMID: 35560160</comment>.<pub-id pub-id-type="pmid">35560160</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0007">
+          <label>7.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Kirchhoff</surname><given-names>DC</given-names></string-name>, <string-name><surname>Murata</surname><given-names>K</given-names></string-name>, <string-name><surname>Thoren</surname><given-names>KL</given-names></string-name>. <article-title>Use of a daratumumab-specific immunofixation assay to assess possible immunotherapy interference at a major cancer center: our experience and recommendations</article-title>. <source><italic toggle="yes">J Appl Lab Med</italic></source>. <year>2021</year>;<volume>6</volume>(<issue>6</issue>):<fpage>1476</fpage>–<lpage>1483</lpage>. doi:<pub-id pub-id-type="doi">10.1093/jalm/jfab055</pub-id><comment>PMID: 34293131; PMCID: PMC9487159</comment>.<pub-id pub-id-type="pmid">34293131</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0008">
+          <label>8.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Ferla</surname><given-names>V</given-names></string-name>, <string-name><surname>Antonini</surname><given-names>E</given-names></string-name>, <string-name><surname>Perini</surname><given-names>T</given-names></string-name>, et al. <article-title>Minimal residual disease detection by next-generation sequencing in multiple myeloma: promise and challenges for response-adapted therapy</article-title>. <source><italic toggle="yes">Front Oncol</italic></source>. <year>2022</year>;<volume>12</volume>:<fpage>932852</fpage>. <comment>PMID: 36052251; PMCID: PMC9426755</comment>. doi:<pub-id pub-id-type="doi">10.3389/fonc.2022.932852</pub-id><pub-id pub-id-type="pmid">36052251</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0009">
+          <label>9.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Munshi</surname><given-names>NC</given-names></string-name>, <string-name><surname>Avet-Loiseau</surname><given-names>H</given-names></string-name>, <string-name><surname>Rawstron</surname><given-names>AC</given-names></string-name>, et al. <article-title>Association of minimal residual disease with superior survival outcomes in patients with multiple myeloma: a meta-analysis</article-title>. <source><italic toggle="yes">JAMA Oncol</italic></source>. <year>2017</year>;<volume>3</volume>(<issue>1</issue>):<fpage>28</fpage>–<lpage>35</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaoncol.2016.3160</pub-id><comment>PMID: 27632282; PMCID: PMC5943640</comment>.<pub-id pub-id-type="pmid">27632282</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0010">
+          <label>10.</label>
+          <mixed-citation publication-type="webpage"><collab>US Food &amp; Drug Administration [Internet]</collab>. <article-title>April 12, 2024 meeting of the oncologic drugs advisory committee meeting announcement</article-title>. <comment>Available from</comment>: <ext-link xlink:href="https://tinyurl.com/2rexatkp" ext-link-type="uri">https://tinyurl.com/2rexatkp</ext-link>. <date-in-citation>Accessed <day>16</day>, <month>July</month> 2024</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0011">
+          <label>11.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Hibbs</surname><given-names>S</given-names></string-name>. <article-title>This is going to hurt: revisiting the patient experience of bone marrow biopsies</article-title>. <source><italic toggle="yes">Hemasphere</italic></source>. <year>2022</year>;<volume>6</volume>(<issue>4</issue>):<fpage>e710</fpage>. doi:<pub-id pub-id-type="doi">10.1097/HS9.0000000000000710</pub-id><pub-id pub-id-type="pmid">35402851</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0012">
+          <label>12.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Gendron</surname><given-names>N</given-names></string-name>, <string-name><surname>Zia Chahabi</surname><given-names>S</given-names></string-name>, <string-name><surname>Poenou</surname><given-names>G</given-names></string-name>, et al. <article-title>Pain assessment and factors influencing pain during bone marrow aspiration: a prospective study</article-title>. <source><italic toggle="yes">PLoS One</italic></source>. <year>2019</year>;<volume>14</volume>(<issue>8</issue>):<fpage>e0221534</fpage>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0221534</pub-id><pub-id pub-id-type="pmid">31465426</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0013">
+          <label>13.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Liptrott</surname><given-names>SJ</given-names></string-name>, <string-name><surname>Botti</surname><given-names>S</given-names></string-name>, <string-name><surname>Bonifazi</surname><given-names>F</given-names></string-name>, et al. <article-title>Management of pain and anxiety during bone marrow aspiration: an Italian national survey</article-title>. <source><italic toggle="yes">Pain Manag Nurs</italic></source>. <year>2021</year>;<volume>22</volume>(<issue>3</issue>):<fpage>349</fpage>–<lpage>355</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.pmn.2020.09.005</pub-id><pub-id pub-id-type="pmid">33109451</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0014">
+          <label>14.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Murray</surname><given-names>DL</given-names></string-name>. <article-title>Bringing mass spectrometry into the care of patients with multiple myeloma</article-title>. <source><italic toggle="yes">Int J Hematol</italic></source>. <year>2022</year>;<volume>115</volume>(<issue>6</issue>):<fpage>790</fpage>–<lpage>798</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s12185-022-03364-2</pub-id><pub-id pub-id-type="pmid">35471500</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0015">
+          <label>15.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Eveillard</surname><given-names>M</given-names></string-name>, <string-name><surname>Korde</surname><given-names>N</given-names></string-name>, <string-name><surname>Ciardiello</surname><given-names>A</given-names></string-name>, et al. <article-title>Using MALDI-TOF mass spectrometry in peripheral blood for the follow up of newly diagnosed multiple myeloma patients treated with daratumumab-based combination therapy</article-title>. <source><italic toggle="yes">Clin Chim Acta</italic></source>. <year>2021</year>;<volume>516</volume>:<fpage>136</fpage>–<lpage>141</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.cca.2021.01.021</pub-id><pub-id pub-id-type="pmid">33545108</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0016">
+          <label>16.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Berlanga</surname><given-names>O</given-names></string-name>, <string-name><surname>North</surname><given-names>S</given-names></string-name>, <string-name><surname>Barnidge</surname><given-names>D</given-names></string-name>, et al. <article-title>QIP-MS: an alternative to electrophoresis to distinguish endogenous M-proteins from therapeutic monoclonal antibodies in multiple myeloma</article-title>. <source><italic toggle="yes">Clin Lymphoma Myeloma Leuk</italic></source>. <year>2019</year>;<volume>19</volume>(<issue>10</issue>):<fpage>143</fpage>–<lpage>144</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.clml.2019.09.239</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0017">
+          <label>17.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Li</surname><given-names>K</given-names></string-name>, <string-name><surname>Barnidge</surname><given-names>D</given-names></string-name>, <string-name><surname>Krevvata</surname><given-names>M</given-names></string-name>, et al. <article-title>Comparison of the analytical performance of EXENT<sup>®</sup>, a mass spectrometry-based assessment of M-protein, to SPEP and NGS-based MRD in multiple myeloma patient samples</article-title>. <source><italic toggle="yes">Blood</italic></source>. <year>2022</year>;<volume>140</volume>(<issue>Supplement 1</issue>):<fpage>12446</fpage>–<lpage>12447</lpage>. doi:<pub-id pub-id-type="doi">10.1182/blood-2022-160249</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0018">
+          <label>18.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Derman</surname><given-names>BA</given-names></string-name>, <string-name><surname>Stefka</surname><given-names>AT</given-names></string-name>, <string-name><surname>Jiang</surname><given-names>K</given-names></string-name>, et al. <article-title>Measurable residual disease assessed by mass spectrometry in peripheral blood in multiple myeloma in a Phase II trial of carfilzomib, lenalidomide, dexamethasone and autologous stem cell transplantation</article-title>. <source><italic toggle="yes">Blood Cancer J</italic></source>. <year>2021</year>;<volume>11</volume>(<issue>2</issue>):<fpage>19</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41408-021-00418-2</pub-id><pub-id pub-id-type="pmid">33563912</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0019">
+          <label>19.</label>
+          <mixed-citation publication-type="book"><string-name><surname>Or</surname><given-names>Z</given-names></string-name>, <string-name><surname>Gandré</surname><given-names>C</given-names></string-name>, <string-name><surname>Seppänen</surname><given-names>AV</given-names></string-name>, et al. <part-title>France: Health System Summary, 2024</part-title>. In: <source><italic toggle="yes">WHO Regional Office for Europe on Behalf of the European Observatory on Health Systems and Policies</italic></source>. <publisher-loc>Copenhagen</publisher-loc>; <year>2023</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0020">
+          <label>20.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Sullivan</surname><given-names>SD</given-names></string-name>, <string-name><surname>Mauskopf</surname><given-names>JA</given-names></string-name>, <string-name><surname>Augustovski</surname><given-names>F</given-names></string-name>, et al. <article-title>Principles of good practice for budget impact analysis II: report of the ISPOR Task Force on good research practices – budget impact analysis</article-title>. <source><italic toggle="yes">Value Health</italic></source>. <year>2014</year>;<volume>17</volume>(<issue>1</issue>):<fpage>5</fpage>–<lpage>14</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jval.2013.08.2291</pub-id><pub-id pub-id-type="pmid">24438712</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0021">
+          <label>21.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Puig</surname><given-names>N</given-names></string-name>, <string-name><surname>Contreras Sanfeliciano</surname><given-names>T</given-names></string-name>, <string-name><surname>Paiva</surname><given-names>B</given-names></string-name>, et al. <article-title>Assessment of treatment response by IFE, next generation flow cytometry and mass spectrometry coupled with liquid chromatography in the GEM2012MENOS65 clinical trial</article-title>. <source><italic toggle="yes">Blood</italic></source>. <year>2021</year>;<volume>138</volume>(<issue>Suppl 1</issue>):<fpage>544</fpage>. doi:<pub-id pub-id-type="doi">10.1182/blood-2021-151557</pub-id><pub-id pub-id-type="pmid">33735912</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0022">
+          <label>22.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Richardson</surname><given-names>PG</given-names></string-name>, <string-name><surname>Jacobus</surname><given-names>SJ</given-names></string-name>, <string-name><surname>Weller</surname><given-names>E</given-names></string-name>, et al. <article-title>DETERMINATION Investigators. Triplet therapy, transplantation, and maintenance until progression in myeloma</article-title>. <source><italic toggle="yes">N Engl J Med</italic></source>. <year>2022</year>;<volume>387</volume>(<issue>2</issue>):<fpage>132</fpage>–<lpage>147</lpage>. doi:<pub-id pub-id-type="doi">10.1056/NEJMoa2204925</pub-id><pub-id pub-id-type="pmid">35660812</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0023">
+          <label>23.</label>
+          <mixed-citation publication-type="webpage"><collab>CIA</collab>. <article-title>The World Factbook. Population of France</article-title>. <comment>Available from</comment>: <ext-link xlink:href="https://www.cia.gov/the-world-factbook/countries/france/" ext-link-type="uri">https://www.cia.gov/the-world-factbook/countries/france/</ext-link>. <date-in-citation>Accessed <month>Feb</month> 2024</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0024">
+          <label>24.</label>
+          <mixed-citation publication-type="webpage"><article-title>Cancer research UK [Internet]. Survival statistics for myeloma</article-title>. <comment>Available from</comment>: <ext-link xlink:href="https://www.cancerresearchuk.org/about-cancer/myeloma/survival" ext-link-type="uri">https://www.cancerresearchuk.org/about-cancer/myeloma/survival</ext-link>. <date-in-citation>Accessed <month>Feb</month> 2024</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0025">
+          <label>25.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Hulin</surname><given-names>C</given-names></string-name>, <string-name><surname>Orazio</surname><given-names>S</given-names></string-name>, <string-name><surname>Monnereau</surname><given-names>A</given-names></string-name>, et al. <article-title>P938: survival of patients with multiple myeloma in the general population based on data from two French cancer registries</article-title>. <source><italic toggle="yes">Hemasphere</italic></source>. <year>2023</year>;<volume>7</volume>(<issue>Suppl</issue>):<fpage>e306494f</fpage>. doi:<pub-id pub-id-type="doi">10.1097/01.HS9.0000970656.30649.4f</pub-id><comment>PMCID: PMC10431277</comment>.</mixed-citation>
+        </ref>
+        <ref id="cit0026">
+          <label>26.</label>
+          <mixed-citation publication-type="webpage"><article-title>Sécurité sociale, l’Assurance maladie [Internet]. National biology coding table</article-title>. <comment>Available from</comment>: <ext-link xlink:href="http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=1571%26p_date_jo_arrete=%252525252525%26p_menu=FICHE%26p_site=AMELI" ext-link-type="uri">http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=1571&amp;p_date_jo_arrete=%25&amp;p_menu=FICHE&amp;p_site=AMELI</ext-link>. <date-in-citation>Accessed <month>Feb</month> 2024</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0027">
+          <label>27.</label>
+          <mixed-citation publication-type="webpage"><collab>Ministère du Travail, de la Santé et des Solidarités</collab>. [Internet]. <article-title>The repository of innovative procedures outside the biology and anatomopathology nomenclature (RIHN)</article-title>. Available from: <ext-link xlink:href="https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/rihn" ext-link-type="uri">https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/rihn</ext-link>. <date-in-citation>Accessed <month>Feb</month> 2024</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0028">
+          <label>28.</label>
+          <mixed-citation publication-type="webpage"><article-title>Sécurité sociale, l’Assurance Maladie [Internet]. Common classification of medical procedures (CCAM)</article-title>. <comment>Available from</comment>: <ext-link xlink:href="https://www.ameli.fr/accueil-de-la-ccam/trouver-un-acte/fiche-abregee.php?code=FEHB001" ext-link-type="uri">https://www.ameli.fr/accueil-de-la-ccam/trouver-un-acte/fiche-abregee.php?code=FEHB001</ext-link>. <date-in-citation>Accessed <month>Feb</month> 2024</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0029">
+          <label>29.</label>
+          <mixed-citation publication-type="newspaper"><article-title>Veranex primary research with 3 practicing Spanish hematologists in</article-title><year>2024</year>.</mixed-citation>
+        </ref>
+        <ref id="cit0030">
+          <label>30.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Mai</surname><given-names>EK</given-names></string-name>, <string-name><surname>Huhn</surname><given-names>S</given-names></string-name>, <string-name><surname>Miah</surname><given-names>K</given-names></string-name>, et al. <article-title>Implications and prognostic impact of mass spectrometry in patients with newly-diagnosed multiple myeloma</article-title>. <source><italic toggle="yes">Blood Cancer J</italic></source>. <year>2023</year>;<volume>13</volume>:<fpage>1</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41408-022-00772-9</pub-id><pub-id pub-id-type="pmid">36599831</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0031">
+          <label>31.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Abeykoon</surname><given-names>JP</given-names></string-name>, <string-name><surname>Murray</surname><given-names>DL</given-names></string-name>, <string-name><surname>Murray</surname><given-names>I</given-names></string-name>, et al. <article-title>Implications of detecting serum monoclonal protein by MASS-fix following stem cell transplantation in multiple myeloma</article-title>. <source><italic toggle="yes">Br J Haematol</italic></source>. <year>2021</year>;<volume>193</volume>:<fpage>380</fpage>–<lpage>385</lpage>. doi:<pub-id pub-id-type="doi">10.1111/bjh.17195</pub-id><pub-id pub-id-type="pmid">33216966</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0032">
+          <label>32.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Szalat</surname><given-names>R</given-names></string-name>, <string-name><surname>Anderson</surname><given-names>K</given-names></string-name>, <string-name><surname>Munshi</surname><given-names>N</given-names></string-name>. <article-title>Role of minimal residual disease assessment in multiple myeloma</article-title>. <source><italic toggle="yes">Haematologica</italic></source>. <year>2024</year>;<volume>109</volume>(<issue>7</issue>):<fpage>2049</fpage>–<lpage>2059</lpage>. doi:<pub-id pub-id-type="doi">10.3324/haematol.2023.284662</pub-id><comment>PMID: 38328864; PMCID: PMC11215375</comment>.<pub-id pub-id-type="pmid">38328864</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0033">
+          <label>33.</label>
+          <mixed-citation publication-type="webpage"><collab>International Myeloma Foundation</collab>. [Internet]. <article-title>Bone marrow tests for multiple myeloma</article-title>. Available from: <ext-link xlink:href="http://www.myeloma.org" ext-link-type="uri">www.myeloma.org</ext-link>. <date-in-citation>Accessed <month>Dec</month> 2024</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0034">
+          <label>34.</label>
+          <mixed-citation publication-type="newspaper"><string-name><surname>Puig</surname><given-names>N</given-names></string-name>, <string-name><surname>Agulló</surname><given-names>C</given-names></string-name>, <string-name><surname>Contreras</surname><given-names>T</given-names></string-name>, et al. <article-title>Combined mass spectrometry and next generation flow as early predictors of long-term response in relapsed/refractory myeloma patients treated with CAR-T cells and T-cell engagers</article-title>. <source>EHA2024</source>. <comment>Abstract#EHA–7107</comment>.</mixed-citation>
+        </ref>
+        <ref id="cit0035">
+          <label>35.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Bladé</surname><given-names>J</given-names></string-name>, <string-name><surname>Beksac</surname><given-names>M</given-names></string-name>, <string-name><surname>Caers</surname><given-names>J</given-names></string-name>, et al. <article-title>Extramedullary disease in multiple myeloma: a systematic literature review</article-title>. <source><italic toggle="yes">Blood Cancer J</italic></source>. <year>2022</year>;<volume>12</volume>(<issue>3</issue>):<fpage>45</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41408-022-00643-3</pub-id><comment>PMID: 35314675; PMCID: PMC8938478</comment>.<pub-id pub-id-type="pmid">35314675</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0036">
+          <label>36.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Giles</surname><given-names>HV</given-names></string-name>, <string-name><surname>Cook</surname><given-names>MA</given-names></string-name>, <string-name><surname>Drayson</surname><given-names>MT</given-names></string-name>, et al. <article-title>Redefining nonmeasurable multiple myeloma using mass spectrometry</article-title>. <source><italic toggle="yes">Blood</italic></source>. <year>2022</year>;<volume>139</volume>(<issue>6</issue>):<fpage>946</fpage>–<lpage>950</lpage>. doi:<pub-id pub-id-type="doi">10.1182/blood.2021013794</pub-id><comment>PMID: 34871382</comment>.<pub-id pub-id-type="pmid">34871382</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0037">
+          <label>37.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Berlanga</surname><given-names>O</given-names></string-name>, <string-name><surname>Simion</surname><given-names>C</given-names></string-name>, <string-name><surname>Njere</surname><given-names>F</given-names></string-name>, et al. <article-title>PB2139: Monitoring oligosecretory multiple myeloma using MALDI-TOF mass spectrometry</article-title>. <source><italic toggle="yes">Hemasphere</italic></source>. <year>2023</year>;<volume>7</volume>(<issue>Suppl</issue>):<fpage>e46491ff</fpage>. doi:<pub-id pub-id-type="doi">10.1097/01.HS9.0000975320.46491.ff</pub-id><comment>PMCID: PMC10429298</comment>.</mixed-citation>
+        </ref>
+        <ref id="cit0038">
+          <label>38.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Migkou</surname><given-names>M</given-names></string-name>, <string-name><surname>Avivi</surname><given-names>I</given-names></string-name>, <string-name><surname>Gavriatopoulou</surname><given-names>M</given-names></string-name>, et al. <article-title>Clinical characteristics and outcomes of oligosecretory and non-secretory multiple myeloma</article-title>. <source><italic toggle="yes">Ann Hematol</italic></source>. <year>2020</year>;<volume>99</volume>(<issue>6</issue>):<fpage>1251</fpage>–<lpage>1255</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00277-020-03984-w</pub-id><pub-id pub-id-type="pmid">32307566</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0039">
+          <label>39.</label>
+          <mixed-citation publication-type="newspaper"><article-title>Veranex primary research with 5 practicing European hematologists in</article-title><year>2024</year>.</mixed-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </article>
+</pmc-articleset>

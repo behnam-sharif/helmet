@@ -1,0 +1,381 @@
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+    <?properties open_access?>
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+      <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">Clinicoecon Outcomes Res</journal-id>
+        <journal-id journal-id-type="iso-abbrev">Clinicoecon Outcomes Res</journal-id>
+        <journal-id journal-id-type="publisher-id">ceor</journal-id>
+        <journal-title-group>
+          <journal-title>ClinicoEconomics and Outcomes Research: CEOR</journal-title>
+        </journal-title-group>
+        <issn pub-type="epub">1178-6981</issn>
+        <publisher>
+          <publisher-name>Dove</publisher-name>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">40115873</article-id>
+        <article-id pub-id-type="pmc">11922778</article-id>
+        <article-id pub-id-type="publisher-id">475503</article-id>
+        <article-id pub-id-type="doi">10.2147/CEOR.S475503</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Original Research</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>The Budget Impact of Cangrelor in the UK for the Treatment of Out-of-Hospital Cardiac Arrest Patients Who Require Percutaneous Coronary Intervention</article-title>
+          <alt-title alt-title-type="running-authors">Modi et al</alt-title>
+          <alt-title alt-title-type="running-title">Modi et al</alt-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9413-8291</contrib-id>
+            <name>
+              <surname>Modi</surname>
+              <given-names>Bhavik</given-names>
+            </name>
+            <xref rid="aff0001" ref-type="aff">
+              <sup>1</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Cain</surname>
+              <given-names>Rob</given-names>
+            </name>
+            <xref rid="aff0002" ref-type="aff">
+              <sup>2</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0009-0002-4045-5141</contrib-id>
+            <name>
+              <surname>Stork</surname>
+              <given-names>Richard</given-names>
+            </name>
+            <xref rid="aff0002" ref-type="aff">
+              <sup>2</sup>
+            </xref>
+            <xref rid="an0001" ref-type="corresp"/>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Barwood</surname>
+              <given-names>Caroline</given-names>
+            </name>
+            <xref rid="aff0003" ref-type="aff">
+              <sup>3</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Tarpey</surname>
+              <given-names>Gina</given-names>
+            </name>
+            <xref rid="aff0002" ref-type="aff">
+              <sup>2</sup>
+            </xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0009-0004-4696-5825</contrib-id>
+            <name>
+              <surname>Colucciello</surname>
+              <given-names>Alessia</given-names>
+            </name>
+            <xref rid="aff0004" ref-type="aff">
+              <sup>4</sup>
+            </xref>
+          </contrib>
+          <aff id="aff0001"><label>1</label><institution>Cardiac Surgery Department, Glenfield Hospital, University Hospitals of Leicester NHS Trust</institution>, <addr-line>Leicester</addr-line>, <country>UK</country></aff>
+          <aff id="aff0002"><label>2</label><institution>Chiesi Ltd</institution>, <addr-line>Manchester</addr-line>, <country>UK</country></aff>
+          <aff id="aff0003"><label>3</label><institution>FIECON Ltd</institution>, <addr-line>London</addr-line>, <country>UK</country></aff>
+          <aff id="aff0004"><label>4</label><institution>Chiesi Farmaceutici S.p.A.</institution>, <addr-line>Parma</addr-line>, <country>Italy</country></aff>
+        </contrib-group>
+        <author-notes>
+          <corresp id="an0001">Correspondence: Richard Stork, <institution>Chiesi Ltd.</institution>, <addr-line>333 Styal Road</addr-line>, <addr-line>Manchester</addr-line>, <addr-line>M22 5LG</addr-line>, <country>UK</country>, Email r.stork@chiesi.com</corresp>
+        </author-notes>
+        <pub-date pub-type="epub">
+          <day>15</day>
+          <month>3</month>
+          <year>2025</year>
+        </pub-date>
+        <pub-date pub-type="collection">
+          <year>2025</year>
+        </pub-date>
+        <volume>17</volume>
+        <fpage>189</fpage>
+        <lpage>197</lpage>
+        <history>
+          <date date-type="received">
+            <day>14</day>
+            <month>6</month>
+            <year>2024</year>
+          </date>
+          <date date-type="accepted">
+            <day>25</day>
+            <month>1</month>
+            <year>2025</year>
+          </date>
+        </history>
+        <permissions>
+          <copyright-statement>© 2025 Modi et al.</copyright-statement>
+          <copyright-year>2025</copyright-year>
+          <copyright-holder>Modi et al.</copyright-holder>
+          <license>
+            <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref>
+            <license-p>This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at <ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/terms.php">https://www.dovepress.com/terms.php</ext-link> and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/3.0/">http://creativecommons.org/licenses/by-nc/3.0/</ext-link>). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (<ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/terms.php">https://www.dovepress.com/terms.php</ext-link>).</license-p>
+          </license>
+        </permissions>
+        <kwd-group kwd-group-type="author">
+          <title>Keywords</title>
+          <kwd>glycoprotein inhibitor</kwd>
+          <kwd>P2Y12 inhibitor</kwd>
+          <kwd>cardiovascular disease</kwd>
+          <kwd>out-of-hospital cardiac arrest</kwd>
+          <kwd>antiplatelet therapy</kwd>
+        </kwd-group>
+        <counts>
+          <fig-count count="2"/>
+          <table-count count="5"/>
+          <ref-count count="29"/>
+          <page-count count="9"/>
+        </counts>
+      </article-meta>
+    </front>
+    <body>
+      <sec sec-type="intro" id="s0001">
+        <title>Introduction</title>
+        <p>In the UK, cardiovascular disease (CVD), including ST elevation myocardial infarction (STEMI), non-ST elevation myocardial infarction (NSTEMI) and unstable angina, is one of the leading causes of morbidity and mortality, and of increased healthcare costs.<xref rid="cit0001" ref-type="bibr">1</xref> Healthcare costs relating to heart and circulatory diseases are estimated at £9 billion each year, and there are approximately 7.6 million people living with CVD in the UK.<xref rid="cit0001" ref-type="bibr">1</xref> Of the 100,000 procedures per year in the UK, there are approximately 3,000 PCI procedures (3%) for out-of-hospital cardiac arrest (OHCA) patients, which presents a more challenging clinical presentation and great morbidity and mortality to the receiving PCI centres.<xref rid="cit0002" ref-type="bibr">2</xref>,<xref rid="cit0003" ref-type="bibr">3</xref></p>
+        <p>Patients undergoing PCI require antiplatelet therapies to reduce the risk of ischaemic events, particularly stent thrombosis. These antiplatelet therapies are usually administered orally, including clopidogrel, as well as prasugrel and ticagrelor, which are newer and more potent therapies than clopidogrel.<xref rid="cit0004" ref-type="bibr">4</xref> However, patients experiencing an OHCA are unsuitable for oral antiplatelet therapies because they are often unconscious and intubated. Patients are therefore either given intravenous (IV) glycoprotein IIb/IIIa inhibitors (GPIs) (eptifibatide and tirofiban), or rectal aspirin and IV heparin in combination.<xref rid="cit0003" ref-type="bibr">3</xref> OHCA patients represent an ideal population for cangrelor use as they are both ineligible for oral medications as well as being candidates for increased thrombotic risk.<xref rid="cit0005" ref-type="bibr">5</xref></p>
+        <p>Cangrelor (brand name Kengrexal<sup>®</sup>) is an IV, fast-acting, potent, and direct-acting platelet adenosine diphosphate (ADP) P2Y12 inhibitor that has rapidly reversible effects.<xref rid="cit0004" ref-type="bibr">4</xref> Cangrelor quickly inhibits platelet function when given as a bolus plus infusion with near-normal function restored within one hour after discontinuation of the infusion.<xref rid="cit0006" ref-type="bibr">6</xref> Cangrelor, co-administered with acetylsalicylic acid (ASA), is indicated for the reduction of thrombotic cardiovascular events in adult patients with coronary artery disease undergoing PCI who have not received an oral P2Y12 inhibitor prior to the PCI procedure and in whom oral therapy with P2Y12 inhibitors is not feasible or desirable.<xref rid="cit0007" ref-type="bibr">7</xref> Cangrelor is referenced as a treatment option in the 2023 ESC Guidelines for the management of acute coronary syndromes.<xref rid="cit0008" ref-type="bibr">8</xref></p>
+        <p>The group of clinical trials demonstrating the safety and efficacy of cangrelor are known as the CHAMPION programme. They are CHAMPION-PCI, CHAMPION-PLATFORM and CHAMPION-PHOENIX.<xref rid="cit0004" ref-type="bibr">4</xref>,<xref rid="cit0009" ref-type="bibr">9</xref>,<xref rid="cit0010" ref-type="bibr">10</xref> The CHAMPION-PCI trial compared cangrelor with clopidogrel administered before PCI; the CHAMPION-PLATFORM trial compared cangrelor with clopidogrel administered at the time of PCI; and the CHAMPION-PHOENIX trial compared cangrelor with clopidogrel administered at the start or end of PCI.<xref rid="cit0011" ref-type="bibr">11</xref> The largest of these studies, CHAMPION-PHOENIX, showed cangrelor significantly reduced the rate of ischaemic events, including stent thrombosis during PCI, with no significant increase in severe bleeding, when compared to oral clopidogrel.<xref rid="cit0012" ref-type="bibr">12</xref> In addition, a pooled analysis of patient-level data from the CHAMPION programme showed that cangrelor reduced the odds of a composite of death, myocardial infarction (MI), ischaemia-driven revascularisation (IDR), or stent thrombosis (ST) at 48 hours by 19% (3.8% for cangrelor vs 4.7% for control; odds ratio [OR] 0.81, 95% CI 0.71–0.91, <italic toggle="yes">p</italic> = 0.0007) compared with clopidogrel. This pooled analysis showed that there was no statistically significant difference between cangrelor and clopidogrel in the primary safety outcome of severe bleeding not related to coronary artery bypass graft (CABG) according to the Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Coronary Arteries (GUSTO) criteria at 48 hours (0.2% in both groups), in GUSTO moderate bleeding (0.6% vs 0.4%), or in transfusion (0.7% vs 0.6%), but cangrelor increased GUSTO mild bleeding (16.8% vs 13.0%, <italic toggle="yes">p</italic> &lt; 0.0001).<xref rid="cit0011" ref-type="bibr">11</xref></p>
+        <p>Importantly, these studies showed the efficacy and safety of IV cangrelor in a conventional PCI population but did not focus on the OHCA population where cangrelor has a growing use and unique advantage given its intravenous administration. We developed a budget impact model to calculate the impact of introducing cangrelor to UK hospitals over 5 years in OHCA patients in whom oral inhibitors are not feasible or desirable. This group of patients is a subpopulation of the licenced population for cangrelor.</p>
+      </sec>
+      <sec id="s0002">
+        <title>Material and Methods</title>
+        <p>A budget impact model was built to calculate the difference in costs of two hypothetical scenarios over 5 years: one scenario considering patients receiving GPIs or aspirin and heparin in combination (market without cangrelor) and a second scenario considering a proposed management with patients treated with GPIs, aspirin and heparin in combination, or cangrelor (market with cangrelor). An overview of the budget impact model framework including the cost categories included is presented in <xref rid="f0001" ref-type="fig">Figure 1</xref>. The model adopts a UK perspective, specifically an NHS and PSS (Personal Social Services) perspective.
+<fig position="float" id="f0001" fig-type="figure"><label>Figure 1</label><caption><p>Overview of the budget impact model framework. Shows the two scenarios compared by the budget impact model – a scenario without cangrelor in the healthcare system and a scenario where cangrelor has been introduced. Treatment acquisition, clinical event, and hospitalisation costs are summed across each scenario to give a total cost. The total costs in each scenario are then compared to produce a final budget impact of introducing cangrelor.</p></caption><graphic xlink:href="CEOR-17-189-g0001" content-type="print-only" position="float"/></fig></p>
+        <sec id="s0002-s2001">
+          <title>Inputs and Data Sources</title>
+          <p>A targeted literature review was conducted to identify the most relevant and appropriate data, which best reflected usual clinical practice in the UK. Assumptions were made in the absence of data and a consultant interventional cardiologist gave their expert opinion and validated sources, inputs, assumptions, and calculations.</p>
+        </sec>
+        <sec id="s0002-s2002">
+          <title>Target Population</title>
+          <p>The British Cardiovascular Intervention Society (BCIS) National Audit of Adult Interventional Procedures 2021/22 was used to estimate the eligible population.<xref rid="cit0002" ref-type="bibr">2</xref> This showed that in 2021/22, 3.1% of patients treated by PCI experienced an OHCA.<xref rid="cit0002" ref-type="bibr">2</xref> There were 97,765 PCIs carried out in the UK in 2021/22, therefore approximately 3,031 patients were treated by PCI for an OHCA.<xref rid="cit0002" ref-type="bibr">2</xref> There was assumed to be no increase in eligible population year-on-year due to a generally consistent number of PCIs being carried out each year in the UK (100,294 PCIs carried out in 2018/19, 100,112 in 2019/20, 90,708 in 2020/21 [impacted by the COVID-19 pandemic] and 97,765 in 2021/22<xref rid="cit0002" ref-type="bibr">2</xref>,<xref rid="cit0012" ref-type="bibr">12–14</xref>). Similarly, the proportion of patients experiencing an OHCA has remained generally consistent at 3% of the total population who undergo PCI in the UK.</p>
+          <p>Expert clinical opinion was used to estimate the current market share of antiplatelet therapies in OHCA patients specifically and the expected market uptake of cangrelor in the UK over the next 5 years (<xref rid="t0001" ref-type="table">Table 1</xref>).
+<table-wrap position="float" id="t0001"><label>Table 1</label><caption><p>Current Market Share and Market Uptake of Antiplatelet Therapies</p></caption><table frame="hsides" rules="groups"><thead><tr><th colspan="2" rowspan="1"/><th rowspan="1" colspan="1">Eptifibatide</th><th rowspan="1" colspan="1">Tirofiban</th><th rowspan="1" colspan="1">Aspirin and heparin</th><th rowspan="1" colspan="1">Cangrelor</th></tr></thead><tbody><tr><td colspan="2" rowspan="1">Current scenario</td><td rowspan="1" colspan="1">20%</td><td rowspan="1" colspan="1">60%</td><td rowspan="1" colspan="1">20%</td><td rowspan="1" colspan="1">0%</td></tr><tr><td rowspan="5" colspan="1">Future scenario</td><td rowspan="1" colspan="1">Year 1</td><td rowspan="1" colspan="1">10%</td><td rowspan="1" colspan="1">30%</td><td rowspan="1" colspan="1">10%</td><td rowspan="1" colspan="1">50%</td></tr><tr><td rowspan="1" colspan="1">Year 2</td><td rowspan="1" colspan="1">5%</td><td rowspan="1" colspan="1">15%</td><td rowspan="1" colspan="1">5%</td><td rowspan="1" colspan="1">75%</td></tr><tr><td rowspan="1" colspan="1">Year 3</td><td rowspan="1" colspan="1">0%</td><td rowspan="1" colspan="1">0%</td><td rowspan="1" colspan="1">0%</td><td rowspan="1" colspan="1">100%</td></tr><tr><td rowspan="1" colspan="1">Year 4</td><td rowspan="1" colspan="1">0%</td><td rowspan="1" colspan="1">0%</td><td rowspan="1" colspan="1">0%</td><td rowspan="1" colspan="1">100%</td></tr><tr><td rowspan="1" colspan="1">Year 5</td><td rowspan="1" colspan="1">0%</td><td rowspan="1" colspan="1">0%</td><td rowspan="1" colspan="1">0%</td><td rowspan="1" colspan="1">100%</td></tr></tbody></table></table-wrap></p>
+        </sec>
+        <sec id="s0002-s2003">
+          <title>Efficacy and Safety Data</title>
+          <p>Efficacy and safety data for cangrelor, eptifibatide and tirofiban were sourced from a pooled analysis of the CHAMPION clinical trials programme, which included patients assigned to cangrelor but not receiving GPIs, and patients assigned to clopidogrel or placebo and receiving routine GPIs. Propensity score matching based on 16 baseline clinical variables was used to yield 1,021 unique matched pairs.<xref rid="cit0015" ref-type="bibr">15</xref> Results showed that there was a non-significant trend toward reduced rates of GUSTO severe bleeding with cangrelor compared to GPIs (0.3% vs 0.7%; OR, 0.43; 95% CI, 0.11–1.66, <italic toggle="yes">p</italic> = 0.22) and significantly lower rates of Thrombolysis In Myocardial Infarction (TIMI) major or minor bleeding in patients treated with cangrelor (0.7% vs 2.4%; OR, 0.29; 95% CI, 0.13–0.68, <italic toggle="yes">p</italic> = 0.004).<xref rid="cit0015" ref-type="bibr">15</xref> Efficacy and safety data for aspirin and heparin in combination was conservatively assumed to be equal to clopidogrel since efficacy data for aspirin and heparin alone is limited. Clopidogrel efficacy and safety data were sourced from a pooled analysis of the CHAMPION clinical trials programme comparing cangrelor and clopidogrel.<xref rid="cit0011" ref-type="bibr">11</xref> See <xref rid="t0002" ref-type="table">Table 2</xref> for full efficacy and safety data used in the model.
+<table-wrap position="float" id="t0002"><label>Table 2</label><caption><p>Efficacy and Safety Data Used in the Model</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2" colspan="1"/><th colspan="4" rowspan="1">Efficacy at 48 hours of PCI shown by % rates of each event</th><th colspan="2" rowspan="1">Safety outcomes, TIMI, at 48 hours of PCI</th><th rowspan="2" colspan="1">Reference</th></tr><tr><th rowspan="1" colspan="1">ST</th><th rowspan="1" colspan="1">MI</th><th rowspan="1" colspan="1">IDR</th><th rowspan="1" colspan="1">Death</th><th rowspan="1" colspan="1">Major</th><th rowspan="1" colspan="1">Minor</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Cangrelor</td><td rowspan="1" colspan="1">0.10%</td><td rowspan="1" colspan="1">2.06%</td><td rowspan="1" colspan="1">0.29%</td><td rowspan="1" colspan="1">0.20%</td><td rowspan="1" colspan="1">0.20%</td><td rowspan="1" colspan="1">0.49%</td><td rowspan="1" colspan="1">[<xref rid="cit0015" ref-type="bibr">15</xref>]</td></tr><tr><td rowspan="1" colspan="1">Eptifibatide</td><td rowspan="1" colspan="1">0.59%</td><td rowspan="1" colspan="1">2.45%</td><td rowspan="1" colspan="1">0.78%</td><td rowspan="1" colspan="1">0.39%</td><td rowspan="1" colspan="1">0.78%</td><td rowspan="1" colspan="1">1.57%</td><td rowspan="2" colspan="1">[<xref rid="cit0015" ref-type="bibr">15</xref>]</td></tr><tr><td rowspan="1" colspan="1">Tirofiban</td><td rowspan="1" colspan="1">0.59%</td><td rowspan="1" colspan="1">2.45%</td><td rowspan="1" colspan="1">0.78%</td><td rowspan="1" colspan="1">0.39%</td><td rowspan="1" colspan="1">0.78%</td><td rowspan="1" colspan="1">1.57%</td></tr><tr><td rowspan="1" colspan="1">Aspirin &amp; heparin<sup>a</sup></td><td rowspan="1" colspan="1">0.85%</td><td rowspan="1" colspan="1">3.65%</td><td rowspan="1" colspan="1">0.74%</td><td rowspan="1" colspan="1">0.36%</td><td rowspan="1" colspan="1">0.22%</td><td rowspan="1" colspan="1">0.41%</td><td rowspan="1" colspan="1">[<xref rid="cit0011" ref-type="bibr">11</xref>]</td></tr></tbody></table><table-wrap-foot><fn id="tfn0001"><p><bold>Notes</bold>: <sup>a</sup>Efficacy assumed to be equal to clopidogrel due to lack of data – a conservative assumption that favours aspirin and heparin.</p></fn><fn id="tfn0002"><p><bold>Abbreviations</bold>: IDR, ischaemia-driven revascularisation; MI, myocardial infarction; PCI, percutaneous coronary intervention; ST, stent thrombosis; TIMI, Thrombolysis In Myocardial Infarction.</p></fn></table-wrap-foot></table-wrap></p>
+        </sec>
+        <sec id="s0002-s2004">
+          <title>Length of Stay Data</title>
+          <p>Length of stay (LOS) data for PCI using comparator therapies was sourced from Hospital Episode Statistics (HES) data.<xref rid="cit0016" ref-type="bibr">16</xref> Post-operative stay for comparators was calculated as the mean LOS for non-elective PCI minus the mean pre-operative LOS. Post-operative LOS data for cangrelor was calculated by applying the percentage reduction in LOS from a US-based study of cangrelor versus GPIs during PCI (GPI LOS: 4.3 days, cangrelor: 3.5 days, 19% reduction).<xref rid="cit0017" ref-type="bibr">17</xref> This reduction in LOS may be due to significantly lower major bleeding rates with cangrelor use compared to GPI use during PCI (event rate: 1.7% vs 5.1%, <italic toggle="yes">p</italic> = 0.001; regression analysis: OR 0.23; 95% CI, 0.09–0.59, <italic toggle="yes">p</italic>=0.002) and a reduction in rate of any vascular complication with cangrelor compared to GPI (event rate: 1.5% vs 3.2%, <italic toggle="yes">p</italic> = 0.04).<xref rid="cit0017" ref-type="bibr">17</xref> It should be noted that this was a single centre US study in a general PCI population, and not specifically in the OHCA subpopulation; however, we expect the results to be applicable in this subpopulation. The applicability of this US-based study to a UK population was validated by expert clinicians who agreed that bleeding events lead to a longer LOS in hospital. LOS for PCI using comparator therapies was estimated at 3.59 days based on HES data. A 19% reduction was then applied to this based on the US-based study of cangrelor versus GPIs to give a LOS for PCI using cangrelor of 2.92 days.</p>
+        </sec>
+        <sec id="s0002-s2005">
+          <title>Bailout GPI Use</title>
+          <p>Bailout GPI use was assumed to decrease from 6.5% of patients to zero upon the introduction of cangrelor, based on Lizano-Díez &amp; Paz Ruiz (2021) and confirmed by clinical expert opinion.<xref rid="cit0018" ref-type="bibr">18</xref> Bailout GPIs are defined as the use of GPI when the PCI operator has not intended to use GPI from the outset but considers that clinical or angiographic features (such as worsening or persistent thrombus burden) have changed during the course of the procedure, such that there may be benefit to giving the patient GPI.<xref rid="cit0003" ref-type="bibr">3</xref></p>
+        </sec>
+        <sec id="s0002-s2006">
+          <title>Cost Data</title>
+          <p>Treatment costs were sourced from the British National Formulary (BNF) (<xref rid="t0003" ref-type="table">Table 3</xref>). Clinical event costs were sourced from the literature and the cost of an additional stay in hospital was sourced from the NHS reference costs (<xref rid="t0003" ref-type="table">Table 3</xref>). Costs were updated to 2021/22 GBP based on the Unit Costs of Health and Social Care 2022 Manual and costs remain unchanged from Year 1 onwards based on the ISPOR budget impact analysis guidelines principles of good practice.<xref rid="cit0019" ref-type="bibr">19</xref>,<xref rid="cit0020" ref-type="bibr">20</xref>
+<table-wrap position="float" id="t0003"><label>Table 3</label><caption><p>Cost Data Used in the Model</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">Event</th><th rowspan="1" colspan="1">Cost Per Event</th><th rowspan="1" colspan="1">Reference</th></tr></thead><tbody><tr><td colspan="3" rowspan="1">Clinical events</td></tr><tr><td colspan="3" rowspan="1">Ischaemic events<sup>a</sup></td></tr><tr><td rowspan="1" colspan="1">ST</td><td rowspan="1" colspan="1">£292.04</td><td rowspan="1" colspan="1">[<xref rid="cit0021" ref-type="bibr">21</xref>]</td></tr><tr><td rowspan="1" colspan="1">MI</td><td rowspan="1" colspan="1">£292.04</td><td rowspan="1" colspan="1">[<xref rid="cit0021" ref-type="bibr">21</xref>]</td></tr><tr><td rowspan="1" colspan="1">IDR</td><td rowspan="1" colspan="1">£292.04</td><td rowspan="1" colspan="1">[<xref rid="cit0021" ref-type="bibr">21</xref>]</td></tr><tr><td colspan="3" rowspan="1">Bleeding events<sup>b</sup></td></tr><tr><td rowspan="1" colspan="1">Major</td><td rowspan="1" colspan="1">£360.79</td><td rowspan="1" colspan="1">[<xref rid="cit0022" ref-type="bibr">22</xref>]</td></tr><tr><td rowspan="1" colspan="1">Minor</td><td rowspan="1" colspan="1">£360.79</td><td rowspan="1" colspan="1">[<xref rid="cit0022" ref-type="bibr">22</xref>]</td></tr><tr><td rowspan="1" colspan="1">Cardiac death</td><td rowspan="1" colspan="1">£0.00</td><td rowspan="1" colspan="1">[<xref rid="cit0018" ref-type="bibr">18</xref>]</td></tr><tr><td colspan="3" rowspan="1">Antiplatelet therapy<sup>c</sup></td></tr><tr><td rowspan="1" colspan="1">Cangrelor</td><td rowspan="1" colspan="1">£250.00</td><td rowspan="1" colspan="1">[<xref rid="cit0023" ref-type="bibr">23</xref>]</td></tr><tr><td rowspan="1" colspan="1">Eptifibatide<sup>d</sup></td><td rowspan="1" colspan="1">£128.37</td><td rowspan="1" colspan="1">[<xref rid="cit0024" ref-type="bibr">24</xref>,<xref rid="cit0025" ref-type="bibr">25</xref>]</td></tr><tr><td rowspan="1" colspan="1">Tirofiban<sup>d</sup></td><td rowspan="1" colspan="1">£292.22</td><td rowspan="1" colspan="1">[<xref rid="cit0026" ref-type="bibr">26</xref>,<xref rid="cit0027" ref-type="bibr">27</xref>]</td></tr><tr><td rowspan="1" colspan="1">Aspirin and heparin<sup>e</sup></td><td rowspan="1" colspan="1">£0.00</td><td rowspan="1" colspan="1"/></tr><tr><td colspan="3" rowspan="1">Hospital stay cost</td></tr><tr><td rowspan="1" colspan="1">Post-operative day in hospital<sup>f</sup></td><td rowspan="1" colspan="1">£461.47</td><td rowspan="1" colspan="1">[<xref rid="cit0028" ref-type="bibr">28</xref>]</td></tr></tbody></table><table-wrap-foot><fn id="tfn0003"><p><bold>Notes</bold>: <sup>a</sup>All costs assumed to be equal to the cost of myocardial infarction based on the approach by Lizano-Díez and Paz Ruiz.<xref rid="cit0018" ref-type="bibr">18</xref> Hospitalisation accounted for 95% of ischaemic event costs.<xref rid="cit0021" ref-type="bibr">21</xref> bMajor and minor bleeding costs assumed to be equal based on the approach by Lizano-Díez and Paz Ruiz.<xref rid="cit0018" ref-type="bibr">18</xref> cAll drug costs calculated for an average 70kg adult. There are no additional administration costs.<sup>d</sup>GPI infusion is assumed to be 24 hours based on the Summary of Product Characteristics (SmPC), equating to a dose of 214.2 mg (3 vials) for eptifibatide and 16.87 mg (2 vials) for tirofiban, respectively.<xref rid="cit0025" ref-type="bibr">25</xref>,<xref rid="cit0027" ref-type="bibr">27</xref> eAspirin and heparin costs are excluded as assumed to be equal in all treatment arms. Split between eptifibatide and tirofiban for bailout GPI use is assumed to be equal. Bailout GPI dose is assumed to be equal to routine GPI dose.<sup>f</sup>Weighted average of NHS currency codes EY04A-EY04D and EY14A-EY1D; a weighted average of all simple and complex percutaneous transluminal coronary angioplasty costs.</p></fn><fn id="tfn0004"><p><bold>Abbreviations</bold>: GPI, glycoprotein inhibitor; IDR, ischaemia-driven revascularisation; MI, myocardial infarction; ST, stent thrombosis.</p></fn></table-wrap-foot></table-wrap></p>
+        </sec>
+        <sec id="s0002-s2007">
+          <title>Sensitivity Analysis</title>
+          <p>A one-way sensitivity analysis was conducted to assess the impact of different parameters on the budget impact results. Parameters were varied by ±20%. The ten parameters with the largest effect on the budget impact were included.</p>
+        </sec>
+      </sec>
+      <sec id="s0003">
+        <title>Results</title>
+        <p>The number of OHCA PCI patients eligible for cangrelor treatment reaches 15,154 over 5 years, with an average of 3,031 patients per year. A total of 12,881 patients are predicted to be treated with cangrelor over 5 years, with an average of 2,576 patients treated per year. Over 5 years, the total costs incurred by the NHS and PSS in the scenario without cangrelor are £27,548,187. The total costs incurred by the NHS and PSS in the scenario with cangrelor introduced are £24,838,334. Cangrelor leads to a cost saving of £2,709,853 over 5 years (−9.84%), varying from £322,218 in Year 1 (−5.85%) to £636,150 (−11.55%) in Year 5. Over 5 years, approximately 6,882 hospital days and 408 clinical events are predicted to be avoided through the use of cangrelor, including approximately 61 major bleeding events. As well as major bleeding events, these clinical events included ST, MI, IDR, death, and minor bleeding. Full results are available in <xref rid="t0004" ref-type="table">Table 4</xref>.
+<table-wrap position="float" id="t0004"><label>Table 4</label><caption><p>Base Case Budget Impact Summary Results</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1">Total Over 5 Years</th><th rowspan="1" colspan="1">Average Over 5 Years</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Patients eligible for treatment</td><td rowspan="1" colspan="1">15,154</td><td rowspan="1" colspan="1">3,031</td></tr><tr><td rowspan="1" colspan="1">Patients treated with cangrelor</td><td rowspan="1" colspan="1">12,881</td><td rowspan="1" colspan="1">2,576</td></tr><tr><td rowspan="1" colspan="1">Total costs in scenario without cangrelor</td><td rowspan="1" colspan="1">£27,548,187</td><td rowspan="1" colspan="1">£5,509,637</td></tr><tr><td rowspan="1" colspan="1">Total costs in scenario with cangrelor</td><td rowspan="1" colspan="1">£24,838,334</td><td rowspan="1" colspan="1">£4,967,667</td></tr><tr><td rowspan="1" colspan="1">Net budget impact</td><td rowspan="1" colspan="1">-£2,709,853</td><td rowspan="1" colspan="1">-£541,971</td></tr><tr><td rowspan="1" colspan="1">Budget impact</td><td rowspan="1" colspan="1">−9.84%</td><td rowspan="1" colspan="1">−9.84%</td></tr></tbody></table></table-wrap></p>
+        <p>The results of the one-way sensitivity analysis suggested that the model was most sensitive to additional days in hospital for GPIs and additional days in hospital for cangrelor and aspirin in combination with heparin, since varying these by ±20% had the biggest effect on the budget impact. Varying the additional days in hospital for GPIs by −20% led to a budget impact of £3,313,512, compared to a cost saving of £2,709,853 cost saving in the base case, a £6,023,365 difference. Varying this parameter by +20% led to a cost saving of £10,022,912, a £7,313,059 difference. This indicates that hospital LOS is a major driver of the model that supports a cost saving with cangrelor. The third most sensitive parameter was the cost of cangrelor. See <xref rid="t0005" ref-type="table">Table 5</xref> and <xref rid="f0002" ref-type="fig">Figure 2</xref> for full results of the one-way sensitivity analysis.
+<table-wrap position="float" id="t0005"><label>Table 5</label><caption><p>One-Way Sensitivity Analysis Results</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">Parameter</th><th rowspan="1" colspan="1">Base-Case Value</th><th rowspan="1" colspan="1">Lower Bound Value</th><th rowspan="1" colspan="1">Upper Bound Value</th><th rowspan="1" colspan="1">Result from Varying by −20%</th><th rowspan="1" colspan="1">Result from Varying by +20%</th><th rowspan="1" colspan="1">Difference</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">GPI - additional days in hospital</td><td rowspan="1" colspan="1">3.59</td><td rowspan="1" colspan="1">2.32</td><td rowspan="1" colspan="1">5.13</td><td rowspan="1" colspan="1">+£3,313,511.75</td><td rowspan="1" colspan="1">-£10,022,912.21</td><td rowspan="1" colspan="1">£13,336,423.96</td></tr><tr><td rowspan="1" colspan="1">Cangrelor and aspirin/heparin - additional days in hospital</td><td rowspan="1" colspan="1">2.92</td><td rowspan="1" colspan="1">1.89</td><td rowspan="1" colspan="1">4.17</td><td rowspan="1" colspan="1">-£7,612,591.53</td><td rowspan="1" colspan="1">+£3,242,637.27</td><td rowspan="1" colspan="1">£10,855,228.80</td></tr><tr><td rowspan="1" colspan="1">Cost of cangrelor</td><td rowspan="1" colspan="1">£250.00</td><td rowspan="1" colspan="1">£161.79</td><td rowspan="1" colspan="1">£357.10</td><td rowspan="1" colspan="1">-£3,846,086.18</td><td rowspan="1" colspan="1">-£1,330,334.61</td><td rowspan="1" colspan="1">£2,515,751.57</td></tr><tr><td rowspan="1" colspan="1">Cost of additional day in hospital</td><td rowspan="1" colspan="1">£461.47</td><td rowspan="1" colspan="1">£298.64</td><td rowspan="1" colspan="1">£659.17</td><td rowspan="1" colspan="1">-£1,589,226.90</td><td rowspan="1" colspan="1">-£4,070,422.06</td><td rowspan="1" colspan="1">£2,481,195.15</td></tr><tr><td rowspan="1" colspan="1">Patients undergoing PCI</td><td rowspan="1" colspan="1">97,765</td><td rowspan="1" colspan="1">63,268</td><td rowspan="1" colspan="1">139,648</td><td rowspan="1" colspan="1">-£1,753,673.90</td><td rowspan="1" colspan="1">-£3,870,764.43</td><td rowspan="1" colspan="1">£2,117,090.53</td></tr><tr><td rowspan="1" colspan="1">Number of patients eligible for treatment with cangrelor</td><td rowspan="1" colspan="1">3,031</td><td rowspan="1" colspan="1">1,961</td><td rowspan="1" colspan="1">4,330</td><td rowspan="1" colspan="1">-£1,753,673.90</td><td rowspan="1" colspan="1">-£3,870,764.43</td><td rowspan="1" colspan="1">£2,117,090.53</td></tr><tr><td rowspan="1" colspan="1">Patients suitable for cangrelor</td><td rowspan="1" colspan="1">3.10%</td><td rowspan="1" colspan="1">2.00%</td><td rowspan="1" colspan="1">4.42%</td><td rowspan="1" colspan="1">-£1,750,602.08</td><td rowspan="1" colspan="1">-£3,867,589.08</td><td rowspan="1" colspan="1">£2,116,987.01</td></tr><tr><td rowspan="1" colspan="1">Cost of tirofiban</td><td rowspan="1" colspan="1">£292.22</td><td rowspan="1" colspan="1">£189.11</td><td rowspan="1" colspan="1">£417.41</td><td rowspan="1" colspan="1">-£1,912,980.65</td><td rowspan="1" colspan="1">-£3,677,347.67</td><td rowspan="1" colspan="1">£1,764,367.02</td></tr><tr><td rowspan="1" colspan="1">Cost of eptifibatide</td><td rowspan="1" colspan="1">£128.37</td><td rowspan="1" colspan="1">£83.07</td><td rowspan="1" colspan="1">£183.36</td><td rowspan="1" colspan="1">-£2,593,166.27</td><td rowspan="1" colspan="1">-£2,851,523.89</td><td rowspan="1" colspan="1">£258,357.62</td></tr><tr><td rowspan="1" colspan="1">Comparator - cost of clinical events (excluding hospitalisation)</td><td rowspan="1" colspan="1">£19.22</td><td rowspan="1" colspan="1">£12.44</td><td rowspan="1" colspan="1">£27.45</td><td rowspan="1" colspan="1">-£2,622,501.12</td><td rowspan="1" colspan="1">-£2,815,908.00</td><td rowspan="1" colspan="1">£193,406.88</td></tr></tbody></table><table-wrap-foot><fn id="tfn0005"><p><bold>Abbreviations</bold>: GPI, glycoprotein inhibitor; PCI, percutaneous coronary intervention.</p></fn></table-wrap-foot></table-wrap>
+<fig position="float" id="f0002" fig-type="figure"><label>Figure 2</label><caption><p>One-way sensitivity analysis results.* Shows the results of the one-way sensitivity analysis which was conducted to assess the impact of different parameters on the budget impact results. Parameters were varied by ±20%. The ten parameters with the largest effect on the budget impact were included. The results of the one-way sensitivity analysis suggested that the model was most sensitive to additional days in hospital for GPIs and additional days in hospital for cangrelor and aspirin in combination with heparin. *Central y axis is at the base case budget impact (-£2,709,853).</p></caption><graphic xlink:href="CEOR-17-189-g0002" content-type="print-only" position="float"/><attrib><bold>Abbreviations</bold>: GPI, glycoprotein inhibitor; PCI, percutaneous coronary intervention.</attrib></fig></p>
+      </sec>
+      <sec id="s0004">
+        <title>Discussion</title>
+        <p>This model demonstrates that introducing cangrelor in the UK for the treatment of OHCA PCI patients over 5 years, in whom the use of oral P2Y12 inhibitors is not feasible or desirable, is likely to lead to a reduction in hospital stays and cost savings.</p>
+        <p>Cangrelor is an innovative IV antiplatelet strategy that delivers an immediate, potent, and rapidly reversible effect in OHCA patients undergoing PCI when use of oral antiplatelet agents is not possible. Cangrelor is cost saving in the base case and the one-way sensitivity analysis. A common concern with cangrelor is the treatment acquisition cost, which we have demonstrated in this study to be offset by a decrease in clinical event costs and a decreased LOS in hospital post-PCI. Hospital LOS is a major driver in the model as demonstrated by the one-way sensitivity analysis. In addition to this study, the benefits of cangrelor have been demonstrated in real-world studies to show a reduced length of stay, potentially driven by fewer bleeding events.<xref rid="cit0017" ref-type="bibr">17</xref></p>
+      </sec>
+      <sec id="s0005">
+        <title>Limitations</title>
+        <p>
+          <list list-type="order">
+            <list-item>
+              <p>The OHCA STEMI patient population is heterogeneous, so natural variation in results is expected on an individual patient basis. Hospital LOS is expected to be dependent on the underlying anatomy and complexity of a patient. While the model tests this heterogeneity in sensitivity analyses, it is challenging to fully explore the heterogeneity of the UK patient population.</p>
+            </list-item>
+            <list-item>
+              <p>The assumption that the efficacy of aspirin and heparin was considered to be equal to clopidogrel.<xref rid="cit0029" ref-type="bibr">29</xref> However, this is likely to be a conservative assumption that favours aspirin and heparin.</p>
+            </list-item>
+            <list-item>
+              <p>Market share of cangrelor and its comparators may differ from the model predictions in years 2–5. If cangrelor uptake is lower than estimated here, cangrelor may still be cost saving. The same cost for major bleeding events and minor bleeding events was used due to lack of data. Therefore, bleeding costs may have been overestimated. However, in the one-way sensitivity analysis, which varied the bleeding costs by ±20%, cangrelor remained cost saving in all scenarios.</p>
+            </list-item>
+            <list-item>
+              <p>The cost for ST and IDR is assumed to be the same as MI due to lack of data availability. It is anticipated that a ST or IDR would lead to an additional PCI procedure.</p>
+            </list-item>
+          </list>
+        </p>
+        <p>It should also be noted that this model does not consider societal losses or impact on patients’ quality of life (QoL). OHCA patients undergoing PCI are generally classified as seriously unwell and therefore an additional comorbidity of a bleeding event or other vascular event can be extremely detrimental to their QoL. Cangrelor significantly reduces bleeding events and hospital LOS, which is likely to have a large impact on patients’ wellbeing. A reduced LOS also means a reduction in productivity losses due to short-term and long-term inability to work.</p>
+        <p>Building upon the findings of this model, future research could investigate the budget impact of introducing cangrelor to a wider subpopulation. This could include a subset of STEMI patients with underlying gastric absorption issues, rendering oral drug use ineffective (ie an intravenous drug such as cangrelor is required).</p>
+        <p>Despite limitations, this budget impact analysis provides an estimate of the cost of introducing a novel antiplatelet IV therapy in patients undergoing PCI for OHCA, in whom oral P2Y12 inhibition is not feasible or desirable and suggests that cangrelor may be cost saving in this eligible population.</p>
+      </sec>
+      <sec id="s0006">
+        <title>Conclusion</title>
+        <p>Cangrelor is a fast-acting and direct-acting intravenous P2Y12 inhibitor that has rapidly reversible effects. Cangrelor represents an alternative therapy for the treatment of the OHCA population in whom oral P2Y12 inhibitors are not feasible or desirable. To date, there has been concern about the cost implications and hence the need for this budget modelling.</p>
+        <p>Introducing cangrelor for OHCA patients subsequently undergoing PCI, where the established use of oral therapies is not possible, is effective, and this study shows it may lead to cost savings in the UK health system, driven predominately by a reduction in post-operative hospital LOS, due to a reduction in bleeding events.</p>
+      </sec>
+      <sec id="s0007">
+        <title>Acknowledgments</title>
+        <p>This research was funded by Chiesi Ltd.</p>
+      </sec>
+    </body>
+    <back>
+      <sec sec-type="COI-statement" id="s0008">
+        <title>Disclosure</title>
+        <p>Rob Cain, Richard Stork and Gina Tarpey are employees of Chiesi Ltd. Dr Bhavik Modi has received consultancy fees from Chiesi Ltd. Caroline Barwood is an employee of FIECON Ltd who were contracted by Chiesi to build the model for this manuscript. The authors report no other conflicts of interest in this work.</p>
+      </sec>
+      <ref-list>
+        <title>References</title>
+        <ref id="cit0001">
+          <label>1.</label>
+          <mixed-citation publication-type="webpage"><collab>British Heart Foundation</collab>. <article-title>UK factsheet 2023</article-title>. <source><italic toggle="yes">British Heart Foundation</italic></source>. <year>2023</year>. <comment>Available from</comment>: <ext-link xlink:href="https://www.bhf.org.uk/-/media/files/for-professionals/research/heart-statistics/bhf-cvd-statistics-uk-factsheet.pdf" ext-link-type="uri">https://www.bhf.org.uk/-/media/files/for-professionals/research/heart-statistics/bhf-cvd-statistics-uk-factsheet.pdf</ext-link>. <date-in-citation>Accessed <month>February</month>
+<day>28</day>, 2025</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0002">
+          <label>2.</label>
+          <mixed-citation publication-type="book"><string-name><surname>Ludman</surname><given-names>PF</given-names></string-name>. <source><italic toggle="yes">BCIS National Audit Adult Interventional Procedures - 2021-22</italic></source>. <publisher-name>British Cardiovascular Intervention Society</publisher-name>, <year>2023</year>. <comment>Available from</comment>: <ext-link xlink:href="https://www.bcis.org.uk/audit-results/" ext-link-type="uri">https://www.bcis.org.uk/audit-results/</ext-link>. <date-in-citation>Accessed <month>February</month>
+<day>28</day>, 2025</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0003">
+          <label>3.</label>
+          <mixed-citation publication-type="webpage"><collab>National Institute for Health and Care Excellence</collab>. <article-title>Acute coronary syndromes</article-title>. <year>2020</year>. <comment>Available from</comment>: <ext-link xlink:href="https://www.nice.org.uk/guidance/ng185/chapter/Recommendations" ext-link-type="uri">https://www.nice.org.uk/guidance/ng185/chapter/Recommendations</ext-link>. <date-in-citation>Accessed <month>February</month>
+<day>28</day>, 2025</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0004">
+          <label>4.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Bhatt</surname><given-names>DL</given-names></string-name>, <string-name><surname>Stone</surname><given-names>GW</given-names></string-name>, <string-name><surname>Mahaffey</surname><given-names>KW</given-names></string-name>, et al. <article-title>Effect of platelet inhibition with cangrelor during PCI on ischemic events</article-title>. <source><italic toggle="yes">N Engl J Med</italic></source>. <year>2013</year>;<volume>368</volume>(<issue>14</issue>):<fpage>1303</fpage>–<lpage>1313</lpage>. doi:<pub-id pub-id-type="doi">10.1056/NEJMoa1300815</pub-id><pub-id pub-id-type="pmid">23473369</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0005">
+          <label>5.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Erlinge</surname><given-names>D</given-names></string-name>. <article-title>Cangrelor for ST-segment–elevation myocardial infarction</article-title>. <source><italic toggle="yes">Circulation</italic></source>. <year>2019</year>;<volume>139</volume>(<issue>14</issue>):<fpage>1671</fpage>–<lpage>1673</lpage>. doi:<pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.119.039253</pub-id><pub-id pub-id-type="pmid">30933619</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0006">
+          <label>6.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Angiolillo</surname><given-names>DJ</given-names></string-name>, <string-name><surname>Schneider</surname><given-names>DJ</given-names></string-name>, <string-name><surname>Bhatt</surname><given-names>DL</given-names></string-name>, et al. <article-title>Pharmacodynamic effects of cangrelor and clopidogrel: the platelet function substudy from the cangrelor versus standard therapy to achieve optimal management of platelet inhibition (CHAMPION) trials</article-title>. <source><italic toggle="yes">J Thromb Thrombolysis</italic></source>. <year>2012</year>;<volume>34</volume>(<issue>1</issue>):<fpage>44</fpage>–<lpage>55</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s11239-012-0737-3</pub-id><pub-id pub-id-type="pmid">22569899</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0007">
+          <label>7.</label>
+          <mixed-citation publication-type="webpage"><collab>European Medicines Agency</collab>. <article-title>Kengrexal</article-title>. <source><italic toggle="yes">European Medicines Agency</italic></source><year>2018</year>. <comment>Available from</comment>: <ext-link xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/kengrexal" ext-link-type="uri">https://www.ema.europa.eu/en/medicines/human/EPAR/kengrexal</ext-link>. <date-in-citation>Accessed <month>February</month>
+<day>28</day>, 2025</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0008">
+          <label>8.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Byrne</surname><given-names>RA</given-names></string-name>, <string-name><surname>Rossello</surname><given-names>X</given-names></string-name>, <string-name><surname>Coughlan</surname><given-names>JJ</given-names></string-name>, et al. <article-title>2023 ESC Guidelines for the management of acute coronary syndromes: developed by the task force on the management of acute coronary syndromes of the European society of cardiology (ESC)</article-title>. <source><italic toggle="yes">Eur Heart J</italic></source>. <year>2023</year>;<fpage>ehad191</fpage>.</mixed-citation>
+        </ref>
+        <ref id="cit0009">
+          <label>9.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Harrington</surname><given-names>RA</given-names></string-name>, <string-name><surname>Stone</surname><given-names>GW</given-names></string-name>, <string-name><surname>McNulty</surname><given-names>S</given-names></string-name>, et al. <article-title>Platelet inhibition with cangrelor in patients undergoing PCI</article-title>. <source><italic toggle="yes">N Engl J Med</italic></source>. <year>2009</year>;<volume>361</volume>(<issue>24</issue>):<fpage>2318</fpage>–<lpage>2329</lpage>. doi:<pub-id pub-id-type="doi">10.1056/NEJMoa0908628</pub-id><pub-id pub-id-type="pmid">19915221</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0010">
+          <label>10.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Bhatt</surname><given-names>DL</given-names></string-name>, <string-name><surname>Lincoff</surname><given-names>AM</given-names></string-name>, <string-name><surname>Gibson</surname><given-names>CM</given-names></string-name>, et al. <article-title>Intravenous platelet blockade with cangrelor during PCI</article-title>. <source><italic toggle="yes">N Engl J Med</italic></source>. <year>2009</year>;<volume>361</volume>(<issue>24</issue>):<fpage>2330</fpage>–<lpage>2341</lpage>. doi:<pub-id pub-id-type="doi">10.1056/NEJMoa0908629</pub-id><pub-id pub-id-type="pmid">19915222</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0011">
+          <label>11.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Steg</surname><given-names>PG</given-names></string-name>, <string-name><surname>Bhatt</surname><given-names>DL</given-names></string-name>, <string-name><surname>Hamm</surname><given-names>CW</given-names></string-name>, et al. <article-title>Effect of cangrelor on periprocedural outcomes in percutaneous coronary interventions: a pooled analysis of patient-level data</article-title>. <source><italic toggle="yes">Lancet Lond Engl</italic></source>. <year>2013</year>;<volume>382</volume>(<issue>9909</issue>):<fpage>1981</fpage>–<lpage>1992</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S0140-6736(13)61615-3</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0012">
+          <label>12.</label>
+          <mixed-citation publication-type="webpage"><collab>The National Institute for Cardiovascular Outcomes Research (NICOR)</collab>. <article-title>Percutaneous coronary intervention (PCI) – 2020 summary report</article-title>. <source><italic toggle="yes">HQIP</italic></source><year>2020</year>. <comment>Available from</comment>: <ext-link xlink:href="https://www.hqip.org.uk/resource/percutaneous-coronary-intervention-pci-2020-summary-report/" ext-link-type="uri">https://www.hqip.org.uk/resource/percutaneous-coronary-intervention-pci-2020-summary-report/</ext-link>. <date-in-citation>Accessed <month>February</month>
+<day>28</day>, 2025</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0013">
+          <label>13.</label>
+          <mixed-citation publication-type="webpage"><collab>The National Institute for Cardiovascular Outcomes Research (NICOR)</collab>. <source><italic toggle="yes">National audit of percutaneous coronary intervention: 2021 summary report</italic></source>. <year>2021</year>. <comment>Available from</comment>: <ext-link xlink:href="https://www.hqip.org.uk/resource/national-audit-of-percutaneous-coronary-intervention-2021-summary-report/" ext-link-type="uri">https://www.hqip.org.uk/resource/national-audit-of-percutaneous-coronary-intervention-2021-summary-report/</ext-link>. <date-in-citation>Accessed <month>February</month>
+<day>28</day>, 2025</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0014">
+          <label>14.</label>
+          <mixed-citation publication-type="webpage"><collab>The National Institute for Cardiovascular Outcomes Research (NICOR)</collab>. <article-title>Percutaneous coronary intervention (PCI) - 2022 summary report</article-title>. <year>2022</year>. <comment>Available from</comment>: <ext-link xlink:href="https://www.nicor.org.uk/wp-content/uploads/2022/06/NAPCI-Domain-Report_2022-FINAL.pdf" ext-link-type="uri">https://www.nicor.org.uk/wp-content/uploads/2022/06/NAPCI-Domain-Report_2022-FINAL.pdf</ext-link>. <date-in-citation>Accessed <month>February</month>
+<day>28</day>, 2025</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0015">
+          <label>15.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Vaduganathan</surname><given-names>M</given-names></string-name>, <string-name><surname>Harrington</surname><given-names>RA</given-names></string-name>, <string-name><surname>Stone</surname><given-names>GW</given-names></string-name>, et al. <article-title>Evaluation of ischemic and bleeding risks associated with 2 parenteral antiplatelet strategies comparing cangrelor with glycoprotein IIb/IIIa inhibitors: an exploratory analysis from the champion trials</article-title>. <source><italic toggle="yes">JAMA Cardiol</italic></source>. <year>2017</year>;<volume>2</volume>(<issue>2</issue>):<fpage>127</fpage>–<lpage>135</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jamacardio.2016.4556</pub-id><pub-id pub-id-type="pmid">27902833</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0016">
+          <label>16.</label>
+          <mixed-citation publication-type="webpage"><collab>NHS Digital</collab>. <source><italic toggle="yes">Hospital Episode Statistics (HES) to map Percutaneous Coronary Intervention</italic></source>. <year>2021</year>. <comment>Available from</comment>: <ext-link xlink:href="https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics" ext-link-type="uri">https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics</ext-link>. <date-in-citation>Accessed <month>February</month>
+<day>28</day>, 2025</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0017">
+          <label>17.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Yerasi</surname><given-names>C</given-names></string-name>, <string-name><surname>Case</surname><given-names>BC</given-names></string-name>, <string-name><surname>Chezar-Azerrad</surname><given-names>C</given-names></string-name>, et al. <article-title>Cangrelor vs. glycoprotein IIb/IIIa inhibitors during percutaneous coronary intervention</article-title>. <source><italic toggle="yes">Am Heart J</italic></source>. <year>2021</year>;<volume>238</volume>:<fpage>59</fpage>–<lpage>65</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.ahj.2021.04.013</pub-id><pub-id pub-id-type="pmid">33961829</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0018">
+          <label>18.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Lizano-Díez</surname><given-names>I</given-names></string-name>, <string-name><surname>Paz Ruiz</surname><given-names>S</given-names></string-name>. <article-title>Analysis of the financial impact of using cangrelor on the safety and efficacy outcomes in patients undergoing percutaneous coronary intervention in whom oral therapy with P2Y12 inhibitors is not feasible or desirable, in Spain</article-title>. <source><italic toggle="yes">Clin Outcomes Res</italic></source>. <year>2021</year>;<volume>13</volume>:<fpage>77</fpage>–<lpage>87</lpage>.</mixed-citation>
+        </ref>
+        <ref id="cit0019">
+          <label>19.</label>
+          <mixed-citation publication-type="book"><string-name><surname>Jones</surname><given-names>KC</given-names></string-name>, <string-name><surname>Weatherly</surname><given-names>H</given-names></string-name>, <string-name><surname>Birch</surname><given-names>S</given-names></string-name>, et al. <source><italic toggle="yes">Unit Costs of Health and Social Care 2022 Manual</italic></source> (<publisher-name>PSSRU</publisher-name>). <year>2023</year>. doi:<pub-id pub-id-type="doi">10.22024/UniKent/01.02.100519</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0020">
+          <label>20.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Sullivan</surname><given-names>SD</given-names></string-name>, <string-name><surname>Mauskopf</surname><given-names>JA</given-names></string-name>, <string-name><surname>Augustovski</surname><given-names>F</given-names></string-name>, et al. <article-title>Budget impact analysis—principles of good practice: report of the ISPOR 2012 budget impact analysis good practice II task force</article-title>. <source><italic toggle="yes">Value Health</italic></source>. <year>2014</year>;<volume>17</volume>(<issue>1</issue>):<fpage>5</fpage>–<lpage>14</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jval.2013.08.2291</pub-id><pub-id pub-id-type="pmid">24438712</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0021">
+          <label>21.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Danese</surname><given-names>MD</given-names></string-name>, <string-name><surname>Gleeson</surname><given-names>M</given-names></string-name>, <string-name><surname>Kutikova</surname><given-names>L</given-names></string-name>, et al. <article-title>Estimating the economic burden of cardiovascular events in patients receiving lipid-modifying therapy in the UK</article-title>. <source><italic toggle="yes">BMJ Open</italic></source>. <year>2016</year>;<volume>6</volume>(<issue>8</issue>):<fpage>e011805</fpage>. doi:<pub-id pub-id-type="doi">10.1136/bmjopen-2016-011805</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0022">
+          <label>22.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Mamas</surname><given-names>MA</given-names></string-name>, <string-name><surname>Tosh</surname><given-names>J</given-names></string-name>, <string-name><surname>Hulme</surname><given-names>W</given-names></string-name>, et al. <article-title>Health economic analysis of access site practice in England during changes in practice</article-title>. <source><italic toggle="yes">Circ Cardiovasc Qual Outcomes</italic></source>. <year>2018</year>;<volume>11</volume>(<issue>5</issue>):<fpage>e004482</fpage>. doi:<pub-id pub-id-type="doi">10.1161/CIRCOUTCOMES.117.004482</pub-id><pub-id pub-id-type="pmid">29743163</pub-id></mixed-citation>
+        </ref>
+        <ref id="cit0023">
+          <label>23.</label>
+          <mixed-citation publication-type="webpage"><collab>National Institute for Health and Care Excellence</collab>. <article-title>Cangrelor - BNF</article-title>. <comment>Available from</comment>: <ext-link xlink:href="https://bnf.nice.org.uk/drug/cangrelor.html" ext-link-type="uri">https://bnf.nice.org.uk/drug/cangrelor.html</ext-link>. <date-in-citation>Accessed <month>February</month>
+<day>28</day>, 2025</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0024">
+          <label>24.</label>
+          <mixed-citation publication-type="webpage"><collab>National Institute for Health and Care Excellence</collab>. <article-title>Eptifibatide - BNF</article-title>. <comment>Available from</comment>: <ext-link xlink:href="https://bnf.nice.org.uk/drug/eptifibatide.html" ext-link-type="uri">https://bnf.nice.org.uk/drug/eptifibatide.html</ext-link>. <date-in-citation>Accessed <month>February</month>
+<day>28</day>, 2025</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0025">
+          <label>25.</label>
+          <mixed-citation publication-type="webpage"><string-name><surname>GlaxoSmithKline</surname><given-names>UK</given-names></string-name>. <article-title>INTEGRILIN 0.75 mg/mL solution for infusion - summary of product characteristics (SmPC) - (emc)</article-title>. <year>2021</year>. <comment>Available from</comment>: <ext-link xlink:href="https://www.medicines.org.uk/emc/product/3889/smpc" ext-link-type="uri">https://www.medicines.org.uk/emc/product/3889/smpc</ext-link>. <date-in-citation>Accessed <month>February</month>
+<day>28</day>, 2025</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0026">
+          <label>26.</label>
+          <mixed-citation publication-type="webpage"><collab>National Institute for Health and Care Excellence</collab>. <article-title>Tirofiban - BNF</article-title>. <comment>Available from</comment>: <ext-link xlink:href="https://bnf.nice.org.uk/drug/tirofiban.html" ext-link-type="uri">https://bnf.nice.org.uk/drug/tirofiban.html</ext-link>. <date-in-citation>Accessed <month>February</month>
+<day>28</day>, 2025</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0027">
+          <label>27.</label>
+          <mixed-citation publication-type="webpage"><collab>ADVANZ Pharma</collab>. <article-title>Aggrastat 50 mcg/mL solution for infusion - summary of product characteristics (SmPC) - (emc)</article-title>. <year>2018</year>. <comment>Available from</comment>: <ext-link xlink:href="https://www.medicines.org.uk/emc/product/566/smpc" ext-link-type="uri">https://www.medicines.org.uk/emc/product/566/smpc</ext-link>. <date-in-citation>Accessed <month>February</month>
+<day>28</day>, 2025</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0028">
+          <label>28.</label>
+          <mixed-citation publication-type="webpage"><collab>NHS Improvement</collab>. <article-title>2017/18 reference costs | archived reference costs</article-title><year>2020</year>. <comment>Available from</comment>: <ext-link xlink:href="https://webarchive.nationalarchives.gov.uk/ukgwa/20200501111106/https://improvement.nhs.uk/resources/reference-costs/" ext-link-type="uri">https://webarchive.nationalarchives.gov.uk/ukgwa/20200501111106/https://improvement.nhs.uk/resources/reference-costs/</ext-link>. <date-in-citation>Accessed <month>February</month>
+<day>28</day>, 2025</date-in-citation>.</mixed-citation>
+        </ref>
+        <ref id="cit0029">
+          <label>29.</label>
+          <mixed-citation publication-type="journal"><string-name><surname>Tan</surname><given-names>BE-X</given-names></string-name>, <string-name><surname>Wong</surname><given-names>PY</given-names></string-name>, <string-name><surname>Baibhav</surname><given-names>B</given-names></string-name>, et al. <article-title>Clopidogrel Vs aspirin monotherapy following dual antiplatelet therapy after percutaneous coronary intervention: a systematic review and meta-analysis</article-title>. <source><italic toggle="yes">Curr Probl Cardiol</italic></source>. <year>2023</year>;<volume>48</volume>(<issue>8</issue>):<fpage>101174</fpage>. doi:<pub-id pub-id-type="doi">10.1016/j.cpcardiol.2022.101174</pub-id><pub-id pub-id-type="pmid">35341798</pub-id></mixed-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </article>
+</pmc-articleset>

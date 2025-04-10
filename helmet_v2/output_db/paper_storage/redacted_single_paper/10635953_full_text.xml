@@ -1,5 +1,5 @@
 <pmc-articleset>
-  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.3">
+  <article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.3">
     <?properties open_access?>
     <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
       <restricted-by>pmc</restricted-by>
@@ -93,7 +93,7 @@
             <xref ref-type="aff" rid="Aff5">5</xref>
           </contrib>
           <aff id="Aff1"><label>1</label>Evidera, Budapest, Hungary </aff>
-          <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.425956.9</institution-id><institution-id institution-id-type="ISNI">0000 0004 0391 2646</institution-id><institution>Novo Nordisk A/S, </institution></institution-wrap>Vandtårnsvej 108-110, 2860 Søborg, Denmark </aff>
+          <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/0435rc536</institution-id><institution-id institution-id-type="GRID">grid.425956.9</institution-id><institution-id institution-id-type="ISNI">0000 0004 0391 2646</institution-id><institution>Novo Nordisk A/S, </institution></institution-wrap>Vandtårnsvej 108-110, 2860 Søborg, Denmark </aff>
           <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.519033.d</institution-id><institution>Evidera, </institution></institution-wrap>London, UK </aff>
           <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.519012.e</institution-id><institution>Delta Hat, </institution></institution-wrap>Nottingham, UK </aff>
           <aff id="Aff5"><label>5</label>White Box Health Economics Ltd, Amelia House, Crescent Road, Worthing, West Sussex UK </aff>
@@ -123,7 +123,8 @@
           </date>
         </history>
         <permissions>
-          <copyright-statement>© The Author(s) 2023</copyright-statement>
+          <copyright-statement>© The Author(s) 2023, corrected publication 2025</copyright-statement>
+          <copyright-year>2023</copyright-year>
           <license>
             <ali:license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
             <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, which permits any non-commercial use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>.</license-p>
@@ -145,7 +146,7 @@
       </article-meta>
     </front>
     <body>
-      <sec id="d32e340">
+      <sec id="d33e281">
         <title>Key Points for Decision Makers</title>
         <p>
           <table-wrap id="Taba">
@@ -202,7 +203,7 @@
           <title>Inputs for Parameterization of CEM Framework</title>
           <sec id="Sec11">
             <title>Disease Progression</title>
-            <p id="Par20">Liver disease was modeled as progression through fibrosis stages F0–F4, via a Markov state transition probability matrix across both modeling approaches (i.e., the PLS and CLM models). In line with the ICER model [<xref ref-type="bibr" rid="CR12">12</xref>], inputs for fibrosis progression were based on data reported by Singh et al. [<xref ref-type="bibr" rid="CR18">18</xref>]. However, the specific transition probabilities used in this model, presented in Table <xref rid="Tab1" ref-type="table">1</xref>, were sourced from a secondary analysis by Gal et al. [<xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR20">20</xref>] (Table <xref rid="Tab1" ref-type="table">1</xref>). This secondary analysis, while consistent with Singh et al. [<xref ref-type="bibr" rid="CR18">18</xref>] in terms of data and model structure, derives transition probabilities from each fibrosis stage. This allows for one-stage improvement or worsening at each model cycle, rather than calculating fibrosis progression rate per baseline fibrosis stage. Input parameters for progression to late-stage liver disease [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR22">22</xref>] (i.e., DCC, HCC, and liver transplantation) are presented in Table <xref rid="Tab2" ref-type="table">2</xref>. Transition probabilities for F3, F4 to DCC, HCC, and liver transplant are constant annual transition probabilities, with a model cycle length of 1 year.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Transition probabilities for fibrosis progression</p><p>(source: [<xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR20">20</xref>])</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Fibrosis stage</th><th align="left">Half-year probability</th><th align="left">Lower bound</th><th align="left">Upper bound</th></tr></thead><tbody><tr><td align="left">F0 to F1 (worsen)</td><td char="." align="char">0.079</td><td char="." align="char">0.039</td><td char="." align="char">0.153</td></tr><tr><td align="left">F1 to F0 (improve)</td><td char="." align="char">0.031</td><td char="." align="char">0.014</td><td char="." align="char">0.067</td></tr><tr><td align="left">F1 to F2 (worsen)</td><td char="." align="char">0.067</td><td char="." align="char">0.026</td><td char="." align="char">0.161</td></tr><tr><td align="left">F2 to F1 (improve)</td><td char="." align="char">0.142</td><td char="." align="char">0.048</td><td char="." align="char">0.351</td></tr><tr><td align="left">F2 to F3 (worsen)</td><td char="." align="char">0.097</td><td char="." align="char">0.038</td><td char="." align="char">0.230</td></tr><tr><td align="left">F3 to F2 (improve)</td><td char="." align="char">0.132</td><td char="." align="char">0.043</td><td char="." align="char">0.339</td></tr><tr><td align="left">F3 to CC (worsen)</td><td char="." align="char">0.083</td><td char="." align="char">0.031</td><td char="." align="char">0.204</td></tr><tr><td align="left">CC to F3 (improve)</td><td char="." align="char">0.041</td><td char="." align="char">0.005</td><td char="." align="char">0.275</td></tr></tbody></table><table-wrap-foot><p><italic>CC</italic> compensated cirrhosis, <italic>F</italic> fibrosis stage</p></table-wrap-foot></table-wrap><table-wrap id="Tab2"><label>Table 2</label><caption><p>Transition probabilities for progression to late-stage liver disease outcomes</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Health state transition</th><th align="left">Annual probability</th><th align="left">Lower bound</th><th align="left">Upper bound</th><th align="left">References</th></tr></thead><tbody><tr><td align="left">DCC in patients with F0–F2 fibrosis</td><td align="left">0</td><td align="left">–</td><td align="left">–</td><td align="left">Assumption<sup>a</sup></td></tr><tr><td align="left">HCC in patients with F0–F2 fibrosis</td><td align="left">0</td><td align="left">–</td><td align="left">–</td><td align="left">Assumption<sup>a</sup></td></tr><tr><td align="left">Decompensation in patients with F3 fibrosis</td><td align="left">0.006</td><td char="." align="left">0.0048</td><td char="." align="left">0.0072</td><td align="left">[<xref ref-type="bibr" rid="CR22">22</xref>]</td></tr><tr><td align="left">Decompensation in patients with CC</td><td align="left">0.065</td><td char="." align="left">0.0517</td><td char="." align="left">0.0776</td><td align="left">[<xref ref-type="bibr" rid="CR22">22</xref>]</td></tr><tr><td align="left">HCC in patients with F3 fibrosis</td><td align="left">0.002</td><td align="left">0.0016</td><td char="." align="left">0.0024</td><td align="left">[<xref ref-type="bibr" rid="CR22">22</xref>]</td></tr><tr><td align="left">HCC in patients with CC</td><td align="left">0.025</td><td char="." align="left">0.0204</td><td align="left">0.0306</td><td align="left">[<xref ref-type="bibr" rid="CR22">22</xref>]</td></tr><tr><td align="left">HCC in patients with DCC</td><td align="left">0.026</td><td align="left">0.0208</td><td align="left">0.0312</td><td align="left">[<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left">Liver transplant in patients with HCC</td><td align="left">0.023</td><td align="left">0.0184</td><td align="left">0.0276</td><td align="left">[<xref ref-type="bibr" rid="CR13">13</xref>]</td></tr><tr><td align="left">Liver transplant in patients with DCC</td><td align="left">0.040</td><td char="." align="left">0.0320</td><td align="left">0.0480</td><td align="left">[<xref ref-type="bibr" rid="CR13">13</xref>]</td></tr></tbody></table><table-wrap-foot><p><italic>CC</italic> compensated cirrhosis, <italic>DCC</italic> decompensated cirrhosis, <italic>F</italic> fibrosis stage, <italic>HCC</italic> hepatocellular carcinoma</p><p><sup>a</sup>DCC and HCC were assumed not to occur in patients with mild/no fibrosis (stages F0–F2).</p></table-wrap-foot></table-wrap></p>
+            <p id="Par20">Liver disease was modeled as progression through fibrosis stages F0–F4, via a Markov state transition probability matrix across both modeling approaches (i.e., the PLS and CLM models). In line with the ICER model [<xref ref-type="bibr" rid="CR12">12</xref>], inputs for fibrosis progression were based on data reported by Singh et al. [<xref ref-type="bibr" rid="CR18">18</xref>]. However, the specific transition probabilities used in this model, presented in Table <xref rid="Tab1" ref-type="table">1</xref>, were sourced from a secondary analysis by Gal et al. [<xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR20">20</xref>] (Table <xref rid="Tab1" ref-type="table">1</xref>). This secondary analysis, while consistent with Singh et al. [<xref ref-type="bibr" rid="CR18">18</xref>] in terms of data and model structure, derives transition probabilities from each fibrosis stage. This allows for one-stage improvement or worsening at each model cycle, rather than calculating fibrosis progression rate per baseline fibrosis stage. Input parameters for progression to late-stage liver disease [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR22">22</xref>] (i.e., DCC, HCC, and liver transplantation) are presented in Table <xref rid="Tab2" ref-type="table">2</xref>. Transition probabilities for F3, F4 to DCC, HCC, and liver transplant are constant annual transition probabilities, with a model cycle length of 1 year.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Transition probabilities for fibrosis progression</p><p>(source: [<xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR20">20</xref>])</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Fibrosis stage</th><th align="left">Half-year probability</th><th align="left">Lower bound</th><th align="left">Upper bound</th></tr></thead><tbody><tr><td align="left">F0 to F1 (worsen)</td><td char="." align="char">0.079</td><td char="." align="char">0.039</td><td char="." align="char">0.153</td></tr><tr><td align="left">F1 to F0 (improve)</td><td char="." align="char">0.031</td><td char="." align="char">0.014</td><td char="." align="char">0.067</td></tr><tr><td align="left">F1 to F2 (worsen)</td><td char="." align="char">0.067</td><td char="." align="char">0.026</td><td char="." align="char">0.161</td></tr><tr><td align="left">F2 to F1 (improve)</td><td char="." align="char">0.142</td><td char="." align="char">0.048</td><td char="." align="char">0.351</td></tr><tr><td align="left">F2 to F3 (worsen)</td><td char="." align="char">0.097</td><td char="." align="char">0.038</td><td char="." align="char">0.230</td></tr><tr><td align="left">F3 to F2 (improve)</td><td char="." align="char">0.132</td><td char="." align="char">0.043</td><td char="." align="char">0.339</td></tr><tr><td align="left">F3 to CC (worsen)</td><td char="." align="char">0.083</td><td char="." align="char">0.031</td><td char="." align="char">0.204</td></tr><tr><td align="left">CC to F3 (improve)</td><td char="." align="char">0.041</td><td char="." align="char">0.005</td><td char="." align="char">0.275</td></tr></tbody></table><table-wrap-foot><p><italic>CC</italic> compensated cirrhosis, <italic>F</italic> fibrosis stage</p></table-wrap-foot></table-wrap><table-wrap id="Tab2"><label>Table 2</label><caption><p>Transition probabilities for progression to late-stage liver disease outcomes</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Health state transition</th><th align="left">Annual probability</th><th align="left">Lower bound</th><th align="left">Upper bound</th><th align="left">References</th></tr></thead><tbody><tr><td align="left">DCC in patients with F0–F2 fibrosis</td><td align="left">0</td><td align="left">–</td><td align="left">–</td><td align="left">Assumption<sup>a</sup></td></tr><tr><td align="left">HCC in patients with F0–F2 fibrosis</td><td align="left">0</td><td align="left">–</td><td align="left">–</td><td align="left">Assumption<sup>a</sup></td></tr><tr><td align="left">Decompensation in patients with F3 fibrosis</td><td align="left">0.006</td><td char="." align="left">0.0048</td><td char="." align="left">0.0072</td><td align="left">[<xref ref-type="bibr" rid="CR22">22</xref>]</td></tr><tr><td align="left">Decompensation in patients with CC</td><td align="left">0.065</td><td char="." align="left">0.0517</td><td char="." align="left">0.0776</td><td align="left">[<xref ref-type="bibr" rid="CR22">22</xref>]</td></tr><tr><td align="left">HCC in patients with F3 fibrosis</td><td align="left">0.002</td><td align="left">0.0016</td><td char="." align="left">0.0024</td><td align="left">[<xref ref-type="bibr" rid="CR22">22</xref>]</td></tr><tr><td align="left">HCC in patients with CC</td><td align="left">0.025</td><td char="." align="left">0.0204</td><td align="left">0.0306</td><td align="left">[<xref ref-type="bibr" rid="CR22">22</xref>]</td></tr><tr><td align="left">HCC in patients with DCC</td><td align="left">0.026</td><td align="left">0.0208</td><td align="left">0.0312</td><td align="left">[<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left">Liver transplant in patients with DCC</td><td align="left">0.023</td><td align="left">0.0184</td><td align="left">0.0276</td><td align="left">[<xref ref-type="bibr" rid="CR13">13</xref>]</td></tr><tr><td align="left">Liver transplant in patients with HCC</td><td align="left">0.040</td><td char="." align="left">0.0320</td><td align="left">0.0480</td><td align="left">[<xref ref-type="bibr" rid="CR13">13</xref>]</td></tr></tbody></table><table-wrap-foot><p><italic>CC</italic> compensated cirrhosis, <italic>DCC</italic> decompensated cirrhosis, <italic>F</italic> fibrosis stage, <italic>HCC</italic> hepatocellular carcinoma</p><p><sup>a</sup>DCC and HCC were assumed not to occur in patients with mild/no fibrosis (stages F0–F2).</p></table-wrap-foot></table-wrap></p>
           </sec>
           <sec id="Sec12">
             <title>Comorbidities</title>
@@ -279,14 +280,31 @@
         <title>Conclusion</title>
         <p id="Par48">This CEM utilizes NASH-specific data to create a framework that can be used to estimate the cost-effectiveness of NASH interventions and is the first model to incorporate the clinical consequences of NASH comorbidities. There is still a lack of information available regarding several important considerations for cost-effectiveness models in NASH, such as the link between NASH histology and clinical outcomes and the interaction of comorbidities with NASH. However, due to its flexibility, the model can be further developed in the future to include the increasing amount of NASH data being generated.</p>
       </sec>
-      <sec sec-type="supplementary-material">
-        <sec id="Sec27">
-          <title>Supplementary Information</title>
-          <p>Below is the link to the electronic supplementary material.<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="40273_2023_1298_MOESM1_ESM.docx"><caption><p>Supplementary file1 (DOCX 462 kb)</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="40273_2023_1298_MOESM2_ESM.pdf"><caption><p>Supplementary file2 (PDF 1190 kb)</p></caption></media></supplementary-material></p>
-        </sec>
+      <sec id="Sec27" sec-type="supplementary-material">
+        <title>Supplementary Information</title>
+        <p>Below is the link to the electronic supplementary material.<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="40273_2023_1298_MOESM1_ESM.docx"><caption><p>Supplementary file1 (DOCX 462 kb)</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="40273_2023_1298_MOESM2_ESM.pdf"><caption><p>Supplementary file2 (PDF 1190 kb)</p></caption></media></supplementary-material></p>
       </sec>
     </body>
     <back>
+      <fn-group>
+        <fn>
+          <p>The original online version of this article was revised to correct an error in Table 2.</p>
+        </fn>
+        <fn>
+          <p>
+            <bold>Change history</bold>
+          </p>
+          <p>3/8/2025</p>
+          <p>The original online version of this article was revised to correct an error in Table 2.</p>
+        </fn>
+        <fn>
+          <p>
+            <bold>Change history</bold>
+          </p>
+          <p>3/12/2025</p>
+          <p>A Correction to this paper has been published: 10.1007/s40273-025-01475-2</p>
+        </fn>
+      </fn-group>
       <ack>
         <title>Acknowledgements</title>
         <p>Medical writing and editorial support were provided by Sally Humphries, a contract worker on behalf of Spirit Medical Communications Group Limited (funded by Novo Nordisk A/S), under the direction of the authors. Novo Nordisk A/S also performed a medical accuracy review.</p>
@@ -332,339 +350,383 @@ consent for research participation.
         <title>References</title>
         <ref id="CR1">
           <label>1.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Chalasani</surname>
-                <given-names>N</given-names>
-              </name>
-              <name>
-                <surname>Younossi</surname>
-                <given-names>Z</given-names>
-              </name>
-              <name>
-                <surname>Lavine</surname>
-                <given-names>JE</given-names>
-              </name>
-              <name>
-                <surname>Charlton</surname>
-                <given-names>M</given-names>
-              </name>
-              <name>
-                <surname>Cusi</surname>
-                <given-names>K</given-names>
-              </name>
-              <name>
-                <surname>Rinella</surname>
-                <given-names>M</given-names>
-              </name>
-              <etal/>
-            </person-group>
-            <article-title>The diagnosis and management of nonalcoholic fatty liver disease: practice guidance from the American Association for the Study of Liver Diseases</article-title>
-            <source>Hepatology</source>
-            <year>2018</year>
-            <volume>67</volume>
-            <issue>1</issue>
-            <fpage>328</fpage>
-            <lpage>357</lpage>
-            <pub-id pub-id-type="doi">10.1002/hep.29367</pub-id>
-            <pub-id pub-id-type="pmid">28714183</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR1" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name>
+                  <surname>Younossi</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name>
+                  <surname>Lavine</surname>
+                  <given-names>JE</given-names>
+                </name>
+                <name>
+                  <surname>Charlton</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Cusi</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name>
+                  <surname>Rinella</surname>
+                  <given-names>M</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>The diagnosis and management of nonalcoholic fatty liver disease: practice guidance from the American Association for the Study of Liver Diseases</article-title>
+              <source>Hepatology</source>
+              <year>2018</year>
+              <volume>67</volume>
+              <issue>1</issue>
+              <fpage>328</fpage>
+              <lpage>357</lpage>
+              <pub-id pub-id-type="doi">10.1002/hep.29367</pub-id>
+              <pub-id pub-id-type="pmid">28714183</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR1" publication-type="journal">Chalasani N, Younossi Z, Lavine JE, Charlton M, Cusi K, Rinella M, et al. The diagnosis and management of nonalcoholic fatty liver disease: practice guidance from the American Association for the Study of Liver Diseases. Hepatology. 2018;67(1):328–57.<pub-id pub-id-type="pmid">28714183</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR2">
           <label>2.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Povsic</surname>
-                <given-names>M</given-names>
-              </name>
-              <name>
-                <surname>Wong</surname>
-                <given-names>OY</given-names>
-              </name>
-              <name>
-                <surname>Perry</surname>
-                <given-names>R</given-names>
-              </name>
-              <name>
-                <surname>Bottomley</surname>
-                <given-names>J</given-names>
-              </name>
-            </person-group>
-            <article-title>A structured literature review of the epidemiology and disease burden of non-alcoholic steatohepatitis (NASH)</article-title>
-            <source>Adv Ther</source>
-            <year>2019</year>
-            <volume>36</volume>
-            <issue>7</issue>
-            <fpage>1574</fpage>
-            <lpage>1594</lpage>
-            <pub-id pub-id-type="doi">10.1007/s12325-019-00960-3</pub-id>
-            <pub-id pub-id-type="pmid">31065991</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR2" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Povsic</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Wong</surname>
+                  <given-names>OY</given-names>
+                </name>
+                <name>
+                  <surname>Perry</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name>
+                  <surname>Bottomley</surname>
+                  <given-names>J</given-names>
+                </name>
+              </person-group>
+              <article-title>A structured literature review of the epidemiology and disease burden of non-alcoholic steatohepatitis (NASH)</article-title>
+              <source>Adv Ther</source>
+              <year>2019</year>
+              <volume>36</volume>
+              <issue>7</issue>
+              <fpage>1574</fpage>
+              <lpage>1594</lpage>
+              <pub-id pub-id-type="doi">10.1007/s12325-019-00960-3</pub-id>
+              <pub-id pub-id-type="pmid">31065991</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR2" publication-type="journal">Povsic M, Wong OY, Perry R, Bottomley J. A structured literature review of the epidemiology and disease burden of non-alcoholic steatohepatitis (NASH). Adv Ther. 2019;36(7):1574–94.<pub-id pub-id-type="pmid">31065991</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR3">
           <label>3.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Estes</surname>
-                <given-names>C</given-names>
-              </name>
-              <name>
-                <surname>Anstee</surname>
-                <given-names>QM</given-names>
-              </name>
-              <name>
-                <surname>Arias-Loste</surname>
-                <given-names>MT</given-names>
-              </name>
-              <name>
-                <surname>Bantel</surname>
-                <given-names>H</given-names>
-              </name>
-              <name>
-                <surname>Bellentani</surname>
-                <given-names>S</given-names>
-              </name>
-              <name>
-                <surname>Caballeria</surname>
-                <given-names>J</given-names>
-              </name>
-              <etal/>
-            </person-group>
-            <article-title>Modeling NAFLD disease burden in China, France, Germany, Italy, Japan, Spain, United Kingdom, and United States for the period 2016–2030</article-title>
-            <source>J Hepatol</source>
-            <year>2018</year>
-            <volume>69</volume>
-            <issue>4</issue>
-            <fpage>896</fpage>
-            <lpage>904</lpage>
-            <pub-id pub-id-type="doi">10.1016/j.jhep.2018.05.036</pub-id>
-            <pub-id pub-id-type="pmid">29886156</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR3" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Estes</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name>
+                  <surname>Anstee</surname>
+                  <given-names>QM</given-names>
+                </name>
+                <name>
+                  <surname>Arias-Loste</surname>
+                  <given-names>MT</given-names>
+                </name>
+                <name>
+                  <surname>Bantel</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name>
+                  <surname>Bellentani</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name>
+                  <surname>Caballeria</surname>
+                  <given-names>J</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Modeling NAFLD disease burden in China, France, Germany, Italy, Japan, Spain, United Kingdom, and United States for the period 2016–2030</article-title>
+              <source>J Hepatol</source>
+              <year>2018</year>
+              <volume>69</volume>
+              <issue>4</issue>
+              <fpage>896</fpage>
+              <lpage>904</lpage>
+              <pub-id pub-id-type="doi">10.1016/j.jhep.2018.05.036</pub-id>
+              <pub-id pub-id-type="pmid">29886156</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR3" publication-type="journal">Estes C, Anstee QM, Arias-Loste MT, Bantel H, Bellentani S, Caballeria J, et al. Modeling NAFLD disease burden in China, France, Germany, Italy, Japan, Spain, United Kingdom, and United States for the period 2016–2030. J Hepatol. 2018;69(4):896–904.<pub-id pub-id-type="pmid">29886156</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR4">
           <label>4.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Younossi</surname>
-                <given-names>ZM</given-names>
-              </name>
-              <name>
-                <surname>Tampi</surname>
-                <given-names>RP</given-names>
-              </name>
-              <name>
-                <surname>Racila</surname>
-                <given-names>A</given-names>
-              </name>
-              <name>
-                <surname>Qiu</surname>
-                <given-names>Y</given-names>
-              </name>
-              <name>
-                <surname>Burns</surname>
-                <given-names>L</given-names>
-              </name>
-              <name>
-                <surname>Younossi</surname>
-                <given-names>I</given-names>
-              </name>
-              <etal/>
-            </person-group>
-            <article-title>Economic and clinical burden of nonalcoholic steatohepatitis in patients with type 2 diabetes in the US</article-title>
-            <source>Diabetes Care</source>
-            <year>2020</year>
-            <volume>43</volume>
-            <issue>2</issue>
-            <fpage>283</fpage>
-            <lpage>289</lpage>
-            <pub-id pub-id-type="doi">10.2337/dc19-1113</pub-id>
-            <pub-id pub-id-type="pmid">31658974</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR4" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Younossi</surname>
+                  <given-names>ZM</given-names>
+                </name>
+                <name>
+                  <surname>Tampi</surname>
+                  <given-names>RP</given-names>
+                </name>
+                <name>
+                  <surname>Racila</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name>
+                  <surname>Qiu</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name>
+                  <surname>Burns</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name>
+                  <surname>Younossi</surname>
+                  <given-names>I</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Economic and clinical burden of nonalcoholic steatohepatitis in patients with type 2 diabetes in the US</article-title>
+              <source>Diabetes Care</source>
+              <year>2020</year>
+              <volume>43</volume>
+              <issue>2</issue>
+              <fpage>283</fpage>
+              <lpage>289</lpage>
+              <pub-id pub-id-type="doi">10.2337/dc19-1113</pub-id>
+              <pub-id pub-id-type="pmid">31658974</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR4" publication-type="journal">Younossi ZM, Tampi RP, Racila A, Qiu Y, Burns L, Younossi I, et al. Economic and clinical burden of nonalcoholic steatohepatitis in patients with type 2 diabetes in the US. Diabetes Care. 2020;43(2):283–9.<pub-id pub-id-type="pmid">31658974</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR5">
           <label>5.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Targher</surname>
-                <given-names>G</given-names>
-              </name>
-              <name>
-                <surname>Tilg</surname>
-                <given-names>H</given-names>
-              </name>
-              <name>
-                <surname>Byrne</surname>
-                <given-names>CD</given-names>
-              </name>
-            </person-group>
-            <article-title>Non-alcoholic fatty liver disease: a multisystem disease requiring a multidisciplinary and holistic approach</article-title>
-            <source>Lancet Gastroenterol Hepatol</source>
-            <year>2021</year>
-            <volume>6</volume>
-            <issue>7</issue>
-            <fpage>578</fpage>
-            <lpage>588</lpage>
-            <pub-id pub-id-type="doi">10.1016/S2468-1253(21)00020-0</pub-id>
-            <pub-id pub-id-type="pmid">33961787</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR5" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Targher</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name>
+                  <surname>Tilg</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name>
+                  <surname>Byrne</surname>
+                  <given-names>CD</given-names>
+                </name>
+              </person-group>
+              <article-title>Non-alcoholic fatty liver disease: a multisystem disease requiring a multidisciplinary and holistic approach</article-title>
+              <source>Lancet Gastroenterol Hepatol</source>
+              <year>2021</year>
+              <volume>6</volume>
+              <issue>7</issue>
+              <fpage>578</fpage>
+              <lpage>588</lpage>
+              <pub-id pub-id-type="doi">10.1016/S2468-1253(21)00020-0</pub-id>
+              <pub-id pub-id-type="pmid">33961787</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR5" publication-type="journal">Targher G, Tilg H, Byrne CD. Non-alcoholic fatty liver disease: a multisystem disease requiring a multidisciplinary and holistic approach. Lancet Gastroenterol Hepatol. 2021;6(7):578–88.<pub-id pub-id-type="pmid">33961787</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR6">
           <label>6.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Abdelmalek</surname>
-                <given-names>MF</given-names>
-              </name>
-            </person-group>
-            <article-title>Nonalcoholic fatty liver disease: another leap forward</article-title>
-            <source>Nat Rev Gastroenterol Hepatol</source>
-            <year>2021</year>
-            <volume>18</volume>
-            <issue>2</issue>
-            <fpage>85</fpage>
-            <lpage>86</lpage>
-            <pub-id pub-id-type="doi">10.1038/s41575-020-00406-0</pub-id>
-            <pub-id pub-id-type="pmid">33420415</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR6" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Abdelmalek</surname>
+                  <given-names>MF</given-names>
+                </name>
+              </person-group>
+              <article-title>Nonalcoholic fatty liver disease: another leap forward</article-title>
+              <source>Nat Rev Gastroenterol Hepatol</source>
+              <year>2021</year>
+              <volume>18</volume>
+              <issue>2</issue>
+              <fpage>85</fpage>
+              <lpage>86</lpage>
+              <pub-id pub-id-type="doi">10.1038/s41575-020-00406-0</pub-id>
+              <pub-id pub-id-type="pmid">33420415</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR6" publication-type="journal">Abdelmalek MF. Nonalcoholic fatty liver disease: another leap forward. Nat Rev Gastroenterol Hepatol. 2021;18(2):85–6.<pub-id pub-id-type="pmid">33420415</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR7">
           <label>7.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <collab>European Association for the Study of the Liver, European Association for the Study of Diabetes, European Association for the Study of Obesity</collab>
-            </person-group>
-            <article-title>EASL-EASD-EASO Clinical practice guidelines for the management of non-alcoholic fatty liver disease</article-title>
-            <source>Diabetologia</source>
-            <year>2016</year>
-            <volume>59</volume>
-            <issue>6</issue>
-            <fpage>1121</fpage>
-            <lpage>1140</lpage>
-            <pub-id pub-id-type="doi">10.1007/s00125-016-3902-y</pub-id>
-            <pub-id pub-id-type="pmid">27053230</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR7" publication-type="journal">
+              <person-group person-group-type="author">
+                <collab>European Association for the Study of the Liver, European Association for the Study of Diabetes, European Association for the Study of Obesity</collab>
+              </person-group>
+              <article-title>EASL-EASD-EASO Clinical practice guidelines for the management of non-alcoholic fatty liver disease</article-title>
+              <source>Diabetologia</source>
+              <year>2016</year>
+              <volume>59</volume>
+              <issue>6</issue>
+              <fpage>1121</fpage>
+              <lpage>1140</lpage>
+              <pub-id pub-id-type="doi">10.1007/s00125-016-3902-y</pub-id>
+              <pub-id pub-id-type="pmid">27053230</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR7" publication-type="journal">European Association for the Study of the Liver, European Association for the Study of Diabetes, European Association for the Study of Obesity. EASL-EASD-EASO Clinical practice guidelines for the management of non-alcoholic fatty liver disease. Diabetologia. 2016;59(6):1121–40.<pub-id pub-id-type="pmid">27053230</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR8">
           <label>8.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Mantovani</surname>
-                <given-names>A</given-names>
-              </name>
-              <name>
-                <surname>Targher</surname>
-                <given-names>G</given-names>
-              </name>
-            </person-group>
-            <article-title>Glucagon-like peptide-1 receptor agonists for treatment of nonalcoholic steatohepatitis: new insights from subcutaneous semaglutide</article-title>
-            <source>Hepatobiliary Surg Nutr</source>
-            <year>2021</year>
-            <volume>10</volume>
-            <issue>4</issue>
-            <fpage>518</fpage>
-            <lpage>521</lpage>
-            <pub-id pub-id-type="doi">10.21037/hbsn-2021-13</pub-id>
-            <pub-id pub-id-type="pmid">34430533</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR8" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Mantovani</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name>
+                  <surname>Targher</surname>
+                  <given-names>G</given-names>
+                </name>
+              </person-group>
+              <article-title>Glucagon-like peptide-1 receptor agonists for treatment of nonalcoholic steatohepatitis: new insights from subcutaneous semaglutide</article-title>
+              <source>Hepatobiliary Surg Nutr</source>
+              <year>2021</year>
+              <volume>10</volume>
+              <issue>4</issue>
+              <fpage>518</fpage>
+              <lpage>521</lpage>
+              <pub-id pub-id-type="doi">10.21037/hbsn-2021-13</pub-id>
+              <pub-id pub-id-type="pmid">34430533</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR8" publication-type="journal">Mantovani A, Targher G. Glucagon-like peptide-1 receptor agonists for treatment of nonalcoholic steatohepatitis: new insights from subcutaneous semaglutide. Hepatobiliary Surg Nutr. 2021;10(4):518–21.<pub-id pub-id-type="pmid">34430533</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR9">
           <label>9.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Caro</surname>
-                <given-names>JJ</given-names>
-              </name>
-              <name>
-                <surname>Moller</surname>
-                <given-names>J</given-names>
-              </name>
-            </person-group>
-            <article-title>Decision-analytic models: current methodological challenges</article-title>
-            <source>Pharmacoeconomics</source>
-            <year>2014</year>
-            <volume>32</volume>
-            <issue>10</issue>
-            <fpage>943</fpage>
-            <lpage>950</lpage>
-            <pub-id pub-id-type="doi">10.1007/s40273-014-0183-5</pub-id>
-            <pub-id pub-id-type="pmid">24986039</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR9" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Caro</surname>
+                  <given-names>JJ</given-names>
+                </name>
+                <name>
+                  <surname>Moller</surname>
+                  <given-names>J</given-names>
+                </name>
+              </person-group>
+              <article-title>Decision-analytic models: current methodological challenges</article-title>
+              <source>Pharmacoeconomics</source>
+              <year>2014</year>
+              <volume>32</volume>
+              <issue>10</issue>
+              <fpage>943</fpage>
+              <lpage>950</lpage>
+              <pub-id pub-id-type="doi">10.1007/s40273-014-0183-5</pub-id>
+              <pub-id pub-id-type="pmid">24986039</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR9" publication-type="journal">Caro JJ, Moller J. Decision-analytic models: current methodological challenges. Pharmacoeconomics. 2014;32(10):943–50.<pub-id pub-id-type="pmid">24986039</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR10">
           <label>10.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Johansen</surname>
-                <given-names>P</given-names>
-              </name>
-              <name>
-                <surname>Howard</surname>
-                <given-names>D</given-names>
-              </name>
-              <name>
-                <surname>Bishop</surname>
-                <given-names>R</given-names>
-              </name>
-              <name>
-                <surname>Moreno</surname>
-                <given-names>SI</given-names>
-              </name>
-              <name>
-                <surname>Buchholtz</surname>
-                <given-names>K</given-names>
-              </name>
-            </person-group>
-            <article-title>Systematic literature review and critical appraisal of health economic models used in cost-effectiveness analyses in non-alcoholic steatohepatitis: potential for improvements</article-title>
-            <source>Pharmacoeconomics</source>
-            <year>2020</year>
-            <volume>38</volume>
-            <issue>5</issue>
-            <fpage>485</fpage>
-            <lpage>497</lpage>
-            <pub-id pub-id-type="doi">10.1007/s40273-019-00881-7</pub-id>
-            <pub-id pub-id-type="pmid">31919793</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR10" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Johansen</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name>
+                  <surname>Howard</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name>
+                  <surname>Bishop</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name>
+                  <surname>Moreno</surname>
+                  <given-names>SI</given-names>
+                </name>
+                <name>
+                  <surname>Buchholtz</surname>
+                  <given-names>K</given-names>
+                </name>
+              </person-group>
+              <article-title>Systematic literature review and critical appraisal of health economic models used in cost-effectiveness analyses in non-alcoholic steatohepatitis: potential for improvements</article-title>
+              <source>Pharmacoeconomics</source>
+              <year>2020</year>
+              <volume>38</volume>
+              <issue>5</issue>
+              <fpage>485</fpage>
+              <lpage>497</lpage>
+              <pub-id pub-id-type="doi">10.1007/s40273-019-00881-7</pub-id>
+              <pub-id pub-id-type="pmid">31919793</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR10" publication-type="journal">Johansen P, Howard D, Bishop R, Moreno SI, Buchholtz K. Systematic literature review and critical appraisal of health economic models used in cost-effectiveness analyses in non-alcoholic steatohepatitis: potential for improvements. Pharmacoeconomics. 2020;38(5):485–97.<pub-id pub-id-type="pmid">31919793</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR11">
           <label>11.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Gruneau</surname>
-                <given-names>L</given-names>
-              </name>
-              <name>
-                <surname>Ekstedt</surname>
-                <given-names>M</given-names>
-              </name>
-              <name>
-                <surname>Kechagias</surname>
-                <given-names>S</given-names>
-              </name>
-              <name>
-                <surname>Henriksson</surname>
-                <given-names>M</given-names>
-              </name>
-            </person-group>
-            <article-title>Disease progression modeling for economic evaluation in nonalcoholic fatty liver disease-a systematic review</article-title>
-            <source>Clin Gastroenterol Hepatol</source>
-            <year>2023</year>
-            <volume>21</volume>
-            <issue>2</issue>
-            <fpage>283</fpage>
-            <lpage>298</lpage>
-            <pub-id pub-id-type="doi">10.1016/j.cgh.2021.10.040</pub-id>
-            <pub-id pub-id-type="pmid">34757199</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR11" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Gruneau</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name>
+                  <surname>Ekstedt</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Kechagias</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name>
+                  <surname>Henriksson</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>Disease progression modeling for economic evaluation in nonalcoholic fatty liver disease-a systematic review</article-title>
+              <source>Clin Gastroenterol Hepatol</source>
+              <year>2023</year>
+              <volume>21</volume>
+              <issue>2</issue>
+              <fpage>283</fpage>
+              <lpage>298</lpage>
+              <pub-id pub-id-type="doi">10.1016/j.cgh.2021.10.040</pub-id>
+              <pub-id pub-id-type="pmid">34757199</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR11" publication-type="journal">Gruneau L, Ekstedt M, Kechagias S, Henriksson M. Disease progression modeling for economic evaluation in nonalcoholic fatty liver disease-a systematic review. Clin Gastroenterol Hepatol. 2023;21(2):283–98.<pub-id pub-id-type="pmid">34757199</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR12">
           <label>12.</label>
@@ -676,105 +738,117 @@ consent for research participation.
         </ref>
         <ref id="CR14">
           <label>14.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Caro</surname>
-                <given-names>JJ</given-names>
-              </name>
-            </person-group>
-            <article-title>Discretely Integrated Condition Event (DICE) simulation for pharmacoeconomics</article-title>
-            <source>Pharmacoeconomics</source>
-            <year>2016</year>
-            <volume>34</volume>
-            <issue>7</issue>
-            <fpage>665</fpage>
-            <lpage>672</lpage>
-            <pub-id pub-id-type="doi">10.1007/s40273-016-0394-z</pub-id>
-            <pub-id pub-id-type="pmid">26961779</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR14" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Caro</surname>
+                  <given-names>JJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Discretely Integrated Condition Event (DICE) simulation for pharmacoeconomics</article-title>
+              <source>Pharmacoeconomics</source>
+              <year>2016</year>
+              <volume>34</volume>
+              <issue>7</issue>
+              <fpage>665</fpage>
+              <lpage>672</lpage>
+              <pub-id pub-id-type="doi">10.1007/s40273-016-0394-z</pub-id>
+              <pub-id pub-id-type="pmid">26961779</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR14" publication-type="journal">Caro JJ. Discretely Integrated Condition Event (DICE) simulation for pharmacoeconomics. Pharmacoeconomics. 2016;34(7):665–72.<pub-id pub-id-type="pmid">26961779</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR15">
           <label>15.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Newsome</surname>
-                <given-names>PN</given-names>
-              </name>
-              <name>
-                <surname>Buchholtz</surname>
-                <given-names>K</given-names>
-              </name>
-              <name>
-                <surname>Cusi</surname>
-                <given-names>K</given-names>
-              </name>
-              <name>
-                <surname>Linder</surname>
-                <given-names>M</given-names>
-              </name>
-              <name>
-                <surname>Okanoue</surname>
-                <given-names>T</given-names>
-              </name>
-              <name>
-                <surname>Ratziu</surname>
-                <given-names>V</given-names>
-              </name>
-              <etal/>
-            </person-group>
-            <article-title>A placebo-controlled trial of subcutaneous semaglutide in nonalcoholic steatohepatitis</article-title>
-            <source>N Engl J Med</source>
-            <year>2021</year>
-            <volume>384</volume>
-            <issue>12</issue>
-            <fpage>1113</fpage>
-            <lpage>1124</lpage>
-            <pub-id pub-id-type="doi">10.1056/NEJMoa2028395</pub-id>
-            <pub-id pub-id-type="pmid">33185364</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR15" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Newsome</surname>
+                  <given-names>PN</given-names>
+                </name>
+                <name>
+                  <surname>Buchholtz</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name>
+                  <surname>Cusi</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name>
+                  <surname>Linder</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Okanoue</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name>
+                  <surname>Ratziu</surname>
+                  <given-names>V</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>A placebo-controlled trial of subcutaneous semaglutide in nonalcoholic steatohepatitis</article-title>
+              <source>N Engl J Med</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <issue>12</issue>
+              <fpage>1113</fpage>
+              <lpage>1124</lpage>
+              <pub-id pub-id-type="doi">10.1056/NEJMoa2028395</pub-id>
+              <pub-id pub-id-type="pmid">33185364</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR15" publication-type="journal">Newsome PN, Buchholtz K, Cusi K, Linder M, Okanoue T, Ratziu V, et al. A placebo-controlled trial of subcutaneous semaglutide in nonalcoholic steatohepatitis. N Engl J Med. 2021;384(12):1113–24.<pub-id pub-id-type="pmid">33185364</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR16">
           <label>16.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Younossi</surname>
-                <given-names>ZM</given-names>
-              </name>
-              <name>
-                <surname>Ratziu</surname>
-                <given-names>V</given-names>
-              </name>
-              <name>
-                <surname>Loomba</surname>
-                <given-names>R</given-names>
-              </name>
-              <name>
-                <surname>Rinella</surname>
-                <given-names>M</given-names>
-              </name>
-              <name>
-                <surname>Anstee</surname>
-                <given-names>QM</given-names>
-              </name>
-              <name>
-                <surname>Goodman</surname>
-                <given-names>Z</given-names>
-              </name>
-              <etal/>
-            </person-group>
-            <article-title>Obeticholic acid for the treatment of non-alcoholic steatohepatitis: interim analysis from a multicentre, randomised, placebo-controlled phase 3 trial</article-title>
-            <source>Lancet</source>
-            <year>2019</year>
-            <volume>394</volume>
-            <issue>10215</issue>
-            <fpage>2184</fpage>
-            <lpage>2196</lpage>
-            <pub-id pub-id-type="doi">10.1016/S0140-6736(19)33041-7</pub-id>
-            <pub-id pub-id-type="pmid">31813633</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR16" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Younossi</surname>
+                  <given-names>ZM</given-names>
+                </name>
+                <name>
+                  <surname>Ratziu</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name>
+                  <surname>Loomba</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name>
+                  <surname>Rinella</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Anstee</surname>
+                  <given-names>QM</given-names>
+                </name>
+                <name>
+                  <surname>Goodman</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Obeticholic acid for the treatment of non-alcoholic steatohepatitis: interim analysis from a multicentre, randomised, placebo-controlled phase 3 trial</article-title>
+              <source>Lancet</source>
+              <year>2019</year>
+              <volume>394</volume>
+              <issue>10215</issue>
+              <fpage>2184</fpage>
+              <lpage>2196</lpage>
+              <pub-id pub-id-type="doi">10.1016/S0140-6736(19)33041-7</pub-id>
+              <pub-id pub-id-type="pmid">31813633</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR16" publication-type="journal">Younossi ZM, Ratziu V, Loomba R, Rinella M, Anstee QM, Goodman Z, et al. Obeticholic acid for the treatment of non-alcoholic steatohepatitis: interim analysis from a multicentre, randomised, placebo-controlled phase 3 trial. Lancet. 2019;394(10215):2184–96.<pub-id pub-id-type="pmid">31813633</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR17">
           <label>17.</label>
@@ -782,64 +856,71 @@ consent for research participation.
         </ref>
         <ref id="CR18">
           <label>18.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Singh</surname>
-                <given-names>S</given-names>
-              </name>
-              <name>
-                <surname>Allen</surname>
-                <given-names>AM</given-names>
-              </name>
-              <name>
-                <surname>Wang</surname>
-                <given-names>Z</given-names>
-              </name>
-              <name>
-                <surname>Prokop</surname>
-                <given-names>LJ</given-names>
-              </name>
-              <name>
-                <surname>Murad</surname>
-                <given-names>MH</given-names>
-              </name>
-              <name>
-                <surname>Loomba</surname>
-                <given-names>R</given-names>
-              </name>
-            </person-group>
-            <article-title>Fibrosis progression in nonalcoholic fatty liver vs nonalcoholic steatohepatitis: a systematic review and meta-analysis of paired-biopsy studies</article-title>
-            <source>Clin Gastroenterol Hepatol</source>
-            <year>2015</year>
-            <volume>13</volume>
-            <issue>4</issue>
-            <fpage>643</fpage>
-            <lpage>654</lpage>
-            <pub-id pub-id-type="doi">10.1016/j.cgh.2014.04.014</pub-id>
-            <pub-id pub-id-type="pmid">24768810</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR18" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Singh</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name>
+                  <surname>Allen</surname>
+                  <given-names>AM</given-names>
+                </name>
+                <name>
+                  <surname>Wang</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name>
+                  <surname>Prokop</surname>
+                  <given-names>LJ</given-names>
+                </name>
+                <name>
+                  <surname>Murad</surname>
+                  <given-names>MH</given-names>
+                </name>
+                <name>
+                  <surname>Loomba</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>Fibrosis progression in nonalcoholic fatty liver vs nonalcoholic steatohepatitis: a systematic review and meta-analysis of paired-biopsy studies</article-title>
+              <source>Clin Gastroenterol Hepatol</source>
+              <year>2015</year>
+              <volume>13</volume>
+              <issue>4</issue>
+              <fpage>643</fpage>
+              <lpage>654</lpage>
+              <pub-id pub-id-type="doi">10.1016/j.cgh.2014.04.014</pub-id>
+              <pub-id pub-id-type="pmid">24768810</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR18" publication-type="journal">Singh S, Allen AM, Wang Z, Prokop LJ, Murad MH, Loomba R. Fibrosis progression in nonalcoholic fatty liver vs nonalcoholic steatohepatitis: a systematic review and meta-analysis of paired-biopsy studies. Clin Gastroenterol Hepatol. 2015;13(4):643–54 <bold>(e1–9; quiz e39–40)</bold>.<pub-id pub-id-type="pmid">24768810</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR19">
           <label>19.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Gal</surname>
-                <given-names>P</given-names>
-              </name>
-              <name>
-                <surname>Rakonczai</surname>
-                <given-names>P</given-names>
-              </name>
-            </person-group>
-            <article-title>PDB68 maximum-likelihood estimation of transition probabilities between fibrosis stages in nonalcoholic steatohepatitis (NASH)</article-title>
-            <source>Value Health</source>
-            <year>2020</year>
-            <volume>23</volume>
-            <fpage>S517</fpage>
-            <pub-id pub-id-type="doi">10.1016/j.jval.2020.08.665</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR19" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Gal</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name>
+                  <surname>Rakonczai</surname>
+                  <given-names>P</given-names>
+                </name>
+              </person-group>
+              <article-title>PDB68 maximum-likelihood estimation of transition probabilities between fibrosis stages in nonalcoholic steatohepatitis (NASH)</article-title>
+              <source>Value Health</source>
+              <year>2020</year>
+              <volume>23</volume>
+              <fpage>S517</fpage>
+              <pub-id pub-id-type="doi">10.1016/j.jval.2020.08.665</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR19" publication-type="journal">Gal P, Rakonczai P. PDB68 maximum-likelihood estimation of transition probabilities between fibrosis stages in nonalcoholic steatohepatitis (NASH). Value Health. 2020;23:S517.</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR20">
           <label>20.</label>
@@ -847,84 +928,92 @@ consent for research participation.
         </ref>
         <ref id="CR21">
           <label>21.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Ascha</surname>
-                <given-names>MS</given-names>
-              </name>
-              <name>
-                <surname>Hanouneh</surname>
-                <given-names>IA</given-names>
-              </name>
-              <name>
-                <surname>Lopez</surname>
-                <given-names>R</given-names>
-              </name>
-              <name>
-                <surname>Tamimi</surname>
-                <given-names>TA</given-names>
-              </name>
-              <name>
-                <surname>Feldstein</surname>
-                <given-names>AF</given-names>
-              </name>
-              <name>
-                <surname>Zein</surname>
-                <given-names>NN</given-names>
-              </name>
-            </person-group>
-            <article-title>The incidence and risk factors of hepatocellular carcinoma in patients with nonalcoholic steatohepatitis</article-title>
-            <source>Hepatology</source>
-            <year>2010</year>
-            <volume>51</volume>
-            <issue>6</issue>
-            <fpage>1972</fpage>
-            <lpage>1978</lpage>
-            <pub-id pub-id-type="doi">10.1002/hep.23527</pub-id>
-            <pub-id pub-id-type="pmid">20209604</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR21" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Ascha</surname>
+                  <given-names>MS</given-names>
+                </name>
+                <name>
+                  <surname>Hanouneh</surname>
+                  <given-names>IA</given-names>
+                </name>
+                <name>
+                  <surname>Lopez</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name>
+                  <surname>Tamimi</surname>
+                  <given-names>TA</given-names>
+                </name>
+                <name>
+                  <surname>Feldstein</surname>
+                  <given-names>AF</given-names>
+                </name>
+                <name>
+                  <surname>Zein</surname>
+                  <given-names>NN</given-names>
+                </name>
+              </person-group>
+              <article-title>The incidence and risk factors of hepatocellular carcinoma in patients with nonalcoholic steatohepatitis</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>51</volume>
+              <issue>6</issue>
+              <fpage>1972</fpage>
+              <lpage>1978</lpage>
+              <pub-id pub-id-type="doi">10.1002/hep.23527</pub-id>
+              <pub-id pub-id-type="pmid">20209604</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR21" publication-type="journal">Ascha MS, Hanouneh IA, Lopez R, Tamimi TA, Feldstein AF, Zein NN. The incidence and risk factors of hepatocellular carcinoma in patients with nonalcoholic steatohepatitis. Hepatology. 2010;51(6):1972–8.<pub-id pub-id-type="pmid">20209604</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR22">
           <label>22.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Vilar-Gomez</surname>
-                <given-names>E</given-names>
-              </name>
-              <name>
-                <surname>Calzadilla-Bertot</surname>
-                <given-names>L</given-names>
-              </name>
-              <name>
-                <surname>Wai-Sun Wong</surname>
-                <given-names>V</given-names>
-              </name>
-              <name>
-                <surname>Castellanos</surname>
-                <given-names>M</given-names>
-              </name>
-              <name>
-                <surname>Aller-de la Fuente</surname>
-                <given-names>R</given-names>
-              </name>
-              <name>
-                <surname>Metwally</surname>
-                <given-names>M</given-names>
-              </name>
-              <etal/>
-            </person-group>
-            <article-title>Fibrosis severity as a determinant of cause-specific mortality in patients with advanced nonalcoholic fatty liver disease: a multi-national cohort study</article-title>
-            <source>Gastroenterology</source>
-            <year>2018</year>
-            <volume>155</volume>
-            <issue>2</issue>
-            <fpage>443</fpage>
-            <lpage>457.e17</lpage>
-            <pub-id pub-id-type="doi">10.1053/j.gastro.2018.04.034</pub-id>
-            <pub-id pub-id-type="pmid">29733831</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR22" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Vilar-Gomez</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name>
+                  <surname>Calzadilla-Bertot</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name>
+                  <surname>Wai-Sun Wong</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name>
+                  <surname>Castellanos</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Aller-de la Fuente</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name>
+                  <surname>Metwally</surname>
+                  <given-names>M</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Fibrosis severity as a determinant of cause-specific mortality in patients with advanced nonalcoholic fatty liver disease: a multi-national cohort study</article-title>
+              <source>Gastroenterology</source>
+              <year>2018</year>
+              <volume>155</volume>
+              <issue>2</issue>
+              <fpage>443</fpage>
+              <lpage>457.e17</lpage>
+              <pub-id pub-id-type="doi">10.1053/j.gastro.2018.04.034</pub-id>
+              <pub-id pub-id-type="pmid">29733831</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR22" publication-type="journal">Vilar-Gomez E, Calzadilla-Bertot L, Wai-Sun Wong V, Castellanos M, Aller-de la Fuente R, Metwally M, et al. Fibrosis severity as a determinant of cause-specific mortality in patients with advanced nonalcoholic fatty liver disease: a multi-national cohort study. Gastroenterology. 2018;155(2):443–57.e17.<pub-id pub-id-type="pmid">29733831</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR23">
           <label>23.</label>
@@ -932,167 +1021,187 @@ consent for research participation.
         </ref>
         <ref id="CR24">
           <label>24.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Arias</surname>
-                <given-names>E</given-names>
-              </name>
-              <name>
-                <surname>Xu</surname>
-                <given-names>J</given-names>
-              </name>
-            </person-group>
-            <article-title>United States life tables, 2017</article-title>
-            <source>Natl Vital Stat Rep</source>
-            <year>2019</year>
-            <volume>68</volume>
-            <issue>7</issue>
-            <fpage>1</fpage>
-            <lpage>66</lpage>
-            <pub-id pub-id-type="pmid">32501200</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR24" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Arias</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name>
+                  <surname>Xu</surname>
+                  <given-names>J</given-names>
+                </name>
+              </person-group>
+              <article-title>United States life tables, 2017</article-title>
+              <source>Natl Vital Stat Rep</source>
+              <year>2019</year>
+              <volume>68</volume>
+              <issue>7</issue>
+              <fpage>1</fpage>
+              <lpage>66</lpage>
+              <pub-id pub-id-type="pmid">32501200</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR24" publication-type="journal">Arias E, Xu J. United States life tables, 2017. Natl Vital Stat Rep. 2019;68(7):1–66.<pub-id pub-id-type="pmid">32501200</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR25">
           <label>25.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Rustgi</surname>
-                <given-names>VK</given-names>
-              </name>
-              <name>
-                <surname>Duff</surname>
-                <given-names>SB</given-names>
-              </name>
-              <name>
-                <surname>Elsaid</surname>
-                <given-names>MI</given-names>
-              </name>
-            </person-group>
-            <article-title>Cost-effectiveness and potential value of pharmaceutical treatment of nonalcoholic fatty liver disease</article-title>
-            <source>J Med Econ</source>
-            <year>2022</year>
-            <volume>25</volume>
-            <issue>1</issue>
-            <fpage>347</fpage>
-            <lpage>355</lpage>
-            <pub-id pub-id-type="doi">10.1080/13696998.2022.2026702</pub-id>
-            <pub-id pub-id-type="pmid">35034553</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR25" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Rustgi</surname>
+                  <given-names>VK</given-names>
+                </name>
+                <name>
+                  <surname>Duff</surname>
+                  <given-names>SB</given-names>
+                </name>
+                <name>
+                  <surname>Elsaid</surname>
+                  <given-names>MI</given-names>
+                </name>
+              </person-group>
+              <article-title>Cost-effectiveness and potential value of pharmaceutical treatment of nonalcoholic fatty liver disease</article-title>
+              <source>J Med Econ</source>
+              <year>2022</year>
+              <volume>25</volume>
+              <issue>1</issue>
+              <fpage>347</fpage>
+              <lpage>355</lpage>
+              <pub-id pub-id-type="doi">10.1080/13696998.2022.2026702</pub-id>
+              <pub-id pub-id-type="pmid">35034553</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR25" publication-type="journal">Rustgi VK, Duff SB, Elsaid MI. Cost-effectiveness and potential value of pharmaceutical treatment of nonalcoholic fatty liver disease. J Med Econ. 2022;25(1):347–55.<pub-id pub-id-type="pmid">35034553</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR26">
           <label>26.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Javanbakht</surname>
-                <given-names>M</given-names>
-              </name>
-              <name>
-                <surname>Fishman</surname>
-                <given-names>J</given-names>
-              </name>
-              <name>
-                <surname>Moloney</surname>
-                <given-names>E</given-names>
-              </name>
-              <name>
-                <surname>Rydqvist</surname>
-                <given-names>P</given-names>
-              </name>
-              <name>
-                <surname>Ansaripour</surname>
-                <given-names>A</given-names>
-              </name>
-            </person-group>
-            <article-title>Early cost-effectiveness and price threshold analyses of resmetirom: an investigational treatment for management of nonalcoholic steatohepatitis</article-title>
-            <source>Pharmacoecon Open</source>
-            <year>2023</year>
-            <volume>7</volume>
-            <issue>1</issue>
-            <fpage>93</fpage>
-            <lpage>110</lpage>
-            <pub-id pub-id-type="doi">10.1007/s41669-022-00370-2</pub-id>
-            <pub-id pub-id-type="pmid">36104546</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR26" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Javanbakht</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Fishman</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Moloney</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name>
+                  <surname>Rydqvist</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name>
+                  <surname>Ansaripour</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>Early cost-effectiveness and price threshold analyses of resmetirom: an investigational treatment for management of nonalcoholic steatohepatitis</article-title>
+              <source>Pharmacoecon Open</source>
+              <year>2023</year>
+              <volume>7</volume>
+              <issue>1</issue>
+              <fpage>93</fpage>
+              <lpage>110</lpage>
+              <pub-id pub-id-type="doi">10.1007/s41669-022-00370-2</pub-id>
+              <pub-id pub-id-type="pmid">36104546</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR26" publication-type="journal">Javanbakht M, Fishman J, Moloney E, Rydqvist P, Ansaripour A. Early cost-effectiveness and price threshold analyses of resmetirom: an investigational treatment for management of nonalcoholic steatohepatitis. Pharmacoecon Open. 2023;7(1):93–110.<pub-id pub-id-type="pmid">36104546</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR27">
           <label>27.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Clearfield</surname>
-                <given-names>E</given-names>
-              </name>
-              <name>
-                <surname>Miller</surname>
-                <given-names>V</given-names>
-              </name>
-              <name>
-                <surname>Nadglowski</surname>
-                <given-names>J</given-names>
-              </name>
-              <name>
-                <surname>Barradas</surname>
-                <given-names>K</given-names>
-              </name>
-              <name>
-                <surname>Al Naber</surname>
-                <given-names>J</given-names>
-              </name>
-              <name>
-                <surname>Sanyal</surname>
-                <given-names>AJ</given-names>
-              </name>
-              <etal/>
-            </person-group>
-            <article-title>coreNASH: multi-stakeholder consensus on core outcomes for decision making about nonalcoholic steatohepatitis treatment</article-title>
-            <source>Hepatol Commun</source>
-            <year>2021</year>
-            <volume>5</volume>
-            <issue>5</issue>
-            <fpage>774</fpage>
-            <lpage>785</lpage>
-            <pub-id pub-id-type="doi">10.1002/hep4.1678</pub-id>
-            <pub-id pub-id-type="pmid">34027268</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR27" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Clearfield</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name>
+                  <surname>Miller</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name>
+                  <surname>Nadglowski</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Barradas</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name>
+                  <surname>Al Naber</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Sanyal</surname>
+                  <given-names>AJ</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>coreNASH: multi-stakeholder consensus on core outcomes for decision making about nonalcoholic steatohepatitis treatment</article-title>
+              <source>Hepatol Commun</source>
+              <year>2021</year>
+              <volume>5</volume>
+              <issue>5</issue>
+              <fpage>774</fpage>
+              <lpage>785</lpage>
+              <pub-id pub-id-type="doi">10.1002/hep4.1678</pub-id>
+              <pub-id pub-id-type="pmid">34027268</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR27" publication-type="journal">Clearfield E, Miller V, Nadglowski J, Barradas K, Al Naber J, Sanyal AJ, et al. coreNASH: multi-stakeholder consensus on core outcomes for decision making about nonalcoholic steatohepatitis treatment. Hepatol Commun. 2021;5(5):774–85.<pub-id pub-id-type="pmid">34027268</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
         <ref id="CR28">
           <label>28.</label>
-          <element-citation publication-type="journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Hayes</surname>
-                <given-names>AJ</given-names>
-              </name>
-              <name>
-                <surname>Leal</surname>
-                <given-names>J</given-names>
-              </name>
-              <name>
-                <surname>Gray</surname>
-                <given-names>AM</given-names>
-              </name>
-              <name>
-                <surname>Holman</surname>
-                <given-names>RR</given-names>
-              </name>
-              <name>
-                <surname>Clarke</surname>
-                <given-names>PM</given-names>
-              </name>
-            </person-group>
-            <article-title>UKPDS outcomes model 2: a new version of a model to simulate lifetime health outcomes of patients with type 2 diabetes mellitus using data from the 30 year United Kingdom Prospective Diabetes Study: UKPDS 82</article-title>
-            <source>Diabetologia</source>
-            <year>2013</year>
-            <volume>56</volume>
-            <issue>9</issue>
-            <fpage>1925</fpage>
-            <lpage>1933</lpage>
-            <pub-id pub-id-type="doi">10.1007/s00125-013-2940-y</pub-id>
-            <pub-id pub-id-type="pmid">23793713</pub-id>
-          </element-citation>
+          <citation-alternatives>
+            <element-citation id="ec-CR28" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Hayes</surname>
+                  <given-names>AJ</given-names>
+                </name>
+                <name>
+                  <surname>Leal</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Gray</surname>
+                  <given-names>AM</given-names>
+                </name>
+                <name>
+                  <surname>Holman</surname>
+                  <given-names>RR</given-names>
+                </name>
+                <name>
+                  <surname>Clarke</surname>
+                  <given-names>PM</given-names>
+                </name>
+              </person-group>
+              <article-title>UKPDS outcomes model 2: a new version of a model to simulate lifetime health outcomes of patients with type 2 diabetes mellitus using data from the 30 year United Kingdom Prospective Diabetes Study: UKPDS 82</article-title>
+              <source>Diabetologia</source>
+              <year>2013</year>
+              <volume>56</volume>
+              <issue>9</issue>
+              <fpage>1925</fpage>
+              <lpage>1933</lpage>
+              <pub-id pub-id-type="doi">10.1007/s00125-013-2940-y</pub-id>
+              <pub-id pub-id-type="pmid">23793713</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR28" publication-type="journal">Hayes AJ, Leal J, Gray AM, Holman RR, Clarke PM. UKPDS outcomes model 2: a new version of a model to simulate lifetime health outcomes of patients with type 2 diabetes mellitus using data from the 30 year United Kingdom Prospective Diabetes Study: UKPDS 82. Diabetologia. 2013;56(9):1925–33.<pub-id pub-id-type="pmid">23793713</pub-id>
+</mixed-citation>
+          </citation-alternatives>
         </ref>
       </ref-list>
     </back>

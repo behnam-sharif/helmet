@@ -1,0 +1,1729 @@
+<pmc-articleset>
+  <article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.3">
+    <?properties open_access?>
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+      <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">BMC Health Serv Res</journal-id>
+        <journal-id journal-id-type="iso-abbrev">BMC Health Serv Res</journal-id>
+        <journal-title-group>
+          <journal-title>BMC Health Services Research</journal-title>
+        </journal-title-group>
+        <issn pub-type="epub">1472-6963</issn>
+        <publisher>
+          <publisher-name>BioMed Central</publisher-name>
+          <publisher-loc>London</publisher-loc>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmid">40025460</article-id>
+        <article-id pub-id-type="pmc">11871816</article-id>
+        <article-id pub-id-type="publisher-id">12431</article-id>
+        <article-id pub-id-type="doi">10.1186/s12913-025-12431-3</article-id>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Research</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>Cost-effectiveness and budget impact analysis of rivaroxaban with or without aspirin compared to aspirin alone in patients with coronary and peripheral artery diseases in Iran</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author" equal-contrib="yes">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7096-5276</contrib-id>
+            <name>
+              <surname>Goudarzi</surname>
+              <given-names>Zahra</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+          </contrib>
+          <contrib contrib-type="author" equal-contrib="yes">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0258-8015</contrib-id>
+            <name>
+              <surname>Najafpour</surname>
+              <given-names>Zhila</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff2">2</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1851-159X</contrib-id>
+            <name>
+              <surname>Gholami</surname>
+              <given-names>Ahmad</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff3">3</xref>
+            <xref ref-type="aff" rid="Aff4">4</xref>
+            <xref ref-type="aff" rid="Aff5">5</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5778-5502</contrib-id>
+            <name>
+              <surname>Keshavarz</surname>
+              <given-names>Khosro</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff1">1</xref>
+            <xref ref-type="aff" rid="Aff6">6</xref>
+          </contrib>
+          <contrib contrib-type="author" corresp="yes">
+            <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8851-2195</contrib-id>
+            <name>
+              <surname>Mojahedian</surname>
+              <given-names>Mohammad Mahdi</given-names>
+            </name>
+            <address>
+              <email>mahdimojahedian@gmail.com</email>
+            </address>
+            <xref ref-type="aff" rid="Aff7">7</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name>
+              <surname>Babayi</surname>
+              <given-names>Mohammad Mehdi</given-names>
+            </name>
+            <xref ref-type="aff" rid="Aff8">8</xref>
+          </contrib>
+          <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/01n3s4692</institution-id><institution-id institution-id-type="GRID">grid.412571.4</institution-id><institution-id institution-id-type="ISNI">0000 0000 8819 4698</institution-id><institution>Health Human Resources Research Center, Department of Health Economics, School of Health Management and Information Sciences, </institution><institution>Shiraz University of Medical Sciences, </institution></institution-wrap>Shiraz, Iran </aff>
+          <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/01rws6r75</institution-id><institution-id institution-id-type="GRID">grid.411230.5</institution-id><institution-id institution-id-type="ISNI">0000 0000 9296 6873</institution-id><institution>Department of Health Care Management, School of Public Health, </institution><institution>Ahvaz Jundishapur University of Medical Sciences, </institution></institution-wrap>Ahvaz, Iran </aff>
+          <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/01n3s4692</institution-id><institution-id institution-id-type="GRID">grid.412571.4</institution-id><institution-id institution-id-type="ISNI">0000 0000 8819 4698</institution-id><institution>Pharmaceutical Sciences Research Center, Faculty of Pharmacy, </institution><institution>Shiraz University of Medical Sciences, </institution></institution-wrap>Shiraz, Iran </aff>
+          <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/01n3s4692</institution-id><institution-id institution-id-type="GRID">grid.412571.4</institution-id><institution-id institution-id-type="ISNI">0000 0000 8819 4698</institution-id><institution>Biotechnology Research Center, </institution><institution>Shiraz University of Medical Sciences, </institution></institution-wrap>Shiraz, Iran </aff>
+          <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/01n3s4692</institution-id><institution-id institution-id-type="GRID">grid.412571.4</institution-id><institution-id institution-id-type="ISNI">0000 0000 8819 4698</institution-id><institution>Department of Pharmaceutical Biotechnology, School of Pharmacy, </institution><institution>Shiraz University of Medical Sciences, </institution></institution-wrap>Shiraz, Iran </aff>
+          <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/01n3s4692</institution-id><institution-id institution-id-type="GRID">grid.412571.4</institution-id><institution-id institution-id-type="ISNI">0000 0000 8819 4698</institution-id><institution>Emergency Medicine Research Center, Faculty of Medical Information and Management, </institution><institution>Shiraz University of Medical Sciences, </institution></institution-wrap>Shiraz, Iran </aff>
+          <aff id="Aff7"><label>7</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/03w04rv71</institution-id><institution-id institution-id-type="GRID">grid.411746.1</institution-id><institution-id institution-id-type="ISNI">0000 0004 4911 7066</institution-id><institution>Department of Clinical Pharmacy and Pharmacoeconomics, School of Pharmacy, </institution><institution>Iran University of Medical Sciences, </institution></institution-wrap>Tehran, Iran </aff>
+          <aff id="Aff8"><label>8</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/01n3s4692</institution-id><institution-id institution-id-type="GRID">grid.412571.4</institution-id><institution-id institution-id-type="ISNI">0000 0000 8819 4698</institution-id><institution>Faculty of Pharmacy, </institution><institution>Shiraz University of Medical Sciences, </institution></institution-wrap>Shiraz, Iran </aff>
+        </contrib-group>
+        <pub-date pub-type="epub">
+          <day>1</day>
+          <month>3</month>
+          <year>2025</year>
+        </pub-date>
+        <pub-date pub-type="pmc-release">
+          <day>1</day>
+          <month>3</month>
+          <year>2025</year>
+        </pub-date>
+        <pub-date pub-type="collection">
+          <year>2025</year>
+        </pub-date>
+        <volume>25</volume>
+        <elocation-id>326</elocation-id>
+        <history>
+          <date date-type="received">
+            <day>5</day>
+            <month>7</month>
+            <year>2024</year>
+          </date>
+          <date date-type="accepted">
+            <day>13</day>
+            <month>2</month>
+            <year>2025</year>
+          </date>
+        </history>
+        <permissions>
+          <copyright-statement>© The Author(s) 2025</copyright-statement>
+          <copyright-year>2025</copyright-year>
+          <license>
+            <ali:license_ref specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref>
+            <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>.</license-p>
+          </license>
+        </permissions>
+        <kwd-group xml:lang="en">
+          <title>Keywords</title>
+          <kwd>Cost-effectiveness</kwd>
+          <kwd>Cost-utility</kwd>
+          <kwd>CAD</kwd>
+          <kwd>PAD</kwd>
+          <kwd>Rivaroxaban</kwd>
+          <kwd>Aspirin</kwd>
+        </kwd-group>
+        <custom-meta-group>
+          <custom-meta>
+            <meta-name>issue-copyright-statement</meta-name>
+            <meta-value>© BioMed Central Ltd., part of Springer Nature 2025</meta-value>
+          </custom-meta>
+        </custom-meta-group>
+      </article-meta>
+    </front>
+    <body>
+      <sec id="Sec1">
+        <title>Background</title>
+        <p id="Par5">Atherosclerosis is one of the leading causes of morbidity and mortality in most countries [<xref ref-type="bibr" rid="CR1">1</xref>]. Peripheral artery disease (PAD), and Chronic coronary artery disease (CAD) result from atherosclerosis and occur by a buildup of plaque in the arteries. Atherosclerosis leads to coronary artery disease (CAD) by restricting blood flow to the heart, or peripheral artery disease (PAD), resulting in blockage and stenosis of noncerebral and noncoronary arteries, which impact the arteries of the lower limbs. The patients with PAD or CAD impose a substantial risk of atherothrombotic events, ischemic stroke (IS), and myocardial infarction (MI). PAD and CAD are reported to affect about 13% and 7.2% of people aged greater than 50 years [<xref ref-type="bibr" rid="CR2">2</xref>]. The prevalence of CAD and PAD disease in patients over 40 years old in the Iranian population is reported to be 21.8% and 9.8%, respectively [<xref ref-type="bibr" rid="CR3">3</xref>, <xref ref-type="bibr" rid="CR4">4</xref>]. Both lead to a considerable economic burden on the health system and society [<xref ref-type="bibr" rid="CR5">5</xref>].</p>
+        <p id="Par6">Risk reduction with antiplatelet and anticoagulant therapies are cornerstones in preventing ischemic and cardiovascular limb events. Treatment strategies for PAD have involved mainly statins and proper antithrombotic medications [<xref ref-type="bibr" rid="CR6">6</xref>]. Acetylsalicylic acid (aspirin) alone denotes the standard of care for preventing atherothrombotic events in the patients with chronic PAD or CAD. Despite the wide range of usage, aspirin, which is effective in preventing atherothrombotic events in patients with chronic PAD or CAD, related vascular events risk is still high [<xref ref-type="bibr" rid="CR7">7</xref>–<xref ref-type="bibr" rid="CR9">9</xref>].</p>
+        <p id="Par7">Novel anticoagulant drugs, such as Rivaroxaban were recommended to prevent and manage atherothrombotic events, such as stroke, venous thromboembolism (VTE), as well as systemic embolism events in atrial fibrillation in patients with CAD and PAD. In many studies, rivaroxaban, a selective direct Factor Xa inhibitor, has been recommended to treat stroke and venous thromboembolism (VTE) in patients with atrial fibrillation [<xref ref-type="bibr" rid="CR10">10</xref>–<xref ref-type="bibr" rid="CR12">12</xref>]. The outcomes of "the Cardiovascular Outcomes for People utilizing Anti-Coagulation Strategies (COMPASS)" trial within the 23 months observation indicated that rivaroxaban 2.5 mg daily twice plus aspirin had a positive effect of preventing atherothrombotic events in adult patients with PAD or CAD at higher risk of ischemic events compared with other treatment strategies [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR14">14</xref>]. Besides, Fitchett et al. reported a relative risk reduction in ischemic stroke (IS), cardiovascular death, or myocardial infarction (MI), and all-cause death by 20% [<xref ref-type="bibr" rid="CR15">15</xref>].</p>
+        <p id="Par8">Based on a health economics analysis, various therapeutic approaches have different costs for long-term management and initial treatments. Although there are few cost-effective strategies for rivaroxaban plus aspirin in PAD and CAD patients [<xref ref-type="bibr" rid="CR6">6</xref>, <xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR17">17</xref>]. The cost-effectiveness of Rivaroxaban compared with aspirin has not yet been determined in Iran. Because of high medical expenditure of rivaroxaban in Iran, adding an expensive new drug to the treatment regimen may put a significant financial burden on the patients and society. Thus, this paper aimed to approximate the costs, quality-adjusted life-years (QALYs), as well as cost-effectiveness of aspirin 100 mg alone with vs. Rivaroxaban 2.5 mg combined with aspirin 100 mg vs. Rivaroxaban 5 mg alone in patients with CAD, patients with PAD and in total CAD and PAD patients without separation.</p>
+      </sec>
+      <sec id="Sec2">
+        <title>Materials and methods</title>
+        <p id="Par9">This is an economic evaluation to study the cost-effectiveness and cost-utility of rivaroxaban with or without aspirin than aspirin alone in patients with PAD or CAD using the Markov model.</p>
+        <sec id="Sec3">
+          <title>Study population</title>
+          <p id="Par10">The target population was 10,000 hypothetical patients with two diseases, CAD and PAD, without drug contraindications, concomitant diseases, or simultaneous treatments. The average age of patients is 54 years based on the average age of this disease in Iran [<xref ref-type="bibr" rid="CR18">18</xref>]. Furthermore, based on COMPASS clinical trial studies, it was assumed that these patients had no higher bleeding risk, a recent history of stroke or hemorrhagic stroke, severe HF, advanced chronic kidney disease (estimated GFR less than 15 ml/min). Besides, they were assumed not to receive dual antiplatelet, anticoagulant, or other antithrombotic therapy with no cardiovascular conditions related to a poor prognosis [<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>].</p>
+        </sec>
+        <sec id="Sec4">
+          <title>Perspective</title>
+          <p id="Par11">The analysis of this study was done from the perspective of insurance, so only direct medical costs are included.</p>
+        </sec>
+        <sec id="Sec5">
+          <title>Comparators</title>
+          <p id="Par12">Three possible options are rivaroxaban only 5 mg twice a day, combined rivaroxaban 2.5 mg twice daily with aspirin 100 mg once a day, and an aspirin regimen only with a dose of 100 mg once a day, were considered.</p>
+        </sec>
+        <sec id="Sec6">
+          <title>Time horizon</title>
+          <p id="Par13">Early determination of clinical outcomes, and economic costs of CAD and PAD diseases is difficult. Therefore, the time horizon of the analysis with a cycle length of 3 months for 20 years (up to the life expectancy at birth in Iran) [<xref ref-type="bibr" rid="CR22">22</xref>] was used.</p>
+        </sec>
+        <sec id="Sec7">
+          <title>Discount rate</title>
+          <p id="Par14">Since the time horizon of study was a lifetime, discounting was necessary, and costs and utility values were discounted at a discount rate of 5.8% and 3%, respectively [<xref ref-type="bibr" rid="CR23">23</xref>].</p>
+        </sec>
+        <sec id="Sec8">
+          <title>Choice of outcomes measures</title>
+          <p id="Par15">Since CAD and PAD diseases affect the quality of life and longevity of patients, health consequences were evaluated based on effectiveness LYG (Life Years Gained), cost, incremental cost-effectiveness ratio (ICER), QALY, and incremental cost-utility ratio (ICUR).</p>
+        </sec>
+        <sec id="Sec9">
+          <title>Model structure</title>
+          <p id="Par16">A Markov model with three-month cycles was designed based on COMPASS clinical trial studies. Each cycle in Markov model had two conditions, such as acute events and states. The states include six scenarios: post-myocardial infarction (MI), stable cardiovascular diseases (CVDs) without clinical events, post-ischemic stroke (IS), post-heart failure (HF), post-hemorrhagic stroke (HS), and death. Thus, the acute events considered based on the most usual complications presented in the clinical trials in the model include recurrent CVDs (HS, MI, IS, acute limb ischemia [ALI], and cardiovascular death), non-recurrent CVDs, venous thromboembolism (VTE), HF, minor bleeding, major bleeding, and death. Markov model diagram is shown in Fig. <xref rid="Fig1" ref-type="fig">1</xref>.<fig id="Fig1"><label>Fig. 1</label><caption><p>Markov model diagram. CVD: Cardiovascular Disease, ALI: acute limb ischemia, HS: hemorrhagic stroke, HF: heart failure, IS: ischemic stroke, VTE: venous thromboembolism</p></caption><graphic xlink:href="12913_2025_12431_Fig1_HTML" id="MO1"/></fig></p>
+          <p id="Par17">Therefore, this model has assumptions: 1- All patients in the first cycle had stable CVD, and no clinical events happened in the first cycle. 2- For the patients who experienced events of VTE, ALI, major bleeding, or minor bleeding, treatment was discontinued for them for one month. 3- The patients who suffered MI stopped the diet, and dual antiplatelet drugs were prescribed. 4- The treatment effect was considered the same in all cycles. 5- The treatment conditions considered in the model were supposed to be independent and could not co-occur.</p>
+          <p id="Par18">ICUR results were used to determine the cost-utility of interventions with threshold amount in Iran, which was equal to 1 time of 15222 PPP dollars [<xref ref-type="bibr" rid="CR24">24</xref>]. All were done in Excel 2016 and Treeage 2020 software.</p>
+        </sec>
+        <sec id="Sec10">
+          <title>Resources and costs</title>
+          <sec id="Sec11">
+            <title>Price date, currency, and conversion</title>
+            <p id="Par19">Since this study was performed from the insurance perspective, only the direct medical costs were included. Three cardiology specialists extracted the number and type of medical services utilized by patients in two disease groups, CAD and PAD. To calculate the costs of medical services, we used the tariffs set by the Ministry of Health in Iran in 2022. Moreover, to get the prices of drugs from the official website of the Food and Drug Organization, with the link address irc.fda.gov.ir. The details of cost based on treatment events and states are given in Table <xref rid="Tab1" ref-type="table">1</xref>. PPP dollars were utilized for converting the rate of Rial to Dollar, where each dollar equals 30697 PPP dollars [<xref ref-type="bibr" rid="CR25">25</xref>].
+<table-wrap id="Tab1"><label>Table 1</label><caption><p>Model cost and utility inputs</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><bold>Variable</bold></th><th align="left"><bold>Base case</bold></th><th align="left"><bold>Standard deviation</bold></th><th align="left"><bold>distribution</bold></th><th align="left"><bold>ref</bold></th></tr></thead><tbody><tr><td align="left" colspan="5"><bold>Three months cost</bold></td></tr><tr><td align="left"> Rivaroxaban (2.5 mg twice per day)</td><td align="left">158</td><td align="left">31.6</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR26">26</xref>]</td></tr><tr><td align="left"> Rivaroxaban (5 mg twice per day)</td><td align="left">316</td><td align="left">63.2</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR26">26</xref>]</td></tr><tr><td align="left"> Aspirin (100 mg once per day)</td><td align="left">8.2</td><td align="left">1.64</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR26">26</xref>]</td></tr><tr><td align="left"> Stable cardiovascular diseases</td><td align="left">262</td><td align="left">52.4</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR27">27</xref>]</td></tr><tr><td align="left" colspan="5">Myocardial infarction</td></tr><tr><td align="left"> Event cost</td><td align="left">5406</td><td align="left">1081</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR27">27</xref>]</td></tr><tr><td align="left"> State cost</td><td align="left">292</td><td align="left">58.4</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR27">27</xref>]</td></tr><tr><td align="left" colspan="5">Ischemic stroke</td></tr><tr><td align="left"> Event cost</td><td align="left">2851</td><td align="left">570.2</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR27">27</xref>]</td></tr><tr><td align="left"> State cost</td><td align="left">583</td><td align="left">116.6</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR27">27</xref>]</td></tr><tr><td align="left" colspan="5">Hemorrhagic stroke</td></tr><tr><td align="left"> Event cost</td><td align="left">2912</td><td align="left">582.4</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR27">27</xref>]</td></tr><tr><td align="left"> State cost</td><td align="left">577</td><td align="left">115.4</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR27">27</xref>]</td></tr><tr><td align="left"> Acute limb ischemia</td><td align="left">4883</td><td align="left">976.6</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR27">27</xref>]</td></tr><tr><td align="left"> Venous thromboembolism</td><td align="left">2306</td><td align="left">461.2</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR27">27</xref>]</td></tr><tr><td align="left" colspan="5">Heart failure</td></tr><tr><td align="left"> Event cost</td><td align="left">3045</td><td align="left">609</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR27">27</xref>]</td></tr><tr><td align="left"> State cost</td><td align="left">1961</td><td align="left">392.2</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR27">27</xref>]</td></tr><tr><td align="left"> Major bleeding</td><td align="left">2745</td><td align="left">549</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR27">27</xref>]</td></tr><tr><td align="left"> Minor bleeding</td><td align="left">497</td><td align="left">99.4</td><td align="left">gamma</td><td align="left">[<xref ref-type="bibr" rid="CR27">27</xref>]</td></tr><tr><td align="left" colspan="5"><bold>Utility score</bold></td></tr><tr><td align="left"> Stable cardiovascular disease</td><td align="left">0.738</td><td align="left">0.073</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR28">28</xref>]</td></tr><tr><td align="left"> Myocardial infarction</td><td align="left">0.704</td><td align="left">0.07</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR28">28</xref>]</td></tr><tr><td align="left"> Ischemic stroke</td><td align="left">0.65</td><td align="left">0.065</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR28">28</xref>]</td></tr><tr><td align="left"> Hemorrhagic stroke</td><td align="left">0.65</td><td align="left">0.065</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR28">28</xref>]</td></tr><tr><td align="left"> Heart failure</td><td align="left">0.636</td><td align="left">0.063</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR28">28</xref>]</td></tr><tr><td align="left" colspan="5"><bold>Utility decrements for health events</bold></td></tr><tr><td align="left"> Acute limb ischemia</td><td align="left">−0.157</td><td align="left">0.016</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR29">29</xref>]</td></tr><tr><td align="left"> Venous thromboembolism</td><td align="left">−0.111</td><td align="left">0.01</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR29">29</xref>]</td></tr><tr><td align="left"> Decrement for major bleeding</td><td align="left">−0.181</td><td align="left">0.02</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR28">28</xref>]</td></tr><tr><td align="left"> Decrement for minor bleeding</td><td align="left">−0.058</td><td align="left">0.006</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR28">28</xref>]</td></tr><tr><td align="left"> Decrement for age</td><td align="left">−0.0016</td><td align="left">0.0007</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR28">28</xref>]</td></tr></tbody></table></table-wrap></p>
+          </sec>
+        </sec>
+        <sec id="Sec12">
+          <title>Utilities</title>
+          <p id="Par20">To extract the patients’ quality of life, the results of similar studies were used due to the lack of related paper in Iran. The utility values are considered the same in both treatment regimens. Clinical events that were not chronic, such as bleeding conditions, were considered to have disutility values. The utility values were adjusted based on the duration of model cycles. The utility values are provided in Table <xref rid="Tab1" ref-type="table">1</xref>.</p>
+        </sec>
+        <sec id="Sec13">
+          <title>Transition probabilities</title>
+          <p id="Par21">Transmission probabilities (probabilities of experiencing events) for the rivaroxaban plus aspirin arm, and the aspirin alone arm in CAD and PAD patients and total CAD and PAD patients were estimated from COMPASS clinical trials [<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]. Detailed data on how to derive transition probabilities are provided in Table <xref rid="Tab2" ref-type="table">2</xref>.
+<table-wrap id="Tab2"><label>Table 2</label><caption><p>Clinical data input</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><bold>Parameter</bold></th><th align="left"><bold>PAD</bold></th><th align="left"><bold>CAD</bold></th><th align="left"><bold>CAD and PAD</bold></th><th align="left"><bold>distribution</bold></th><th align="left"><bold>Ref</bold></th></tr></thead><tbody><tr><td align="left" colspan="6"><bold>Risk of acute main events in ASA arm, 3 month probability</bold></td></tr><tr><td align="left"> MI</td><td align="left">0.0027</td><td align="left">0.003</td><td align="left">0.0024</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> IS</td><td align="left">0.0015</td><td align="left">0.0012</td><td align="left">0.0016</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> HS</td><td align="left">0.00049</td><td align="left">0.0003</td><td align="left">0.00029</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> ALI</td><td align="left">0.0042</td><td align="left">0.0037</td><td align="left">0.0016</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> VTE</td><td align="left">0.00078</td><td align="left">0.0012</td><td align="left">0.0016</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> Major bleeding</td><td align="left">0.0008</td><td align="left">0.0012</td><td align="left">0.0016</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> Minor bleeding</td><td align="left">0.0031</td><td align="left">0.0037</td><td align="left">0.0049</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> CVD death</td><td align="left">0.0035</td><td align="left">0.0024</td><td align="left">0.0024</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left" colspan="6"><bold>Risk of acute main events in ASA + RIV arm, 3 month probability</bold></td></tr><tr><td align="left"> MI</td><td align="left">0.0024</td><td align="left">0.0025</td><td align="left">0.0016</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> IS</td><td align="left">0.0013</td><td align="left">0.0008</td><td align="left">0.0009</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> HS</td><td align="left">0.00056</td><td align="left">0.00036</td><td align="left">0.00029</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> ALI</td><td align="left">0.0018</td><td align="left">0.0018</td><td align="left">0.0008</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> VTE</td><td align="left">0.00051</td><td align="left">0.0008</td><td align="left">0.0008</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> Major bleeding</td><td align="left">0.0011</td><td align="left">0.0018</td><td align="left">0.0024</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> Minor bleeding</td><td align="left">0.0035</td><td align="left">0.0049</td><td align="left">0.0066</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> CVD death</td><td align="left">0.0036</td><td align="left">0.0018</td><td align="left">0.0019</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left" colspan="6"><bold>Risk of acute main events in RIV arm, 3 month probability</bold></td></tr><tr><td align="left"> MI</td><td align="left">NA</td><td align="left">0.0028</td><td align="left">0.002</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> IS</td><td align="left">NA</td><td align="left">0.001</td><td align="left">0.0013</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> HS</td><td align="left">NA</td><td align="left">0.00037</td><td align="left">0.00032</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> ALI</td><td align="left">NA</td><td align="left">0.003</td><td align="left">0.0012</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> VTE</td><td align="left">NA</td><td align="left">0.0008</td><td align="left">0.0009</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> Major bleeding</td><td align="left">NA</td><td align="left">0.0018</td><td align="left">0.0024</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> Minor bleeding</td><td align="left">NA</td><td align="left">0.0049</td><td align="left">0.0066</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr><tr><td align="left"> CVD death</td><td align="left">NA</td><td align="left">0.0024</td><td align="left">0.0022</td><td align="left">beta</td><td align="left">[<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]</td></tr></tbody></table><table-wrap-foot><p><italic>ASA</italic> aspirin, <italic>RIV</italic> rivaroxaban, <italic>CVD</italic> Cardiovascular Disease, <italic>ALI</italic> acute limb ischemia, <italic>HS</italic> hemorrhagic stroke, <italic>HF</italic> heart failure, <italic>IS</italic> ischemic stroke, <italic>VTE</italic> venous thromboembolism</p></table-wrap-foot></table-wrap></p>
+          <p id="Par22">Transmission probabilities based on COMPASS trial data for various clinical events were reported for 23 months. These probabilities should be converted to three-month probabilities based on model cycles, so this adjustment was made according to the study of Briggs et al. [<xref ref-type="bibr" rid="CR30">30</xref>]. The transmission probabilities for "death from no cardiovascular causes" were calculated by subtracting the probability of cardiovascular mortality from the probability of death from all causes in Iran. The transmission probabilities for deaths from no cardiovascular causes were dynamically calculated with increasing age in patients.</p>
+        </sec>
+        <sec id="Sec14">
+          <title>Sensitivity analysis</title>
+          <p id="Par23">Several sensitivities were analyzed to test the model assumptions, the uncertainty of the estimated values, and how different values of the variables affect the model outcome. One-way sensitivity analysis was carried out on all the usefulness, effectiveness, and cost variables of both treatment regimens within the acceptable ranges provided in above tables. From previous literature, the value ranges using 95% confidence intervals (CI) when available or calculating 20% ranges for cost data, and 10% was obtained for effectiveness and probabilities variables. Besides, a probabilistic sensitivity analysis (PSA) was conducted to assess the joint uncertainty in the model parameters on the cost-effectiveness results; 10000 ICER was calculated via Monte Carlo simulations and in PSA. All input variables were simultaneously changed with the determined distributions. In Monte Carlo simulation, beta distribution was utilized for utility values and probabilities, and gamma distribution was applied for costs. PSA results are shown in the cost-effectiveness acceptability curve and the scatterplot plane.</p>
+        </sec>
+        <sec id="Sec15">
+          <title>Budget impact analysis</title>
+          <p id="Par24">A budget impact analysis (BIA) was performed to assess the total annual financial burden of rivaroxaban use in CAD and PAD patients according to the costs resulting from the Markov model. Therefore, in the budget impact model, the overall treatment costs of patients (drug, diagnostic, visit, hospitalization, laboratory, etc.) in the group treated with aspirin alone, the combination of aspirin and rivaroxaban, and rivaroxaban alone were included. The impact of the budget from the perspective of the insurance organization was based on cost calculations from the cost-effectiveness model with a 5-year time horizon [<xref ref-type="bibr" rid="CR31">31</xref>, <xref ref-type="bibr" rid="CR32">32</xref>]. We extracted costs (costs related to event and treatment) from the model for each patient during one year for rivaroxaban alone, rivaroxaban with aspirin, and aspirin alone. The extracted costs per patient were multiplied by the total annual number of patients with PAD and CAD in Iran. Epidemiological information was used to calculate the number of people with PAD and CAD diseases in Iran. The prevalence rate of CAD in the age group of 45–75 years is 1% and in people over 75 years old is 4% [<xref ref-type="bibr" rid="CR33">33</xref>]. Also, the prevalence rate of PAD disease in the age group 40–70 years old is 4.2% and in people over 70 years old is 10% [<xref ref-type="bibr" rid="CR34">34</xref>]. The overall budget impact was calculated by assuming a 5%, 10%, 15%, 20% and 25% uptake of rivaroxaban from reference aspirin in years 1, 2, 3, 4 and 5, respectively.</p>
+        </sec>
+      </sec>
+      <sec id="Sec16">
+        <title>Result</title>
+        <sec id="Sec17">
+          <title>Base case analysis</title>
+          <p id="Par25">In CAD patients, for the rivaroxaban regimen alone, QALY value obtained was 15.06, and LYG value was 18.16, higher than the amount of QALY and LYG obtained in the other two treatments.</p>
+          <p id="Par26">The costs of the rivaroxaban group and the mixture of rivaroxaban with aspirin had higher treatment costs, offset partially by reducing other medical care costs in terms of complications. Therefore, direct medical cost in PAD and CAD patients, and the total of CAD and PAD patients for the combination regimen of rivaroxaban with aspirin than aspirin alone was equal to 1937, 2845, and 2255 dollars, respectively.</p>
+          <p id="Par27">The ratio of ICER and ICUR from comparing the combined regimen (rivaroxaban with aspirin) with rivaroxaban and aspirin alone was lower significantly in PAD and CAD patients with an amount of 3348 and 4594 than in other two disease groups. ICER and ICUR indices for the two regimens of rivaroxaban alone, in comparison to aspirin alone, were below the threshold of $15,222 for total PAD and CAD patients. In CAD patients, the combination of rivaroxaban and aspirin was neither more cost-effective nor more cost-utility. In contrast, in CAD patients, for the regimen of rivaroxaban alone, ICER was close to the threshold, and ICUR was below the threshold. PAD patients with the combined regimen of rivaroxaban and aspirin have benefited from the cost-utility necessary and cost -effectiveness compared to aspirin. Table <xref rid="Tab3" ref-type="table">3</xref> displays the outcomes of cost-effectiveness and cost-effectiveness analysis.
+<table-wrap id="Tab3"><label>Table 3</label><caption><p>The cost utility and cost-effectiveness analysis results</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2"><bold>Items</bold></th><th align="left" colspan="2"><bold>PAD</bold></th><th align="left" colspan="3"><bold>CAD</bold></th><th align="left" colspan="3"><bold>CAD &amp; PAD</bold></th></tr><tr><th align="left"><bold>RIV + ASA</bold></th><th align="left"><bold>ASA</bold></th><th align="left"><bold>RIV + ASA</bold></th><th align="left"><bold>ASA</bold></th><th align="left"><bold>RIV</bold></th><th align="left"><bold>RIV + ASA</bold></th><th align="left"><bold>ASA</bold></th><th align="left"><bold>RIV</bold></th></tr></thead><tbody><tr><td align="left">Treatment cost</td><td align="left">6132</td><td align="left">4196</td><td align="left">8745</td><td align="left">5900</td><td align="left">11,000</td><td align="left">6790</td><td align="left">4535</td><td align="left"><bold>8801</bold></td></tr><tr><td align="left">Treatment effect (QALY)</td><td align="left">12.67</td><td align="left">12.5</td><td align="left">14.82</td><td align="left">14.72</td><td align="left">15.06</td><td align="left">11.52</td><td align="left">11.03</td><td align="left"><bold>11.35</bold></td></tr><tr><td align="left">Treatment effect (LYG)</td><td align="left">15.26</td><td align="left">15.07</td><td align="left">17.86</td><td align="left">17.75</td><td align="left">18.16</td><td align="left">15.79</td><td align="left">15.12</td><td align="left"><bold>15.55</bold></td></tr><tr><td align="left">Incr cost</td><td align="left">1937</td><td align="left">NA</td><td align="left">2845</td><td align="left">NA</td><td align="left">5509</td><td align="left">2255</td><td align="left">NA</td><td align="left"><bold>4266</bold></td></tr><tr><td align="left">Incr effect (QALY)</td><td align="left">0.16</td><td align="left">NA</td><td align="left">0.09</td><td align="left">NA</td><td align="left">0.034</td><td align="left">0.49</td><td align="left">NA</td><td align="left"><bold>0.31</bold></td></tr><tr><td align="left">Incr effect (LYG)</td><td align="left">0.2</td><td align="left">NA</td><td align="left">0.12</td><td align="left">NA</td><td align="left">0.29</td><td align="left">0.67</td><td align="left">NA</td><td align="left"><bold>0.43</bold></td></tr><tr><td align="left">ICUR</td><td align="left">11929</td><td align="left">NA</td><td align="left">30539</td><td align="left">NA</td><td align="left">15141</td><td align="left">4594</td><td align="left">NA</td><td align="left"><bold>13601</bold></td></tr><tr><td align="left">ICER</td><td align="left">9896</td><td align="left">NA</td><td align="left">24728</td><td align="left">NA</td><td align="left">12473</td><td align="left">3348</td><td align="left">NA</td><td align="left"><bold>9901</bold></td></tr></tbody></table><table-wrap-foot><p><italic>ASA</italic> aspirin, <italic>RIV</italic> rivaroxaban, <italic>Incr</italic> Incremental, <italic>QALY</italic> Quality-adjusted life year, <italic>LYG</italic> Life Years Gain, <italic>ICER</italic> Incremental Cost-Effectiveness Ratio, <italic>ICUR</italic> Incremental Cost-Utility Ratio</p></table-wrap-foot></table-wrap></p>
+        </sec>
+        <sec id="Sec18">
+          <title>Sensitivity analysis</title>
+          <sec id="Sec19">
+            <title>One-way sensitivity analyses</title>
+            <p id="Par28">One-way sensitivity results were shown in Fig. <xref rid="Fig2" ref-type="fig">2</xref>. In patients with PAD or CAD, rivaroxaban price, the favorability state in a stable CVD state, and the probability of significant bleeding in the aspirin regimen were the most sensitive. However, the ICUR results for the rivaroxaban regimen combined with aspirin in PAD patients remain unchanged, and the ICUR remains below the threshold. Nevertheless, the model is highly susceptible to changes in the rivaroxaban arm in CAD disease due to the fact that the ICUR is nearly the threshold. In total, ICUR in CAD and PAD patients were most sensitive to the rivaroxaban price, the probability of death in an aspirin regimen, and the utility amount in a stable CVD state. However, these changes did not change the ICUR results from the combined regimen of rivaroxaban with aspirin. However, they led to changes in ICUR in the rivaroxaban regimen only above threshold limit.<fig id="Fig2"><label>Fig. 2</label><caption><p>Tornado chart of the one-way deterministic analyses. The included populations are A&amp;B: CAD; C&amp;D: CAD &amp; PAD; E: PAD. The red bar on the right side of the threshold shows the increasing changes in the variables related to rivaroxaban or rivaroxaban + aspirin treatment and the blue bar indicate the decreasing changes related to the aspirin treatment variables. P:probability, mjb: major, RIV: rivaroxaban, ASP: aspirin, CVD: Cardiovascular Disease, ALI: acute limb ischemia, HS: hemorrhagic stroke, HF: heart failure, IS: ischemic stroke, VTE: venous thromboembolism</p></caption><graphic xlink:href="12913_2025_12431_Fig2_HTML" id="MO2"/></fig></p>
+          </sec>
+        </sec>
+        <sec id="Sec20">
+          <title>Probabilistic sensitivity analysis</title>
+          <p id="Par29">Probabilistic sensitivity analysis (PSA) was utilized to determine the model's uncertainties. The results showed that in CAD patients, the combination regimen of rivaroxaban with aspirin is only cost-effective in 28% of cases, and the rivaroxaban regimen is more cost-effective in 50% of cases than aspirin alone. The combined regimen of rivaroxaban with aspirin was compared to aspirin in 80% of CAD and PAD patients, and the rivaroxaban regimen was below the threshold in only 55% of cases. Therefore, in 59% of cases, the cost-effectiveness results were in favor of the combination regimen of aspirin and rivaroxaban in PAD patients (Fig. <xref rid="Fig3" ref-type="fig">3</xref>).<fig id="Fig3"><label>Fig. 3</label><caption><p>Scatter plot of PSA. Populations included are A&amp;B: CAD; C&amp;D: CAD &amp; PAD; E: PAD. In the scatter plot diagram, all points in the northeast and below the threshold, southeast and southwest and above the threshold are cost-effective points</p></caption><graphic xlink:href="12913_2025_12431_Fig3_HTML" id="MO3"/></fig></p>
+        </sec>
+        <sec id="Sec21">
+          <title>Acceptability curve</title>
+          <p id="Par30">In combination with aspirin, rivaroxaban is a preferred treatment strategy (cost-effectiveness) based on the willingness to pay threshold in two nodes of PAD patients and the total of CAD and PAD patients according to the result of acceptability curve Fig. <xref rid="Fig4" ref-type="fig">4</xref>. In CAD patients, the rivaroxaban regimen is close to the willingness to pay threshold and has a slightly lower preference than the aspirin regimen alone.<fig id="Fig4"><label>Fig. 4</label><caption><p>Monte Carlo Simulation cost effectiveness Acceptability curve at WTP. Populations included are A: CAD; B: PAD; C: CAD &amp; PAD</p></caption><graphic xlink:href="12913_2025_12431_Fig4_HTML" id="MO4"/></fig></p>
+        </sec>
+        <sec id="Sec22">
+          <title>Budget impact analysis</title>
+          <p id="Par31">According to the results of BIA, after covering the combination regimen of rivaroxaban plus aspirin by insurance system, it causes an increasing trend in<italic> costs</italic> in the years 2023 to 2027 included 0.06%, 0.12%, 0.19%, 25%, and 31% respectively. In other words, adding rivaroxaban combination with aspirin regimen to the treatment portfolio of patients with CAD and PAD will increase the health system's costs by $28,253,135 in 5 years. Also, if we consider the scenario where patients with rivaroxaban are treated alone, this increase in budget for the insurance organization will be $292,593,909 at the end of 5 years. Table <xref rid="Tab4" ref-type="table">4</xref> shows the budgetary impact of rivaroxaban drug coverage on insurance organizations from 2023 to 2027.
+<table-wrap id="Tab4"><label>Table 4</label><caption><p>The results of the budget effect analysis</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Year</th><th align="left">2023</th><th align="left">2024</th><th align="left">2025</th><th align="left">2026</th><th align="left">2027</th></tr></thead><tbody><tr><td align="left">Iran population</td><td align="left">86369815</td><td align="left">87406253</td><td align="left">88455128</td><td align="left">89516589</td><td align="left">90928011</td></tr><tr><td align="left">number of patients of CAD</td><td align="left">265452</td><td align="left">268606</td><td align="left">271761</td><td align="left">274916</td><td align="left">278071</td></tr><tr><td align="left">number of patients of PAD</td><td align="left">1373438</td><td align="left">1389760</td><td align="left">1406083</td><td align="left">1422405</td><td align="left">1438727</td></tr><tr><td align="left">RIV or RIV + ASA market share</td><td align="left">0.05</td><td align="left">0.1</td><td align="left">0.15</td><td align="left">0.2</td><td align="left">0.25</td></tr><tr><td align="left">Scenario 1(without rivaroxaban)</td><td align="left">28845445</td><td align="left">29192370</td><td align="left">29539294</td><td align="left">29886218</td><td align="left">30233143</td></tr><tr><td align="left">Scenario 2 (with rivaroxaban + aspirin)</td><td align="left">30665093</td><td align="left">32875432</td><td align="left">35212593</td><td align="left">37427419</td><td align="left">39769067</td></tr><tr><td align="left">Scenario 3(with rivaroxaban alone)</td><td align="left">33481567</td><td align="left">38576126</td><td align="left">43993804</td><td align="left">49099797</td><td align="left">54528909</td></tr><tr><td align="left">financial impact in scenario 1&amp;2</td><td align="left">1819648 (.06%)</td><td align="left">3683062 (12%)</td><td align="left">5673299 (19%)</td><td align="left">7541201 (25%)</td><td align="left">9535925 (31%)</td></tr><tr><td align="left">financial impact in scenario 1&amp;3</td><td align="left">4636121 (16%)</td><td align="left">9383757 (32%)</td><td align="left">14454510 (50%)</td><td align="left">19213578 (64%)</td><td align="left">24295766 (80%)</td></tr></tbody></table></table-wrap></p>
+        </sec>
+      </sec>
+      <sec id="Sec23">
+        <title>Discussion</title>
+        <p id="Par32">In this work, we conducted the cost utility and cost-effectiveness of Rivaroxaban plus aspirin in comparison to Rivaroxaban and aspirin alone in patients with CAD and PAD in Iran. Based on our knowledge, the cost-effectiveness of Rivaroxaban compared with aspirin was not determined in Iran. Therefore, we analyzed the cost-effectiveness in three group of patients, including patients with PAD, CAD, and patients with PAD and CAD with three different regimens.</p>
+        <p id="Par33">Rivaroxaban plus aspirin was more effective than others in the base case analysis, with average QALYs and LYG of 15.79 and 11.52 in PAD and CAD patients, respectively. Similarly, this result was confirmed in PAD patients with average QALYs of 12.67. Based on a recent systematic review of Randomized Controlled Trials, adding Rivaroxaban to the aspirin regimen than aspirin alone led to reduced cardiovascular disease in patients with CAD and PAD. Although they recommended low doses of aspirin to fall thromboxane-dependent platelet activation [<xref ref-type="bibr" rid="CR35">35</xref>]. It is strongly confirmed that Rivaroxaban plus aspirin would be a significant advance in managing patients with PAD and CAD [<xref ref-type="bibr" rid="CR36">36</xref>]. In our analysis, rivaroxaban combined with aspirin in patients with CAD was not cost-effective, and treatment with rivaroxaban alone had higher QALYs (15.06) and LYG (18.16) than other regimens. The sensitivity analysis confirmed the finding. It might relate to higher probabilities of major bleeding and mortality in CAD patients.</p>
+        <p id="Par34">Our analysis found in CAD and PAD patients, adding Rivaroxaban to an aspirin regimen was associated with higher medical expenses than aspirin alone. The cost difference is mainly because of the difference in the Rivaroxaban price compared with aspirin in Iran. In contrast, the financial burden will be reduced due to the low probability of thromboembolic events in CAD and PAD patients following the use of Rivaroxaban. It is noteworthy that rivaroxaban versus aspirin alone can save over $537,174 per year in the USA since treatment with rivaroxaban was related to the lowering risk of complications, major adverse CV events (MACE), myocardial infarction, and major adverse limb events (MALE), and acute limb ischemia, and amputation resulting from vascular events [<xref ref-type="bibr" rid="CR16">16</xref>]; in patients with PAD and CAD.</p>
+        <p id="Par35">One of the significant results of our study is that rivaroxaban combined with aspirin than aspirin and rivaroxaban alone is related to an increase in QALYs and costs in CAD or PAD patients. In other words, the ICER for rivaroxaban in conjunction with aspirin was 4594 per QALY gained in CAD and PAD patients, which was lower than the threshold of $15222 per QALY. Similarly, this finding is verified in individuals with PAD. Although, in CAD patients, rivaroxaban combined with aspirin alone, with $30539 per QALY gained, was not cost-effective. Then, we found that the proposed regimen is more cost-effective than aspirin and Rivaroxaban alone in all patients with CAD and PAD in Iran. This result was compatible with other economic analyses in different countries like Australia [<xref ref-type="bibr" rid="CR17">17</xref>, <xref ref-type="bibr" rid="CR37">37</xref>], the USA [<xref ref-type="bibr" rid="CR16">16</xref>], Italy [<xref ref-type="bibr" rid="CR29">29</xref>], and the Netherlands [<xref ref-type="bibr" rid="CR38">38</xref>]. For example, in Australia, rivaroxaban plus aspirin was considered more cost-effective than aspirin alone in preventing major adverse limb events in patients with PAD or CAD. They reported an ICER of AU$26,769 per QALY. Another study in Australia perspective reported an ICER per QALY gain of $17,764 that was introduced as a cost-effective treatment. A Dutch study indicated rivaroxaban combined with aspirin is a cost-effective treatment strategy in stable PAD or CAD patients.</p>
+        <p id="Par36">Based on the sensitivity analysis, the model was sensible to the cost of rivaroxaban and the utility of CVD state parameters. The ICER of rivaroxaban plus aspirin was cost-effective in PAD patients and patients with PAD and CAD, despite the fact that the parameters were varied. The PSA also showed that the rivaroxaban + aspirin was cost-effective in 80% and 59% of simulations in PAD patients and patients with PAD and CAD who were below the threshold. In this regard, our finding is in line with Lamy et al. [<xref ref-type="bibr" rid="CR39">39</xref>], Ademi et al. [<xref ref-type="bibr" rid="CR37">37</xref>] and Jia et al. [<xref ref-type="bibr" rid="CR40">40</xref>].</p>
+        <p id="Par37">Since the lack of a cost-efficiency threshold in Iran, we considered a threshold of 15222 dollars per QALY gained based on WHO recommendation for developing countries. In general, proposed regimen will generate more benefits for the patients with PAD and CAD. In this area, a question arises about how much the Iranian health insurance organization will allocate based on three scenarios. For this reason, we conducted a BIA. Based on the results, the proposed regimen, rivaroxaban plus aspirin, will increase the insurance system costs by 87% in 2027. However, the value for the mentioned regimen than rivaroxaban alone has a lower financial burden and a higher clinical impact.</p>
+        <p id="Par38">The present study faced several limitations. First, our study analysis was based on the COMPASS population. This may differ from a real-world population as a test population. Nevertheless, real-world populations are at higher risk generally for health events, and rivaroxaban plus aspirin may be even more cost-effective. Nevertheless, all input parameters were examined in different sensitivity analyses and did not change the results of the pharmacological conclusions. Second, Iran reached no general consensus on the WTP threshold, and the cost-effectiveness results may change at different thresholds [<xref ref-type="bibr" rid="CR41">41</xref>]. Third, current analysis was conducted based on the insurance system, and only direct medical costs were included. But, considering the effect of these treatments on reducing the complications of cardiovascular events, the pharmacological benefits need to be comprehensively evaluated, by considering parameters from a social perspective, like social services, reducing productivity, and the quality of life required. Fourth, according to the model structure, there is a probability of cardiovascular events in the form of primary and secondary recurrence, but because the studies did not report the state of primary and secondary recurrence separately, we equate the probability of secondary recurrence with the probability of primary recurrence.</p>
+      </sec>
+      <sec id="Sec24">
+        <title>Conclusions</title>
+        <p id="Par39">Based on clinical data from the COMPASS trial within the 23 month observation period and a readiness to pay 15222 dollars per QALY gained, our results indicate Rivaroxaban (2.5 mg two times daily) plus aspirin (100 mg once daily) is cost-effective to treat patients with CAD and PAD in Iran. Based on PSA results, the cost-effectiveness of the proposed regimen was confirmed at 80% in patients with PAD and CAD but only 59% in patients with PAD. However, the proposed regimen had a considerable impact on the insurance companies. We recommend this treatment regimen in clinical care and future research since positive clinical impact on patients with CAD and PAD.</p>
+      </sec>
+    </body>
+    <back>
+      <fn-group>
+        <fn>
+          <p>
+            <bold>Publisher’s Note</bold>
+          </p>
+          <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+        </fn>
+        <fn>
+          <p>Zahra Goudarzi and Zhila Najafpour contributed equally to this work and share first authorship.</p>
+        </fn>
+      </fn-group>
+      <notes notes-type="author-contribution">
+        <title>Authors’ contributions</title>
+        <p>ZA, ZN, and MM designed the study. ZG, MB, KK gathered the required data. ZG, MM, ZN and AG analysed and interpreted the results. ZG, ZN and KK prepared the first report draft. The ultimate version and responsibility for its content were approved by all authors.</p>
+      </notes>
+      <notes notes-type="funding-information">
+        <title>Funding</title>
+        <p>No funding.</p>
+      </notes>
+      <notes notes-type="data-availability">
+        <title>Data availability</title>
+        <p>The datasets used during the current study are available fromthe corresponding author on reasonable request.</p>
+      </notes>
+      <notes>
+        <title>Declarations</title>
+        <notes id="FPar1">
+          <title>Ethics approval and consent to participate</title>
+          <p id="Par40">Ethical approval for this work was achieved from Ethics Committee of the Shiraz University of Medical Sciences (ethic number: IR.SUMS.REC.1401.314). In this study, we did not use patient samples, so participant consent was not required.</p>
+        </notes>
+        <notes id="FPar2">
+          <title>Consent for publication</title>
+          <p id="Par41">Not applicable.</p>
+        </notes>
+        <notes id="FPar3" notes-type="COI-statement">
+          <title>Competing interests</title>
+          <p id="Par42">The authors declare no competing interests.</p>
+        </notes>
+      </notes>
+      <ref-list id="Bib1">
+        <title>References</title>
+        <ref id="CR1">
+          <label>1.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR1" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Tsui</surname>
+                  <given-names>PF</given-names>
+                </name>
+                <name>
+                  <surname>Lin</surname>
+                  <given-names>CS</given-names>
+                </name>
+                <name>
+                  <surname>Ho</surname>
+                  <given-names>LJ</given-names>
+                </name>
+                <name>
+                  <surname>Lai</surname>
+                  <given-names>JH</given-names>
+                </name>
+              </person-group>
+              <article-title>Spices and atherosclerosis</article-title>
+              <source>Nutrients</source>
+              <year>2018</year>
+              <volume>10</volume>
+              <issue>11</issue>
+              <fpage>1724</fpage>
+              <pub-id pub-id-type="doi">10.3390/nu10111724</pub-id>
+              <pub-id pub-id-type="pmid">30423840</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR1" publication-type="journal">Tsui PF, Lin CS, Ho LJ, Lai JH. Spices and atherosclerosis. Nutrients. 2018;10(11):1724.<pub-id pub-id-type="pmid">30423840</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR2">
+          <label>2.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR2" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Bauersachs</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name>
+                  <surname>Zeymer</surname>
+                  <given-names>U</given-names>
+                </name>
+                <name>
+                  <surname>Brière</surname>
+                  <given-names>JB</given-names>
+                </name>
+                <name>
+                  <surname>Marre</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name>
+                  <surname>Bowrin</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name>
+                  <surname>Huelsebeck</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>Burden of coronary artery disease and peripheral artery disease: a literature review</article-title>
+              <source>Cardiovasc Ther</source>
+              <year>2019</year>
+              <volume>2019</volume>
+              <fpage>8295054</fpage>
+              <pub-id pub-id-type="doi">10.1155/2019/8295054</pub-id>
+              <pub-id pub-id-type="pmid">32099582</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR2" publication-type="journal">Bauersachs R, Zeymer U, Brière JB, Marre C, Bowrin K, Huelsebeck M. Burden of coronary artery disease and peripheral artery disease: a literature review. Cardiovasc Ther. 2019;2019:8295054.<pub-id pub-id-type="pmid">32099582</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR3">
+          <label>3.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR3" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Ebrahimi</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Kazemi-Bajestani</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name>
+                  <surname>Ghayour-Mobarhan</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Ferns</surname>
+                  <given-names>G</given-names>
+                </name>
+              </person-group>
+              <article-title>Coronary artery disease and its risk factors status in Iran: a review</article-title>
+              <source>Iran Red Crescent Med J</source>
+              <year>2011</year>
+              <volume>13</volume>
+              <issue>9</issue>
+              <fpage>610</fpage>
+              <pub-id pub-id-type="doi">10.5812/kowsar.20741804.2286</pub-id>
+              <pub-id pub-id-type="pmid">24069531</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR3" publication-type="journal">Ebrahimi M, Kazemi-Bajestani S, Ghayour-Mobarhan M, Ferns G. Coronary artery disease and its risk factors status in Iran: a review. Iran Red Crescent Med J. 2011;13(9):610.<pub-id pub-id-type="pmid">24069531</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR4">
+          <label>4.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR4" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Soheilykhah</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name>
+                  <surname>Rashidi</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Dehghan</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name>
+                  <surname>Kiani</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name>
+                  <surname>Dara</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name>
+                  <surname>Souzani</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name>
+                  <surname>Rahimi-Saghand</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Prevalence of peripheral arterial disease in diabetic patients</article-title>
+              <source>Iranian J Diab Obes</source>
+              <year>2012</year>
+              <volume>4</volume>
+              <issue>3</issue>
+              <fpage>114</fpage>
+              <lpage>119</lpage>
+            </element-citation>
+            <mixed-citation id="mc-CR4" publication-type="journal">Soheilykhah S, Rashidi M, Dehghan F, Kiani G, Dara N, Souzani A, Rahimi-Saghand S. Prevalence of peripheral arterial disease in diabetic patients. Iranian J Diab Obes. 2012;4(3):114–9.</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR5">
+          <label>5.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR5" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Emery</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name>
+                  <surname>Torreton</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name>
+                  <surname>Briere</surname>
+                  <given-names>J-B</given-names>
+                </name>
+                <name>
+                  <surname>Evers</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name>
+                  <surname>Fagnani</surname>
+                  <given-names>F</given-names>
+                </name>
+              </person-group>
+              <article-title>Economic burden of coronary artery disease or peripheral artery disease in patients at high risk of ischemic events in the French setting: a claims database analysis</article-title>
+              <source>J Med Econ</source>
+              <year>2020</year>
+              <volume>23</volume>
+              <issue>5</issue>
+              <fpage>513</fpage>
+              <lpage>520</lpage>
+              <pub-id pub-id-type="doi">10.1080/13696998.2020.1715415</pub-id>
+              <pub-id pub-id-type="pmid">31928390</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR5" publication-type="journal">Emery C, Torreton E, Briere J-B, Evers T, Fagnani F. Economic burden of coronary artery disease or peripheral artery disease in patients at high risk of ischemic events in the French setting: a claims database analysis. J Med Econ. 2020;23(5):513–20.<pub-id pub-id-type="pmid">31928390</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR6">
+          <label>6.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR6" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Tsilimigras</surname>
+                  <given-names>DI</given-names>
+                </name>
+                <name>
+                  <surname>Moris</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name>
+                  <surname>Karaolanis</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name>
+                  <surname>Kakkos</surname>
+                  <given-names>SK</given-names>
+                </name>
+                <name>
+                  <surname>Filis</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name>
+                  <surname>Sigala</surname>
+                  <given-names>F</given-names>
+                </name>
+              </person-group>
+              <article-title>Rivaroxaban versus clopidogrel for peripheral artery disease: a clinico-economic approach of the COMPASS trial</article-title>
+              <source>Curr Pharm Des</source>
+              <year>2018</year>
+              <volume>24</volume>
+              <issue>38</issue>
+              <fpage>4516</fpage>
+              <lpage>4517</lpage>
+              <pub-id pub-id-type="doi">10.2174/1381612825666190101100832</pub-id>
+              <pub-id pub-id-type="pmid">30621559</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR6" publication-type="journal">Tsilimigras DI, Moris D, Karaolanis G, Kakkos SK, Filis K, Sigala F. Rivaroxaban versus clopidogrel for peripheral artery disease: a clinico-economic approach of the COMPASS trial. Curr Pharm Des. 2018;24(38):4516–7.<pub-id pub-id-type="pmid">30621559</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR7">
+          <label>7.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR7" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Mancini</surname>
+                  <given-names>GJ</given-names>
+                </name>
+                <name>
+                  <surname>Gosselin</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name>
+                  <surname>Chow</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name>
+                  <surname>Kostuk</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name>
+                  <surname>Stone</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Yvorchuk</surname>
+                  <given-names>KJ</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Canadian cardiovascular society guidelines for the diagnosis and management of stable ischemic heart disease</article-title>
+              <source>Can J Cardiol</source>
+              <year>2014</year>
+              <volume>30</volume>
+              <issue>8</issue>
+              <fpage>837</fpage>
+              <lpage>849</lpage>
+              <pub-id pub-id-type="doi">10.1016/j.cjca.2014.05.013</pub-id>
+              <pub-id pub-id-type="pmid">25064578</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR7" publication-type="journal">Mancini GJ, Gosselin G, Chow B, Kostuk W, Stone J, Yvorchuk KJ, et al. Canadian cardiovascular society guidelines for the diagnosis and management of stable ischemic heart disease. Can J Cardiol. 2014;30(8):837–49.<pub-id pub-id-type="pmid">25064578</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR8">
+          <label>8.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR8" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Cohnert</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name>
+                  <surname>Collet</surname>
+                  <given-names>J-P</given-names>
+                </name>
+                <name>
+                  <surname>Czerny</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>2017 ESC Guidelines on the diagnosis and treatment of peripheral arterial diseases, in collaboration with the European Society for Vascular Surgery (ESVS)</article-title>
+              <source>Eur Heart J</source>
+              <year>2018</year>
+              <volume>39</volume>
+              <fpage>763</fpage>
+              <lpage>821</lpage>
+              <pub-id pub-id-type="doi">10.1093/eurheartj/ehx095</pub-id>
+              <pub-id pub-id-type="pmid">28886620</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR8" publication-type="journal">Cohnert T, Collet J-P, Czerny M. 2017 ESC Guidelines on the diagnosis and treatment of peripheral arterial diseases, in collaboration with the European Society for Vascular Surgery (ESVS). Eur Heart J. 2018;39:763–821.<pub-id pub-id-type="pmid">28886620</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR9">
+          <label>9.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR9" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Baigent</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name>
+                  <surname>Blackwell</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name>
+                  <surname>Collins</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name>
+                  <surname>Emberson</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Godwin</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Peto</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Aspirin in the primary and secondary prevention of vascular disease: collaborative meta-analysis of individual participant data from randomised trials</article-title>
+              <source>Lancet</source>
+              <year>2009</year>
+              <volume>373</volume>
+              <issue>9678</issue>
+              <fpage>1849</fpage>
+              <lpage>1860</lpage>
+              <pub-id pub-id-type="doi">10.1016/S0140-6736(09)60503-1</pub-id>
+              <pub-id pub-id-type="pmid">19482214</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR9" publication-type="journal">Baigent C, Blackwell L, Collins R, Emberson J, Godwin J, Peto R, et al. Aspirin in the primary and secondary prevention of vascular disease: collaborative meta-analysis of individual participant data from randomised trials. Lancet. 2009;373(9678):1849–60.<pub-id pub-id-type="pmid">19482214</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR10">
+          <label>10.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR10" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Turpie</surname>
+                  <given-names>AG</given-names>
+                </name>
+                <name>
+                  <surname>Lassen</surname>
+                  <given-names>MR</given-names>
+                </name>
+                <name>
+                  <surname>Eriksson</surname>
+                  <given-names>BI</given-names>
+                </name>
+                <name>
+                  <surname>Gent</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Berkowitz</surname>
+                  <given-names>SD</given-names>
+                </name>
+                <name>
+                  <surname>Misselwitz</surname>
+                  <given-names>F</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Rivaroxaban for the prevention of venous thromboembolism after hip or knee arthroplasty</article-title>
+              <source>Thromb Haemost</source>
+              <year>2011</year>
+              <volume>105</volume>
+              <issue>03</issue>
+              <fpage>444</fpage>
+              <lpage>453</lpage>
+              <pub-id pub-id-type="doi">10.1160/TH10-09-0601</pub-id>
+              <pub-id pub-id-type="pmid">21136019</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR10" publication-type="journal">Turpie AG, Lassen MR, Eriksson BI, Gent M, Berkowitz SD, Misselwitz F, et al. Rivaroxaban for the prevention of venous thromboembolism after hip or knee arthroplasty. Thromb Haemost. 2011;105(03):444–53.<pub-id pub-id-type="pmid">21136019</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR11">
+          <label>11.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR11" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Investigators</surname>
+                  <given-names>E</given-names>
+                </name>
+              </person-group>
+              <article-title>Oral rivaroxaban for symptomatic venous thromboembolism</article-title>
+              <source>N Engl J Med</source>
+              <year>2010</year>
+              <volume>363</volume>
+              <issue>26</issue>
+              <fpage>2499</fpage>
+              <lpage>2510</lpage>
+              <pub-id pub-id-type="doi">10.1056/NEJMoa1007903</pub-id>
+              <pub-id pub-id-type="pmid">21128814</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR11" publication-type="journal">Investigators E. Oral rivaroxaban for symptomatic venous thromboembolism. N Engl J Med. 2010;363(26):2499–510.<pub-id pub-id-type="pmid">21128814</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR12">
+          <label>12.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR12" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Patel</surname>
+                  <given-names>MR</given-names>
+                </name>
+                <name>
+                  <surname>Mahaffey</surname>
+                  <given-names>KW</given-names>
+                </name>
+                <name>
+                  <surname>Garg</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Pan</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name>
+                  <surname>Singer</surname>
+                  <given-names>DE</given-names>
+                </name>
+                <name>
+                  <surname>Hacke</surname>
+                  <given-names>W</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Rivaroxaban versus warfarin in nonvalvular atrial fibrillation</article-title>
+              <source>N Engl J Med</source>
+              <year>2011</year>
+              <volume>365</volume>
+              <issue>10</issue>
+              <fpage>883</fpage>
+              <lpage>891</lpage>
+              <pub-id pub-id-type="doi">10.1056/NEJMoa1009638</pub-id>
+              <pub-id pub-id-type="pmid">21830957</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR12" publication-type="journal">Patel MR, Mahaffey KW, Garg J, Pan G, Singer DE, Hacke W, et al. Rivaroxaban versus warfarin in nonvalvular atrial fibrillation. N Engl J Med. 2011;365(10):883–91.<pub-id pub-id-type="pmid">21830957</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR13">
+          <label>13.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR13" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Eikelboom</surname>
+                  <given-names>JW</given-names>
+                </name>
+                <name>
+                  <surname>Connolly</surname>
+                  <given-names>SJ</given-names>
+                </name>
+                <name>
+                  <surname>Bosch</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Dagenais</surname>
+                  <given-names>GR</given-names>
+                </name>
+                <name>
+                  <surname>Hart</surname>
+                  <given-names>RG</given-names>
+                </name>
+                <name>
+                  <surname>Shestakovska</surname>
+                  <given-names>O</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Rivaroxaban with or without aspirin in stable cardiovascular disease</article-title>
+              <source>N Engl J Med</source>
+              <year>2017</year>
+              <volume>377</volume>
+              <issue>14</issue>
+              <fpage>1319</fpage>
+              <lpage>1330</lpage>
+              <pub-id pub-id-type="doi">10.1056/NEJMoa1709118</pub-id>
+              <pub-id pub-id-type="pmid">28844192</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR13" publication-type="journal">Eikelboom JW, Connolly SJ, Bosch J, Dagenais GR, Hart RG, Shestakovska O, et al. Rivaroxaban with or without aspirin in stable cardiovascular disease. N Engl J Med. 2017;377(14):1319–30.<pub-id pub-id-type="pmid">28844192</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR14">
+          <label>14.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR14" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Bonaca</surname>
+                  <given-names>MP</given-names>
+                </name>
+                <name>
+                  <surname>Bhatt</surname>
+                  <given-names>DL</given-names>
+                </name>
+                <name>
+                  <surname>Cohen</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Steg</surname>
+                  <given-names>PG</given-names>
+                </name>
+                <name>
+                  <surname>Storey</surname>
+                  <given-names>RF</given-names>
+                </name>
+                <name>
+                  <surname>Jensen</surname>
+                  <given-names>EC</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Long-term use of ticagrelor in patients with prior myocardial infarction</article-title>
+              <source>N Engl J Med</source>
+              <year>2015</year>
+              <volume>372</volume>
+              <issue>19</issue>
+              <fpage>1791</fpage>
+              <lpage>1800</lpage>
+              <pub-id pub-id-type="doi">10.1056/NEJMoa1500857</pub-id>
+              <pub-id pub-id-type="pmid">25773268</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR14" publication-type="journal">Bonaca MP, Bhatt DL, Cohen M, Steg PG, Storey RF, Jensen EC, et al. Long-term use of ticagrelor in patients with prior myocardial infarction. N Engl J Med. 2015;372(19):1791–800.<pub-id pub-id-type="pmid">25773268</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR15">
+          <label>15.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR15" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Fitchett</surname>
+                  <given-names>DH</given-names>
+                </name>
+              </person-group>
+              <article-title>Potential role of rivaroxaban in patients with acute coronary syndrome</article-title>
+              <source>Drug Des Dev Ther</source>
+              <year>2012</year>
+              <volume>6</volume>
+              <fpage>349</fpage>
+              <pub-id pub-id-type="doi">10.2147/DDDT.S30342</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR15" publication-type="journal">Fitchett DH. Potential role of rivaroxaban in patients with acute coronary syndrome. Drug Des Dev Ther. 2012;6:349.</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR16">
+          <label>16.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR16" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Hernandez</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name>
+                  <surname>Shah</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name>
+                  <surname>Zhao</surname>
+                  <given-names>Q</given-names>
+                </name>
+                <name>
+                  <surname>Milentijevic</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name>
+                  <surname>Kharat</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>Economic implications of preventing major cardiovascular and limb events with rivaroxaban plus aspirin in patients with coronary or peripheral artery disease in the United States</article-title>
+              <source>American Health Drug Benefits</source>
+              <year>2020</year>
+              <volume>13</volume>
+              <issue>5</issue>
+              <fpage>184</fpage>
+              <pub-id pub-id-type="pmid">33343818</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR16" publication-type="journal">Hernandez L, Shah A, Zhao Q, Milentijevic D, Kharat A. Economic implications of preventing major cardiovascular and limb events with rivaroxaban plus aspirin in patients with coronary or peripheral artery disease in the United States. American Health Drug Benefits. 2020;13(5):184.<pub-id pub-id-type="pmid">33343818</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR17">
+          <label>17.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR17" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Zomer</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name>
+                  <surname>Si</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name>
+                  <surname>Hird</surname>
+                  <given-names>TR</given-names>
+                </name>
+                <name>
+                  <surname>Liew</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name>
+                  <surname>Owen</surname>
+                  <given-names>AJ</given-names>
+                </name>
+                <name>
+                  <surname>Tonkin</surname>
+                  <given-names>A</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Cost-effectiveness of low-dose rivaroxaban and aspirin versus aspirin alone in people with peripheral or carotid artery disease: an Australian healthcare perspective</article-title>
+              <source>Eur J Prev Cardiol</source>
+              <year>2019</year>
+              <volume>26</volume>
+              <issue>8</issue>
+              <fpage>858</fpage>
+              <lpage>868</lpage>
+              <pub-id pub-id-type="doi">10.1177/2047487318817910</pub-id>
+              <pub-id pub-id-type="pmid">30526023</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR17" publication-type="journal">Zomer E, Si S, Hird TR, Liew D, Owen AJ, Tonkin A, et al. Cost-effectiveness of low-dose rivaroxaban and aspirin versus aspirin alone in people with peripheral or carotid artery disease: an Australian healthcare perspective. Eur J Prev Cardiol. 2019;26(8):858–68.<pub-id pub-id-type="pmid">30526023</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR18">
+          <label>18.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR18" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Zarepur</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name>
+                  <surname>Mohammadifard</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name>
+                  <surname>Mansourian</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Roohafza</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name>
+                  <surname>Sadeghi</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Khosravi</surname>
+                  <given-names>A</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Rationale, design, and preliminary results of the Iran-premature coronary artery disease study (I-PAD): A multi-center case-control study of different Iranian ethnicities</article-title>
+              <source>ARYA Atheroscl</source>
+              <year>2020</year>
+              <volume>16</volume>
+              <issue>6</issue>
+              <fpage>295</fpage>
+            </element-citation>
+            <mixed-citation id="mc-CR18" publication-type="journal">Zarepur E, Mohammadifard N, Mansourian M, Roohafza H, Sadeghi M, Khosravi A, et al. Rationale, design, and preliminary results of the Iran-premature coronary artery disease study (I-PAD): A multi-center case-control study of different Iranian ethnicities. ARYA Atheroscl. 2020;16(6):295.</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR19">
+          <label>19.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR19" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Branch</surname>
+                  <given-names>KR</given-names>
+                </name>
+                <name>
+                  <surname>Probstfield</surname>
+                  <given-names>JL</given-names>
+                </name>
+                <name>
+                  <surname>Eikelboom</surname>
+                  <given-names>JW</given-names>
+                </name>
+                <name>
+                  <surname>Bosch</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Maggioni</surname>
+                  <given-names>AP</given-names>
+                </name>
+                <name>
+                  <surname>Cheng</surname>
+                  <given-names>RK</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Rivaroxaban with or without aspirin in patients with heart failure and chronic coronary or peripheral artery disease: the COMPASS trial</article-title>
+              <source>Circulation</source>
+              <year>2019</year>
+              <volume>140</volume>
+              <issue>7</issue>
+              <fpage>529</fpage>
+              <lpage>537</lpage>
+              <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.119.039609</pub-id>
+              <pub-id pub-id-type="pmid">31163978</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR19" publication-type="journal">Branch KR, Probstfield JL, Eikelboom JW, Bosch J, Maggioni AP, Cheng RK, et al. Rivaroxaban with or without aspirin in patients with heart failure and chronic coronary or peripheral artery disease: the COMPASS trial. Circulation. 2019;140(7):529–37.<pub-id pub-id-type="pmid">31163978</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR20">
+          <label>20.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR20" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Bonaca</surname>
+                  <given-names>MP</given-names>
+                </name>
+                <name>
+                  <surname>Bauersachs</surname>
+                  <given-names>RM</given-names>
+                </name>
+                <name>
+                  <surname>Anand</surname>
+                  <given-names>SS</given-names>
+                </name>
+                <name>
+                  <surname>Debus</surname>
+                  <given-names>ES</given-names>
+                </name>
+                <name>
+                  <surname>Nehler</surname>
+                  <given-names>MR</given-names>
+                </name>
+                <name>
+                  <surname>Patel</surname>
+                  <given-names>MR</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Rivaroxaban in peripheral artery disease after revascularization</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <issue>21</issue>
+              <fpage>1994</fpage>
+              <lpage>2004</lpage>
+              <pub-id pub-id-type="doi">10.1056/NEJMoa2000052</pub-id>
+              <pub-id pub-id-type="pmid">32222135</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR20" publication-type="journal">Bonaca MP, Bauersachs RM, Anand SS, Debus ES, Nehler MR, Patel MR, et al. Rivaroxaban in peripheral artery disease after revascularization. N Engl J Med. 2020;382(21):1994–2004.<pub-id pub-id-type="pmid">32222135</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR21">
+          <label>21.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR21" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Anand</surname>
+                  <given-names>SS</given-names>
+                </name>
+                <name>
+                  <surname>Bosch</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Eikelboom</surname>
+                  <given-names>JW</given-names>
+                </name>
+                <name>
+                  <surname>Connolly</surname>
+                  <given-names>SJ</given-names>
+                </name>
+                <name>
+                  <surname>Diaz</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name>
+                  <surname>Widimsky</surname>
+                  <given-names>P</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Rivaroxaban with or without aspirin in patients with stable peripheral or carotid artery disease: an international, randomised, double-blind, placebo-controlled trial</article-title>
+              <source>Lancet</source>
+              <year>2018</year>
+              <volume>391</volume>
+              <issue>10117</issue>
+              <fpage>219</fpage>
+              <lpage>229</lpage>
+              <pub-id pub-id-type="doi">10.1016/S0140-6736(17)32409-1</pub-id>
+              <pub-id pub-id-type="pmid">29132880</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR21" publication-type="journal">Anand SS, Bosch J, Eikelboom JW, Connolly SJ, Diaz R, Widimsky P, et al. Rivaroxaban with or without aspirin in patients with stable peripheral or carotid artery disease: an international, randomised, double-blind, placebo-controlled trial. Lancet. 2018;391(10117):219–29.<pub-id pub-id-type="pmid">29132880</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR22">
+          <label>22.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR22" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Yari</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name>
+                  <surname>Agheli</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name>
+                  <surname>Sadeghi</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name>
+                  <surname>Faraji</surname>
+                  <given-names>DS</given-names>
+                </name>
+              </person-group>
+              <article-title>Life expectancy forecast: implications for policy and economy in Iran</article-title>
+              <source>Health Manag Inform Sci</source>
+              <year>2022</year>
+              <volume>9</volume>
+              <issue>1</issue>
+              <fpage>38</fpage>
+              <lpage>44</lpage>
+            </element-citation>
+            <mixed-citation id="mc-CR22" publication-type="journal">Yari F, Agheli L, Sadeghi H, Faraji DS. Life expectancy forecast: implications for policy and economy in Iran. Health Manag Inform Sci. 2022;9(1):38–44.</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR23">
+          <label>23.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR23" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Mozayani</surname>
+                  <given-names>AH</given-names>
+                </name>
+                <name>
+                  <surname>Sahabi</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name>
+                  <surname>Asadi</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>Estimating social discount rate trend in Iran</article-title>
+              <source>Iranian Econ Rev</source>
+              <year>2021</year>
+              <volume>25</volume>
+              <issue>2</issue>
+              <fpage>191</fpage>
+              <lpage>203</lpage>
+            </element-citation>
+            <mixed-citation id="mc-CR23" publication-type="journal">Mozayani AH, Sahabi B, Asadi M. Estimating social discount rate trend in Iran. Iranian Econ Rev. 2021;25(2):191–203.</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR24">
+          <label>24.</label>
+          <mixed-citation publication-type="other"><ext-link ext-link-type="uri" xlink:href="https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=IR">https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=IR</ext-link>. I-GpcAf.</mixed-citation>
+        </ref>
+        <ref id="CR25">
+          <label>25.</label>
+          <mixed-citation publication-type="other">World Bank. PPP conversion factor, national currency to US dollars [Internet]. Washington, DC: World Bank; [cited 2025 Feb 16]. Available from: <ext-link ext-link-type="uri" xlink:href="https://data.worldbank.org/indicator/PA.NUS.PPP">https://data.worldbank.org/indicator/PA.NUS.PPP</ext-link>.</mixed-citation>
+        </ref>
+        <ref id="CR26">
+          <label>26.</label>
+          <mixed-citation publication-type="other">Iranian Food and Drug Administration. National Food Information [Internet]. Tehran: Iranian Food and Drug Administration; [cited 2025 Feb 16].</mixed-citation>
+        </ref>
+        <ref id="CR27">
+          <label>27.</label>
+          <mixed-citation publication-type="other">Tariff Committee for Medical Services. Tariff for medical services 1403 [Internet]. Tehran: Shahid Beheshti University of Medical Sciences; [cited 2025 Feb 16]. Available from: <ext-link ext-link-type="uri" xlink:href="https://treatment.sbmu.ac.ir/Tariff-for-medical-services-1403">https://treatment.sbmu.ac.ir/Tariff-for-medical-services-1403</ext-link>.</mixed-citation>
+        </ref>
+        <ref id="CR28">
+          <label>28.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR28" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Lee</surname>
+                  <given-names>M-C</given-names>
+                </name>
+                <name>
+                  <surname>Liao</surname>
+                  <given-names>C-T</given-names>
+                </name>
+                <name>
+                  <surname>Toh</surname>
+                  <given-names>HS</given-names>
+                </name>
+                <name>
+                  <surname>Chou</surname>
+                  <given-names>C-C</given-names>
+                </name>
+                <name>
+                  <surname>Chang</surname>
+                  <given-names>W-T</given-names>
+                </name>
+                <name>
+                  <surname>Chen</surname>
+                  <given-names>Z-C</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Cost-effectiveness analysis of rivaroxaban plus aspirin versus aspirin alone in secondary prevention among patients with chronic cardiovascular diseases</article-title>
+              <source>Cardiovasc Drugs Ther</source>
+              <year>2021</year>
+              <volume>35</volume>
+              <issue>3</issue>
+              <fpage>539</fpage>
+              <lpage>547</lpage>
+              <pub-id pub-id-type="doi">10.1007/s10557-020-07059-w</pub-id>
+              <pub-id pub-id-type="pmid">32910340</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR28" publication-type="journal">Lee M-C, Liao C-T, Toh HS, Chou C-C, Chang W-T, Chen Z-C, et al. Cost-effectiveness analysis of rivaroxaban plus aspirin versus aspirin alone in secondary prevention among patients with chronic cardiovascular diseases. Cardiovasc Drugs Ther. 2021;35(3):539–47.<pub-id pub-id-type="pmid">32910340</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR29">
+          <label>29.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR29" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Ferrara</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name>
+                  <surname>Cortesi</surname>
+                  <given-names>PA</given-names>
+                </name>
+                <name>
+                  <surname>Di Laura</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name>
+                  <surname>Maggioni</surname>
+                  <given-names>AP</given-names>
+                </name>
+                <name>
+                  <surname>Mantovani</surname>
+                  <given-names>LG</given-names>
+                </name>
+              </person-group>
+              <article-title>Cost-effectiveness analysis of rivaroxaban plus aspirin compared with aspirin alone in patients with coronary and peripheral artery diseases in Italy</article-title>
+              <source>Clin Drug Investig</source>
+              <year>2021</year>
+              <volume>41</volume>
+              <issue>5</issue>
+              <fpage>459</fpage>
+              <lpage>468</lpage>
+              <pub-id pub-id-type="doi">10.1007/s40261-021-01023-8</pub-id>
+              <pub-id pub-id-type="pmid">33725323</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR29" publication-type="journal">Ferrara P, Cortesi PA, Di Laura D, Maggioni AP, Mantovani LG. Cost-effectiveness analysis of rivaroxaban plus aspirin compared with aspirin alone in patients with coronary and peripheral artery diseases in Italy. Clin Drug Investig. 2021;41(5):459–68.<pub-id pub-id-type="pmid">33725323</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR30">
+          <label>30.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR30" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Briggs</surname>
+                  <given-names>AH</given-names>
+                </name>
+                <name>
+                  <surname>Weinstein</surname>
+                  <given-names>MC</given-names>
+                </name>
+                <name>
+                  <surname>Fenwick</surname>
+                  <given-names>EA</given-names>
+                </name>
+                <name>
+                  <surname>Karnon</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Sculpher</surname>
+                  <given-names>MJ</given-names>
+                </name>
+                <name>
+                  <surname>Paltiel</surname>
+                  <given-names>AD</given-names>
+                </name>
+                <collab>Force I-SMGRPT</collab>
+              </person-group>
+              <article-title>Model parameter estimation and uncertainty: a report of the ISPOR-SMDM modeling good research practices task force-6</article-title>
+              <source>Value Health</source>
+              <year>2012</year>
+              <volume>15</volume>
+              <issue>6</issue>
+              <fpage>835</fpage>
+              <lpage>42</lpage>
+              <pub-id pub-id-type="doi">10.1016/j.jval.2012.04.014</pub-id>
+              <pub-id pub-id-type="pmid">22999133</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR30" publication-type="journal">Briggs AH, Weinstein MC, Fenwick EA, Karnon J, Sculpher MJ, Paltiel AD, Force I-SMGRPT. Model parameter estimation and uncertainty: a report of the ISPOR-SMDM modeling good research practices task force-6. Value Health. 2012;15(6):835–42.<pub-id pub-id-type="pmid">22999133</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR31">
+          <label>31.</label>
+          <mixed-citation publication-type="other">Dakin H, Devlin N, Feng Y, Rice N, O'neill P, Parkin D. The influence of cost‐effectiveness and other factors on nice decisions. Health economics. 2015;24(10):1256–71.</mixed-citation>
+        </ref>
+        <ref id="CR32">
+          <label>32.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR32" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Prinja</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name>
+                  <surname>Chugh</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name>
+                  <surname>Rajsekar</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name>
+                  <surname>Muraleedharan</surname>
+                  <given-names>V</given-names>
+                </name>
+              </person-group>
+              <article-title>National methodological guidelines to conduct budget impact analysis for health technology assessment in India</article-title>
+              <source>Appl Health Econ Health Policy</source>
+              <year>2021</year>
+              <volume>19</volume>
+              <fpage>811</fpage>
+              <lpage>823</lpage>
+              <pub-id pub-id-type="doi">10.1007/s40258-021-00668-y</pub-id>
+              <pub-id pub-id-type="pmid">34184237</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR32" publication-type="journal">Prinja S, Chugh Y, Rajsekar K, Muraleedharan V. National methodological guidelines to conduct budget impact analysis for health technology assessment in India. Appl Health Econ Health Policy. 2021;19:811–23.<pub-id pub-id-type="pmid">34184237</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR33">
+          <label>33.</label>
+          <mixed-citation publication-type="other">Shahjehan RD, Bhutta BS. Coronary artery disease. StatPearls: StatPearls Publishing; 2023.</mixed-citation>
+        </ref>
+        <ref id="CR34">
+          <label>34.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR34" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Rai</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name>
+                  <surname>Baridkazemi</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name>
+                  <surname>Sobhiyeh</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Amiri</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Ghorbani</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Shafiei</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name>
+                  <surname>Rahmanipour</surname>
+                  <given-names>E</given-names>
+                </name>
+              </person-group>
+              <article-title>Prevalence and risk factors associated with coronary artery disease in Iranian patients with peripheral artery disease</article-title>
+              <source>J Vasc Nurs</source>
+              <year>2024</year>
+              <volume>42</volume>
+              <issue>3</issue>
+              <fpage>154</fpage>
+              <lpage>158</lpage>
+              <pub-id pub-id-type="doi">10.1016/j.jvn.2024.04.001</pub-id>
+              <pub-id pub-id-type="pmid">39244326</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR34" publication-type="journal">Rai A, Baridkazemi S, Sobhiyeh M, Amiri M, Ghorbani M, Shafiei S, Rahmanipour E. Prevalence and risk factors associated with coronary artery disease in Iranian patients with peripheral artery disease. J Vasc Nurs. 2024;42(3):154–8.<pub-id pub-id-type="pmid">39244326</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR35">
+          <label>35.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR35" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Debasu</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name>
+                  <surname>Kedir</surname>
+                  <given-names>HM</given-names>
+                </name>
+                <name>
+                  <surname>Tadesse</surname>
+                  <given-names>TA</given-names>
+                </name>
+              </person-group>
+              <article-title>Comparison of aspirin and rivaroxaban plus aspirin in the management of stable coronary artery disease or peripheral artery disease: a systematic review of randomized controlled trials</article-title>
+              <source>Int J General Med</source>
+              <year>2022</year>
+              <volume>15</volume>
+              <fpage>7201</fpage>
+              <lpage>8</lpage>
+              <pub-id pub-id-type="doi">10.2147/IJGM.S383485</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR35" publication-type="journal">Debasu Z, Kedir HM, Tadesse TA. Comparison of aspirin and rivaroxaban plus aspirin in the management of stable coronary artery disease or peripheral artery disease: a systematic review of randomized controlled trials. Int J General Med. 2022;15:7201–8.</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR36">
+          <label>36.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR36" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Connolly</surname>
+                  <given-names>SJ</given-names>
+                </name>
+                <name>
+                  <surname>Eikelboom</surname>
+                  <given-names>JW</given-names>
+                </name>
+                <name>
+                  <surname>Bosch</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Dagenais</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name>
+                  <surname>Dyal</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name>
+                  <surname>Lanas</surname>
+                  <given-names>F</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Rivaroxaban with or without aspirin in patients with stable coronary artery disease: an international, randomised, double-blind, placebo-controlled trial</article-title>
+              <source>Lancet</source>
+              <year>2018</year>
+              <volume>391</volume>
+              <issue>10117</issue>
+              <fpage>205</fpage>
+              <lpage>218</lpage>
+              <pub-id pub-id-type="doi">10.1016/S0140-6736(17)32458-3</pub-id>
+              <pub-id pub-id-type="pmid">29132879</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR36" publication-type="journal">Connolly SJ, Eikelboom JW, Bosch J, Dagenais G, Dyal L, Lanas F, et al. Rivaroxaban with or without aspirin in patients with stable coronary artery disease: an international, randomised, double-blind, placebo-controlled trial. Lancet. 2018;391(10117):205–18.<pub-id pub-id-type="pmid">29132879</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR37">
+          <label>37.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR37" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Ademi</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name>
+                  <surname>Zomer</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name>
+                  <surname>Tonkin</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name>
+                  <surname>Liew</surname>
+                  <given-names>D</given-names>
+                </name>
+              </person-group>
+              <article-title>Cost-effectiveness of rivaroxaban and aspirin compared to aspirin alone in patients with stable cardiovascular disease: an Australian perspective</article-title>
+              <source>Int J Cardiol</source>
+              <year>2018</year>
+              <volume>270</volume>
+              <fpage>54</fpage>
+              <lpage>59</lpage>
+              <pub-id pub-id-type="doi">10.1016/j.ijcard.2018.06.091</pub-id>
+              <pub-id pub-id-type="pmid">30220379</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR37" publication-type="journal">Ademi Z, Zomer E, Tonkin A, Liew D. Cost-effectiveness of rivaroxaban and aspirin compared to aspirin alone in patients with stable cardiovascular disease: an Australian perspective. Int J Cardiol. 2018;270:54–9.<pub-id pub-id-type="pmid">30220379</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR38">
+          <label>38.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR38" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Spoorendonk</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Briere</surname>
+                  <given-names>J-B</given-names>
+                </name>
+                <name>
+                  <surname>Bowrin</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name>
+                  <surname>Millier</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name>
+                  <surname>Coppens</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name>
+                  <surname>Tempelaar</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name>
+                  <surname>Verheggen</surname>
+                  <given-names>B</given-names>
+                </name>
+              </person-group>
+              <article-title>Clinical implications and cost-effectiveness analysis of rivaroxaban in patients with coronary artery disease or peripheral arterial disease in the Netherlands</article-title>
+              <source>J Med Econ</source>
+              <year>2021</year>
+              <volume>24</volume>
+              <issue>1</issue>
+              <fpage>1231</fpage>
+              <lpage>1239</lpage>
+              <pub-id pub-id-type="doi">10.1080/13696998.2021.1997024</pub-id>
+              <pub-id pub-id-type="pmid">34749569</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR38" publication-type="journal">Spoorendonk J, Briere J-B, Bowrin K, Millier A, Coppens M, Tempelaar S, Verheggen B. Clinical implications and cost-effectiveness analysis of rivaroxaban in patients with coronary artery disease or peripheral arterial disease in the Netherlands. J Med Econ. 2021;24(1):1231–9.<pub-id pub-id-type="pmid">34749569</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR39">
+          <label>39.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR39" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Lamy</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name>
+                  <surname>Eikelboom</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Tong</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name>
+                  <surname>Yuan</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name>
+                  <surname>Bangdiwala</surname>
+                  <given-names>SI</given-names>
+                </name>
+                <name>
+                  <surname>Bosch</surname>
+                  <given-names>J</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>The cost-effectiveness of Rivaroxaban with or without aspirin in the COMPASS trial</article-title>
+              <source>European Heart J Qual Care Clin Outcomes</source>
+              <year>2022</year>
+              <volume>359</volume>
+              <fpage>j5058</fpage>
+            </element-citation>
+            <mixed-citation id="mc-CR39" publication-type="journal">Lamy A, Eikelboom J, Tong W, Yuan F, Bangdiwala SI, Bosch J, et al. The cost-effectiveness of Rivaroxaban with or without aspirin in the COMPASS trial. European Heart J Qual Care Clin Outcomes. 2022;359:j5058.</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR40">
+          <label>40.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR40" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Feng</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name>
+                  <surname>Zheng</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name>
+                  <surname>Gao</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name>
+                  <surname>Xu</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name>
+                  <surname>Cao</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name>
+                  <surname>Jia</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name>
+                  <surname>Yu</surname>
+                  <given-names>X</given-names>
+                </name>
+              </person-group>
+              <article-title>Cost-effectiveness analysis of rivaroxaban in chinese patients with stable cardiovascular disease</article-title>
+              <source>Front Pharmacol</source>
+              <year>2022</year>
+              <volume>13</volume>
+              <fpage>921387</fpage>
+              <pub-id pub-id-type="doi">10.3389/fphar.2022.921387</pub-id>
+              <pub-id pub-id-type="pmid">35795549</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR40" publication-type="journal">Feng T, Zheng Z, Gao S, Xu J, Cao P, Jia H, Yu X. Cost-effectiveness analysis of rivaroxaban in chinese patients with stable cardiovascular disease. Front Pharmacol. 2022;13:921387.<pub-id pub-id-type="pmid">35795549</pub-id>
+</mixed-citation>
+          </citation-alternatives>
+        </ref>
+        <ref id="CR41">
+          <label>41.</label>
+          <citation-alternatives>
+            <element-citation id="ec-CR41" publication-type="journal">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Moradi</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name>
+                  <surname>Woldemichael</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name>
+                  <surname>Malekian</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name>
+                  <surname>Rotvandi</surname>
+                  <given-names>DM</given-names>
+                </name>
+                <name>
+                  <surname>Rezaei</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>An exploratory study to estimate cost-effectiveness threshold value for life saving treatments in western Iran</article-title>
+              <source>Cost Effect Resource Allocation</source>
+              <year>2020</year>
+              <volume>18</volume>
+              <fpage>1</fpage>
+              <lpage>9</lpage>
+              <pub-id pub-id-type="doi">10.1186/s12962-020-00241-9</pub-id>
+            </element-citation>
+            <mixed-citation id="mc-CR41" publication-type="journal">Moradi N, Woldemichael A, Malekian P, Rotvandi DM, Rezaei S. An exploratory study to estimate cost-effectiveness threshold value for life saving treatments in western Iran. Cost Effect Resource Allocation. 2020;18:1–9.</mixed-citation>
+          </citation-alternatives>
+        </ref>
+      </ref-list>
+    </back>
+  </article>
+</pmc-articleset>
