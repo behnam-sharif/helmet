@@ -1,0 +1,26 @@
+Author|Initial population size|Prevalence data source|Incidence data source|Disease stage|Lines of therapy|Metastatic?|Mutation types
+Carlson et al33|11|SEER, SATURN trial|NR|III-IV|First|Yes|None
+Bayle et al44|3,260|Gustave Roussy pharmaceutical database, French National Hospital Discharge database|NR|NR (lung cancer)|N/R|No|None
+Bajaj et al30|11|SEER|SEER|IIIB or IV|First|Yes|EGFR
+Kalluri et al41|1,000|SEER|NR|NR (lung cancer)|NR|No|None
+Hess et al37|20|SEER|SEER|NR|Second|No|None
+Thongprasert et al48|NR|National Cancer Institute, Chiang Mai Cancer Registry|National Cancer Institute, Chiang Mai Cancer Registry|NR|Second|No|ALK
+Goldstein et al35|19,601|SEER, published literature|Published literature|III or IV|First|Yes|PD-L1
+Aguiar et al49|8,221 (Brazil) 3,000 (Argentina) 533 (Peru)|NR|National Lung Cancer Audit Report, National Cancer Institute (by country)|NR|First, second|No|PD-L1, EGFR, and ALK
+Norum et al47|105|Cancer Registry of Norway|NR|III or IV|Second|Yes|PD-L1
+Bly et al31|30|SEER|NR|NR|First|Yes|None
+Graham et al36|27|Census Bureau, SEER, National Cancer Data Base-Commission on Cancer, Published literature|NR|NR|First|Yes|EGFR
+Signorovitch et al38|532|SEER|SEER|IIIb or IV|First - third|Yes|EGFR, ALK, ROS1, HER2, BRAF, MET, RET, and KRAS
+Westerink et al45|294|Integrated Cancer Center the Netherlands (IKNL), Dutch Cancer registration|Assumption|IIIb or IV|First|Yes|EGFR
+Monirul et al53|2,274|Hospital data|Hospital data|NR|First, second|Yes|PD-L1
+Cheng et al46|1,542|Published literature|Published literature|IIIb or IV|First, second|Yes|EGFR
+Stargardter et al39|160|Program America’s Health Insurance Plans, Medicare|National Cancer Institute|IV|Line-agnostic|Yes|MET
+Rachev et al43|NR|NR|Cancer Registry|Advanced|First & second|Yes|PD-L1
+Patel et al42|8,027|NR|Published literature|IIIb or IV|First & second|Yes|PD-L1, EGFR, ALK, ROS1, BRAF V600E
+Cai et al32|34|SEER, Novartis Market research data, published literature|NR|NR|NR|Yes|MET
+Abraham et al29|301|American Cancer Society, published literature|Published literature|I or II (SCLC)|First & second|Yes|None
+Duff et al34|6|NR|Census Bureau, SEER|Advanced or metastatic|NR|Yes|RET
+Matsuda et al50|90,696|NR|Cancer Registry and Statistics, Paez et al 2004, medical data vision database|NR|First|Yes|EGFR, ALK, ROS1, BRAF, MET, and NTRK
+Silas et al40|500|NR|NR|NR|NR|Yes|Not specified
+Tang et al51|145,590|NR|Cancer Registry and Statistics|NR|First, second|Yes|PD-L1, EGFR, FGFR, ALK, ROS1, RAS, BRAF, KRAS, MET, PD-L1, RET, HER2, NTRK, MSI-High, IDH, and BRCA
+Tsai et al52|9,212|Annual Cancer Registry Report|Annual Cancer Registry Report|IIIb or IV|First|Yes|PD-L1, EGFR, ALK, ROS1, NTRK, BRAF V600E, HER2, KRAS G12C, RET, and MET

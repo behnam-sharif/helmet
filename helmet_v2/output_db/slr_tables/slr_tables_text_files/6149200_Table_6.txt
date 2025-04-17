@@ -1,0 +1,39 @@
+Source|Utility decrement for minor bleeds
+EQ-5D-5 L UK tariff - PA|−0.000848
+EQ-5D-5 L to EQ-5D-3 L US value set - PA|−0.00137
+EQ-5D-5 L to EQ-5D-3 L UK value set - PA|−0.00140
+EQ-5D-3 L US tariff - PA|−0.00180
+Garg [|− 0.002
+EQ-5D-3 L UK tariff - PA|−0.00250
+Kazi [|−0.004
+EQ-5D-5 L UK tariff - SA|−0.00453
+EQ-5D-5 L to EQ-5D-3 L US value set - SA|−0.00566
+EQ-5D-3 L US tariff - SA|−0.00584
+EQ-5D-5 L to EQ-5D-3 L UK value set - SA|−0.00661
+EQ-5D-3 L UK tariff - SA|−0.00828
+Liew [|− 0.02
+Amin [|−0.0257 (BARC type 1)
+Source|Utility decrement for major bleeds
+Schleinitz [|−0.005 (GI bleeding)
+Greenhalgh [|− 0.007
+Kazi [|−0.01 (CABG-related)
+Gupta [|−0.016 (GI haemorrhage)
+EQ-5D-5 L to EQ-5D-3 L US value set - PA|−0.0187
+Wang [|− 0.02 (bleeding in general)
+EQ-5D-3 L US tariff - PA|−0.0203
+EQ-5D-5 L UK tariff - PA|−0.0222
+Garg [|− 0.025
+EQ-5D-5 L to EQ-5D-3 L UK value set - PA|−0.0258
+EQ-5D-3 L UK tariff - PA|−0.0297
+Kazi [|− 0.0308 (extra-cranial)
+Amin [|−0.0381 (BARC type 2–4)
+EQ-5D-5 L to EQ-5D-3 L US value set - SA|−0.0405
+EQ-5D-3 L US tariff - SA|−0.0441
+Amin [|− 0.0445 (BARC type 3–4)
+EQ-5D-5 L UK tariff - SA|− 0.0465
+Liew [|−0.05
+EQ-5D-5 L to EQ-5D-3 L UK value set - SA|−0.0552
+EQ-5D-3 L UK tariff - SA|−0.0621
+Latour-Perez [|− 0.13 (serious haemorrhage)
+Jiang [|−0.250 (non-fatal bleeding)
+Jiang [|−0.250 (non-fatal bleeding)

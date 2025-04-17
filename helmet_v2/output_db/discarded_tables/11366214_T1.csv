@@ -1,0 +1,26 @@
+Author,Year,Country,Intervention,Comparator,Time horizon (years),Perspective
+Carlson et al33,2011,US,Erlotinib,SoC,1,Commercial payer
+Bayle et al44,2013,France,Fixed-dose nivolumab and pembrolizumab,Flexible-dose nivolumab and pembrolizumab,1,Single payer
+Bajaj et al30,2014,US,Erlotinib,Chemotherapy,1,Commercial payer
+Kalluri et al41,2015,Canada,Rapid on-site evaluation,SoC,1,Hospital diagnostic unit perspective (University of Alberta Hospital)
+Hess et al37,2016,US,Ramucirumab + docetaxel,SoC,1,"Commercial payer, Medicare, hospital"
+Thongprasert et al48,2017,Thailand,Crizotinib,SoC,3,Single payer
+Goldstein et al35,2017,US,Pembrolizumab (personalized dosing),Pembrolizumab (fixed dosing),1,Societal perspective
+Aguiar et al49,2017,"Brazil, Argentina, Peru",Pembrolizumab,SoC,5,Single payer
+Norum et al47,2017,Norway,Pembrolizumab,Docetaxel and pemetrexed,1,Single payer
+Bly et al31,2018,US,Necitumumab+gemcitabine+ cisplatin,SoC,3,"Commercial payer, Medicare"
+Graham et al36,2018,US,Afatinib,gefitinib,5,Commercial payer
+Signorovitch et al38,2019,US,Comprehensive genomic profiling,SoC,1,Commercial payer
+Westerink et al45,2020,The Netherlands,Afatinib,Osimertinib,5,Single payer
+Monirul et al53,2020,France,Nivolumab and pembrolizumab (fixed dose),Nivolumab and pembrolizumab (flexible dose),1,Single payer
+Cheng et al46,2020,Greece,"(1) Plasma test, (2) combined testing (tissue and plasma test), (3) reflex testing",Tissue biopsy only,1,Single payer
+Stargardter et al39,2021,US,Tepotinib,"Capmatinib, crizotinib, and SoC",3,Commercial payer
+Rachev et al43,2021,"Belgium, Slovenia, Austria, Italy",Anti-PD-1/PD-L1,SoC,5,Single payer
+Patel et al42,2021,Canada,Comprehensive genomic profiling,SoC,3,Single payer
+Cai et al32,2021,US,Capmatinib,SoC,3,Commercial payer
+Abraham et al29,2022,US,Trilaciclib,SoC,5,Commercial payer
+Duff et al34,2022,US,Pralsetinib,"Selpercatinib, cabozantinib, pembrolizumab, and pemetrexed/carboplatin combination therapy",3,Commercial payer
+Matsuda et al50,2023,Japan,Next-generation sequencing,Single-gene testing,3,Single payer
+Silas et al40,2023,US,Next-generation sequencing (75% in house and 25% external),Next-generation sequencing (100% external),5,Hospital perspective
+Tang et al51,2023,Japan,Comprehensive genomic profiling,SoC,1,Single payer
+Tsai et al52,2023,Taiwan,Comprehensive genomic profiling,Single-gene testing,5,Single payer
