@@ -6,7 +6,6 @@ import difflib
 from dotenv import load_dotenv
 
 load_dotenv()
-openai.api_key = "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"
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def get_llm_answer(question, model="gpt-3.5-turbo"):
