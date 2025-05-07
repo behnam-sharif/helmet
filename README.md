@@ -10,15 +10,22 @@ These tasks are curated to reflect real-world HEOR workflows, enabling both acad
 
 ---
 
-## 📦 Repository Structure
-HELMET/
-├── data_extraction/ # Task 1: Extract structured information from unstructured HEOR documents
-├── evidence_synthesis/ # Task 2: Summarize and synthesize findings across multiple studies
-├── labeling/ # Task 3: Labeling clinical/economic data based on context
-├── examples/ # Prompt examples and evaluation cases
-├── baseline_results/ # Benchmark results from existing LLMs (e.g., GPT-4, Claude)
-└── README.md # Repository documentation
 
+<pre> ## 📁 HELMET Directory Structure ```
+  HELMET/ 
+  ├── datalake/ # Instructions for PubMed API and temporary folder to fetch JSON from PubMed 
+  ├── utils/ # Python utility functions used across all steps 
+  ├── output_db/ # Stores generated files and databases from all pipeline stages 
+  │ ├── paper_storage/ # JSON and redacted full-text papers 
+  │ ├── index_db/ # Indexed paper metadata (pmcid, title, abstract, etc.) 
+  │ ├── query_db/ # Data extraction queries │ ├── slr_db/ # Evidence synthesis (SLR) queries
+  │ └── label_db/ # Labeling queries for contextual classification
+  ├── step1_get_papers/ # Scripts to download papers from PubMed 
+  ├── step2_index_metadata/ # Scripts to index paper metadata into index_db 
+  ├── step3_generate_queries/ # Scripts to generate data extraction queries
+  ├── step4_generate_slr/ # Scripts to generate evidence synthesis prompts 
+  ├── step5_generate_labels/ # Scripts to generate context-aware labeling data 
+  └── README.md # Repository documentation ``` </pre>
 ## 🔍 Tasks Overview
 
 ### 1. Data Extraction
@@ -32,3 +39,20 @@ HELMET/
 ### 3. Labeling
 - Assign context-aware labels (e.g., "clinical outcome", "economic input", "study design") to text snippets.
 - Useful for RAG pipelines or domain-specific retrieval systems.
+
+## Pipeline Steps
+Step 1: Retrieve Papers
+
+Use datalake/ to run PubMed API queries and save JSON metadata/full texts.
+
+Step 2: Index Metadata
+
+Add paper metadata (pmcid, title, abstract, etc.) into index_db.
+
+Step 3: Generate Queries
+
+Data extraction: Create structured query prompts and responses in query_db.
+
+Systematic literature review: Generate SLR queries and results in slr_db.
+
+Labeling: Generate labeling prompts and options in label_db.
