@@ -35,7 +35,7 @@ def compute_hash(text):
     Returns:
         str: The MD5 hash.
     """
-    if not text:
+    if not isinstance(text, str) or not text.strip():
         return ""
     return hashlib.md5(text.strip().encode('utf-8')).hexdigest()
 
