@@ -1,5 +1,0 @@
-Sequence Number|Order of the questionnaires|1st questionnaire|2nd questionnaire|3rd questionnaire|4th questionnaire|5th questionnaire|6th questionnaire
-1|EQ-5D-3 L Baseline|EQ-5D-5 L Baseline|EQ-5D-3 L Vignette A|EQ-5D-3 L Vignette B|EQ-5D-5 L Vignette A|EQ-5D-5 L Vignette B
-2|EQ-5D-5 L Baseline|EQ-5D-3 L Baseline|EQ-5D-5 L Vignette A|EQ-5D-5 L Vignette B|EQ-5D-3 L Vignette A|EQ-5D-3 L Vignette B
-3|EQ-5D-3 L Baseline|EQ-5D-5 L Baseline|EQ-5D-3 L Vignette B|EQ-5D-3 L Vignette A|EQ-5D-5 L Vignette B|EQ-5D-5 L Vignette A
-4|EQ-5D-5 L Baseline|EQ-5D-3 L Baseline|EQ-5D-5 L Vignette B|EQ-5D-5 L Vignette A|EQ-5D-3 L Vignette B|EQ-5D-3 L Vignette A

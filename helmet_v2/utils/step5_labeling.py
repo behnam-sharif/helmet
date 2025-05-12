@@ -7,8 +7,11 @@ from dotenv import load_dotenv
 from llama_index.core.schema import TextNode
 from llama_index.core.evaluation import DatasetGenerator
 from llama_index.core.async_utils import asyncio_run
+from nltk.tokenize import sent_tokenize
+import nltk
+from llama_index.core.prompts import PromptTemplate
 
-
+nltk.download('punkt')
 # Load environment variables
 load_dotenv()
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
@@ -32,90 +35,95 @@ def extract_titles_and_paragraphs(xml_path):
 
     return titles, paragraphs
 
-def generate_label_rows(pubmed_id, titles, paragraphs, num_rows=1):
-    # Step 1: Filter out bad section titles
-    titles = [t for t in titles if "supplementary" not in t.lower() and "reference" not in t.lower()]
+
+def is_valid_sentence(sentence, section, llm):
+    prompt_template_str = (
+        "You are an expert agent. Your job is to decide whether the given sentence is suitable for classification.\n"
+        "Return 'yes' only if ALL of the following are true:\n"
+        "- It is a complete, well-formed sentence that has a verb and subject and has at least 5 words. For example, it can not be 'Sojourn time' or 'direct cost' or '100% reduction'.\n"
+        "- It is not a citation, header, or fragment.\n"
+        "- It is from sections related to Introduction, Methods, Results or Conclusion or those related to modleing (Cost, input paramters, perspective, CEM Results, Analysis,etc.) and not from sections that are not related to core scientific description, for example  it can not be from References or Supplementary material or 'M' or 'D' or Author contributions,Abbreviations,Ethical Declaration,Conflicts of Interest,Data Availability Statement,Acknowledgments,Code availability,Ethics approval,availability of data and material.\n\n"
+        "Sentence: \"{sentence}\"\n"
+        "Section: \"{section}\"\n\n"
+        "Answer only: yes or no"
+    )
+
+    prompt = PromptTemplate(template=prompt_template_str)
+
+    try:
+        response = llm.predict(prompt, sentence=sentence, section=section).strip().lower()
+        return response == 'yes'
+    except Exception as e:
+        print(f"LLM error while validating sentence: {e}")
+        return False
+
+def generate_label_rows(pubmed_id, titles, paragraphs, num_rows=2):
+    # Step 1: Define excluded section keywords
+    EXCLUDED_SECTIONS = [
+        "references", "supplementary", "author contributions", "abbreviations", "ethical declaration",
+        "conflicts of interest", "data availability statement", "acknowledgments", "acknowledgements",
+        "code availability", "ethics approval", "availability of data and materials", "funding", "declarations"
+    ]
+    EXCLUDED_SHORT_CODES = ["D", "M"]
+
+    # Step 2: Filter titles
+    titles = [
+        t for t in titles
+        if not any(ex in t.lower() for ex in EXCLUDED_SECTIONS)
+        and t.strip().upper() not in EXCLUDED_SHORT_CODES
+    ]
     if len(titles) < 5:
         return []
 
-    # Step 2: Filter paragraphs using GPT (LlamaIndex DatasetGenerator method)
-    #paragraphs = filter_sentences_with_llamaindex_datasetgen(paragraphs, pubmed_id)
-    if len(paragraphs) < num_rows:
-        return []
+    # Step 3: Initialize LLM and shuffle paragraphs
+    llm = OpenAI(model="gpt-3.5-turbo")
+    random.shuffle(paragraphs)
 
-    # Step 3: Select random subset
-    selected_paragraphs = random.sample(paragraphs, num_rows)
     rows = []
+    used_paragraphs = set()
 
-    for para_text, correct_section in selected_paragraphs:
-        wrong_sections = [t for t in titles if t != correct_section]
+    for para_text, section in paragraphs:
+        section_clean = section.strip().lower()
+
+        # Step 4: Skip excluded paragraph sections
+        if (
+            any(ex in section_clean for ex in EXCLUDED_SECTIONS)
+            or section.strip().upper() in EXCLUDED_SHORT_CODES
+        ):
+            continue
+
+        if para_text in used_paragraphs:
+            continue
+
+        # Step 5: Tokenize and pick one sentence
+        sentences = sent_tokenize(para_text)
+        if not sentences:
+            continue
+        sentence = random.choice(sentences)
+
+        # Step 6: Validate sentence with LLM
+        if not is_valid_sentence(sentence, section, llm):
+            continue
+
+        # Step 7: Select wrong options and build question
+        wrong_sections = [t for t in titles if t != section]
         if len(wrong_sections) < 4:
-            continue  # skip if not enough wrong options
+            continue
 
         section_choices = random.sample(wrong_sections, 4)
-        section_choices.append(correct_section)
+        section_choices.append(section)
         random.shuffle(section_choices)
 
         row = {
             'pubmed_id': pubmed_id,
             'section_choices': '; '.join(section_choices),
-            'question': f'Which section does this sentence belong to: "{para_text}"',
-            'answer': correct_section
+            'question': f'Which section does this sentence belong to: \"{sentence}\"',
+            'answer': section
         }
         rows.append(row)
+        used_paragraphs.add(para_text)
+
+        if len(rows) >= num_rows:
+            break
 
     return rows
-
-
-
-
-def convert_to_nodes(paragraphs, pubmed_id):
-    nodes = []
-    for text, section in paragraphs:
-        node = TextNode(
-            text=text,
-            metadata={
-                "section": section,
-                "pmcid": pubmed_id
-            }
-        )
-        nodes.append(node)
-    return nodes
-
-filter_instruction = (
-    "You are an expert agent. Your job is to filter a list of sentences extracted from a scientific paper.\n"
-    "Return only those that meet all of the following rules:\n"
-    "- Sentence must be a complete, well-formed sentence.\n"
-    "- Must NOT be a phrase, citation fragment, or header (e.g., 'Japanese guidelines', 'KDIGO').\n"
-    "- Must NOT come from a 'References' or 'Supplementary' section.\n"
-    "- Must contain only ONE sentence (not multiple sentences).\n"
-    "Return a JSON list of objects like: {\"sentence\": ..., \"section\": ...}"
-)
-
-
-
-def filter_sentences_with_llamaindex_datasetgen(paragraphs, pubmed_id):
-    llm = OpenAI(model="gpt-3.5-turbo")
-    nodes = convert_to_nodes(paragraphs, pubmed_id)
-
-    dataset_generator = DatasetGenerator(
-        nodes,
-        llm=llm,
-        show_progress=True,
-        question_gen_query=filter_instruction,
-        num_questions_per_chunk=1
-    )
-
-    try:
-        dataset = asyncio_run(dataset_generator.agenerate_dataset_from_nodes(num=len(nodes)))
-        cleaned = []
-
-        for idx, node in enumerate(nodes):
-            answer = dataset.responses.get(node.node_id, "")
-            if answer and isinstance(answer, str) and len(answer.split()) > 5:
-                cleaned.append((answer.strip(), node.metadata["section"]))
-
-        return cleaned
-    except Exception as e:
-        print(f"Error during LLM filtering: {e}")
-        return []
