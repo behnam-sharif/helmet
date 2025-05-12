@@ -16,7 +16,7 @@ for filename in os.listdir(INPUT_DIR):
 
         try:
             titles, paragraphs = extract_titles_and_paragraphs(xml_path)
-            paper_rows = generate_label_rows(pubmed_id, titles, paragraphs, num_rows=10)
+            paper_rows = generate_label_rows(pubmed_id, titles, paragraphs, num_rows=2)
             rows.extend(paper_rows)
         except Exception as e:
             print(f"Error processing {filename}: {e}")
