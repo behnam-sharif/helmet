@@ -1,30 +1,40 @@
-#!/usr/bin/env python
-"""
-Step 4 wrapper:
-  4a) build slr_papers.csv
-  4b) download every table (get_pmc_tables)
-  4c) LLM triage (evaluate_tables)
-"""
-
 import os
-from utils.step4a_get_pmc_tables import collect_slr_to_csv, batch_from_csv
-from utils.step4b_evaluate_tables import triage_tables
+import csv
+from utils.step4_slr import collect_slr_from_csv, extract_tables_from_xml_dir, filter_and_generate
+import csv
+import json
+import shutil
+import io
+import os
+import sys
+import time
+from pathlib import Path
+from typing import Iterable
 
-BASE = os.path.dirname(os.path.abspath(__file__))
+# =============================== orchestrator ===============================
+def main():
+    # -------- input CSV --------------------------------------------------
+    if len(sys.argv) > 1:
+        input_csv = Path(sys.argv[1]).resolve()
+        if not input_csv.exists():
+            print("❌ supplied CSV path not found"); return
+        slr_root = input_csv.parent / "slr_tables"
+    else:
+        base = Path(__file__).resolve().parent / "output_db"
+        input_csv = base / "index_db" / "index_db.csv"
+        slr_root  = base / "slr_tables"
 
-# 4a – build list of SLR PMCIDs
-PAPER_STORE = os.path.join(BASE, "output_db", "paper_storage")
-SLR_CSV     = os.path.join(BASE, "output_db", "slr_papers.csv")
-print("▶ Step 4a: collecting SLR papers…")
-collect_slr_to_csv(PAPER_STORE, SLR_CSV)
+    print(f"🗂  Using input CSV → {input_csv}")
+    slr_root.mkdir(parents=True, exist_ok=True)
 
-# 4b – download tables
-TABLE_ROOT = os.path.join(BASE, "output_db", "slr_tables")
-print(f"\n▶ Step 4b: downloading tables to {TABLE_ROOT}")
-batch_from_csv(SLR_CSV, TABLE_ROOT)
+    # -------- run phases -------------------------------------------------
+    collect_slr_from_csv(input_csv, slr_root)
+    extract_tables_from_xml_dir(slr_root)
+    filter_and_generate(slr_root)
 
-# 4c – LLM triage
-print(f"\n▶ Step 4c: LLM triage of tables in {TABLE_ROOT}")
-triage_tables(TABLE_ROOT)
+    print("Step-4 pipeline complete!")
 
-print("\n✅  Step 4 complete!")
+
+if __name__ == "__main__":
+    main()
+
