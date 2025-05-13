@@ -8,7 +8,8 @@
 
 These tasks are curated to reflect real-world HEOR workflows, enabling both academic and industry researchers to systematically assess the reliability, accuracy, and relevance of LLMs in this specialized domain.
 
-Publication link - ISPOR 2025: See the [documentation]([https://your-website.com/docs](https://www.ispor.org/heor-resources/presentations-database/presentation-cti/ispor-2025/new-tools-facilitating-health-economics-and-outcomes-research/helmet-a-benchmark-dataset-for-evaluating-generative-ai-in-health-economics-and-outcomes-research)) for more details.
+📄 Publication link – ISPOR 2025: See the [presentation on HELMET](https://www.ispor.org/heor-resources/presentations-database/presentation-cti/ispor-2025/new-tools-facilitating-health-economics-and-outcomes-research/helmet-a-benchmark-dataset-for-evaluating-generative-ai-in-health-economics-and-outcomes-research) for more details.
+
 ---
 
 
