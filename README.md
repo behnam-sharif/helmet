@@ -8,11 +8,12 @@
 
 These tasks are curated to reflect real-world HEOR workflows, enabling both academic and industry researchers to systematically assess the reliability, accuracy, and relevance of LLMs in this specialized domain.
 
+Publication link - ISPOR 2025: See the [documentation]([https://your-website.com/docs](https://www.ispor.org/heor-resources/presentations-database/presentation-cti/ispor-2025/new-tools-facilitating-health-economics-and-outcomes-research/helmet-a-benchmark-dataset-for-evaluating-generative-ai-in-health-economics-and-outcomes-research)) for more details.
 ---
 
 
 <pre> ## 📁 HELMET Directory Structure ```
-  HELMET/ 
+  HELMET_v2/ 
   ├── datalake/ # Instructions for PubMed API and temporary folder to fetch JSON from PubMed 
   ├── utils/ # Python utility functions used across all steps 
   ├── output_db/ # Stores generated files and databases from all pipeline stages 
@@ -20,12 +21,15 @@ These tasks are curated to reflect real-world HEOR workflows, enabling both acad
   │ ├── index_db/ # Indexed paper metadata (pmcid, title, abstract, etc.) 
   │ ├── query_db/ # Data extraction queries │ ├── slr_db/ # Evidence synthesis (SLR) queries
   │ └── label_db/ # Labeling queries for contextual classification
+  │ └── slr_db/ # SLR queries for evidence synthesis lassification
   ├── step1_get_papers/ # Scripts to download papers from PubMed 
   ├── step2_index_metadata/ # Scripts to index paper metadata into index_db 
   ├── step3_generate_queries/ # Scripts to generate data extraction queries
   ├── step4_generate_slr/ # Scripts to generate evidence synthesis prompts 
   ├── step5_generate_labels/ # Scripts to generate context-aware labeling data 
-  └── README.md # Repository documentation ``` </pre>
+└── README.md # Repository documentation 
+└──final_DB_Sample # Final datbase samples to be used externally
+  ``` </pre>
 ## 🔍 Tasks Overview
 
 ### 1. Data Extraction
@@ -49,10 +53,21 @@ Step 2: Index Metadata
 
 Add paper metadata (pmcid, title, abstract, etc.) into index_db.
 
-Step 3: Generate Queries
+Step 3: Generate Queries for dtata extraction
 
 Data extraction: Create structured query prompts and responses in query_db.
 
+Step 4: Generate Queries for evidence synthesis
+
 Systematic literature review: Generate SLR queries and results in slr_db.
 
+Step 5: Generate Queries for labeling sentences
+
 Labeling: Generate labeling prompts and options in label_db.
+
+## 📁 Folder Structure
+
+- `output_db/`: Contains subfolders and placeholder structure used by the code. These are empty or partially filled and serve as working directories during runtime.
+- `final_DB_Sample/`: Contains the final sample databases . You can clone the repo and use this folder to test core functionalities.
+
+
